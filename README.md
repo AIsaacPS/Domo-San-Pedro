@@ -78,7 +78,7 @@ El umbral de **0.6** ha demostrado capturar la mayoría de los pozos productores
 
   FASE 1: RECOPILACIÓN DE DATOS
   ├── Recopilar mapas geológicos, geofísicos y de manifestaciones
-  ├── Definir área de estudio y sistema de coordenadas
+  ├── CRS del proyecto: EPSG:32613 (WGS 84 / UTM Zona 13N)
   └── Inventario de datos disponibles vs. datos faltantes
 
          │
@@ -86,10 +86,11 @@ El umbral de **0.6** ha demostrado capturar la mayoría de los pozos productores
 
   FASE 2: PREPARACIÓN DE DATOS (PRE-PROCESAMIENTO)
   ├── Digitalización de rasgos lineales y poligonales (formato vectorial)
+  ├── Reproyección de todos los datos a EPSG:32613 (UTM 13N)
   ├── Conversión vector → raster (resolución de celda: 30 m)
   ├── Cálculo de mapas de distancia euclidiana a cada rasgo
   ├── Interpolación del mapa de resistividad (si viene en contornos)
-  └── Homogeneización de proyección cartográfica y extensión
+  └── Verificación de extensión espacial común (bounding box)
 
          │
          ▼
@@ -202,18 +203,47 @@ Para aplicar el modelo Index Overlay al Domo San Pedro se requieren las siguient
 
 ---
 
-## 5. Software y Herramientas
+## 5. Sistema de Referencia Espacial
 
-| Herramienta | Uso |
-|-------------|-----|
-| QGIS / ArcGIS Pro | Digitalización, análisis espacial, cálculo de distancias, overlay |
-| Python (Rasterio, NumPy, GeoPandas) | Automatización del pipeline, cálculo del Index Overlay |
-| Google Earth Engine | Obtención de imágenes satelitales y DEM |
-| GMT / Surfer | Visualización de mapas de contorno |
+| Parámetro | Valor |
+|-----------|-------|
+| **CRS del proyecto** | **EPSG:32613 — WGS 84 / UTM Zona 13N** |
+| Datum | WGS 84 |
+| Proyección | Transversa de Mercator |
+| Zona UTM | 13 Norte |
+| Meridiano central | 105° W |
+| Unidades | Metros |
+| Resolución raster | 30 m × 30 m |
+
+### 5.1 Justificación
+
+- El Domo San Pedro se ubica a ≈21.19°N, 104.72°W (San Pedro Lagunillas, Nayarit), a solo ~0.28° del meridiano central de la Zona 13N. Esto garantiza distorsión mínima.
+- El modelo Index Overlay requiere cálculos de **distancia euclidiana** (buffers de 100 m y 200 m). Un sistema proyectado en metros es indispensable para que estas operaciones sean correctas.
+- En coordenadas geográficas (EPSG:4326), 1° de longitud ≠ 1° de latitud a esta latitud, lo que introduciría errores sistemáticos en la reclasificación por distancias.
+
+### 5.2 Reglas de Aplicación
+
+1. **Todos** los datos de entrada (vector y raster) deben estar en EPSG:32613 antes de ingresar al modelo.
+2. Si un dato fuente viene en coordenadas geográficas (EPSG:4326), debe reproyectarse:
+   - Vector: Exportar → Guardar como → CRS: EPSG:32613
+   - Raster: Raster → Proyecciones → Combar (Reproyectar) → CRS destino: EPSG:32613
+3. El proyecto de QGIS debe configurarse con CRS = EPSG:32613 (Proyecto → Propiedades → SRC).
+4. No se aceptan capas en otro CRS para el análisis final; la reproyección al vuelo (*on-the-fly*) de QGIS es solo para visualización, no para geoprocesamiento.
 
 ---
 
-## 6. Estructura del Proyecto
+## 6. Software y Herramientas
+
+| Herramienta | Uso |
+|-------------|-----|
+| **QGIS** | Digitalización, análisis espacial, cálculo de distancias, overlay, visualización |
+| Python (Rasterio, NumPy, GeoPandas) | Automatización del pipeline, cálculo del Index Overlay |
+| Google Earth Engine | Obtención de imágenes satelitales y DEM |
+| GMT / Surfer | Visualización de mapas de contorno (opcional) |
+
+---
+
+## 7. Estructura del Proyecto
 
 ```
 DOMO SAN PEDRO/
@@ -248,7 +278,7 @@ DOMO SAN PEDRO/
 
 ---
 
-## 7. Referencias Principales
+## 8. Referencias Principales
 
 - Prol-Ledesma, R.M. (2000). Evaluation of the reconnaissance results in geothermal exploration using GIS. *Geothermics*, 29, 83–103.
 - Bonham-Carter, G.F. (1994). *Geographical Information Systems for Geoscientists: Modelling with GIS*. Pergamon, 398 pp.
@@ -256,7 +286,7 @@ DOMO SAN PEDRO/
 
 ---
 
-## 8. Autor / Contacto
+## 9. Autor / Contacto
 
 Proyecto desarrollado para la evaluación del potencial geotérmico del Domo San Pedro.
 
