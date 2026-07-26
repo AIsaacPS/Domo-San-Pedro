@@ -110,7 +110,7 @@ def convertir_pdf_a_png(pdf_path, dpi=600, pagina=1):
 
 if __name__ == "__main__":
     print("=" * 60)
-    print("  PDF → PNG de alta resolución")
+    print("  PDF -> PNG de alta resolucion")
     print("  Para georreferenciar en QGIS sin pérdida de calidad")
     print("=" * 60)
     print()
