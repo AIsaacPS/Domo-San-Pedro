@@ -1,0 +1,48 @@
+Identifier: 
+
+Title: Continuo de Elevaciones Mexicano 4.0 
+
+Description: El Modelo Digital de Elevación (MDE) es una representación continua del relieve en formato digital, constituida por la distribución espacial y regular de valores de altura de las formas del relieve terrestre con respecto a un nivel de referencia o nivel medio del mar.
+
+Este producto se deriva del Modelo Digital de Elevaciones del terreno de México, desarrollado mediante la integración y procesamiento de datos de RADAR obtenidos por el satélite ALOS (Advanced Land Observing Satellite), también conocido como DAICHI, de la Agencia Japonesa de Exploración Aeroespacial (JAXA). A bordo de ALOS se encuentran tres sensores: el PRISM (instrumento pancromático para mapeo estéreo), el PALSAR (sensor de microondas activo con frecuencia en Banda L que permite capturar datos de día y de noche, incluso a través de nubes) y el AVNIR (radiómetro avanzado en el espectro visible e infrarrojo cercano).
+El sensor PALSAR, desarrollado en colaboración con la Organización del Sistema de Observación de Recursos de Japón (JAROS), fue fundamental para obtener imágenes de radar entre 2006 y 2011 utilizadas en la creación de modelos digitales de elevación y otros productos SAR (Radar de Apertura Sintética) en diferentes resoluciones y formatos, accesibles a nivel internacional.
+Los datos procesados para la generación del modelo referido se obtuvieron a través del Centro de Archivo Activo Distribuido de Alaska Satellite Facility (ASF DAAC), una instalación especializada en el procesamiento de datos de teledetección, misma que realizó correcciones radiométricas y geométricas para eliminar distorsiones y efectos topográficos que puedan afectar los valores de retrodispersión.
+La corrección radiométrica elimina los reflejos erróneos destacando características de la superficie. Por otro lado, la corrección del terreno compensa las distorsiones geométricas causadas por inclinaciones en el sensor y la variabilidad del relieve, alineando los datos para garantizar su precisión geoespacial.
+Ambas correcciones permiten generar un producto final confiable y adecuado para diversas aplicaciones técnicas, especialmente en estudios topográficos, ambientales y geoespaciales.
+
+El INEGI integró, procesó y aplicó transformaciones a los productos de la ASF DAAC para establecer referencias espaciales horizontales y verticales acordes con las normas vigentes para la producción de modelos digitales de elevación con fines geográficos. Esto se logró mediante el uso de sistemas de información geográfica y herramientas de álgebra de mapas, vinculando los datos de elevación para crear un modelo continuo y definiendo la referencia vertical con base en el Geoide Gravimétrico Mexicano versión 2010.
+Además, se identificaron y analizaron elevaciones atípicas, las cuales fueron omitidas en el modelo inicial y posteriormente interpoladas utilizando el método Close Gaps de O. Conrad (2002). Este método permite rellenar áreas faltantes o no muestreadas basándose en patrones y contextos espaciales circundantes, lo que asegura coherencia y continuidad en los resultados interpolados.
+
+La cobertura espacial del modelo es completa en el territorio continental de México, mientras que es parcial para las áreas insulares. Cabe destacar que existen zonas dentro del territorio continental que carecen de información, pero estas fueron reducidas mediante procesos geoestadísticos. En casos donde la ausencia de datos afectaba una superficie considerable o correspondía a áreas insulares o costeras, la continuidad de los datos se completó utilizando Modelos Digitales de Terreno (MDT) con resolución de 5 metros (remuestreados a 15 metros), derivados de nubes de puntos generadas a partir de tecnología LiDAR (Light Detection and Ranging) o fotogrametría, provenientes de sensores remotos aerotransportados o satelitales. Es importante señalar que, en algunos casos, los insumos presentan una visualización más generalizada del terreno, sin embargo, en estos casos, no fue posible modificar la representación, aunque se logró mantener la coherencia del relieve.
+
+Es relevante señalar que, más allá de las fronteras de México, la representación del relieve podría presentar distorsiones.
+
+Por razones técnicas, se incluyó un área excedente de datos ráster que une la parte continental con algunas islas o islas entre sí representadas en el modelo, esto con el fin de asegurar la continuidad de la representación adecuada de las costas y los elementos insulares.
+
+Este modelo digital se almacena en formato ráster, una estructura que permite representar de manera gradual las variables continúas relacionadas con la elevación del relieve y sus características físicas.
+
+Este producto es versátil y puede utilizarse en diversas aplicaciones y estudios especializados. Entre sus posibles usos se incluyen: análisis de desniveles, pendientes, orientación, índices de rugosidad del terreno, delimitación de cuencas hidrográficas, creación de secciones o perfiles, identificación de áreas vulnerables a inundaciones y generación de mapas digitales. El potencial de este producto es amplio, permitiendo su aplicación según las necesidades específicas y los objetivos de los usuarios, mismo que debe determinar la aptitud de uso en sus aplicaciones particulares.
+
+Modified: 2023-12-18
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atención.usuarios@inegi.org.mx
+
+License: https://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: 
+
+Keyword: "altimetría", "altura", "modelo digital de elevación (mde)", "relieve", "elevación", "radar", "percepción remota activa", ráster, continuo de elevaciones
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2024-01-01-2024-12-18
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Irregular
+
+Distribution: https://www.inegi.org.mx/app/mapas/?t=0150002000000000
+
+Registro ante INDAUTOR en trámite

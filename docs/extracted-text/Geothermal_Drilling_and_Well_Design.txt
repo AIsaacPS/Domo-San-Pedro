@@ -1,0 +1,954 @@
+Geothermal Drilling and Well Design
+5
+This chapter begins by describing the construction of geothermal wells. The drilling
+process and equipment follow, but this is under continuous development, and the
+techniques described have been chosen to illustrate the issues rather than the latest
+practice. A section on well design begins with the basics of stress analysis and
+theories of failure and then describes casing selection and particular modes of
+failure to be designed against, in both the construction of the well and its later
+operation. Wellhead equipment is described. The units in this chapter are mixed,
+some SI and some imperial, because the materials required for drilling are
+manufactured in imperial units.
+5.1   Introduction
+Geothermal wells must be designed and constructed in an engineering sense—they
+are not simply holes in the ground but are made up of lengths of steel tubing,
+referred to as casing, cemented into the ground with a valve on the top. Their
+function is to connect the resource to the surface in such a way that discharge from
+the well is controllable at all times, and well design follows tight specifications.
+Once it begins, drilling incurs a high cost over a short period of time and calls for
+careful management and an experienced drilling team. Difficult decisions often
+have to be made on the spot if problems arise. Although well design, drilling
+equipment and the procedures to be followed during drilling and completion of a
+well are all soundly based on engineering principles, the practice is almost an art
+rather than a science. The materials and conditions that the drill will encounter have
+a reasonably high degree of uncertainty, the components are often highly stressed
+and the whole activity is “heavyweight”—there is the potential for things to go
+badly wrong without a careful and experienced manager (drilling superintendent).
+High-temperature geothermal wells range in depth from a few hundred metres to
+about 4,000 m, wells at Kakkonda, Japan, being the prime examples with
+A. Watson,Geothermal Engineering: Fundamentals and Applications,
+DOI 10.1007/978-1-4614-8569-8_5,
+#
+Springer Science+Business Media New York 2013
+77
+
+temperatures of over 350
+
+C. Petroleum wells may be much deeper, and the deepest
+well drilled of any type has a depth of 12,000 m. Formation temperature is a major
+limitation for geothermal wells due to its effect on the strength of the drilling
+equipment. Wells are drilled to quite specific targets set by geologists, either faults,
+formations or an intrusion or pluton, and often they are not straight and vertical but
+curved. It is possible to drill them geometrically vertical to within a few metres, but
+sometimes wells are deliberately deviated by hundreds of metres to reach targets
+which cannot be reached from immediately above. Drilling is an expensive activity,
+and deviated wells are more expensive than vertical ones to reach the same target
+depth, so the final choice of well track is the result of optimisation of several factors,
+including pipeline routes and separator locations for delivery and processing of the
+discharge or delivery of separated water in the case of injection wells.
+A common diameter for the inner casing of a well to supply a power station is
+9 5/8
+00
+(0.244 m), but even if it had a diameter of 20
+00
+, as some modern wells have,
+even a 500 m deep well would be a very slender structure. This affects both its
+performance as a duct for fluid flow and the care required during construction. Slender
+tubes bend easily, and like bridges, wells are at most risk of failure during their
+construction. The drilling process follows a detailed plan and takes place at a prepared
+site; it is a source of environmental impact, and site requirements will be better
+understood if well construction and the actual drilling process are explained first.
+5.2   Well Construction
+Figure5.1is the design for a 2,000 m deep production well.
+The upper 800 m is made up of three concentric casings, referred to as casing
+strings when all the separate 10 m lengths from which they are formed are screwed
+together, namely:
+•  A 90 m length of casing 20
+00
+in diameter cemented into a hole 92 m deep and 26
+00
+diameter, called the surface casing.
+•  A 250 m length of 13 3/8
+00
+casing cemented into a hole 252 m deep and 17 ½
+00
+diameter. This is called the anchor casing because when the well is finished, it
+will carry the wellhead valve.
+•  An 800 m length of 9 5/8
+00
+casing cemented into a hole 802 m deep and 12 ¼
+00
+diameter. This is called the production casing because the produced fluid will
+flow through it.
+The production casing seals off the well from the formations through which it is
+drilled, preventing cross-contamination of produced fluids and shallow groundwa-
+ter. Sometimes a short length, say 30 m, of “conductor” casing is placed first, where
+an unsupported hole in the upper levels of the ground would collapse before 90 m
+depth had been reached. In some circumstances, more casings might be needed to
+drill to 2,000 m, for example, an intermediate casing between anchor and produc-
+tion; this is dependent on the vertical temperature profile, as explained later.
+The lower part of the well is an 8 1/2
+00
+diameter hole into which is placed a 7 5/8
+00
+diameter steel tube perforated by a large number of axially orientated rectangular
+785  Geothermal Drilling and Well Design
+
+slots which, in contrast to the production casing, are there to allow fluids to flow
+easily from the penetrated formations into the well and up to the wellhead.
+Although not specified on the diagram, the slotted liner either stands on the bottom
+of the hole so that it protrudes a few metres into the production casing or is attached
+to the bottom of the production casing by a special fitting and hangs from it, ending
+just above the bottom of the hole. The drawing specifies the weight/ft of all the
+casings, which are made up of standard 10 m lengths screwed together. For
+example, the slotted liner has a weight of 26.4 lb/ft, giving it a total weight of
+104 tonnes. This is important information, since lifting equipment with this capac-
+ity must be used to put it in place. If it is suspended from the production casing
+when finally in position, it will produce a tensile force that the production casing
+must be capable of withstanding. These are all aspects of the well design process, as
+are the numbers of casings and the depths of each.
+The casings are cemented into the ground, and where they pass through an
+already cemented casing, the annular gap is filled with cement. Once the hole is
+drilled for the first (shallowest) length of casing, the casing is gradually assembled
+Fig. 5.1An example
+of a geothermal well
+5.2  Well Construction79
+
+in the hole in 10 m lengths. The piece which will be lowest in the well is first fitted
+with a “shoe”, to protect the bottom edge, and a non-return valve. It is lowered into
+the well, held while the next piece is screwed to it, the pair are lowered and held
+and the process repeated until the required length is assembled and in place,
+hanging in the hole. A volume of cement slightly greater than the volume of the
+annulus formed by the outer surface of the tube and the surrounding hole is pumped
+into the tube, and a rubber piston inserted after it. Water is pumped into the tube
+behind the piston, driving it downwards and causing the cement to flow upwards to
+fill the annulus, eventually overflowing at the surface. Once the overflow has been
+seen, the annulus is assumed to be full of cement, which is allowed time to set. After
+the cement has set, a flange is welded to the top of the casing, a drilling wellhead
+fitted and a collection of blowout preventers and valves, described later. The top of
+this casing and all successive ones is a few metres higher than it will be eventually,
+to carry the drilling fluids to a high level; when it has been cemented and drilling is
+taking place through a smaller diameter cemented casing, it can be cut down to its
+final height above surface. To return to the process, drilling resumes after the first
+casing is set in place, extending the well to 252 m below the surface with a hole of
+17 1/2
+00
+diameter. The rubber piston, non-return valve and any cement remaining
+inside the casing are drilled through.
+The last cemented casing stands a few metres above ground level so that the
+returning drilling fluid is lifted to a level from which it can flow to screens and
+coolers. In New Zealand, geothermal wellheads stand in concrete cellars, which act
+as containment for drilling fluid spills during drilling and make operational well-
+head maintenance easier, although this is not a universal procedure. In their final
+form, the well casings terminate at cellar floor level, the extra length required for
+drilling wellheads being cut off as construction proceeds. The anchor casing is an
+exception, as it is left standing above the cellar floor and carries the casing head
+flange (CHF) to which is attached the permanent main shut-off valve (the “master
+valve”) and the wellhead assembly. Any pressure within the well produces forces
+tending to lift the anchor casing out of the ground when the valves are shut, hence
+its name. Once the well is completed, the CHF becomes the datum for depth
+measurements in the well. Throughout the life of a well, the CHF moves relative
+to the ground around it due to thermal expansion according to the temperature
+distribution in the well. The movement is of order 10–100 mm, which, although
+important enough to be taken into account in designing the pipeline attached to a
+wellhead, is insignificant for well depth measurements.
+While a production casing diameter of 9 5/8
+00
+as described in this example is
+perhaps the most commonly used for power production, larger or smaller diameters
+are sometimes specified. For a shallow formation producing low-pressure steam,
+the extra cost of a larger diameter casing might be justified by extra electricity
+generation as a result of smaller pressure drop in the production casing. Smaller
+diameter and hence lighter weight casings, typically 4
+00
+, might be the only way of
+drilling a well in a remote location, if access is restricted to only a small truck
+mounted rig, and this is also the approach used to drill geothermal wells for
+supplying hot water to domestic and light commercial properties in many places.
+805  Geothermal Drilling and Well Design
+
+5.3   The Drilling Process
+5.3.1  Drilling a Hole
+Holes are drilled into homogenous materials such as metal by a cutting action; a
+workshop drill bit for metal has two edges that cut as the bit rotates and two spiral slots
+along its length to guide the cuttings out of the hole. Without this escape route for the
+cuttings, the bit cannot penetrate. Rock is rarely homogenous and is brittle, i.e. strong
+in compression and weak in tension. It cannot be cut by the type of drill bit just
+described. Instead a rock bit makes progress by crushing, which is achieved by fitting
+the end of the bit with toothed conical rollers that follow a horizontal circular path as
+the bit is rotated—for pictures and a history, see ASME [2012]. The drill bit fits on the
+end of a steel tube typically 10 m long, which has threaded ends so that more tubes can
+be added to allow the drill to reach greater depths. Consistent with the crushing action,
+the steel tubes immediately adjacent to the bit are heavier than normal and are called
+drill collars; they are selected to give the proper weight on the bit for the rock type
+being drilled. The normal drill pipe is added in 10 m lengths as the well progresses.
+The rock cuttings are in the form of fine gravel and sand and are flushed to the
+surface by the flow of a dense, viscous drilling fluid which is pumped down to
+the bit through the drill string, the name given to the connected steel tubes carrying
+the bit. Cuttings must be cleared from the hole if the drill is to make progress,
+preferably back to the surface, although as will be seen later, it is possible for them
+to be pushed into the formation. The drilling fluid emerges from the bit through
+nozzles as a set of powerful jets which pick up the cuttings and carry them back to
+the surface in the annular gap between the drill string and the hole. The cuttings
+sometimes fail to lift completely and become trapped, preventing the drill bit from
+turning; in the extreme, the drill string may break by twisting off. Retrieving broken
+equipment from a well is known as “fishing”, a frustrating activity by its very nature
+and because of the expense of having the rig and crew busy but not making
+progress. Massei and Bianchi [1995] have reported on non-destructive testing of
+drill string components to avoid failures in service. The drilling fluid is usually a
+mixture of water and bentonite clay with minor additives, which has the appearance
+of a black slurry or thin mud and by virtue of its density and viscosity is capable of
+lifting the cuttings. At the surface, the cuttings are sieved out, and the cleaned mud
+is continuously recirculated—it must also be cooled when the well is penetrating
+hot formations. The cuttings are collected and inspected by the rig geologist, who is
+able to map the stratigraphy of the well, i.e. the formations through which the bit
+passes, and the depths of their interfaces.
+5.3.2  The Drilling Rig
+Geothermal wells are drilled using a rotary drilling rig of the type developed for
+petroleum drilling; a rotary rig is one in which the bit is rotated about its axis.
+The first oil wells were drilled by a “percussion” method in which the bit was
+5.3  The Drilling Process81
+
+suspended by a flexible cable and repeatedly lifted and dropped on the bottom of the
+hole, so that it chiselled its way downwards by virtue of its large mass and pointed
+end. Such rigs were more sophisticated than might be thought at first sight, for
+example, the cable being of twisted steel strands imparted some rotation to the bit,
+and this was studied and used to advantage to achieve faster penetration.
+The main features of the drilling rig and mud supply system are shown in
+Fig.5.2. Part a of the sketches shows details of the rig floor and Part b an overall
+view. The swivel can be used as a reference point.
+Drilling rigs come in a variety of sizes, from small ones permanently mounted on
+a truck to large ones that comprise several truck loads and must be assembled on
+site. The drill bit must be rotated, and the traditional surface drive is explained here;
+more modern alternatives are discussed later. Drilling rigs are recognisable as a tall
+derrick or tower structure often of open framework, and many of the components
+have traditional names originating in early oil drilling. The tower is essentially a
+crane, which must be capable of lifting the entire length of the drill string when the
+bit has reached the designed depth and also the full lengths of each casing string
+used in the construction of the well. To remove the bit from the hole, the entire drill
+string must be lifted 10 m at a time, held while the top length is unscrewed and
+removed, lifted again, and so on, and the drill tower is the means of achieving this.
+The weight it can carry dictates the depth and diameter of well that can be drilled,
+for example, a rig capable of drilling a well with an open hole diameter of 8 ½
+00
+, and
+Fig. 5.2Showing the main components of a drilling rig
+825  Geothermal Drilling and Well Design
+
+a depth of 3,000 m may need to provide a pull of 150 tonnes and be capable of a
+power output of up to 1,000 hp. At the top of the tower is the “crown block”, a
+multiple pulley block coupled by a wire rope to the “travelling” block to which the
+hook is fitted, the number of pulleys providing the mechanical advantage for lifting.
+A mechanical advantage of 10:1 means that the tension in the wire rope is 1/10th of
+the hook load, an advantage, but the travelling block must rise 10 times the distance
+through which the weight is lifted, a disadvantage. Hook loads may be up to 400
+tonnes, and the motive power is usually provided by a diesel engine or electric
+motor. Lengths of drill pipe or casing stand vertically in racks alongside the tower,
+ready for use.
+The activity of adding or removing a length of drill pipe or casing takes place on
+the drill floor, a platform a few metres above ground level. The entire drill string is
+very slender so is weak in torsion, and it twists so that the bottom lags behind the top
+as it is rotated. It must transmit torque to the bit, but it must also be free to move
+axially while transmitting this torque as the well deepens, and drilling mud must be
+continuously pumped through it to lift the cuttings back to the surface. This poses a
+mechanical problem at the rig, to which the traditional solution is a horizontal
+circular disc known as the rotary table supported on the rig floor by bearings around
+its perimeter. It can be rotated about its axis by a diesel or electric motor. In the centre
+of the rotary table is a square or hexagonal hole. To the top of the drill string, which is
+slightly longer than the depth of the hole, is attached a special length of pipe known
+as the “kelly”, which is square or hexagonal in cross section and fits in a matching
+bushed hole in the centre of the rotary table. Rotating the rotary table thus rotates the
+kelly and hence the entire drill string. The kelly is about 13 m long, deliberately
+longer than each drill pipe, and moves downwards as the drilling proceeds. When the
+upper end of the kelly approaches the rotary table, the rotation is halted, and the drill
+string is lifted until the bottom of the kelly is clear above the top of the rotary table, in
+preparation for adding another length of drill pipe. Wedges (slips) are then jammed
+into the space between the drill string and the bush, thus supporting the drill string to
+prevent it falling back into the hole; the kelly is unscrewed, another 10 m length of
+drill pipe added to the top of the drill string and the kelly reconnected. The wedges
+are specially shaped to fit this square or hexagonal hole and have teeth so that the
+weight of the drill string causes them to grip it tightly. Once all joints have been
+tightened up, the drill string is lifted, the wedges are removed, the drill string is
+lowered, and bit rotation begins again. The detailed engineering of the rotary table,
+bush and Kelly is aimed at reducing wear and tear caused by the necessary repeated
+screwing and unscrewing and the use of wedges.
+Two alternative ways of rotating the bit are available, both using dedicated
+motors which align axially and effectively become part of the drill string. A mud
+motor is a positive displacement type which works in the same way as a monopump.
+In the latter, a single spiral rotor fits within an apparently matching tube; however, a
+cavity exists between the two and moves along the axis as the rotor turns, carrying
+any fluid in it from one end of the pump to the other. As a motor, the fluid is
+pressurised, enters the motor at one end and drives the rotor as it moves to the low-
+pressure exit end. In the form used for drilling, the fluid is drilling mud, and the
+motor is fitted into the drill string near to the bit. The other method is called a top
+5.3  The Drilling Process83
+
+drive and consists of a motor, electric or hydraulic, which is carried near the crown
+block of the rig and drives the drill string, which is suspended from it. This type has
+advantages in allowing more than one length of drill pipe to be added or removed
+from the string at every lift.
+A rotating drill string rubbing against the side of the casing through which it was
+operating would damage the casing and could wear a hole through it. This would
+make an exchange of fluids between the well and the surroundings more likely; at
+the very least, this could cause contamination, but it might also provide a route for
+hot geothermal water to reach the surface, where it would break out as steam. Such
+breakouts (blowouts) can only be controlled from inside the well, which requires
+access to the wellhead, and this might be impossible. Rubbing of the drill string on
+the casing can be avoided by keeping the drill string in tension, which is achieved
+by making the lower end heavy. Apart from the drill collars already described, the
+lower few lengths of drill pipe may be stiffer than the rest, to reduce twisting and
+keep the bit in line with the hole.
+Figure5.3shows a plot of depth versus drilling time for a geothermal well.
+The rate of penetration of the bit is a principal factor affecting the cost of the
+completed well, but the speed and efficiency of a drilling team in “running” the drill
+string into the hole and pulling it out are important also. Two periods of several days
+are identifiable in Fig.5.3, during which the hole stays at the same depth, and these
+are when the surface and anchor casing (to 250 m) are cemented and perhaps other
+problems arose. Otherwise, progress is made in irregular steps. Bits may need to be
+changed, requiring the entire length of the drill string to be removed from the hole,
+unscrewed piece by piece and then reassembled with the new bit. When it is
+necessary to lift the entire drill string out of the hole or replace it, the kelly is not
+needed since no rotational torque is applied. A different lifting device called the
+elevator replaces the kelly and swivel between the travelling block and the top of
+the drill string. Rather than being a screwed connection to the drill string, the
+elevator simply clamps around the small diameter part of the pipe beneath the
+joint—the screwed fittings built into each end of each piece of drill pipe have a
+larger diameter than the remainder.
+Fig. 5.3Representation
+of a typical drilling progress
+chart for an early
+geothermal well
+845  Geothermal Drilling and Well Design
+
+In practice, the graph of Fig.5.3is plotted alongside a stratigraphic column
+drawn up by the rig geologist and a detailed log of penetration rates and rig
+activities such as drilling fluid used, periods of cementing and reasons for making
+no progress. This data is used to improve the drilling of the next well in the same
+area. The geological stratigraphy found is essential information about the resource,
+used in the interpretation of well measurements and in reservoir modelling.
+Commercial examples of most types of drilling equipment can be found on
+manufacturer’s websites.
+5.3.3  Drilling Fluids
+It is necessary to introduce fluid into the well while it is being drilled, to pick up the
+cuttings and lift them to the surface, to cool the drill string and bit and to reduce
+wear and power requirements by acting as a lubricant. The options are drilling mud,
+water, aerated mud and air alone, and this list is roughly in order of popularity. A
+totally reliable water supply is essential whatever drilling fluid is used, because in
+the case of problems, the well may need to be “quenched” by injecting cold water to
+prevent discharge. The original mud used for oil well drilling in the USA around the
+turn of the century was just that, mud stirred up in a shallow pit dug into soils with
+high clay content. Today it is supplied to a required chemical and physical specifi-
+cation; the mud particle size ranges from 0.5 to 2μm, and its main constituent is
+bentonite. It is mixed with water at the site and held in an open pond adjacent to the
+rig. It is pumped from the pond through a flexible hose and “swivel” fitting at
+the top of the kelly into the hollow drill string and down to the bit at the bottom of
+the hole, as indicated by Fig.5.2. The swivel allows the mud delivery pipe to be
+stationary while supplying mud to a rotating shaft—it is essentially a box fitted with
+glands through which the shaft passes. A high delivery pressure is required and
+positive displacement reciprocating pumps are commonly used. On reaching the
+bit, the mud emerges from nozzles in the bit body between the rollers, as explained
+above. The nozzles eventually erode and must be replaced.
+The mud with the cuttings carried with it rises up the annular space between the
+hole and the outside of the drill string and emerges from the casing at wellhead.
+It then passes back to the pit via a series of vibrating wire screens known as shale
+shakers, which remove the larger cuttings. After the screens, cutting particles up to
+about 200μm diameter may remain in suspension, although the greatest proportion
+of solids in the mud, over 50 %, will be the particles of mud itself. The screens are
+usually followed with a settling tank in which the mud stream moves so slowly that
+the larger particles remaining sink to the bottom. Centrifugal separators may then
+be used to remove as much as possible of the remaining small cuttings until only
+20–30 % of the solids in suspension are cuttings, of less than 30μm. Some mud is
+lost during its passage up the well, being forced under pressure into the permeable
+rock formations through which the hole is drilled. The pores of the rock may
+be smaller than the mud particles, and a layer of mud may seal off the permeable
+zones. This may be advantageous if the formation is weak and liable to fall into the
+5.3  The Drilling Process85
+
+hole, but it may be disadvantageous in the long term by reducing permeability and
+hence the flow of geothermal fluids from the formation into the well.
+By the time it reaches the surface, the mud will have increased in temperature
+since it was pumped from the pit, depending on the reservoir temperatures reached
+and the mechanical work done by the bit. The mud cools and lubricates the moving
+parts of the bit, and some of the chemical additives are selected for their lubricating
+properties; the mud is cooled at the surface during the filtration process.
+An important function of the drilling mud is the prevention of blowouts, by
+filling the well with a high-density fluid so that the pressure at any formation can be
+exceeded by the hydrostatic pressure in the well. Otherwise, the removal of cuttings
+from the hole is the highest priority function that the mud performs, and cake
+formation, cooling and lubrication have lower priorities. All of these require that
+circulation be maintained, that is, the mud pumped into the well returns to the
+surface. In some geothermal resources, circulation is difficult to retain using mud,
+because of low pressure in the formations perhaps, and there is a need to reduce the
+hydrostatic pressure due to the drilling fluid. In this case, air or aerated mud (foam)
+is used, which has the added benefit of making faster progress in deepening the
+well, although at the expense of higher cost. Ultimately, if circulation cannot be
+retained, then the drilling fluid used is water, which carries the cuttings into the
+formation but is otherwise benign. Drilling without circulation is referred to as
+drilling blind because there is no information for the rig geologist to know what
+type of formation is being drilled through. Before resorting to that, it may be possible
+to recover circulation by injecting material to plug the loss zone until after the well is
+completed, when the temporary blockage can be removed by allowing the well to
+discharge fully open, or by acid injection to chemically remove it.
+5.3.4  Drilling Site Requirements
+The drilling site must be flat and is typically 50 by 100 m or larger to allow the
+transport vehicles easy access and placement of the rig. Fuel oils, drilling mud and
+materials and staff temporary accommodation must be provided. Since the site is
+likely to have to be cleared of vegetation, storm water drainage is important. Areas
+of cleared forest in volcanic soils are prone to slips if they are steep; silt run-off into
+natural waterways damages flora and fauna and must be prevented. One or more
+pits to contain drilling mud and contaminated waste water are required. If the
+ground is already contaminated with geothermal chemical species, then these
+may be unlined, so that water can percolate away leaving solid materials which
+can be disposed of elsewhere if necessary at the end of drilling or simply buried.
+The site will also have to accommodate shale shakers, mud cooling and mixing
+equipment and a silencer for the eventual well discharge, although the drilling rig
+and equipment will have departed by then. A reliable permanent water supply is
+essential, and the New Zealand Code of Practice for deep geothermal wells [1991]
+indicates that a 2,000 m deep well such as that shown in Fig.5.1requires a water
+865  Geothermal Drilling and Well Design
+
+supply of 2,000–2,500 l/min (of the order of 3,000 tonnes/day). Temporary pumps
+with pipelines several kilometres long are not unusual.
+Depending on the shallow geology, the site may need to be consolidated by
+grouting, that is, drilling a pattern of holes around the well site to a depth of a few
+metres and pumping in cement to provide more compressive strength.
+5.3.5  Blowout Prevention
+Imagine a partly completed well. The anchor casing has been installed and cemented,
+and the hole for the production casing is being drilled. Drilling mud or water is being
+pumped down the centre of the drill string, and it may be returning through the
+annulus between the drill string and the anchor casing, or it may not be returning at
+all in which case the annulus will contain some stagnant fluid. Regardless, if the bit
+penetrates a geological formation or feature such as a fault and suddenly exposes
+these flow paths to a pressure much higher than previously experienced, fluid will
+tend to be pushed up and ejected at the wellhead, reducing the hydrostatic pressure at
+the bottom of the hole and increasing the discharge. The simple geometry of the
+casing and drill string provides an opportunity to mechanically stop this flow. A
+valve could be fitted on the passage through the drill string, and a valve with gates
+that fit around the drill string could be fitted on the anchor casing. In oil and gas
+drilling, the risk from blowout is very high because the fluids are inflammable, and a
+valve is fitted with gates to cut the drill string as a last resort. These valves are called
+blowout preventers, and sets are available for each casing size to be used for the well,
+fitted in turn as the casings are set, as the last line of defence.
+5.4   Well Design
+The design process is to imagine how the well might fail, select dimensions and
+casing depths to avoid risk both in construction and in use, calculate the forces
+involved and choose a casing size that will withstand those forces. When subjected
+to various forces, a particular component of a structure experiences a stress distri-
+bution. Failure of materials is often thought of as resulting from a single stress
+which exceeds a certain level, but in general, failure is more often the result of
+several stresses in different directions, which combine to cause failure. Failure is a
+general term that requires particular definition for each case—in some instances,
+failure means breaking a component into two pieces, but in others, allowing the
+stress to reach a level at which the material stretches or deflects might constitute a
+failure. The design process is usually one of trial and error—the forces are
+estimated, material grade and thickness are chosen and the stresses are calculated
+and compared to allowable stress limits. The design process had to be examined
+early in the development of geothermal drilling. Clearly, it was understood in Italy
+in 1912 when Larderello was first brought into use and, for liquid-dominated
+resources, was reported on by Dench [1970].
+5.4  Well Design87
+
+5.4.1  The Properties, Strength and Failure Criteria of Steel
+If a bar of steel of diameter d is pulled in the direction of the axis of the bar with a
+force F, it extends linearly in proportion to the force applied. This is called elastic
+behaviour. The axial stress in the bar is
+σ
+a
+¼F=πd
+2
+=4
+
+(5.1)
+Strain is defined as the proportional extension of the bar. If the original length of
+the bar is L and it extendsδL under the pull, the strainεis
+ε¼δL=L(5.2)
+A graph ofσ
+a
+versusεis linear but only up to a certain stress called the yield
+stress, after which the bar begins to stretch in a non-linear manner (disproportion-
+ately to the force applied). The behaviour is elastic only up to the yield stress, that
+is, it returns to its original length when the stress is removed. The linear elastic part
+is of slopeσ
+a
+/ε, known as Young’s modulus, E, which has the value 210
+11
+Pa for
+steel. Carbon steel such as is used for casing reduces in strength as the operating
+temperature increases. The strength reduction factor can be applied to whatever
+allowable design stress is chosen at room temperature.
+Once the yield stress is exceeded, the steel will not return to its original length
+but becomes permanently deformed (extended); at stresses above yield, the steel is
+said to be plastic, and the next important occurrence is failure, when the ultimate
+tensile stress is reached and the steel breaks. For some applications, stresses must
+not be allowed to exceed the yield stress. In other applications, failure means
+fracturing, so the ultimate tensile stress may be used as the upper limit. Steel is
+capable of safely carrying stresses much greater than the yield, and in some
+circumstances, where weight of the component or cost is sufficiently important,
+the designed stress may be closer to the ultimate. Whatever the circumstances,
+some margin of safety is necessary to allow for material property variations and
+uncertainty in the method of calculating stress, and it is usual to adopt a safe
+working stress lower than the stress defined as the failure criterion. In common
+steel structures where weight and cost are not the controlling factors, a safe working
+stress of 2/3 of yield is often used, that is, components are designed so that the
+calculated stress is no greater than the safe working stress. In some aspects of casing
+design, the yield stress is regarded as the safe working stress.
+Steel is also elastic in compression, up to the yield stress; however, the yield and
+ultimate stresses are always measured by subjecting the material to a tensile test.
+The yield stress is difficult to measure exactly, so the stress required to produce a
+0.5 % strain (permanent strain of 0.005) may be defined as the yield stress,
+sometimes called the 0.5 % proof stress. The American Petroleum Institute
+publishes a list of standards for drilling, in which the parameters discussed here
+are defined.
+885  Geothermal Drilling and Well Design
+
+The majority of real engineering components, including casing, are subjected to
+forces in all three directions, and the material fails because of the combined
+stresses. In casing, these stresses may be produced by a combination of tension or
+compression, bending (which induces tension and compression) and torsion. If the
+yield stress is to be used as the failure criterion, then the question is what combina-
+tion of stresses on a piece of casing will cause the material to yield?
+There are several theories that provide answers, of which two frequently used
+ones in general mechanical engineering are the maximum principle stress difference
+theory and the von Mises theory. Leaving aside the joints, a casing is a cylinder
+with a wall that is thin compared to the diameter. An internally pressurised
+cylinder with closed ends is subjected to axial stress due to the pressure acting on
+the ends and a hoop stress due to the wall trying to expand under the internal
+pressure. These are both tensile stresses, defined as follows:
+axial stress¼σ
+a
+¼P:A=πD:t¼PD=4t(5.3)
+where P is the pressure difference between inside and outside, D is cylinder diame-
+ter, A is cross-sectional area¼πD
+2
+/4, t is wall thickness andπDt is an approxima-
+tion to the cross-sectional area of the wall, acceptable since the wall is thin.
+hoop stress¼σ
+h
+¼PD=2t(5.4)
+The hoop stress is twice the axial, which is why steel pipelines or gas bottles
+burst by splitting along the axis rather than at the ends.
+A cylinder is best described by cylindrical coordinates,x,randθ, and the hoop
+stress acts in theθdirection and the axial in thexdirection. Because the wall is thin,
+the stress in the radial direction is zero. Stresses in these three directions are called
+the principal stresses and the axes the principal axes. If thex-axis was replaced by
+one at an angle to the cylinder axis, the hoop and axial stresses would combine and
+result in a tensile stress plus a shear stress along this new axis. Principal axes are the
+axes along which the stresses resolve without any shear stress. Whilst the principle
+axes are intuitively obvious for thin cylinders, for general three-dimensional stress
+problems described by rectangular Cartesian coordinates, they must be deduced.
+Adoptingσ
+f
+as the failure stress and assumingx,y,zCartesian coordinates and
+principle stressesσ
+1
+,σ
+2
+andσ
+3
+, the maximum stress difference theory gives
+σ
+max
+σ
+min
+¼σ
+f
+(5.5)
+whereσ
+max
+andσ
+min
+are the maximum and minimum ofσ
+1
+,σ
+2
+andσ
+3
+. For the thin
+cylinder, the principle stresses can be allocated as
+σ
+1
+¼σ
+h
+;σ
+2
+¼σ
+a
+andσ
+3
+¼0(5.6)
+so the maximum stress difference is
+σ
+1
+σ
+3
+¼σ
+f
+(5.7)
+5.4  Well Design89
+
+By this theory, the material fails when the hoop stress equals the failure stress
+measured in an axial tensile test,σ
+h
+¼σ
+f
+.
+The von Mises theory is that the material fails when the following combination
+of principle stresses reaches the stress decided as the failure stress:
+ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+1=2σ
+1
+σ
+2
+ðÞ
+2
+þσ
+2
+σ
+3
+ðÞ
+2
+þσ
+3
+σ
+1
+ðÞ
+2
+nohi
+r
+¼σ
+f
+(5.8)
+Substituting from Eq. (5.6) again gives
+ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+1=2σ
+h
+σ
+a
+ðÞ
+2
+þσ
+a
+2
+þσ
+h
+2
+hi
+r
+¼σ
+f
+(5.9)
+In practice, the forces on the casing can only be estimated, since the real situation
+is usually much more complicated than envisaged, and API Bulletin 5C3 [1994]
+gives formulae for various failure loads on casing and API 5C2 provides tabulated
+values of the failure loads for each casing type. (Note that details of all API
+Bulletins can be found on the API website.) These are the result of theory adjusted
+by experimentation and experience and should be adhered to, with an understanding
+of the theoretical approach used as an aid to thinking.
+5.4.2  Failure Due to Instability: Buckling and Collapse
+It is possible for the material to fail under loads that should produce stresses much less
+than the yield stress, if the shape of the component allows any initial deformation to
+magnify without increase in load. This will lead to high bending stresses and failure
+unless the load is removed quickly. The best-known example of this is the buckling of
+a strut. If the ends of a strut of length L are pin jointed, that is, the ends stay in line but
+can rotate as required, there is a level of axial force that will cause any slight initial
+departure from perfect straightness to grow. If the load is maintained, the ends of the
+strut will move towards each other to produce a large sideways deflection until the
+stress caused by bending makes the material fail—schoolboys break rulers this way.
+The force that will induce this condition is known as the Euler buckling load and is
+π
+2
+EI/L
+2
+for the strut just described, whereIis the second moment of area, a parameter
+with the dimensions of m
+4
+dependent on the cross-sectional shape. This type of
+buckling is relevant in handling a long length of built-up casing, which may bow if
+it comes under axial compression under its own weight and will touch the wall of the
+hole in which it is placed (casing or open hole), leading to poor cementing and less
+strength in the combined structure than anticipated—see Leaver [1982].
+The collapse of a cylinder under external pressure is another form of instability
+relevant to drilling. A circular cylinder under external pressure is unstable if the
+pressure is high enough and the walls thin enough, because local departures from
+the true circle increase under the applied pressure and the cylinder may collapse
+before the stresses reach yield.
+905  Geothermal Drilling and Well Design
+
+5.4.3  The Properties and Failure of Rock
+Rock is an inadequate description of the materials through which a well might be
+drilled. In a geothermal resource with volcanic origins, various rock types are
+encountered; some are brittle while others will have been altered by the flow of
+geothermal fluids and be plastic and easily deformed, a form of clay. The dense
+brittle rocks (rhyolite, andesite, diorite and greywacke) are strong in compression
+but weak in tension, and fractures arise from stress concentrations due to
+imperfections in the microstructure of the rock, minor voids, for example. Geother-
+mal areas have been subjected to tectonic stresses which induced faults and hence a
+wide range of fracture sizes, so the rock is in a failed state from the outset. Existing
+fractures may extend, and new ones form during drilling as a result of pressurising
+the hole.
+Analogous to hydrostatic pressure, lithostatic pressure is the pressure that a fluid
+with the density of rock would experience at depth. Rock is not a fluid, so it does not
+transfer pressure equally in all directions—one particular stratum may carry the
+formations above it leaving those below at a lower level of stress. Tectonic stresses
+may act horizontally. In addition, permeable rocks or those with open connected
+fractures will exhibit pore pressure related to the hydrostatic pressure of water in
+connected formations. In general, the lithostatic pressure will ensure that any
+horizontal fractures remain under a compressive load tending to keep them closed,
+although surface roughness may leave gaps through which fluid flow is possible.
+5.4.4  The Properties of Casing Steel and Casing Specification
+The properties of casing steel must now be considered. Casing is manufactured to
+standards and specifications set by the American Petroleum Institute (API), and the
+complete specification of the 9 5/8
+00
+casing shown in the well of Fig.5.1, for
+example, might be Grade K-55, 47 lb/ft, R3, buttress casing. API Specification
+5A classifies types of steel for casings and sets out strength requirements and
+dimensions. Grades J, K and L signify a metallurgical type commonly used for
+geothermal wells; the notation “K-55” refers to a minimum tensile strength require-
+ment of 55,000 lb/ft
+2
+, and the remainder of the details refer to the thread type. API
+Bulletin 5C2 defines performance properties of casing (as well as tubing and drill
+pipe) and shows that there are various wall thicknesses with an outside diameter of
+9 5/8
+00
+and that these are specified in terms of nominal weight per foot, thicker
+casing being heavier. The weights per foot for 9 5/8
+00
+for J, K and L grades range
+from 36.0 to 53.5 lbs/ft. Kurata et al. [1995] reviewed the suitability of casing types
+for high-temperature geothermal resources. Knowing the weight per foot allows the
+total weight of each casing string to be calculated; the casing has to be lifted and
+lowered into the hole by the drilling rig, which must have suitable lifting capacity.
+The ends of each casing length are threaded so that they can be coupled, and the
+coupling design and performance are specified. In short, the materials available to
+construct the well are all tightly defined, and the designer’s task is to find out what
+5.4  Well Design91
+
+duty the casing has to perform and to specify which particular type is to be used for
+each string. Different casing thicknesses (weights) are sometimes necessary in
+different parts of the same string.
+5.4.5  Selection of Casing Depths
+The primary issue in deciding at what depth each casing should be cemented is
+protection against blowout—how deep can open hole be drilled? High-pressure
+fluid intercepted at depth might be able to communicate with a fracture in the open
+hole which will provide a route back to the surface; the consequences are extremely
+bad if this happens, as it amounts to an uncontrolled release of resource fluid which
+can destroy the rig and continue discharging for years, producing a crater.
+The physics of this issue relates to the bpd curve and its matching hydrostatic
+pressure distribution and the lithostatic pressure distribution in the area. These are
+plotted on Fig.5.4.
+The hydrostatic lines and bpd curve will be recognised as Fig.3.7with the axes
+reorientated. In addition, a pressure–depth line is shown for lithostatic pressure,
+calculated using a rock density of 2,200 kg/m
+3
+. Assume that the plan is to drill a
+well to a depth of 2,000 m. If the ground was saturated with water at saturation
+temperature  from  the  surface  downwards,  the  temperature  and  pressure
+distributions would be the bpd curve, marked T, and the corresponding hydrostatic
+pressure curve on which point A lies. A well drilled to 2,000 m and filled with steam
+at the bottom temperature could have a pressure versus depth graph shown by
+Fig. 5.4Bpd, saturated
+hydrostatic pressure and
+lithostatic pressure versus
+depth, for a rock density
+of 2,200 kg/m
+3
+925  Geothermal Drilling and Well Design
+
+the line A–B, continuing up to the wellhead at the surface. This is because the
+hydrostatic pressure of a column of steam is negligible compared to that of a
+column of water. If the production casing of the well ended at depth B (about
+650 m) and there was a fracture in the rock at that point, in principle, the pressure at
+that fracture would be enough to lift the entire weight of the rock above—the
+lithostatic pressure—the fracture could be forced open and steam could find its way
+to the surface. This reveals how the casing depths are selected. Drilling to 2,000 m
+requires the protection of a cemented casing to a depth B plus a margin of safety.
+The next shallower casing depth can be selected by continuing the process; drilling
+to depth B could encounter saturated steam conditions at point C, which could
+supply high-pressure steam up to the depth D, the dotted line on the graph.
+A formalised approach is given in the New Zealand Code of Practice [1991].
+Near the surface, the method is unreliable, and experience with adjacent wells is
+used to decide on the depth of conductor casing. The NZ Code of Practice for Deep
+Drilling [1991] states that most blowouts occur from depths of 150 m or less and
+recommends exploratory drilling of small diameter wells if there is any uncertainty.
+The completed well will collect all fluid from below the bottom of the produc-
+tion casing, referred to as the production casing shoe. Fluids from formations above
+this depth are said to be “cased out”. The production casing shoe depth is deter-
+mined at the time that the well is designed, but it is possible to adjust the actual
+depth slightly according to the temperature found while drilling, and this might be
+advantageous if it would block off (case-out) sources of cold water that would
+simply reduce the discharge enthalpy of the finished well. However, it is difficult to
+determine the formation temperature during drilling because the formations are
+cooled by the drilling fluids. Two approaches have been adopted, the technique
+known as a static formation temperature test (SFTT) and by measuring the
+circulating mud temperatures. The SFTT is a form of the transient pressure testing
+of Chap.9—see, for example, Brennand [1984] and a recent paper which provides a
+review, Bassam et al. [2010]. The measurement of mud temperatures was examined
+by Takahashi et al. [1997]. This issue is particularly important during exploration
+drilling, when perhaps only a single well has been scheduled and information about
+deeper formations can be totally obscured by failing to case out a cold formation or,
+even worse, by casing out the hottest formation in an outflow.
+5.5   Summary of Modes of Well Failure
+5.5.1  Drilling Operations That Could Cause Failure
+The following operations subject the casing to forces which could cause it to fail:
+•  Lowering the casing into the hole—the tensile stress in the uppermost length
+(nearest the hook) could exceed the yield due to the weight of casing below it.
+The uppermost lengths may need to be stronger than the rest.
+•  Lowering the casing into a hole which is full of mud—the displaced mud exerts
+the hydrostatic pressure appropriate to its depth. Radial pressures inside and
+5.5  Summary of Modes of Well Failure93
+
+outside the casing are balanced so long as the inside is open to the mud, but the
+pressure on the end (however small a cross section that might appear to be) acts
+upwards putting the casing in compression as a strut. The casing string is very
+slender and must be stiff enough not to buckle.
+•  In deviated wells, the curvature of the bend could raise combined stresses
+beyond the yield stress or be at a radius of curvature that the drill collars or
+stiffer pipe sections cannot take up. The curvature must be appropriate.
+•  Pumping cement could produce high internal pressure or high external pressure
+on the casing if the cement is not continuous throughout the casing and annulus.
+•  In an effort to reduce the risk of blowout, mud density could be increased to such
+a level that its hydrostatic pressure is sufficient to fracture the rock in the open
+hole. This is to be avoided. Cementing could also fracture the rock.
+5.5.2  Possible Modes of Failure of a Completed Well
+Histories of well failures and deterioration have been reported, e.g. Bixley and
+Hattersly [1983], Zarrouk [2004] and Southon [2005]. Among the most commonly
+recognised are the following:
+•  Bursting due to the expansion of a pocket of water trapped in the cement
+between the production and anchor casing. Sometimes the cement annulus
+between the hole and the casing or between the casings is discontinuous, and
+there is a pocket of water left in the space. This water is cold when it forms in the
+wet cement, and it becomes trapped when the cement hardens. It expands
+thermally when the well is first discharged and may produce a high enough
+pressure to deform or burst the production casing inwards, leaving a flow
+restriction or jagged edges on which instrument lines could catch. It can be
+repaired by cementing a patch in the form of a length of smaller diameter casing,
+but this reduces the cross-sectional area and hence the well discharge.
+•  Failure of the uppermost length of anchor casing that carries high internal
+pressure at high temperature when the well is shut, exacerbated by corrosion at
+ground level (discussed in Sect.5.6).
+•  Failure by internal corrosion if very acidic fluids with dissolved magmatic gases
+are intersected by the well.
+•  Failure of one or more casings as a result of compaction of one of the strata open
+to the well. If a formation compacts and the well casings remain firmly cemented
+in all other formations, shallow and deep, then the casings at the compacting
+formation come under a compressive load and may fail, depending on the
+amount of compaction.
+5.5.3  Inspection Methods
+However unreasonably, given the usually corrosive environment in which they
+operate and the severe temperature variations to which they are exposed, geother-
+mal wells are expected to have an indefinite life. However, the New Zealand
+945  Geothermal Drilling and Well Design
+
+Standard [1991] gives a prescription for permanent abandonment when the time
+comes. Various inspection techniques have been developed to measure the condi-
+tion of the production casing. Stevens [2000] describes an instrument capable of
+being lowered into a hot, recently discharged well to give an immediate surface
+output of the measurements. An eddy current principle is used to measure wall
+thickness, an electronic calliper to measure diameter and a surface roughness
+indicator. Lejano et al. [2010] adopted the approach of measuring the internal
+diameter of a sample of 10 wells in the Leyte field, Philippines, using a 60-finger
+mechanical calliper tool. The remaining wall thickness was deduced from the
+measurements, which were detailed enough to show surface roughness and pitting.
+Thus a bursting pressure could be established for any particular well measured
+which provided a “not to be exceeded” pressure for the guidance of future
+operations on that well.
+5.6   The Completed Wellhead
+The completed well must be capable of being safely closed against the pressure
+exerted by the reservoir fluids. The wellhead pressure varies with time after closure
+of the wellhead valve; the forces on the wellhead are carried by the anchor casing
+and the wellhead components. The anchor casing above ground level is unlike the
+buried part because it is an unsupported pipe (the buried part is supported by an
+outer casing and cement), and it is open to corrosion by being exposed to the
+atmosphere and hence oxygen and water.
+Dealing with the latter point first, the geothermal gas H
+2
+S is heavier than air and
+is likely to collect in the well cellar, where it will dissolve in rainwater. It attacks the
+anchor casing at ground level, and to avoid this, venting of the cement annuli of the
+outer casings at ground level is encouraged. The cement is removed for a few
+centimetres depth and replaced by loose gravel (permeable), with perhaps a cover
+and short vent pipe, and the heat of the well evaporates any water. Painting the
+outside of the casing that is exposed to the atmosphere will help reduce corrosion
+damage. The cellar usually has a large drain to a lower level, so that CO
+2
+and H
+2
+S
+can flow away, being denser than air.
+The anchor casing above ground is a simple pipe, and its wall thickness can be
+selected using the Standard ANSI/ASME B31.1-1980 Power Piping, which gives a
+formula for thickness:
+t¼P:D=2σ
+f
+þ0:4PðÞ½(5.10)
+where t is wall thickness, P is pressure, D is the outside diameter of the casing andσ
+f
+is the safe working stress (regarded as the failure criterion). To this minimum
+thickness must be added a corrosion allowance; typical corrosion allowances in
+steel piping and process equipment are 3 mm. An allowance for strength reduction
+due to high operating temperature is also necessary, as given in the standard.
+5.6  The Completed Wellhead95
+
+A typical arrangement of valves on the wellhead is shown in Fig.5.5. Immedi-
+ately above the casing head flange is a reducer (referred to as an expansion spool) to
+allow 10
+00
+valves to be fitted. The production casing is cut off to allow this reducer
+to be fitted, and a sufficient clearance must be left to ensure that the production
+casing cannot apply a load to the anchor casing by expanding and making contact
+with the interior of the reducer—Fig.5.1diagrammatically shows the production
+casing cut short within the wellhead. The master valve is attached to the reducer and
+then a T-section to allow 2 control valves. All of these wellhead valves are gate
+valves, a type in which the flow passage is directly through the valve body, without
+any restriction. To stop the flow, a plate is driven across the valve normal to the flow
+direction. To control the flow, i.e. restrict the flow, the plate is partially closed.
+This results in abrasion damage to the plate which results in it forming a “leaky”
+Fig. 5.5A typical geothermal wellhead
+965  Geothermal Drilling and Well Design
+
+seal when closed, so the rule is that the master valve is either open or shut, and its
+gate is never exposed to the flow, so as to preserve its sealing ability. Master valves
+often have a more elaborate plate mechanism than other gate valves, to ensure a
+perfect seal. Any flow control required is achieved with the valves above the master
+valve or other means (see Sect.8.1.1). When opening the well, the control valves
+are left closed until the master valve is fully opened, and the control valves are
+closed first when discharge has to be stopped. The expansion spool carries two side
+valves which are used for chemical sampling or similar duty.
+References
+American Petroleum Institute.http://www.api.org
+API (1994) Bulletin 5C3 - Bulletin on formulas and calculations for casing, tubing, drill pipe, and
+line pipe properties, 6th edn. American Petroleum Institute, Washington, DC
+ASME.http://files.asme.org/MEMagazine/Web/20779.pdf
+Bassam A, Santoyo E, Andaverde J, Hernandez JA, Espinoza-Ojeda OM (2010) Estimation of
+static formation temperatures in geothermal wells by using an artificial neural network
+approach. Comput Geosci 36(9):1191–1199
+Bixley PF, Hattersly SD (1983) Long term casing performance of Wairakei production wells.
+In: Proceedings of the 5th New Zealand geothermal workshop
+Brennand AW (1984) A new method for the analysis of static formation temperature tests.
+In: Proceeding of the 6th New Zealand geothermal workshop, University of Auckland,
+Auckland
+Dench ND (1970) Casing string design for geothermal wells. Geothermics. Special Issue 2, Part 2:
+1485–96
+Kurata Y, Sanada N, Nanjo H, Ikeuchi J (1995) Casing pipe materials for deep geothermal wells.
+Geothermal Resources Council Trans 19:105–109
+Leaver JD (1982) Failure mode analysis for casing and liners in geothermal production wells. In:
+Proceedings of the 4th New Zealand geothermal workshop
+Lejano DMZ, Colina RN, Yglopez DM, Andrino RP, Malate RCM, Sta-Anna FXM (2010) Casing
+inspection caliper campaign in the Leyte geothermal field, Philippines. Stanford geothermal
+workshop
+Massei S, Bianchi C (1995) Failure control of drill string components: non-destructive inspection.
+World geothermal congress
+New Zealand Standard (1991) Code of practice for deep geothermal wells. NZS 2403:1991,
+Standards Association of New Zealand
+Southon JNA (2005) Geothermal well design, construction and failures. In: Proceeding of the
+world geothermal conference
+Stevens L (2000) Monitoring of casing integrity in geothermal wells. In: Proceeding of the world
+geothermal conference
+Takahashi W, Osato K, Takasugi S, White SP (1997) Estimation of the formation temperature
+from the inlet and outlet mud temperatures while drilling. In: Proceedings of the 22nd
+workshop on geothermal reservoir engineering, University of Stanford
+Zarrouk SJ (2004) External casing corrosion in New Zealand’s geothermal fields. In: Proceedings
+of the 26th New Zealand geothermal workshop
+References97

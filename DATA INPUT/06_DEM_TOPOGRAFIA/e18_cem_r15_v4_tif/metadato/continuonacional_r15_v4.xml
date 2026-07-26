@@ -1,0 +1,315 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<Metadata>
+<MD_DataIdentification>
+<title>Continuo de Elevaciones Mexicano 4.0</title>
+<purpose>El producto fue generado por el Instituto Nacional de Estadística y Geografía (INEGI) principalmente para representar las características orográficas del territorio continental e insular mexicano, utilizando una resolución intermedia y de esta manera coadyuvar en la generación de información altimétrica y análisis en áreas diversas como cartografía, geomática, fotogrametría, geodesia, medio ambiente, geología, topografía y ciencias de la tierra.</purpose>
+<abstract>El Modelo Digital de Elevación (MDE) es una representación continua del relieve en formato digital, constituida por la distribución espacial y regular de valores de altura de las formas del relieve terrestre con respecto a un nivel de referencia o nivel medio del mar.
+
+Este producto se deriva del Modelo Digital de Elevaciones del terreno de México, desarrollado mediante la integración y procesamiento de datos de RADAR obtenidos por el satélite ALOS (Advanced Land Observing Satellite), también conocido como DAICHI, de la Agencia Japonesa de Exploración Aeroespacial (JAXA). A bordo de ALOS se encuentran tres sensores: el PRISM (instrumento pancromático para mapeo estéreo), el PALSAR (sensor de microondas activo con frecuencia en Banda L que permite capturar datos de día y de noche, incluso a través de nubes) y el AVNIR (radiómetro avanzado en el espectro visible e infrarrojo cercano).
+El sensor PALSAR, desarrollado en colaboración con la Organización del Sistema de Observación de Recursos de Japón (JAROS), fue fundamental para obtener imágenes de radar entre 2006 y 2011 utilizadas en la creación de modelos digitales de elevación y otros productos SAR (Radar de Apertura Sintética) en diferentes resoluciones y formatos, accesibles a nivel internacional.
+Los datos procesados para la generación del modelo referido se obtuvieron a través del Centro de Archivo Activo Distribuido de Alaska Satellite Facility (ASF DAAC), una instalación especializada en el procesamiento de datos de teledetección, misma que realizó correcciones radiométricas y geométricas para eliminar distorsiones y efectos topográficos que puedan afectar los valores de retrodispersión.
+La corrección radiométrica elimina los reflejos erróneos destacando características de la superficie. Por otro lado, la corrección del terreno compensa las distorsiones geométricas causadas por inclinaciones en el sensor y la variabilidad del relieve, alineando los datos para garantizar su precisión geoespacial.
+Ambas correcciones permiten generar un producto final confiable y adecuado para diversas aplicaciones técnicas, especialmente en estudios topográficos, ambientales y geoespaciales.
+
+El INEGI integró, procesó y aplicó transformaciones a los productos de la ASF DAAC para establecer referencias espaciales horizontales y verticales acordes con las normas vigentes para la producción de modelos digitales de elevación con fines geográficos. Esto se logró mediante el uso de sistemas de información geográfica y herramientas de álgebra de mapas, vinculando los datos de elevación para crear un modelo continuo y definiendo la referencia vertical con base en el Geoide Gravimétrico Mexicano versión 2010.
+Además, se identificaron y analizaron elevaciones atípicas, las cuales fueron omitidas en el modelo inicial y posteriormente interpoladas utilizando el método Close Gaps de O. Conrad (2002). Este método permite rellenar áreas faltantes o no muestreadas basándose en patrones y contextos espaciales circundantes, lo que asegura coherencia y continuidad en los resultados interpolados.
+
+La cobertura espacial del modelo es completa en el territorio continental de México, mientras que es parcial para las áreas insulares. Cabe destacar que existen zonas dentro del territorio continental que carecen de información, pero estas fueron reducidas mediante procesos geoestadísticos. En casos donde la ausencia de datos afectaba una superficie considerable o correspondía a áreas insulares o costeras, la continuidad de los datos se completó utilizando Modelos Digitales de Terreno (MDT) con resolución de 5 metros (remuestreados a 15 metros), derivados de nubes de puntos generadas a partir de tecnología LiDAR (Light Detection and Ranging) o fotogrametría, provenientes de sensores remotos aerotransportados o satelitales. Es importante señalar que, en algunos casos, los insumos presentan una visualización más generalizada del terreno, sin embargo, en estos casos, no fue posible modificar la representación, aunque se logró mantener la coherencia del relieve.
+
+Es relevante señalar que, más allá de las fronteras de México, la representación del relieve podría presentar distorsiones.
+
+Por razones técnicas, se incluyó un área excedente de datos ráster que une la parte continental con algunas islas o islas entre sí representadas en el modelo, esto con el fin de asegurar la continuidad de la representación adecuada de las costas y los elementos insulares.
+
+Este modelo digital se almacena en formato ráster, una estructura que permite representar de manera gradual las variables continúas relacionadas con la elevación del relieve y sus características físicas.
+
+Este producto es versátil y puede utilizarse en diversas aplicaciones y estudios especializados. Entre sus posibles usos se incluyen: análisis de desniveles, pendientes, orientación, índices de rugosidad del terreno, delimitación de cuencas hidrográficas, creación de secciones o perfiles, identificación de áreas vulnerables a inundaciones y generación de mapas digitales. El potencial de este producto es amplio, permitiendo su aplicación según las necesidades específicas y los objetivos de los usuarios, mismo que debe determinar la aptitud de uso en sus aplicaciones particulares.</abstract>
+<MD_DataIdentification_language>ES - Español.</MD_DataIdentification_language>
+<topicCategory>
+<principalTopic>  8. Base de imágenes de mapas de la cobertura de la tierra: Mapas base. </principalTopic>
+<groupCategory>2. Grupo de datos de nombres geográficos: Subdivisión de la Infraestructura de Datos Espaciales de México que corresponde a los nombres propios de rasgos naturales y culturales con una identidad reconocible en los ámbitos continental, insular y submarino.</groupCategory>
+<groupCategory>4. Grupo de datos topográficos: Subdivisión de la Infraestructura de Datos Espaciales de México que contiene elementos que caracterizan parte o toda la superficie  terrestre, constituidos por datos referidos a los componentes físicos del paisaje y de los correspondientes a objetos de infraestructura humana. Particularizan un terreno en su configuración superficial, permitiendo la identificación de la disposición y forma de sus partes y lo distinguen de otros semejantes.</groupCategory>
+<groupCategory>5. Grupo de datos de relieve continental, insular y submarino: Subdivisión de la Infraestructura de Datos Espaciales de México que a través de valores de distancias verticales con respecto a una superficie de referencia, representan la distribución de alturas y profundidades características de las formas del terreno. </groupCategory>
+</topicCategory>
+<keyword>Altimetría</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Altura</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Modelo Digital de Elevación (MDE)</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Relieve</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Elevación</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>RADAR</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Percepción remota activa</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Ráster</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<keyword>Continuo de elevaciones</keyword>
+<type>5. Tema: La palabra clave que identifica un tema o materia particular.</type>
+<thesaurusName>Norma Técnica para la Generación de Modelos Digitales de Elevación con fines geográficos</thesaurusName>
+<edition> </edition>
+<presentationForm>  3. Imagen digital: Imagen semejante a cosas construidas por el hombre, objetos y actividades adquiridas por medio de la percepción visual o por medio de sensores en cualquier segmento del espectro electromagnético (infrarrojo térmico, radar de alta resolución) y almacenados en formato digital.</presentationForm>
+<presentationForm>  5. Mapa digital: Mapa representado en formato raster o vector.</presentationForm>
+<presentationForm>  7. Modelo digital: Representación digital multi-dimensional de un objeto, proceso, etc. </presentationForm>
+<CI_OnlineResource>
+<CI_OnlineResource_linkage>http://www.inegi.org.mx/</CI_OnlineResource_linkage>
+<CI_OnlineResource_description>Página oficial del INEGI donde se puede obtener el conjunto de datos espaciales o producto con base en las políticas</CI_OnlineResource_description>
+</CI_OnlineResource>
+<maintenanceAndUpdateFrequency>11. La frecuencia de mantenimiento de los datos no se conoce.</maintenanceAndUpdateFrequency>
+<MD_DataIdentification_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</MD_DataIdentification_characterSet>
+<graphfilename> </graphfilename>
+<specuse>
+</specuse>
+</MD_DataIdentification>
+<CI_Date>
+<Dates_Events>
+<date>2024-12-18</date>
+<dateType>1. Creación: Indicador  de la fecha que especifica cuando fue creado el recurso.</dateType>
+</Dates_Events>
+<Ad_Date>
+<date_creation>2023-02-28</date_creation>
+<date_begin></date_begin>
+<date_end></date_end>
+<inpname>Modelo Digital de Elevaciones del terreno de México</inpname>
+</Ad_Date>
+</CI_Date>
+<CI_ResponsibleParty>
+<CI_ResponsibleParty_individualName>Mtro. J. Armando Aguiar Rodríguez.</CI_ResponsibleParty_individualName>
+<CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI.</CI_ResponsibleParty_organisationName>
+<CI_ResponsibleParty_positionName>Subdirector de Atención a Usuarios.</CI_ResponsibleParty_positionName>
+<CI_ResponsibleParty_voice>(800) 111 4634.</CI_ResponsibleParty_voice>
+<CI_ResponsibleParty_facsimile></CI_ResponsibleParty_facsimile>
+<CI_ResponsibleParty_deliveryPoint>Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.</CI_ResponsibleParty_deliveryPoint>
+<CI_ResponsibleParty_city>Aguascalientes.</CI_ResponsibleParty_city>
+<CI_ResponsibleParty_administrativeArea>Aguascalientes.</CI_ResponsibleParty_administrativeArea>
+<CI_ResponsibleParty_postalCode>20276.</CI_ResponsibleParty_postalCode>
+<CI_ResponsibleParty_country>México.</CI_ResponsibleParty_country>
+<CI_ResponsibleParty_electronicMailAddress>atencion.usuarios@inegi.org.mx</CI_ResponsibleParty_electronicMailAddress>
+<CI_ResponsibleParty_linkage>http://www.inegi.org.mx/</CI_ResponsibleParty_linkage>
+<CI_ResponsibleParty_role>  5. Distribuidor: Parte que distribuye el recurso.</CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<westBoundLongitude>-118.392188378955</westBoundLongitude>
+<eastBoundLongitude>-86.6649661313506</eastBoundLongitude>
+<southBoundLatitude>14.497945988392</southBoundLatitude>
+<northBoundLatitude>32.756696002999</northBoundLatitude>
+</EX_GeographicBoundingBox>
+<spatialRepresentationType>2. Raster: Los datos malla o cuadrícula se utilizan también para representar datos espaciales.</spatialRepresentationType>
+</geographicElement>
+<MD_ReferenceSystem>
+<ReferenceHorizontalSystem>
+<geograph>
+<latres>0.00013888889</latres>
+<longres>0.00013888889</longres>
+<geogunit>Grados decimales.</geogunit>
+</geograph>
+<planar>
+<mapprojn>
+<lambertc>
+<lambertc_stdparll></lambertc_stdparll>
+<lambertc_longcm></lambertc_longcm>
+<lambertc_latprjo></lambertc_latprjo>
+<lambertc_feast></lambertc_feast>
+<lambertc_fnorth></lambertc_fnorth>
+</lambertc>
+<mercatort>
+<mercatort_sfctrmer></mercatort_sfctrmer>
+<mercatort_longcm></mercatort_longcm>
+<mercatort_latprjo></mercatort_latprjo>
+<mercatort_feast></mercatort_feast>
+<mercatort_fnorth></mercatort_fnorth>
+</mercatort>
+<mercator>
+<mercator_stdparll></mercator_stdparll>
+<mercator_sfec></mercator_sfec>
+<mercator_longcm></mercator_longcm>
+<mercator_feast></mercator_feast>
+<mercator_fnorth></mercator_fnorth>
+</mercator>
+<tme>
+<tme_sfctrmer></tme_sfctrmer>
+<tme_longcm></tme_longcm>
+<tme_latprjo></tme_latprjo>
+<tme_feast></tme_feast>
+<tme_fnorth></tme_fnorth>
+</tme>
+<anoth_proj_def></anoth_proj_def>
+</mapprojn>
+<gridcoordinatessystem>
+<utm>
+<utm_zone></utm_zone>
+<utm_sfctrmer></utm_sfctrmer>
+<utm_longcm></utm_longcm>
+<utm_latprjo></utm_latprjo>
+<utm_feast></utm_feast>
+<utm_fnorth></utm_fnorth>
+</utm>
+</gridcoordinatessystem>
+<local_planar>
+<local_planar_desc></local_planar_desc>
+<local_planar_geo_inf></local_planar_geo_inf>
+</local_planar>
+<planci>
+<plance></plance>
+<coord_repres>
+<absres></absres>
+<ordres></ordres>
+</coord_repres>
+<distance_and_bearing_repres>
+<distance_res></distance_res>
+<bearing_res></bearing_res>
+<bearing_uni></bearing_uni>
+<ref_bearing_dir></ref_bearing_dir>
+<ref_bearing_mer></ref_bearing_mer>
+</distance_and_bearing_repres>
+<plandu></plandu>
+</planci>
+</planar>
+<local_coordinates>
+<local_desc></local_desc>
+<local_geo_inf></local_geo_inf>
+</local_coordinates>
+<geodetic>
+<horizdn>ITRF08 época 2010.0.</horizdn>
+<ellips>Sistema Geodésico de Referencia de 1980 (GRS80).</ellips>
+<semiaxis>6378137.0</semiaxis>
+<denflat>298.2572221</denflat>
+</geodetic>
+</ReferenceHorizontalSystem>
+<ReferenceVerticalSystem>
+<altsys>
+<altdatum>Alturas ortométricas referidas al Geoide Gravimétrico Mexicano 2010</altdatum>
+<altres>1</altres>
+<altunits>Metros.</altunits>
+<altenc>Coordenada de elevación explícita incluida con coordenadas horizontales.</altenc>
+</altsys>
+<depthsys>
+<depthdn></depthdn>
+<depthres></depthres>
+<depthdu></depthdu>
+<depthem> </depthem>
+</depthsys>
+</ReferenceVerticalSystem>
+</MD_ReferenceSystem>
+<DQ_DataQuality>
+<DQ_Scope>
+<level>  5. Conjunto de datos espaciales: Información aplicada al conjunto de datos espaciales.</level>
+</DQ_Scope>
+<report>
+<DQ_Completeness>
+<DQ_Completeness_evalqualsubname>
+<DQ_Completeness_nameOfMeasure></DQ_Completeness_nameOfMeasure>
+<DQ_Completeness_measureDescription></DQ_Completeness_measureDescription>
+<DQ_Completeness_result>
+<DQ_Completeness_DQ_QuantitativeResult>
+<DQ_Completeness_valueUnit></DQ_Completeness_valueUnit>
+<DQ_Completeness_value></DQ_Completeness_value></DQ_Completeness_DQ_QuantitativeResult>
+</DQ_Completeness_result>
+</DQ_Completeness_evalqualsubname>
+</DQ_Completeness>
+<DQ_LogicConsistency>
+<DQ_LogicConsistency_evalqualsubname>
+<DQ_LogicConsistency_nameOfMeasure></DQ_LogicConsistency_nameOfMeasure>
+<DQ_LogicConsistency_measureDescription></DQ_LogicConsistency_measureDescription>
+<DQ_LogicConsistency_result>
+<DQ_LogicConsistency_DQ_QuantitativeResult>
+<DQ_LogicConsistency_valueUnit></DQ_LogicConsistency_valueUnit>
+<DQ_LogicConsistency_value></DQ_LogicConsistency_value></DQ_LogicConsistency_DQ_QuantitativeResult>
+</DQ_LogicConsistency_result>
+</DQ_LogicConsistency_evalqualsubname>
+</DQ_LogicConsistency>
+<PositionalAccuracy>
+<PositionalAccuracy_evalqualsubname>
+<PositionalAccuracy_nameOfMeasure></PositionalAccuracy_nameOfMeasure>
+<PositionalAccuracy_measureDescription></PositionalAccuracy_measureDescription>
+<PositionalAccuracy_result>
+<PositionalAccuracy_DQ_QuantitativeResult>
+<PositionalAccuracy_valueUnit></PositionalAccuracy_valueUnit>
+<PositionalAccuracy_value></PositionalAccuracy_value></PositionalAccuracy_DQ_QuantitativeResult>
+</PositionalAccuracy_result>
+</PositionalAccuracy_evalqualsubname>
+</PositionalAccuracy>
+<TemporalAccuracy>
+<TemporalAccuracy_evalqualsubname>
+<TemporalAccuracy_nameOfMeasure></TemporalAccuracy_nameOfMeasure>
+<TemporalAccuracy_measureDescription></TemporalAccuracy_measureDescription>
+<TemporalAccuracy_result>
+<TemporalAccuracy_DQ_QuantitativeResult>
+<TemporalAccuracy_valueUnit></TemporalAccuracy_valueUnit>
+<TemporalAccuracy_value></TemporalAccuracy_value></TemporalAccuracy_DQ_QuantitativeResult>
+</TemporalAccuracy_result>
+</TemporalAccuracy_evalqualsubname>
+</TemporalAccuracy>
+<ThematicAccuracy>
+<ThematicAccuracy_evalqualsubname>
+<ThematicAccuracy_nameOfMeasure></ThematicAccuracy_nameOfMeasure>
+<ThematicAccuracy_measureDescription></ThematicAccuracy_measureDescription>
+<ThematicAccuracy_result>
+<ThematicAccuracy_DQ_QuantitativeResult>
+<ThematicAccuracy_valueUnit></ThematicAccuracy_valueUnit>
+<ThematicAccuracy_value></ThematicAccuracy_value></ThematicAccuracy_DQ_QuantitativeResult>
+</ThematicAccuracy_result>
+</ThematicAccuracy_evalqualsubname>
+</ThematicAccuracy>
+</report>
+<LI_Lineage>
+<statement>El modelo de elevación empleado como insumo fue generado a partir de datos derivados de procesos de corrección radiométrica del terreno (RTC) a imágenes de RADAR de apertura sintética (SAR)
+Al modelo se le aplicaron procesos minimizando en gran medida la presencia de valores atípicos, garantizando una representación más coherente de la elevación del relieve para posteriormente obtener un continuo de elevaciones con resolución de 15 metros. </statement>
+<LI_ProcessStep>
+<LI_ProcessStep_description>1. Verificación y Preparación de los Insumos
+Se inicia verificando las características técnicas del Modelo Digital de Elevaciones del terreno de México que sirvió como insumo y que corresponde a datos generados a partir del radar PALSAR de la misión satelital ALOS, con una resolución espacial de 12.5 metros y un tamaño de archivo de 153.47 GB en formato TIF.</LI_ProcessStep_description>
+<LI_ProcessStep_description>2. Procesamiento Inicial y Reclasificación de Valores
+S ajusta el tamaño del archivo del modelo tomado como insumo y se modifica la profundidad de los píxeles del archivo original, pasando de una profundidad de 32 bits a 16 bits. Esto permite reducir el tamaño del archivo y mejorar la eficiencia del procesamiento, sin perder información relevante. Antes de realizar este cambio, se realiza una reclasificación de los valores decimales del modelo para evitar la pérdida de datos durante el ajuste, asegurando que los valores entre -1 y 1 sean correctamente redondeados y conservando los valores negativos fuera de este rango.</LI_ProcessStep_description>
+<LI_ProcessStep_description>3. Revisión de la Calidad del Continuo de Elevaciones Generado
+Una vez procesado el modelo, se realiza una revisión exhaustiva mediante un análisis comparativo entre el modelo original y el modelo generado. Se lleva a cabo una resta entre las elevaciones de ambos para identificar diferencias significativas. El análisis muestra que las variaciones son mínimas en zonas de relieve continental y más relevantes en las costas.</LI_ProcessStep_description>
+<LI_ProcessStep_description>4. Análisis y Gestión de los Valores Negativos
+Se realiza un análisis detallado de los valores negativos de elevación, especialmente aquellos comprendidos entre -52m y -1m, para identificar posibles valores atípicos. A través del análisis de frecuencia, se agrupan los valores negativos en clases según su concentración. Este proceso permite identificar inconsistencias en los datos originales, especialmente en las zonas costeras y áreas con alta retrodispersión, como las dunas móviles y cuerpos de agua someros.
+Posteriormente se lleva a cabo una fase de refinamiento utilizando la prueba estadística de Turkey, que permite identificar y eliminar valores atípicos extremos. Los valores atípicos se definen como aquellos por debajo de umbrales específicos. Estos valores atípicos se eliminan para garantizar una mejor calidad del modelo.
+En este sentido, las celdas identificadas como NoData, resultantes de la eliminación de valores atípicos, se rellenan mediante un proceso de interpolación. Para esto, se utiliza el método de Vecinos más Cercanos con la herramienta CloseGaps de SagaGIS, aplicando áreas de influencia de 5 km para garantizar que las celdas faltantes sean adecuadamente rellenadas con valores interpolados de elevación, manteniendo la integridad del modelo y minimizando la alteración de los datos originales.</LI_ProcessStep_description>
+<LI_ProcessStep_description>5. Generación del Producto Final
+El resultado final es un Continuo Nacional de Elevaciones con una resolución de 15 metros, un rango de elevación de -10m a 5,594m, y un tamaño de 7.04 GB. Este modelo ha sido corregido para eliminar valores atípicos en las zonas costeras, mejorando la calidad y precisión del modelo en áreas con alta retrodispersión, como las zonas costeras, sin perder la integridad de los datos de elevación originales. </LI_ProcessStep_description>
+</LI_ProcessStep>
+<LI_Source>
+<LI_Source_description>
+</LI_Source_description>
+</LI_Source>
+</LI_Lineage>
+</DQ_DataQuality>
+<Attributes>
+<schemaAscii></schemaAscii>
+<entity_detail></entity_detail>
+</Attributes>
+<MD_Distribution>
+<accessConstraints>8. Acceso al público a través de internet y los Centros de Información del Instituto Nacional de Estadística, Geografía - INEGI.</accessConstraints>
+<useConstraints>8. Aviso de derechos de autor para ALOS PALSAR RTC: © NASA [2023] incluye material © JAXA, METI [2010-2011]</useConstraints>
+<otherConstraints>El Instituto Nacional de Estadística y Geografía - INEGI no se hace responsable por el uso que se les dé a los datos.</otherConstraints>
+<MD_Format>
+<name>TIFF (Tagged Image File Format)</name>
+<version>No aplica</version>
+</MD_Format>
+</MD_Distribution>
+<Inf_Metadata>
+<metadataStandardName>ISO 19115 Información Geográfica - Metadatos (Norma Técnica para Metadatos).</metadataStandardName>
+<metadataStandardVersion>2003 (1.0).</metadataStandardVersion>
+<Inf_Metadata_language>ES - Español.</Inf_Metadata_language>
+<CI_ResponsibleParty>
+<Inf_Metadata_CI_ResponsibleParty_individualName>Lic. Rafael Arrioja Urzúa.</Inf_Metadata_CI_ResponsibleParty_individualName>
+<Inf_Metadata_CI_ResponsibleParty_organisationName>Instituto Nacional de Estadística y Geografía - INEGI.</Inf_Metadata_CI_ResponsibleParty_organisationName>
+<Inf_Metadata_CI_ResponsibleParty_positionName>Jefe del Departamento de Administración de Metadatos.</Inf_Metadata_CI_ResponsibleParty_positionName>
+<Inf_Metadata_CI_ResponsibleParty_voice>(449)9105300 Ext. 1750 y 5631.</Inf_Metadata_CI_ResponsibleParty_voice>
+<Inf_Metadata_CI_ResponsibleParty_facsimile></Inf_Metadata_CI_ResponsibleParty_facsimile>
+<Inf_Metadata_CI_ResponsibleParty_deliveryPoint>Avenida Héroe de Nacozari Sur 2301. Fraccionamiento Jardines del Parque, entre Calle INEGI, Avenida del Lago y Avenida Paseo de las Garzas.</Inf_Metadata_CI_ResponsibleParty_deliveryPoint>
+<Inf_Metadata_CI_ResponsibleParty_city>Aguascalientes.</Inf_Metadata_CI_ResponsibleParty_city>
+<Inf_Metadata_CI_ResponsibleParty_administrativeArea>Aguascalientes.</Inf_Metadata_CI_ResponsibleParty_administrativeArea>
+<Inf_Metadata_CI_ResponsibleParty_postalCode>20276</Inf_Metadata_CI_ResponsibleParty_postalCode>
+<Inf_Metadata_CI_ResponsibleParty_country>México</Inf_Metadata_CI_ResponsibleParty_country>
+<Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>rafael.arrioja@inegi.org.mx</Inf_Metadata_CI_ResponsibleParty_electronicMailAddress>
+<Inf_Metadata_CI_ResponsibleParty_role>  7. Punto de contacto: Parte que puede ser contactada para informarse sobre el recurso o adquisición del mismo.</Inf_Metadata_CI_ResponsibleParty_role>
+</CI_ResponsibleParty>
+<dateStamp>2024-12-18</dateStamp>
+<Inf_Metadata_characterSet>  6. 8859parte1: ISO/IEC 8859-1, Tecnologías de la Información - Conjuntos de caracteres gráficos codificados de 8-bit por byte - Parte 1: Alfabeto Latino No.1.</Inf_Metadata_characterSet>
+</Inf_Metadata>
+</Metadata>

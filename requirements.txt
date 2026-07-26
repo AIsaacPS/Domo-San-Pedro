@@ -1,0 +1,25 @@
+# =============================================================================
+# REQUIREMENTS — Proyecto Domo San Pedro
+# Zonas Favorables de Perforación Geotérmica
+# =============================================================================
+#
+# Instalar con:
+#   pip install -r requirements.txt
+#
+# NOTA: Los scripts que se ejecutan DENTRO de QGIS (consola PyQGIS) no necesitan
+# estas dependencias — usan las librerías internas de QGIS (PyQGIS, GDAL, etc.)
+#
+# Estas dependencias son para scripts que se ejecutan desde terminal (cmd/PowerShell).
+# =============================================================================
+
+# --- Conversión de PDF a PNG de alta resolución ---
+pymupdf>=1.24.0
+
+# --- Procesamiento geoespacial (si se ejecutan scripts fuera de QGIS) ---
+# geopandas>=0.14.0
+# rasterio>=1.3.0
+# numpy>=1.24.0
+# shapely>=2.0.0
+
+# --- Visualización (opcional) ---
+# matplotlib>=3.7.0

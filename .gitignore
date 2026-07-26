@@ -1,0 +1,85 @@
+# =============================================================================
+# .gitignore — Proyecto Domo San Pedro
+# =============================================================================
+
+# --- Datos geoespaciales pesados (raster) ---
+*.tif
+*.tiff
+*.img
+*.asc
+*.nc
+*.hdf
+*.h5
+
+# --- Archivos auxiliares de QGIS/GDAL ---
+*.aux.xml
+*.ovr
+*.qix
+*.sbn
+*.sbx
+*.lyr
+*.cpg
+
+# --- Shapefiles binarios (mantener solo .prj y README) ---
+*.shp
+*.shx
+*.dbf
+
+# --- Archivos de proyecto QGIS (rutas absolutas locales) ---
+*.qgz
+*.qgs
+*.qgs~
+
+# --- PDFs y documentos pesados ---
+*.pdf
+*.docx
+
+# --- Imágenes de alta resolución ---
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# --- Archivos de metadatos SGM ---
+*.shp.xml
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Outputs generados (reproducibles desde scripts) ---
+outputs/
+
+# =============================================================================
+# EXCEPCIONES — archivos que SÍ deben subir a GitHub
+# =============================================================================
+
+# Mantener archivos de proyección (texto plano, pequeños)
+!*.prj
+
+# Mantener READMEs y documentación
+!README.md
+!README.txt
+!*.md
+!*.txt
+
+# Mantener scripts y código
+!*.py
+
+# Mantener requirements y configuración
+!requirements.txt
+!.gitignore
+!.gitkeep
+
+# Mantener GeoJSON (texto plano, versionable)
+!*.geojson
+!*.json
