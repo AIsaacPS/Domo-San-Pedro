@@ -19,6 +19,7 @@
 *.sbx
 *.lyr
 *.cpg
+*.points
 
 # --- Shapefiles binarios (mantener solo .prj y README) ---
 *.shp
