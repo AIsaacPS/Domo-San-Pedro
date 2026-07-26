@@ -118,7 +118,7 @@ print("=" * 60)
 # Verificar CRS del DEM original
 dem_layer = QgsRasterLayer(DEM_INPUT, "DEM_original")
 if not dem_layer.isValid():
-    raise Exception(f"No se pudo cargar el DEM: {DEM_INPUT}")
+    raise RuntimeError(f"No se pudo cargar el DEM: {DEM_INPUT}")
 
 print(f"  Archivo: {Path(DEM_INPUT).name}")
 print(f"  CRS original: {dem_layer.crs().authid()}")
@@ -175,7 +175,7 @@ print("=" * 60)
 # Cargar geología
 geo_layer = QgsVectorLayer(GEOLOGIA_INPUT, "geologia_original", "ogr")
 if not geo_layer.isValid():
-    raise Exception(f"No se pudo cargar la geologia: {GEOLOGIA_INPUT}")
+    raise RuntimeError(f"No se pudo cargar la geologia: {GEOLOGIA_INPUT}")
 
 print(f"  Archivo: {Path(GEOLOGIA_INPUT).name}")
 print(f"  CRS: {geo_layer.crs().authid()}")

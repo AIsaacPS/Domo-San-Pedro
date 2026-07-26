@@ -45,16 +45,16 @@ def convertir_pdf_a_png(pdf_path, dpi=600, pagina=1):
     Retorna:
         Path — ruta al archivo PNG generado
     """
-    pdf_path = Path(pdf_path)
+    pdf_path = Path(pdf_path).resolve()
 
     if not pdf_path.exists():
         raise FileNotFoundError(f"No se encontró el archivo: {pdf_path}")
 
-    if not pdf_path.suffix.lower() == ".pdf":
+    if pdf_path.suffix.lower() != ".pdf":
         raise ValueError(f"El archivo no es un PDF: {pdf_path}")
 
-    # Nombre de salida: mismo nombre con sufijo _HQ.png
-    png_path = pdf_path.parent / f"{pdf_path.stem}_HQ.png"
+    # Nombre de salida: mismo nombre con sufijo _HQ.png (en el mismo directorio)
+    png_path = pdf_path.parent.resolve() / f"{pdf_path.stem}_HQ.png"
 
     # Importar PyMuPDF
     try:
@@ -126,7 +126,7 @@ if __name__ == "__main__":
         print('  python convertir_pdf_a_png.py "mapa_geologico.pdf" 600 2')
         sys.exit(0)
 
-    pdf_input = Path(sys.argv[1])
+    pdf_input = Path(sys.argv[1]).resolve()
     dpi = int(sys.argv[2]) if len(sys.argv) > 2 else 600
     pagina = int(sys.argv[3]) if len(sys.argv) > 3 else 1
 
