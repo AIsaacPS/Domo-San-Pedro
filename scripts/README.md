@@ -60,6 +60,32 @@ python scripts/convertir_pdf_a_png.py "BIBLIOGRAFIA COMPLEMENTARIA/articulo.pdf"
 
 ---
 
+### `extraer_resistividad_de_mapa.py`
+
+Extrae valores numéricos de resistividad (Ω·m) desde una imagen de mapa de color (modelo MT) usando *reverse color-mapping*.
+
+**Problema que resuelve**: Cuando solo se dispone de un mapa de resistividad en formato imagen (JPG/PNG del artículo o del autor), este script convierte los colores a valores numéricos y exporta un GeoTIFF listo para usar en el modelo Index Overlay.
+
+**Método**:
+1. Construye un Lookup Table (LUT) a partir de la barra de color (escala logarítmica 1–1000 Ω·m)
+2. Detecta o usa el grid del modelo MT (38×52 celdas para Corbo 2026)
+3. Samplea el color MEDIANO en el centro (50%) de cada celda
+4. Asigna UN SOLO valor de resistividad por celda
+5. Exporta como GeoTIFF en EPSG:32613
+
+**Ejecutar desde**: Terminal (cmd / PowerShell)
+
+```bash
+python scripts/extraer_resistividad_de_mapa.py
+```
+
+**Entrada**: `DATA INPUT/05_RESISTIVIDAD/d_clean.jpg` + `Rho_Escale.png`
+**Salida**: `data/processed/resistividad_350mbsl_UTM13N.tif`
+
+**Dependencias**: numpy, Pillow, rasterio, matplotlib
+
+---
+
 ### `01_cargar_datos_y_area_estudio.py`
 
 Carga el DEM y la geología al proyecto QGIS, define el área de estudio y reproyecta/recorta todo a EPSG:32613.

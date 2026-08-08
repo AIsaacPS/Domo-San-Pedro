@@ -322,70 +322,107 @@ Para aplicar el modelo Index Overlay al Domo San Pedro se requieren las siguient
 ```
 DOMO SAN PEDRO/
 ├── README.md                          ← Este archivo
+├── CONTRIBUTING.md                    ← Guía de configuración y contribución
+├── INVENTARIO.md                      ← Estado de cada capa de datos
 ├── .gitignore                         ← Excluye binarios pesados de Git
 ├── requirements.txt                   ← Dependencias Python
+├── PROYECTO - GIS.qgz                ← Proyecto QGIS principal (NO en Git)
+│
+├── DATA INPUT/                        ← Datos fuente organizados por tema
+│   ├── README_GENERAL.txt             ← Guía general de datos de entrada
+│   ├── 01_FALLAS_PRINCIPALES/
+│   ├── 02_MANIFESTACIONES_TERMALES/
+│   ├── 03_GEOLOGIA_FUENTE_CALOR/     ← Litología SGM + Ferrari 2003
+│   ├── 04_FRACTURAMIENTO/
+│   ├── 05_RESISTIVIDAD/              ← Mapas MT de Corbo 2026 (JPG + clean)
+│   ├── 06_DEM_TOPOGRAFIA/            ← CEM INEGI 15m
+│   ├── 07_ANOMALIAS_TERMICAS/
+│   ├── 08_GEOQUIMICA/
+│   ├── 09_GRADIENTE_GEOTERMICO/
+│   └── 10_GRAVIMETRIA_MAGNETOMETRIA/
 │
 ├── data/
-│   ├── raw/                           ← Datos de entrada originales (NO en Git: .tif, .shp)
-│   │   ├── README.txt                 ← Guía general de datos de entrada
-│   │   ├── 01_fallas_principales/
-│   │   ├── 02_manifestaciones_termales/
-│   │   ├── 03_geologia_fuente_calor/
-│   │   ├── 04_fracturamiento/
-│   │   ├── 05_resistividad/
-│   │   ├── 06_dem_topografia/
-│   │   ├── 07_anomalias_termicas/
-│   │   ├── 08_geoquimica/
-│   │   ├── 09_gradiente_geotermico/
-│   │   └── 10_gravimetria_magnetometria/
-│   └── processed/                     ← Datos procesados (NO en Git: .tif, .shp)
-│       ├── area_estudio_UTM13N.*
-│       ├── geologia_area_estudio_UTM13N.*
+│   └── processed/                     ← Datos procesados listos para el modelo
+│       ├── area_estudio_UTM13N.*      ← Polígono del área de estudio
 │       ├── DEM_area_estudio_UTM13N.tif
-│       ├── distancia_fallas.tif
-│       ├── distancia_manifestaciones.tif
-│       ├── distancia_domos.tif
-│       ├── distancia_fracturamiento.tif
-│       └── resistividad_interpolada.tif
+│       ├── geologia_area_estudio_UTM13N.*
+│       └── resistividad_350mbsl_UTM13N.tif  ← Extraída desde mapa MT
 │
 ├── scripts/
 │   ├── README.md
+│   ├── config.py                          ← Configuración centralizada (rutas, CRS, pesos)
 │   ├── 01_cargar_datos_y_area_estudio.py  ← PyQGIS: carga y preprocesamiento
-│   ├── 02_calculo_distancias.py           ← PyQGIS: mapas de distancia euclidiana
-│   ├── 03_reclasificacion.py              ← PyQGIS: asignación de scores (0, 8, 10)
-│   ├── 04_index_overlay.py               ← Python: cálculo S = Σ(Sij·wi)/Σ(wi)
-│   ├── 05_visualizacion.py               ← Python: mapas finales de favorabilidad
-│   └── convertir_pdf_a_png.py            ← Utilidad: PDF → PNG para georreferenciar
+│   ├── extraer_resistividad_de_mapa.py    ← Python: color→resistividad (Ω·m)
+│   ├── convertir_pdf_a_png.py             ← Utilidad: PDF → PNG para georreferenciar
+│   ├── generar_bibliografia.py            ← Genera .docx de bibliografía comentada
+│   ├── 02_calculo_distancias.py           ← (PENDIENTE) Mapas de distancia euclidiana
+│   ├── 03_reclasificacion.py              ← (PENDIENTE) Asignación de scores
+│   ├── 04_index_overlay.py               ← (PENDIENTE) Cálculo del modelo
+│   └── 05_visualizacion.py               ← (PENDIENTE) Mapas finales
 │
 ├── outputs/                           ← Resultados generados (NO en Git)
 │   ├── mapa_favorabilidad.tif
 │   ├── mapa_favorabilidad_umbrales.png
 │   └── reporte_final.pdf
 │
+├── BIBLIOGRAFIA COMPLEMENTARIA/       ← PDFs de artículos por tema + .docx generado
+│   ├── 01_GEOQUIMICA/
+│   ├── 02_GEOLOGIA_ESTRUCTURAL/
+│   ├── 03_SISMICIDAD/
+│   ├── 04_HIDROGEOLOGIA/
+│   ├── 05_ANOMALIAS_TERMICAS/
+│   ├── 06_GEOCRONOLOGIA/
+│   ├── 06_GEOFISICA/
+│   └── Otros/
+│
 └── docs/
     ├── references/                    ← Notas y metadatos de referencias
     └── extracted-text/                ← Texto extraído de artículos (en Git)
-        ├── Prol_Ledesma_GIS_2000.txt
-        ├── 202606_GSA-BOOK_DSP.txt
-        └── Geothermal_Drilling_and_Well_Design.txt
 ```
 
 > **Nota sobre Git**: Los archivos binarios (`.tif`, `.shp`, `.pdf`, `.png`) están excluidos
 > por `.gitignore`. Solo se versiona el código, documentación y archivos de texto plano.
-> Para compartir los datos, usar un servicio externo (Google Drive, Zenodo, etc.) y
-> documentar las rutas en cada `README.txt` de `data/raw/`.
 
 ---
 
-## 9. Referencias Principales
+## 9. Estado Actual del Proyecto (Agosto 2026)
+
+### Completado ✓
+
+| Fase | Tarea | Script/Archivo |
+|------|-------|----------------|
+| 1 | Área de estudio definida (14×18 km, UTM 13N) | `01_cargar_datos_y_area_estudio.py` |
+| 1 | DEM reproyectado y recortado (30 m) | `01_cargar_datos_y_area_estudio.py` |
+| 1 | Geología (SGM) recortada | `01_cargar_datos_y_area_estudio.py` |
+| 2 | Resistividad extraída de modelo MT (350 mbsl) | `extraer_resistividad_de_mapa.py` |
+| — | Bibliografía compilada (24 refs, 6 temas) | `generar_bibliografia.py` |
+| — | Utilidad PDF→PNG | `convertir_pdf_a_png.py` |
+
+### Pendiente
+
+| Fase | Tarea | Prioridad |
+|------|-------|-----------|
+| 1 | Digitalizar manifestaciones termales | Alta |
+| 1 | Obtener/digitalizar fracturamiento | Media |
+| 2 | Calcular distancias euclidianas (fallas, manif., domos, fract.) | Alta |
+| 3 | Reclasificar capas (scores 0, 8, 10) | Alta |
+| 4 | Definir pesos finales (con Dra. Prol-Ledesma) | Alta |
+| 5 | Calcular Index Overlay | Alta |
+| 6 | Generar mapas de favorabilidad | Media |
+| 7 | Validar contra pozos existentes | Media |
+
+---
+
+## 10. Referencias Principales
 
 - Prol-Ledesma, R.M. (2000). Evaluation of the reconnaissance results in geothermal exploration using GIS. *Geothermics*, 29, 83–103.
+- Corbo-Camargo, F. et al. (2026). Magnetotelluric imaging of the Domo San Pedro geothermal system. *GSA Books* (en prensa).
 - Bonham-Carter, G.F. (1994). *Geographical Information Systems for Geoscientists: Modelling with GIS*. Pergamon, 398 pp.
 - Saaty, T.L. (1977). A scaling method for priorities in hierarchical structures. *J. Math. Psychology*, 15, 234–281.
 
 ---
 
-## 10. Autor / Contacto
+## 11. Autor / Contacto
 
 Proyecto desarrollado por: A. Isaac P.S.
 
@@ -393,4 +430,4 @@ para la evaluación del potencial geotérmico del Domo San Pedro.
 
 ---
 
-*Última actualización: Julio 2026*
+*Última actualización: Agosto 2026*
