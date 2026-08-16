@@ -294,12 +294,12 @@ Para aplicar el modelo Index Overlay al Domo San Pedro se requieren las siguient
 | Parámetro | Valor |
 | ---------- | ----- |
 | XMIN (Easting) | 520,000 m |
-| XMAX (Easting) | 534,500 m |
+| XMAX (Easting) | 535,000 m |
 | YMIN (Northing) | 2,328,000 m |
 | YMAX (Northing) | 2,348,000 m |
-| Ancho | 14.5 km |
+| Ancho | 15 km |
 | Alto | 20 km |
-| Área | 290 km² |
+| Área | 300 km² |
 
 ### 6.1 Justificación
 
