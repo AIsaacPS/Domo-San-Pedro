@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "name": "area_estudio",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32613"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Domo San Pedro",
+        "xmin": 520000.0,
+        "xmax": 534500.0,
+        "ymin": 2328000.0,
+        "ymax": 2348000.0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              520000.0,
+              2328000.0
+            ],
+            [
+              534500.0,
+              2328000.0
+            ],
+            [
+              534500.0,
+              2348000.0
+            ],
+            [
+              520000.0,
+              2348000.0
+            ],
+            [
+              520000.0,
+              2328000.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

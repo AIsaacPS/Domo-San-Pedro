@@ -54,15 +54,15 @@ CRS_EPSG = 32613
 # Bounding box en UTM 13N (metros)
 AREA_ESTUDIO = {
     "xmin": 520000.0,
-    "xmax": 534000.0,
+    "xmax": 534500.0,
     "ymin": 2328000.0,
     "ymax": 2348000.0,
 }
 
 # Dimensiones
-AREA_WIDTH_M = AREA_ESTUDIO["xmax"] - AREA_ESTUDIO["xmin"]   # 14,000 m
+AREA_WIDTH_M = AREA_ESTUDIO["xmax"] - AREA_ESTUDIO["xmin"]   # 14,500 m
 AREA_HEIGHT_M = AREA_ESTUDIO["ymax"] - AREA_ESTUDIO["ymin"]  # 20,000 m
-AREA_KM2 = (AREA_WIDTH_M * AREA_HEIGHT_M) / 1e6              # 280 km²
+AREA_KM2 = (AREA_WIDTH_M * AREA_HEIGHT_M) / 1e6              # 290 km²
 
 # =============================================================================
 # PARÁMETROS DEL MODELO INDEX OVERLAY

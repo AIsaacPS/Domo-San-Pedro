@@ -56,9 +56,9 @@ CRS_PROYECTO = "EPSG:32613"
 
 # Área de estudio (UTM 13N, metros)
 XMIN = 520000
-XMAX = 534000
+XMAX = 534500
 YMIN = 2328000
-YMAX = 2346000
+YMAX = 2348000
 
 # Resolución del DEM de salida (metros)
 RESOLUCION = 30

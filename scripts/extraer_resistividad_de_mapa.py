@@ -40,7 +40,7 @@ OUTPUT_TIFF = OUTPUT_DIR / "resistividad_350mbsl_UTM13N.tif"
 
 # Coordenadas del mapa recortado (UTM 13N)
 XMIN = 520000.0
-XMAX = 534000.0
+XMAX = 534500.0
 YMIN = 2328000.0
 YMAX = 2348000.0
 
