@@ -239,10 +239,35 @@ def build_doc():
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p.space_before = Pt(8)
     p.space_after = Pt(8)
-    r = p.add_run("S = Σ(Sᵢⱼ × wᵢ) / Σ(wᵢ)")
+    r = p.add_run("S = Σ(Sᵢⱼ × wᵢ) / Σ(wᵢ)        (1)")
     r.font.size = Pt(12)
     r.font.italic = True
     r.font.color.rgb = COLOR_UNAM_AZUL
+
+    # Descripción de variables
+    doc.add_paragraph()
+    p = doc.add_paragraph("Donde:")
+    p.paragraph_format.space_after = Pt(4)
+
+    variables = [
+        ("S", "Puntaje de favorabilidad del píxel (valor normalizado entre 0 y 1)"),
+        ("Sᵢⱼ", "Puntaje (score) asignado a la clase j de la capa temática i (0, 8 o 10)"),
+        ("wᵢ", "Peso asignado a la capa temática i según su importancia relativa"),
+        ("n", "Número total de capas temáticas integradas en el modelo"),
+    ]
+    for symbol, desc in variables:
+        p = doc.add_paragraph()
+        p.paragraph_format.left_indent = Inches(0.4)
+        p.paragraph_format.space_after = Pt(2)
+        r1 = p.add_run(f"{symbol}")
+        r1.font.bold = True
+        r1.font.italic = True
+        r1.font.size = Pt(10)
+        r2 = p.add_run(f"  —  {desc}")
+        r2.font.size = Pt(10)
+        r2.font.color.rgb = COLOR_GRIS
+
+    doc.add_paragraph()
 
     # Tabla de capas y pesos
     styled_heading(doc, "3.1 Capas temáticas y pesos", level=2)

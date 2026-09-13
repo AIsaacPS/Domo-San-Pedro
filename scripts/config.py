@@ -88,10 +88,28 @@ UMBRALES_DISTANCIA = {
 }
 
 # Umbrales de resistividad (Ω·m)
+# -----------------------------------------------------------------------------
+# IMPORTANTE: La resistividad NO es monótona ("más baja = mejor"). El yacimiento
+# corresponde a una VENTANA de valores intermedios, no a los valores más bajos.
+#
+# Aclaración de la Dra. R.M. Prol-Ledesma (reunión 2026-08-29):
+#   - < 10 Ω·m  → capa sello de arcillas (clay cap), NO es el yacimiento.
+#   - 20–50 Ω·m → yacimiento geotérmico (zona objetivo).
+#   - > 50 Ω·m  → roca resistiva fría / basamento.
+#
+# Reclasificación en VENTANA con halo simétrico de transición (ancho = rampa):
+#   yacimiento_min ≤ ρ ≤ yacimiento_max                        → Score 10 (yacimiento)
+#   [yacimiento_min - rampa, yacimiento_min) o (yacimiento_max, yacimiento_max + rampa]
+#                                                              → Score 8  (halo de transición)
+#   ρ < yacimiento_min - rampa  o  ρ > yacimiento_max + rampa  → Score 0  (sello / roca fría)
+#
+# Con rampa = 5 Ω·m:  Score 10 = 20–50 | Score 8 = 15–20 y 50–55 | Score 0 = <15 o >55.
+# La clase de transición es un halo SIMÉTRICO alrededor de la ventana del reservorio,
+# NO el rango bajo 10–20 (que corresponde al techo del sello arcilloso).
 UMBRALES_RESISTIVIDAD = {
-    "alta": 10,   # ≤ 10 → Score 10
-    "moderada": 20,  # 10–20 → Score 8
-    # > 20 → Score 0
+    "yacimiento_min": 20,  # ≥ 20 Ω·m → dentro del yacimiento
+    "yacimiento_max": 50,  # ≤ 50 Ω·m → dentro del yacimiento
+    "rampa": 5,            # ancho (Ω·m) del halo de transición a cada lado de la ventana
 }
 
 # Scores

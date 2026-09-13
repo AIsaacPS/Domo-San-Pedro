@@ -97,7 +97,7 @@ exec(Path('C:/Users/aisaa/OneDrive/Desktop/DOMO SAN PEDRO/scripts/01_cargar_dato
 ```
 
 **Qué hace**:
-1. Crea el polígono del área de estudio (520000-534000 E, 2328000-2346000 N)
+1. Crea el polígono del área de estudio (520000-535000 E, 2328000-2348000 N)
 2. Reproyecta el DEM de INEGI (CEM 15m) a UTM 13N y lo resamplea a 30 m
 3. Recorta el DEM al área de estudio
 4. Recorta la geología (Litología SGM) al área de estudio

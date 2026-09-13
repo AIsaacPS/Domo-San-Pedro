@@ -44,9 +44,11 @@ Cada capa temática se reclasifica en tres categorías:
 
 | Clase                  | Condición (distancias)     | Condición (resistividad) | Score |
 | ---------------------- | --------------------------- | ------------------------- | ----- |
-| Alta favorabilidad     | Distancia ≤ 100 m al rasgo | ≤ 10 Ω·m               | 10    |
-| Favorabilidad moderada | 100 m < Distancia ≤ 200 m  | 10–20 Ω·m              | 8     |
-| No favorable           | Distancia > 200 m           | > 20 Ω·m                | 0     |
+| Alta favorabilidad     | Distancia ≤ 100 m al rasgo | 20–50 Ω·m (yacimiento)  | 10    |
+| Favorabilidad moderada | 100 m < Distancia ≤ 200 m  | 15–20 y 50–55 Ω·m (halo de transición) | 8     |
+| No favorable           | Distancia > 200 m           | < 15 Ω·m (sello) o > 55 Ω·m (roca fría) | 0     |
+
+> **Nota sobre la resistividad (aclaración Dra. Prol-Ledesma, reunión 2026-08-29):** a diferencia de las capas de distancia, la resistividad **no** es monótona ("más baja = mejor"). Los valores bajos (**capa sello de arcillas / *clay cap***) no corresponden al reservorio. El yacimiento geotérmico se caracteriza por una **ventana** de resistividad intermedia de **20–50 Ω·m**; valores altos indican roca resistiva fría o basamento. La clase moderada (Score 8) es un **halo de transición simétrico** alrededor de la ventana (**15–20 y 50–55 Ω·m**), no el rango bajo 10–20 Ω·m, que corresponde al techo del sello arcilloso. Por eso la alta favorabilidad es un rango cerrado, no un umbral inferior.
 
 ### 2.4 Red de Inferencia
 
@@ -255,12 +257,12 @@ Para aplicar el modelo Index Overlay al Domo San Pedro se requieren las siguient
 
 | Aspecto               | Descripción                                                                                                                                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Qué se necesita**  | Mapa de resistividad aparente del subsuelo, preferentemente a profundidades relevantes del reservorio (500–2000 m)                                                                                           |
+| **Qué se necesita**  | Mapa de resistividad del subsuelo al intervalo objetivo del reservorio (**1,000–2,000 m de profundidad**, según Prol-Ledesma 2026-08-29). El corte inicial a 350 mbsl se considera somero y debe re-extraerse a este intervalo.                                                                                           |
 | **Formato**           | Contornos de isoresistividad o raster interpolado                                                                                                                                                             |
 | **Método preferido** | Sondeos eléctricos verticales (SEV Schlumberger), Magnetotelúrica (MT), o Transitorio electromagnético (TEM/TDEM)                                                                                          |
 | **Detalle requerido** | Resistividad aparente en Ω·m a la profundidad objetivo, cobertura espacial del área de estudio                                                                                                             |
 | **Fuentes posibles**  | Campañas geofísicas propias, datos de CFE, universidades, reportes de consultoría                                                                                                                          |
-| **Justificación**    | La baja resistividad (< 10–20 Ω·m) indica presencia de fluidos salinos calientes y/o minerales de alteración (arcillas), siendo el mejor indicador geofísico de zonas productivas en campos geotérmicos |
+| **Justificación**    | La respuesta de resistividad en un sistema geotérmico es zonada: la resistividad **muy baja (< 10 Ω·m)** corresponde a la **capa sello de arcillas** (esmectita) que cubre el reservorio, **no** al reservorio productivo. El **yacimiento** se asocia a una **ventana intermedia de 20–50 Ω·m** (transición esmectita→illita/clorita, fluidos calientes en roca fracturada), mientras que valores **> 50 Ω·m** indican roca fría o basamento resistivo. Por eso el mejor indicador no es "la resistividad más baja" sino el rango intermedio correcto (Prol-Ledesma, 2026-08-29). |
 
 ### 5.6 Datos Complementarios (Opcionales pero Recomendados)
 
@@ -404,7 +406,7 @@ DOMO SAN PEDRO/
 
 | Fase | Tarea | Script/Archivo |
 |------|-------|----------------|
-| 1 | Área de estudio definida (14×18 km, UTM 13N) | `01_cargar_datos_y_area_estudio.py` |
+| 1 | Área de estudio definida (15×20 km, UTM 13N) | `01_cargar_datos_y_area_estudio.py` |
 | 1 | DEM reproyectado y recortado (30 m) | `01_cargar_datos_y_area_estudio.py` |
 | 1 | Geología (SGM) recortada | `01_cargar_datos_y_area_estudio.py` |
 | 2 | Resistividad extraída de modelo MT (350 mbsl) | `extraer_resistividad_de_mapa.py` |

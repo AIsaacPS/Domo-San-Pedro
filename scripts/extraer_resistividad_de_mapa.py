@@ -421,15 +421,19 @@ def generar_estadisticas(rho_array):
     print(f"  Valores únicos: {len(np.unique(valid))}")
     print()
 
-    alta = np.sum(valid <= 10)
-    media = np.sum((valid > 10) & (valid <= 20))
-    baja = np.sum(valid > 20)
+    # Clasificación en VENTANA con halo simétrico (Prol-Ledesma, 2026-08-29):
+    #   20–50 Ω·m       → yacimiento (Score 10)
+    #   15–20 y 50–55   → halo de transición alrededor de la ventana (Score 8)
+    #   <15 o >55       → sello arcilloso / roca fría (Score 0)
+    yacimiento = np.sum((valid >= 20) & (valid <= 50))
+    transicion = np.sum(((valid >= 15) & (valid < 20)) | ((valid > 50) & (valid <= 55)))
+    no_favorable = np.sum((valid < 15) | (valid > 55))
     total = len(valid)
 
     print("  Clasificación Index Overlay:")
-    print(f"    ≤ 10 Ω·m (Score 10): {alta:,} px ({100*alta/total:.1f}%)")
-    print(f"    10–20 Ω·m (Score 8): {media:,} px ({100*media/total:.1f}%)")
-    print(f"    > 20 Ω·m (Score 0):  {baja:,} px ({100*baja/total:.1f}%)")
+    print(f"    20–50 Ω·m (Score 10, yacimiento):        {yacimiento:,} px ({100*yacimiento/total:.1f}%)")
+    print(f"    15–20 y 50–55 Ω·m (Score 8, halo):       {transicion:,} px ({100*transicion/total:.1f}%)")
+    print(f"    <15 o >55 Ω·m (Score 0, sello/frío):     {no_favorable:,} px ({100*no_favorable/total:.1f}%)")
     print()
 
 
