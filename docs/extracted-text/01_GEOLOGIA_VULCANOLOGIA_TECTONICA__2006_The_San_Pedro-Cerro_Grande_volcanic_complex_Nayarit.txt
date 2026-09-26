@@ -1,0 +1,5650 @@
+ 
+ 
+Geological Society of America 
+3300 Penrose Place 
+P.O. Box 9140 
+Boulder, CO 80301 
+(303) 447-2020 x fax 303-357-1073 
+www.geosociety.org
+ 
+ 
+ 
+ 
+This PDF file is subject to the following conditions and restrictions: 
+ 
+Copyright © 2006, The Geological Society of America, Inc. (GSA). All rights reserved. 
+Copyright not claimed on content prepared wholly by U.S. government employees within scope 
+of their employment. Individual scientists are hereby granted permission, without fees or further 
+requests to GSA, to use a single figure, a single table, and/or a brief paragraph of text in other 
+subsequent works and to make unlimited copies for noncommercial use in classrooms to further 
+education and science. For any other use, contact Copyright Permissions, GSA, P.O. Box 9140, 
+Boulder, CO 80301-9140, USA, fax 303-357-1073, editing@geosociety.org. GSA provides this 
+and other forums for the presentation of diverse opinions and positions by scientists worldwide, 
+regardless of their race, citizenship, gender, religion, or political viewpoint. Opinions presented 
+in this publication do not reflect official positions of the Society.  
+ 
+ 
+
+65
+Petrone, C.M., Francalanci, L., Ferrari, L., Schaaf, P., and Conticelli, S., 2006, The San Pedro–Cerro Grande volcanic complex (Nayarit, México): Inferences on 
+volcanology and magma evolution, in Siebe, C., Macías, J.L., and Aguirre-Díaz, G.J., eds., Neogene-Quaternary continental margin volcanism: A perspective from 
+México: Geological Society of America Special Paper 402, Penrose Conference Series, p. 65–98, doi: 10.1130/2006.2402(03). For permission to copy, contact 
+editing@geosociety.org. ©2006 Geological Society of America. All rights reserved.
+Geological Society of America
+Special Paper 402
+2006
+The San Pedro–Cerro Grande volcanic complex (Nayarit, México): 
+Inferences on volcanology and magma evolution
+Chiara M. Petrone†
+Dipartimento di Scienze della Terra, Università degli Studi di Firenze, Via Giorgio La Pira, 4, I-50121, Firenze, Italy
+Lorella Francalanci
+Dipartimento di Scienze della Terra, Università degli Studi di Firenze, Via Giorgio La Pira, 4, I-50121, 
+Firenze, Italy, and Sezione di Firenze, Consiglio Nazionale delle Ricerche, Istituto di Geoscienze e Georisorse, 
+Via Giorgio La Pira 4, I-50121, Firenze, Italy
+Luca Ferrari
+Centro de Geociencias, Universidad Nacional Autónoma de México, Campus Juriquilla, Apdo. Postal 1-742, 76100, 
+Querétaro, México
+Peter Schaaf
+Instituto de Geofísica, Universidad Nacional Autónoma de México, Del. Coyoacan, 04510, México D.F., México
+Sandro Conticelli
+Dipartimento di Scienze della Terra, Università degli Studi di Firenze, Via Giorgio La Pira, 4, I-50121, 
+Firenze, Italy, and Sezione di Firenze, Consiglio Nazionale delle Ricerche, Istituto di Geoscienze e Georisorse, 
+Via Giorgio La Pira 4, I-50121, Firenze, Italy
+ABSTRACT
+This study focuses on two issues that are still a matter of debate in subduction 
+zones, particularly in western México: (1) the close association within the same volca-
+nic complex of typical amphibole-free andesites to rhyolites and amphibole-bearing 
+andesites to rhyolites, characteristic of the hydrated front of the Mexican arc; and (2) 
+the occurrence of bimodal magmatism without evidence for interaction between maﬁ c 
+and intermediate to silicic magmas, which are in addition characterized by different 
+petrogenetic afﬁ nities. Our case study is the San Pedro–Cerro Grande volcanic com-
+plex, a Quaternary silicic to intermediate dome complex located in western Mexico. 
+Volcanic activity has been divided into two periods. In the middle Pleistocene, andes-
+itic to dacitic magmas were emplaced along WNW-trending faults in the southern 
+portion of the complex. The Las Cuevas pyroclastic sequence (older than ca. 500 ka) 
+was emplaced during this episode, most likely from a local source. This ﬁ rst period of 
+activity ended before ca. 280 ka with the emplacement of the Cuastecomate Plinian 
+deposit, which is related to the formation of the San Pedro caldera, an ~4-km-wide 
+subcircular depression that is today partially buried by younger volcanic products. 
+During the second period of activity (ca. 280–30 ka), rhyolitic and dacitic domes were 
+†E-mail: chiara.petrone@geo.uniﬁ .it.
+
+66 
+Petrone et al.
+mostly emplaced along the caldera rim and inside the caldera. In addition, hawaiites 
+and mugearites built the Amado Nervo shield volcano on the caldera rim.
+Intermediate- to high-silica lava and pyroclastic rocks are subalkaline, whereas 
+the Amado Nervo maﬁ c lavas are transitional toward the alkaline series (Na-alka-
+line). No genetic relationships have been found between subalkaline and transitional 
+Na-alkaline rocks, which are thought to represent different batches of magma from 
+different mantle sources. Petrographic, geochemical, and isotopic variations observed 
+in the transitional Na-alkaline Amado Nervo lavas point to a parental magma from 
+a mantle melt that underwent limited olivine separation during its ascent to the sur-
+face. Among subalkaline rocks, two groups showing contrasting petrographical and 
+geochemical features are recognized based on the presence of amphibole. Amphibole-
+bearing intermediate to silicic rocks are characterized by lower Ce and other incom-
+patible trace element contents and lower 87Sr/86Sr (0.70382–0.70401) compared to 
+amphibole-free rocks (0.70411–0.70424). On the basis of petrological characteristics, 
+the two groups of magmas are interpreted to have evolved in two different magmatic 
+reservoirs under different pressures and water contents in the mid-upper crust. Both 
+groups of magmas were differentiated by open-system processes. We propose that 
+assimilation and equilibrium crystallization (AEC) processes account for the amphi-
+bole-bearing rocks. Hotter and less evolved magmas interacted to a higher degree 
+with the crust than the more evolved and colder magmas. This produced the observed 
+higher 87Sr/86Sr in the less differentiated rocks of the amphibole-bearing group. On 
+the other hand, amphibole-free rocks have chemical and isotopic characteristics that 
+can be modeled by assimilation and fractional crystallization (AFC) processes. All 
+data suggest that the two groups of subalkaline rocks have been generated by a com-
+mon parental hydrous magma, but evolved in two different reservoirs. Amphibole-
+bearing magmas underwent amphibole fractionation in a mid-upper crustal reservoir 
+and show assimilation of two types of basement: one akin to Oaxaquia and another 
+akin to the Guerrero terrane. Amphibole-free magma only shows assimilation of an 
+Oaxaquia-type basement.
+Keywords: subalkaline, Na-alkaline magmatism, crustal contamination, amphibole-
+bearing, amphibole-free magmas, water saturated magma, Trans-Mexican Volcanic Belt.
+INTRODUCTION
+The occurrence within the same volcanic complex of coeval 
+bimodal magmatism belonging to different magmatic series 
+with no evidence of interaction between them is still a matter 
+of debate and has implications for understating how magmatic 
+systems work. Moreover, amphibole-free and amphibole-bearing 
+andesitic to rhyolitic rocks are commonly found in the western 
+Mexican Volcanic Belt. The former are typical for volcanic activ-
+ity in the rear part of the arc, whereas the latter are commonly 
+associated with magmatism in the hydrated front of the arc. Thus, 
+their occurrence within a single volcanic complex, in the rear 
+part of the arc, gives insights on the role played by amphibole 
+fractionation and water budgets in this important sector of the 
+arc. The San Pedro–Cerro Grande volcanic complex is consti-
+tuted by domes and a small shield volcano, with bimodal activ-
+ity that produced completely distinct types of magmas within a 
+restricted area and a short period of time. The San Pedro–Cerro 
+Grande volcanic complex is also characterized by the presence 
+of amphibole-free and amphibole-bearing intermediate to silicic 
+rocks, thus representing a good place for studying the evolution 
+of complex magmatic systems.
+The San Pedro–Cerro Grande volcanic complex is located in 
+the San Pedro–Ceboruco graben, part of the Tepic-Zacoalco rift 
+in western México (Fig. 1) (Ferrari et al., 2003). Late Miocene to 
+Quaternary magmatism in this region is part of the western Trans-
+Mexican Volcanic Belt (Fig. 1), which is characterized by the 
+coexistence of subduction-related and intraplate-type magmatic 
+rocks (e.g., Nelson and Carmichael, 1984; Nelson and Livieres, 
+1986; Verma and Nelson, 1989a, 1989b; Righter et al., 1995; 
+Ferrari et al., 2001; Petrone et al., 2003). The western sector of 
+the Trans-Mexican Volcanic Belt is related to subduction of the 
+Figure 1. Schematic map of western México showing the geodynamic 
+setting and the location of the studied area. Symbols: gray ﬁ eld—
+Trans-Mexican Volcanic Belt; TZR—Tepic-Zacoalco rift; ChR—Cha-
+pala rift; CR—Colima rift; G—Guadalajara; T—Tepic (modiﬁ ed from 
+Petrone et al., 2003).
+
+
+68 
+Petrone et al.
+young Rivera microplate beneath the North American plate (Fig. 
+1), and intra-arc extension is a common feature of this sector of 
+the belt (Ferrari and Rosas-Elguera, 2000). Extensional faulting 
+began in the late Miocene in connection with the initial rifting 
+of the southern Gulf of California (Ferrari, 1995) and continued 
+in Pliocene-Quaternary times, likely because of plate-boundary 
+forces (Rosas-Elguera et al., 1996; Ferrari and Rosas-Elguera, 
+2000).
+The San Pedro–Ceboruco graben is a complex, WNW-ESE–
+striking extensional basin constituted by the Compostela graben 
+to the west, and by the Ceboruco asymmetric graben to the east 
+(Ferrari et al., 2003). Quaternary volcanism in the San Pedro–
+Ceboruco graben consists of at least four different volcanic sys-
+tems: (1) alignments of cinder cones and domes developed on 
+the northern and the southern edges of the graben, respectively 
+(i.e., northern and southern volcanic chains); (2) Ceboruco stra-
+tovolcano, located in the southeastern sector of the graben; (3) 
+Tepetiltic stratovolcano, located just north of the graben; and (4) 
+the San Pedro–Cerro Grande volcanic complex proper, located in 
+the central sector of the graben.
+Although extensive geochronological studies have focused 
+on the products of the San Pedro–Cerro Grande volcanic com-
+plex (e.g., Gastil et al., 1978; Ferrari et al., 2000; Petrone et al., 
+2001; Frey et al., 2004a), only a few papers have dealt with the 
+volcanology (Castillo and De La Cruz, 1992; Ferrari et al., 2003) 
+and petrology (Petrone et al., 2003) of its products to help under-
+stand the detailed history of the volcanic complex. Petrone et al. 
+(2003) restricted their study to maﬁ c transitional rocks of the San 
+Pedro–Cerro Grande volcanic complex. In the present paper, we 
+report detailed statigraphical, mineralogical, geochemical, and 
+isotopic data on samples covering the entire period of activity 
+of the San Pedro–Cerro Grande volcanic complex. Our primary 
+objective is to describe magma evolution of the complex and its 
+relationships to tectonic features and volcanic activity.
+VOLCANIC STRATIGRAPHY
+The San Pedro–Cerro Grande volcanic complex consists of 
+coalesced domes, with minor lava ﬂ ows and pyroclastic prod-
+ucts. A caldera rim can be observed in the northeastern portion 
+of the complex and is inferred to be buried or destroyed else-
+where (Castillo and De La Cruz, 1992; Ferrari et al., 2003). The 
+emplacement of the three overlapping San Pedro–Cerro Grande 
+domes inside the inferred caldera, and a small dome on its cal-
+dera rim (Fig. 1), closed the volcanic activity. Highly viscous 
+block lava ﬂ ows of variable thickness are also found associated 
+with the domes. Both domes and lava ﬂ ows contain rounded cen-
+timeter-sized magmatic enclaves, which rarely reach 10 cm in 
+diameter and are slightly darker in color than the host rock.
+Reconstruction of the eruptive history of the San Pedro–
+Cerro Grande volcanic complex on the basis of ﬁ eld data alone is 
+difﬁ cult to achieve, given the abundant vegetation. The volcanic 
+stratigraphy was determined on the basis of ﬁ eld work combined 
+with numerous radiometric ages (Ferrari et al., 2000; Petrone et 
+al., 2001; Frey et al., 2004a) and by subsurface data obtained 
+from geothermal drilling by the Comisión Federal de Electric-
+idad (Ferrari et al., 2003). Volcanic rocks of the San Pedro–Cerro 
+Grande volcanic complex (Fig. 1) are bounded by older volcanic 
+rocks and monogenetic centers to the west and south. Further-
+more, they are interﬁ ngered with volcanic products from Volcán 
+Tepetiltic and monogenetic centers of the Northern volcanic chain 
+to the north, and covered by recent volcanic products from Vol-
+cán Ceboruco to the east. Most San Pedro–Cerro Grande volcanic 
+complex vents are aligned broadly along WNW-ESE–trending 
+lineaments, which parallel the main tectonic structures bound-
+ing the San Pedro–Ceboruco graben and the Tepic-Zacoalco rift 
+(Ferrari and Rosas Elguera, 2000).
+Volcanic activity in the San Pedro–Cerro Grande volcanic 
+complex is limited to the Quaternary. On the basis of ﬁ eld and 
+geochronological data, Ferrari et al. (2003) divided its activity 
+into three main periods, separated by Plinian deposits (Fig. 2). In 
+this section, we revise the stratigraphy summarized in Ferrari et 
+al. (2003) in the light of recent geochronological data (Frey et al., 
+2004a, 2004b). We also discuss the source of Plinian deposits and 
+evidence for the existence of the San Pedro caldera.
+First Period of Activity (Middle Pleistocene)
+San Pedro–Cerro Grande volcanic complex volcanism 
+began with the emplacement of several lava domes in the south-
+ern part of the complex (Fig. 1). In addition, several dacitic lava 
+ﬂ ows, found up to 288 m deep beneath the southern portion 
+of the San Pedro–Cerro Grande volcanic complex in the CB2 
+drill hole (Fig. 1) (Ferrari et al., 2003), are considered part of 
+this initial activity. The Las Cuevas pyroclastic deposit (see next 
+section) was emplaced during this period after the extrusion of 
+Cerro Bartolinas, Cerro Agua Tibia, and Cerro El Limón domes, 
+and of Cerro Las Piedras and Loma Atravesada lava ﬂ ows. Cerro 
+Las Piedras has been dated at 821 ± 25 ka by 40Ar/39Ar (Frey et 
+al., 2004a) dating. Cerro Bartolinas and an unnamed dome to the 
+NW have been dated at 1400 ± 300 ka and 1600 ± 300 ka, respec-
+tively, by conventional K-Ar dating (Ferrari et al., 2000). In other 
+cases, where more precise 40Ar/39Ar dates are available for the 
+same lavas (Frey et al., 2004a), these K-Ar ages, obtained ~15 
+yr ago at the Instituto Mexicano del Petróleo (IMP), proved to be 
+systematically older. In addition, Frey et al. (2004a) obtained an 
+age of 623 ± 91 ka for an unnamed dome just to the NW of the 
+dome dated at 1600 ka by Ferrari et al. (2000) (Fig. 1). Conse-
+quently, although no 40Ar/39Ar age is available for the domes of 
+this initial phase of activity, they are considered here to be middle 
+Pleistocene in age.
+Several domes and associated viscous lava ﬂ ows were 
+emplaced after the effusion of the Las Cuevas deposit. These 
+domes are Cerro Las Cuevas, Cerro Lobos, Cerro Izote, Cerro 
+Tetitlán, and Cerro Las Tetillas (Fig. 1). In addition, a small vent 
+in Las Guásimas area produced several intermediate lava ﬂ ows 
+forming the small volcanic cone of Atarjea de Tescalame (Fig. 1). 
+According to the 40Ar/39Ar geochronology of Frey et al. (2004a), 
+
+ 
+The San Pedro–Cerro Grande volcanic complex 
+69
+the domes were erupted between ca. 623 and ca. 441 ka. In the 
+case of the Cerro Lobos dome, the previous K-Ar age of ca. 610 
+ka obtained at IMP (Ferrari et al., 2000) is consistent with the 
+K-Ar age of 610 ka obtained by Petrone et al. (2001) and with 
+the 40Ar/39Ar age of ca. 601 ka obtained by Frey et al. (2004a). 
+The Atarjea de Tescalame andesites were also dated by the K-Ar 
+method at IMP and were found to be 530 ka (Ferrari et al., 2000), 
+an age consistent with the fact that these ﬂ ows partly cover the 
+Cerro Lobos domes.
+Las Cuevas Pyroclastic Deposit
+The Las Cuevas pyroclastic deposit consists of a pyroclastic 
+sequence, well exposed in the Las Cuevas area, where it covers 
+some of the above-described early domes and lava ﬂ ows of the 
+ﬁ rst period (Fig. 1). It consists of pumice fallout deposits alternat-
+ing with thin layers of pyroclastic-surge and ash fallout deposits, 
+characterized by white, highly vesiculated aphyric pumice clasts, 
+with maximum sizes of 10 cm, and abundant dacitic lava lithics 
+(Fig. 2). At Las Cuevas, the basal portion of this unit is constituted 
+by a welded pyroclastic ﬂ ow deposit with abundant andesitic to 
+dacitic lava lithic fragments up to 50 cm in diameter of unknown 
+provenance. The upper portion is composed of a pumice fallout 
+deposit with white aphyric pumices and few small dacitic lithics. 
+The Las Cuevas deposit can be followed up to La Lagunita site 
+(Fig. 1), where at least seven different layers of pumice fallout 
+separated by ash fallout and surge deposits were recognized (Fig. 
+2), with a total exposed thickness of 10 m. The basal pumice 
+fallout deposit contains slightly darker aphyric pumices and is 
+rich in lithic fragments of dacitic and andesitic lavas and low-
+grade metamorphic rocks. The maximum size of pumice clasts 
+increases upsection. Pumice fragments are also inversely graded 
+within single layers. The base of the deposit is not exposed, but 
+its maximum thickness was found at the geothermal well GC4 at 
+Las Cuevas (Fig. 1), where dacitic lavas were encountered below 
+a 36-m-thick pile of the Las Cuevas pumice deposit (Ferrari et 
+al., 2003).
+The Las Cuevas deposit was not dated directly, but the 
+sequence covers Cerro Bartolinas and Loma Atravesada (Fig. 1), 
+which are most likely middle Pleistocene in age (see previous sec-
+tion). Furthermore, the sequence underlies the Cerro Las Cuevas 
+Figure 2. Stratigraphic columns of the py-
+roclastic deposits associated with the San 
+Pedro–Cerro Grande volcanic activity, as 
+reconstructed in this study. Each column 
+represents the typical pyroclastic sequence 
+based on stratigraphic data found at differ-
+ent localities. The stratigraphic levels from 
+which samples (SPC) were collected are 
+also indicated. Samples SPC105 and 129 
+from the pumice fall of the Las Cuevas de-
+posit are not reported here given their un-
+certain attribution to a speciﬁ c level of the 
+reconstructed sequence.
+
+70 
+Petrone et al.
+dome, dated at 780 ± 160 ka by the conventional K-Ar method 
+at IMP (Ferrari et al., 2000). The Cerro Izote and Cerro Tetitlán 
+domes, located to the west and to the east of Loma Atravesada, 
+respectively (Fig. 1), are not covered by the Las Cuevas deposit. 
+A pumice deposit, probably related to the Las Cuevas, is actually 
+exposed at the base of Tetitlán dome. Cerro Izote has been dated 
+at ca. 441 ± 71 ka and Cerro Tetitlán at ca. 500 ± 56 ka by the 
+40Ar/39Ar method (Frey et al., 2004a). Therefore, if we discard 
+the ca. 780 ka age obtained at IMP for the Las Cuevas dome, the 
+deposit should be older than ca. 500 ka.
+The source of the Las Cuevas deposit is not easy to estab-
+lish. Among the possible sources are the San Pedro caldera (Cas-
+tillo and De La Cruz, 1992; Ferrari et al., 2003), the Tepetiltic 
+caldera (DeRemer, 1986; Frey et al., 2004b), the Ceboruco cal-
+dera (Nelson, 1980; Gardner and Tait, 2000), and a local vent 
+presently buried by younger dome activity. The Ceboruco cal-
+dera is unlikely to be the source, because its formation occurred 
+only ~1000 yr ago (Nelson, 1980), and its fallout deposits are 
+restricted to the area to the northeast of Ceboruco volcano (Gard-
+ner and Tait, 2000). The Tepetiltic caldera can be also excluded 
+for several reasons: (1) the thickness of the pyroclastic depos-
+its of the Tepetiltic caldera–forming eruption are reported to be 
+less than ~10 m inside the caldera and 5 m or less at the base of 
+Tepetiltic volcano (DeRemer, 1986). In the San Pedro Lagunillas 
+area (Fig. 1), DeRemer (1986) reported only 3 m of pyroclastic 
+deposits. In contrast, over 10 m of the Las Cuevas pumice depos-
+its are exposed at La Lagunita, and a total thickness of ~36 m was 
+encountered at the GC4 well (Ferrari et al., 2003), both located 
+~9 km further to the south. (2) The composition of pumices from 
+the Las Cuevas deposits is andesitic to dacitic (Tables 1 and 2), 
+whereas the pyroclastic deposits related to the caldera-form-
+ing eruption of Tepetiltic are rhyolitic (DeRemer, 1986; Frey et 
+al., 2004b). (3) The dominant composition of lithics in the Las 
+Cuevas deposits is dacitic, whereas the lavas exposed along the 
+rim of the Tepetiltic caldera are dominantly andesitic (DeRemer, 
+1986). (4) Last, the age of the youngest lava ﬂ ow exposed along 
+the Tepetiltic caldera rim has been dated at ca. 230 ka by Frey et 
+al. (2004b), whereas the Las Cuevas deposit is older than ca. 500 
+ka. To relate the Las Cuevas deposit to the San Pedro caldera is 
+also problematic, because, as explained later, the latter is younger 
+than ca. 450 ka. Given these arguments and taking into account 
+the relatively small areal distribution of the Las Cuevas pumice 
+deposits, we consider that this deposit is probably related to the 
+emplacement of one of the early domes in the area.
+Cuastecomate Pumice Deposit
+The Cuastecomate pumice deposit is a Plinian fallout deposit 
+that consists of an alternating sequence of pumice fallout and ash 
+fallout layers. These are capped by a 30-cm-thick ash fallout 
+layer (Fig. 2), which is well exposed below basaltic ﬂ ows of the 
+Amado Nervo volcano near the Cuastecomate village (Fig. 1). 
+Juvenile fragments are represented by white pumice clasts with 
+variable crystal contents. Pumices are up to 10 cm in diameter 
+and reversely graded. The deposit is rich in lithic fragments of 
+dacitic, rhyolitic, and less abundant andesitic lavas, as well as 
+low-grade metamorphic rocks and silicic hypabyssal volcanic 
+rocks. According to the CB2 well log, ~90 m of Cuastecomate 
+pumice deposit was found below olivine basalts of the Amado 
+Nervo volcano (Ferrari et al., 2003). The only age constraint 
+for the deposit stems from the overlying Amado Nervo shield 
+volcano, which was dated at 220 ± 29 ka (Frey et al. 2004a). A 
+pumice fallout was also found on top of the Ixletes dome (Fig. 1). 
+This dome was dated at 264 ± 52 ka (Frey et al. 2004a), but cor-
+relation of the overlying pumice deposit with the Cuastecomate 
+deposit is uncertain. In the following section, we explain how 
+the Cuastecomate deposit is related to the formation of the San 
+Pedro caldera.
+San Pedro Caldera
+The existence of the San Pedro caldera was originally pro-
+posed by Castillo and De La Cruz (1992) and Petrone et al. 
+(2001), but an outline of its possible geometry was ﬁ rst described 
+by Ferrari et al. (2003). The caldera is inferred to be a subcircular 
+depression now occupied by Laguna San Pedro and San Pedro–
+Cerro Grande domes. The western rim could be located along an 
+~N-S normal fault (Fig. 1). Evidence for proposing the existence 
+of the San Pedro caldera includes: (1) a partly preserved caldera 
+rim bounding a topographic depression, (2) the emplacement of 
+two of the largest volcanic centers along the inferred caldera rim, 
+and (3) the presence of the thick Cuastecomate pumice deposit 
+just to the south of the caldera.
+The caldera rim is only partly preserved at the eastern and 
+western edges of the depression, and has been destroyed or cov-
+ered by younger volcanic products elsewhere. The eastern rim 
+is inferred along the arched scarps that bound Cerro Lobos and 
+Atarjea de Tescalame domes to the west. At both of these domes, 
+the western ﬂ ank is much steeper than the other ﬂ anks, indicat-
+ing that it is not a primary morphologic feature. The western rim 
+of the caldera is considered to pass along the arched scarp that 
+bounds the Las Tetillas dome to the east. In plan view, this lat-
+ter dome is clearly asymmetric, with a morphology suggesting 
+that part of the eastern ﬂ ank is missing. The vents of the Amado 
+Nervo shield volcano and the Los Ocotes dome are located along 
+the inferred trace of the southern and northern inferred caldera 
+rims, respectively (Fig. 1). The northern rim is covered by pum-
+ice and ash deposits likely related to the Tepetiltic caldera. To the 
+south, the rim is covered by the Amado Nervo volcano and the 
+debris avalanche ﬂ ow of the southern San Pedro dome (Fig. 1).
+The caldera rim encircles a marked depression later ﬁ lled 
+by younger volcanic products. The CB3 well drilled close to the 
+NE rim found ~270 m of rhyolitic ﬂ ows (dated ca. 283 ka at 
+surface by Frey et al., 2004a) followed by ~600 m of amphibole-
+bearing dacites, and, ﬁ nally, over 1 km of a ﬁ ne-grained granit-
+oid rock (Ferrari et al., 2003). The amphibole-bearing dacites lie 
+~400 m lower than the top of similar rocks outside the caldera 
+rim. The temperature at the base of the well (~700 m below sea 
+level) approaches 300 °C (CFE, Gerencia de Proyectos Geoter-
+moeléctricos, 1993, written communication), indicating that the 
+
+TABLE 1. LOCATIONS OF STUDIED SAMPLES (SAMPLES LISTED IN INFERRED CHRONOLOGICAL ORDER) 
+Sample
+Locality
+Lithology
+Latitude
+(N)
+Longitude
+(W) 
+Age
+(ka) 
+Comments
+First Period
+SPC 123 
+Cerro Agua Tibia 
+Lava
+21°08ƍ00ƍƍ 104°41ƍ45ƍƍ
+un.
+Amphibole-bearing dacite lava with porphyritic texture, aphyric enclave bearing 
+SPC 122 
+Cerro Agua Tibia 
+Lava
+21°08ƍ30ƍƍ 104°41ƍ80ƍƍ
+un.
+Amphibole-bearing dacite lava with porphyritic texture, porphyritic enclave bearing 
+SPC 126 
+Cerro Agua Tibia 
+Lava
+21°08ƍ00ƍƍ 104°41ƍ30ƍƍ
+un.
+Amphibole-bearing dacite lava with porphyritic texture, porphyritic enclave bearing 
+SPC 124 
+Cerro Bartolinas 
+Lava
+21°07ƍ45ƍƍ 104°41ƍ30ƍƍ
+un.
+Amphibole-bearing andesite lava with porphyritic texture 
+SPC 56 
+Loma Atravesada 
+Lava
+21°06ƍ04ƍƍ 104°40ƍ73ƍƍ
+un.
+Amphibole-bearing andesite lava with low porphyritic texture 
+SPC 55 
+Loma Atravesada 
+Lava
+21°06ƍ04ƍƍ 104°40ƍ73ƍƍ
+un.
+Amphibole-bearing andesite lava with porphyritic texture 
+SPC 125 
+Cerro El Limon 
+Lava
+21°08ƍ00ƍƍ 104°41ƍ30ƍƍ
+un.
+Amphibole-bearing dacite lava with porphyritic texture 
+GC4-74 
+Las Cuevas GC4 well 
+Lava
+21°07ƍ40ƍƍ 104°39ƍ60ƍƍ
+un.
+Amphibole-free dacite lava with porphyritic texture 
+GC6-288 
+Amado Nervo CB2 well 
+Lava
+21°05ƍ90ƍƍ 104°43ƍ10ƍƍ
+un.
+Amphibole-free dacite lava with low porphyritic texture 
+GC4-118 
+Las Cuevas GC4 well 
+Lava
+21°07ƍ40ƍƍ 104°39ƍ60ƍƍ
+un.
+Amphibole-free dacite lava with low porphyritic texture 
+GC4-170 
+Las Cuevas GC4 well 
+Lava
+21°07ƍ40ƍƍ 104°39ƍ60ƍƍ
+un.
+Amphibole-free dacite lava with porphyritic texture 
+SPC 129 
+Las Cuevas–Valle Verde 
+Pumice
+21°06ƍ50ƍƍ 104°39ƍ45ƍƍ
+un.
+Amphibole-free dacite white pumice with aphyric texture 
+SPC 105 
+Las Cuevas–Puerta Veja 
+Pumice
+21°05ƍ00ƍƍ 104°38ƍ00ƍƍ
+un.
+Amphibole-free white small (<1 cm) aphyric pumice 
+SPC 146 
+Las Cuevas–La Lagunita 
+Pumice
+21°05ƍ43ƍƍ 104°41ƍ31ƍƍ
+un.
+Amphibole-free white andesite pumice with aphyric texture 
+SPC 145 
+Las Cuevas–La Lagunita 
+Pumice
+21°05ƍ43ƍƍ 104°41ƍ31ƍƍ
+un.
+Amphibole-free white small (<1 cm) aphyric pumice 
+SPC 130 
+Cerro Las Cuevas 
+Lava
+21°07ƍ20ƍƍ 104°40ƍ00ƍƍ
+780
+(1)?
+Amphibole-bearing dacite lava with porphyritic texture, porphyritic enclave bearing 
+SPC 117 
+Atarjea de Tescalame 
+Lava
+21°10ƍ00ƍƍ 104°41ƍ55ƍƍ 674
+(3)–530
+(1)
+Amphibole-free andesite lava with aphyric texture 
+SPC 118 
+Atarjea de Tescalame 
+Lava
+21°09ƍ55ƍƍ 104°41ƍ10ƍƍ 674
+(3)–530
+(1)
+Amphibole-free dacite lava with aphyric texture 
+SPC 139 
+Atarjea de Tescalame 
+Lava
+21°10ƍ31ƍƍ 104°42ƍ04ƍƍ 674
+(3)–530
+(1)
+Amphibole-free andesite lava with aphyric texture 
+SPC 127 
+Cerro Lobos 
+Lava
+21°09ƍ00ƍƍ 104°42ƍ40ƍƍ
+610
+(2)
+Amphibole-bearing rhyolite lava with low porphyritic texture, aphyric enclave bearing
+SPC 116 
+Corral Falso flow 
+Lava
+21°08ƍ35ƍƍ 104°40ƍ00ƍƍ
+un.
+Amphibole-free dacite lava with porphyritic texture 
+SPC 131 
+Corral Falso flow 
+Lava
+21°07ƍ55ƍƍ 104°40ƍ20ƍƍ
+un.
+Amphibole-free dacite lava with low porphyritic texture 
+SPC 108 
+Cerro Tetitlán 
+Lava
+21°05ƍ50ƍƍ 104°39ƍ25ƍƍ
+500
+(3)
+Amphibole-bearing dacite lava with low porphyritic texture 
+SPC 132 
+Cerro Los Izote 
+Lava
+21°06ƍ00ƍƍ 104°41ƍ00ƍƍ
+441
+(3)
+Amphibole-bearing andesite lava with porphyritic texture, porphyritic enclave bearing
+SPC 19 
+Cuastecomate 
+Pumice
+21°02ƍ54ƍƍ 104°44ƍ94ƍƍ
+un.
+Amphibole-bearing rhyolite pumice with vitrophyric texture 
+SPC 57 
+Cuastecomate 
+Pumice
+21°02ƍ78ƍƍ 104°44ƍ94ƍƍ
+un.
+Amphibole-bearing rhyolite pumice with vitrophyric texture 
+SPC 58 
+Cuastecomate 
+Pumice
+21°02ƍ78ƍƍ 104°44ƍ94ƍƍ
+un.
+Amphibole-bearing rhyolite pumice with vitrophyric texture 
+SPC 59a-i 
+Cuastecomate 
+Lithic
+21°02ƍ78ƍƍ 104°44ƍ94ƍƍ
+un.
+Lithics from various lava domes 
+SPC 60 
+Cuastecomate 
+Ash
+21°02ƍ78ƍƍ 104°44ƍ94ƍƍ
+un.
+White ash fallout 
+SPC 147a-d 
+Cuastecomate 
+Lithic
+21°02ƍ78ƍƍ 104°44ƍ94ƍƍ
+un.
+Lithics from various lava domes 
+(continued)
+
+TABLE 1. LOCATIONS OF STUDIED SAMPLES (SAMPLES LISTED IN INFERRED CHRONOLOGICAL ORDER) (continued)
+Sample
+Locality
+Lithology
+Latitude
+(N)
+Longitude
+(W)
+Age
+(ka)
+Comments
+Second Period
+SPC 69
+San Pedro lava flow
+Lava
+21°1124
+104°4230
+283(3)
+Amphibole-bearing rhyolite lava with vitrophyric texture
+SPC 111
+Los Ixletes Dome
+Lava
+21°1005
+104°3905
+264(3)
+Amphibole-free dacite lava with low porphyritic texture, aphyric enclave bearing
+SPC 112
+Los Ixletes Dome
+Lava
+21°0930
+104°3915
+264(3)
+Amphibole-free dacite lava with low porphyritic texture
+SPC 114
+Los Ixletes Dome
+Lava
+21°0840
+104°3955
+264(3)
+Amphibole-free dacite lava with low porphyritic texture
+SPC 24
+Amado Nervo
+Lava
+21°0321
+104°4583
+220(3)
+Alkalic olivine basalt low porphyritic
+SPC 25
+Amado Nervo
+Lava
+21°0536
+104°4774
+220(3)
+Olivine hawaiite low porphyritic
+SPC 61
+Amado Nervo–Cuastecomate
+Lava
+21°0278
+104°4494
+220(3)
+Olivine hawaiite low porphyritic
+SPC 109
+Amado Nervo
+Lava
+21°0545
+104°4125
+220(3)
+Olivine hawaiite low porphyritic
+SPC 18
+Amado Nervo
+Lava
+21°0875
+104°4400
+220(3)
+Olivine hawaiite low porphyritic
+SPC 64
+Amado Nervo–Arrojo Hondo
+Lava
+21°0833
+104°3436
+220(3)
+Olivine hawaiite low porphyritic
+SPC 17
+Amado Nervo
+Lava
+21°0853
+104°4551
+220(3)
+Olivine hawaiite low porphyritic
+SPC 20
+Amado Nervo–Compostela
+Lava
+21°0301
+104°4564
+220(3)
+Olivine hawaiite low porphyritic
+SPC 113
+Las Guásimas–Corral Falso
+Pumice
+21°0905
+104°3930
+un.
+Amphibole-bearing white and gray small (<0.5 cm) pumice
+SPC 115P
+Las Guásimas–Corral Falso
+Pumice
+21°0840
+104°3900
+un.
+Amphibole-bearing white rhyolitic pumice with hyaline texture
+SPC 115F
+Las Guásimas–Corral Falso
+Pumice
+21°0840
+104°3900
+un.
+Amphibole-bearing white rhyolitic pumice with hyaline texture
+SPC 120
+Las Guásimas–San Pedro Lagunillas
+Pumice
+21°1267
+104°4331
+un.
+Amphibole-bearing white crystalline pumice
+SPC 144
+Las Guásimas–San Pedro Lagunillas
+Pumice
+21°1267
+104°4331
+un.
+Amphibole-bearing white crystalline rhyolitic pumice
+SPC 23
+Cerro Los Ocotes
+Lava
+21°1139
+104°4092
+100(1)(3)
+Amphibole-bearing rhyolite lava with vitrophyric texture
+SPC 88
+Cerro Los Ocotes
+Lava
+21°1143
+104°4200
+100(1)(3)
+Amphibole-bearing rhyolite lava with vitrophyric texture
+SPC 62
+San Pedro Dome
+Debris av. 21°0651
+104°4237
+41(3)
+Amphibole-bearing dacite debris avalanche with porphyritic texture
+SPC 63
+San Pedro Dome
+Debris av. 21°0776
+104°4242
+41(3)
+Amphibole-bearing dacite debris avalanche with porphyritic texture
+SPC 66
+San Pedro Dome
+Lava
+21°1040
+104°4498
+41(3)
+Amphibole-bearing rhyolite lava with porphyritic texture
+SPC 65
+San Pedro Dome
+Lava
+21°0987
+104°4493
+41(3)
+Amphibole-bearing rhyolite lava with porphyritic texture
+SPC 67
+San Pedro Dome
+Lava
+21°1102
+104°4478
+41(3)
+Amphibole-bearing rhyolite lava with low porphyritic texture, aphyric enclave bearing
+SPC 68
+San Pedro Dome
+Lava
+21°1150
+104°4397
+41(3)
+Amphibole-bearing rhyolite lava with low porphyritic texture, aphyric enclave bearing
+SPC 128
+Cerro Lobos
+Lava
+21°0900
+104°4240
+30(1)
+Amphibole-bearing dacite lava with porphyritic texture
+Note: un.—unknown age; Debri av. —debris avalanche, ? —uncertain age. Ages from: (1) Ferrari et al. (2000); (2) Petrone et al. (2001); (3) Frey et al. (2004a).
+
+ 
+The San Pedro–Cerro Grande volcanic complex 
+73
+granitoid is a recent (<1 m.y. old) subvolcanic body. By contrast, 
+the other two deep drillings in the area (CB1 and CB2) found 
+early Pliocene basement rocks at only ~530 and ~270 m above 
+sea level (asl), respectively (Ferrari et al., 2003). The GC2 well, 
+drilled on the northern slope of the Amado Nervo volcano inside 
+the caldera (Fig. 1), cut ~130 m of basaltic ﬂ ows of the volcano 
+without encountering the base. In contrast, GC5 and CB2 wells, 
+drilled outside the caldera rim, found only ~70 and ~20 m of 
+basaltic ﬂ ows pertaining to the Amado Nervo volcano (Ferrari 
+et al., 2003). All the above data indicate that the area encircled 
+by the inferred caldera rim has been lowered by a few hundreds 
+of meters. Finally, the presence of the San Pedro lake inside the 
+caldera rim is another indication of the existence of a caldera 
+depression.
+The age of the caldera formation is not precisely known. 
+Field observations clearly indicate that it precedes the emplace-
+ment of the ca. 220 ka Amado Nervo volcano but follows the 
+emplacement of the ca. 450 ± 19 ka Cerro Las Tetillas dome and 
+the ca. 610 ka Cerro Lobos dome (Petrone et al., 2001). In addi-
+tion, Frey et al. (2004a) dated a rhyolitic lava inside the caldera 
+at 283 ± 5 ka. This lava overﬂ ows the northeastern part of the 
+caldera rim near the CB3 well (Fig. 1). Therefore, caldera forma-
+tion might have occurred between ca. 450 and ca. 283 ka.
+The San Pedro caldera probably formed after the Cuaste-
+comate eruption. A possible origin of the Cuastecomate pumice 
+deposit from Tepetiltic volcano can be ruled out, because this cal-
+dera is much younger (i.e., ca. 230 ka, Frey et al., 2004b) than San 
+Pedro, which is older than ca. 283 ka. In addition (as mentioned 
+before), the thickness of the Cuastecomate deposit is inconsis-
+tent with that reported for pyroclastic deposits on the ﬂ anks of 
+Tepetiltic volcano. As in the case for the Las Cuevas deposit, 
+the dominant composition of lithics in the Cuastecomate deposit 
+is dacitic, which does not match with the dominantly andesitic 
+lavas that built Tepetiltic volcano. Major- and trace-element 
+abundances of the Cuastecomate pumices (SPC19, 57 and 58, 
+Tables 1 and 2) are very similar to those of the ﬁ rst intracaldera 
+rhyolite lavas (SPC69, Table 2; COMP3 of Frey et al., 2004a), 
+suggesting that the latter were outpoured shortly after eruption of 
+the pumice from the same magma chamber.
+Second Period (Postcaldera Period)
+Ages for the postcaldera phase of volcanic activity range 
+between ca. 283 ka and 30 ka (Ferrari et al., 2003; Frey et al., 
+2004a). This phase began with the emplacement of the viscous 
+San Pedro lava ﬂ ow and the Los Ixletes dome, in the eastern part 
+of the San Pedro–Cerro Grande volcanic complex. Frey et al. 
+(2004a) obtained ages of 283 ka and 264 ka, respectively, for 
+these lavas. Shortly after (220 ka, Frey et al., 2004a), the Amado 
+Nervo lava ﬂ ows were erupted from a vent located on the south-
+ern edge of the caldera rim (Fig. 1). Because of their low viscosity, 
+these lavas ﬂ owed over the gently sloping Cuastecomate pumice 
+deposit and reached up to 7 km to the south, forming a shield-
+like structure. The Amado Nervo lava ﬂ ows constitute a peculiar 
+and unique event with respect to the rest of the San Pedro–Cerro 
+Grande volcanic complex, both in terms of emplacement dynam-
+ics and compositional characteristics.
+Subsequently, the Los Ocotes dome was emplaced on the 
+northern caldera rim (Fig. 1) at ca. 100 ka (Ferrari et al., 2000; 
+Frey et al., 2004a), and the three massive and coalescing San 
+Pedro–Cerro Grande domes ﬁ lled the caldera at ca. 41 ka (Frey 
+et al., 2004a). A small dome was also formed on top of Cerro 
+Lobos (Fig. 1) at 30 ka (Ferrari et al., 2000). The San Pedro–
+Cerro Grande intracaldera domes are aligned along a NW-trend-
+ing fracture and attain an elevation of ~2000 m asl. Two of the 
+domes have collapsed, one to the northwest and the other to the 
+south, producing a debris ﬂ ow, which reached a distance of ~5 km 
+to the south, and a debris avalanche to the north, which ﬂ owed 
+some hundred meters, forming a typical hummocky topography 
+within the caldera.
+Although the third phase was mainly characterized by effu-
+sive activity, a pyroclastic deposit is found near the village of Las 
+Guásimas to the SE and NW of Los Ocotes dome (Fig. 1). It con-
+sists of a 3-m-thick pyroclastic ﬂ ow deposit underlain by a pyro-
+clastic fallout layer. The entire sequence is ~4.5–5 m thick (Fig. 
+2). Juvenile fragments of the basal fall layer are white aphyric 
+pumices less than 10 cm in size. Similar pumices of larger size 
+also form juvenile fragments in the pyroclastic ﬂ ow deposit. Cap-
+ping the sequence are white and gray pumices embedded in a 
+lithiﬁ ed ashy matrix. At the site of El Rincón, located just to the 
+west of Los Ocotes dome, the pyroclastic sequence is at least 10 
+m thick and consists of two pumice ﬂ ow deposits underlain by a 
+block-and-ash ﬂ ow deposit. Two different types of juvenile frag-
+ments are present: large (up to 30 cm in diameter) crystal-rich 
+(hornblende, biotite plus plagioclase) white and gray pumices 
+and small aphyric white pumices. Some streaked pumices are 
+found, suggesting an intimate association of these two juvenile 
+components. Abundant lithic fragments, heterogeneous in com-
+position and size, are also found. In particular, dacitic and rhyo-
+litic (obsidian) lithics are found along with less abundant maﬁ c 
+lavas. The latter probably belong to Volcán Tezontle, a basaltic 
+andesitic cinder cone located on the eastern ﬂ ank of Los Ocotes 
+(Fig. 1). Las Guásimas deposit covers Volcán Tezontle lava ﬂ ows, 
+which were dated by Petrone et al. (2001) at 119 ka. On this basis 
+and also considering its areal distribution, this pyroclastic ﬂ ow 
+deposit is considered to be associated with the initial phase of 
+emplacement of the Los Ocotes dome. Indeed, it clearly under-
+lies the Los Ocotes dome but covers all the surrounding domes 
+and cinder cones (i.e., Volcán Tezontle).
+CLASSIFICATION AND PETROGRAPHY
+The entire San Pedro–Cerro Grande volcanic complex was 
+sampled in detail (Table 1). The overall set of samples was ana-
+lyzed for major and trace elements (Tables 2 and 3), mineral com-
+positions (Tables 4–9), and rare earth elements (Table 10), and 
+Sr and Nd isotope ratios (Table 11) were determined in selected 
+representative samples.
+
+TABLE 2. ANALYSES OF MAJOR (WT%) AND TRACE ELEMENTS (PPM) OF FIRST PERIOD ROCKS OF THE SAN PEDRO-CERRO GRANDE VOLCANIC COMPLEX
+Group
+AF
+AB
+AB
+AF
+AB
+AB
+AF
+AF
+AB
+AB
+AF
+AF
+AF
+AF
+AF
+AF
+AF
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+Sample
+SPC
+146
+SPC
+124
+SPC
+132
+SPC
+117
+SPC 56 SPC 55
+SPC
+139
+SPC
+118
+SPC
+125
+SPC
+130
+SPC
+131
+GC4-74
+SPC
+116
+GC6-288 GC4-118 GC4-170
+SPC
+129
+SPC
+108
+SPC
+123
+SPC
+122
+SPC
+126
+SPC
+127
+SPC 19 SPC 58 SPC 57
+SiO2
+58.9
+61.1
+61.8
+62.2
+62.4
+62.7
+63.0
+63.2
+64.1
+64.2
+64.8
+65.0
+65.1
+65.7
+66.2
+66.2
+66.4
+66.9
+68.0
+68.7
+69.0
+71.6
+72.9
+72.9
+73.0
+TiO2
+0.81
+0.61
+0.55
+0.65
+0.57
+0.56
+0.65
+0.65
+0.52
+0.61
+0.66
+0.51
+0.51
+0.54
+0.51
+0.49
+0.35
+0.48
+0.38
+0.35
+0.35
+0.27
+0.13
+0.12
+0.12
+Al2O3
+16.8
+17.6
+17.5
+16.8
+17.0
+17.2
+16.7
+16.6
+16.4
+16.5
+16.0
+16.0
+16.0
+15.4
+15.2
+15.4
+16.5
+16.1
+15.8
+15.1
+15.3
+14.4
+13.2
+13.0
+12.9
+Fe2O3
+3.41
+1.30
+1.54
+1.67
+3.16
+1.97
+2.68
+2.39
+1.93
+1.88
+3.04
+4.22
+1.41
+4.36
+4.24
+4.15
+1.31
+3.03
+1.58
+1.33
+1.18
+1.12
+0.52
+0.41
+0.41
+FeO
+2.67
+3.50
+2.72
+3.20
+1.24
+2.28
+2.20
+2.60
+2.04
+2.56
+1.64
+-
+2.46
+-
+-
+-
+0.88
+0.90
+1.56
+1.40
+1.44
+0.60
+0.62
+0.64
+0.64
+MnO
+0.09
+0.09
+0.08
+0.09
+0.08
+0.08
+0.09
+0.09
+0.09
+0.09
+0.07
+0.08
+0.08
+0.06
+0.07
+0.07
+0.07
+0.08
+0.07
+0.07
+0.07
+0.07
+0.07
+0.07
+0.07
+MgO
+2.29
+2.84
+2.89
+2.55
+2.60
+2.49
+2.59
+2.35
+1.82
+1.84
+1.91
+2.13
+2.01
+2.05
+2.14
+2.10
+0.42
+0.84
+1.61
+1.32
+1.32
+0.49
+0.22
+0.20
+0.18
+CaO
+5.47
+5.86
+5.91
+5.48
+5.56
+5.49
+5.55
+5.48
+4.86
+4.95
+5.00
+4.79
+4.67
+4.63
+4.65
+4.71
+1.25
+3.86
+3.65
+3.30
+3.42
+1.92
+0.95
+0.85
+0.85
+Na2O
+3.75
+3.94
+3.64
+3.60
+3.65
+3.46
+4.02
+4.06
+4.14
+4.25
+4.23
+3.88
+3.57
+4.14
+4.19
+4.07
+2.85
+4.53
+4.33
+4.39
+4.33
+3.98
+3.49
+3.75
+3.66
+K2O
+1.37
+1.91
+2.05
+2.50
+2.13
+2.15
+1.83
+1.90
+2.32
+1.97
+2.05
+2.48
+2.86
+2.24
+2.17
+2.21
+3.17
+1.91
+2.14
+2.53
+2.45
+3.91
+3.81
+3.96
+3.80
+P2O5
+0.15
+0.12
+0.09
+0.13
+0.10
+0.10
+0.14
+0.14
+0.16
+0.15
+0.14
+0.10
+0.10
+0.12
+0.11
+0.10
+0.03
+0.14
+0.09
+0.08
+0.09
+0.06
+0.04
+0.03
+0.03
+LOI
+4.31
+1.16
+1.20
+1.17
+1.49
+1.57
+0.57
+0.56
+1.57
+1.03
+0.49
+0.82
+1.20
+0.84
+0.54
+0.50
+6.79
+1.23
+0.84
+1.45
+1.11
+1.53
+4.02
+4.12
+4.35
+V
+107
+97
+91
+107
+81
+88
+111
+110
+67
+80
+104
+85
+82
+85
+88
+87
+16
+72
+62
+53
+50
+17
+9
+9
+9
+Cr
+9
+31
+33
+29
+23
+24
+30
+32
+9
+3
+26
+22
+16
+21
+21
+18
+2
+11
+12
+7
+7
+bdl
+bdl
+bdl
+bdl
+Co
+13
+13
+13
+13
+14
+14
+13
+16
+8
+10
+12
+9
+10
+12
+10
+9
+bdl
+8
+7
+6
+5
+bdl
+bdl
+bdl
+bdl
+Ni
+bdl
+bdl
+bdl
+bdl
+10
+9
+4
+bdl
+bdl
+bdl
+bdl
+10
+bdl
+10
+8
+11
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+Cu
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+8
+4
+bdl
+bdl
+bdl
+bdl
+bdl
+6
+bdl
+7
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+Zn
+77
+63
+55
+66
+57
+57
+67
+68
+60
+60
+60
+59
+58
+60
+58
+60
+54
+51
+49
+44
+40
+49
+44
+42
+42
+Rb
+20
+27
+27
+37
+28
+28
+35
+35
+31
+32
+39
+45
+48
+42
+42
+43
+65
+32
+34
+48
+48
+48
+64
+62
+64
+Sr
+844
+770
+780
+621
+727
+732
+638
+635
+674
+742
+607
+523
+510
+520
+518
+519
+215
+725
+531
+459
+457
+397
+171
+153
+152
+Y
+12
+7
+5
+12
+5
+7
+13
+16
+10
+4
+14
+11
+13
+12
+10
+10
+24
+27
+10
+9
+9
+10
+9
+9
+9
+Zr
+105
+114
+95
+156
+111
+107
+160
+162
+129
+109
+156
+153
+161
+170
+143
+146
+203
+118
+109
+112
+113
+139
+116
+110
+110
+Nb
+4
+3
+1
+4
+3
+3
+4
+5
+3
+3
+4
+4
+4
+5
+3
+4
+13
+3
+5
+5
+5
+3
+6
+6
+6
+Ba
+630
+735
+674
+845
+816
+835
+845
+898
+1029
+670
+1003
+934
+969
+945
+924
+918
+882
+1017
+834
+849
+862
+1303
+1134
+1113
+1097
+La
+16
+20
+14
+21
+16
+21
+22
+25
+21
+15
+28
+22
+25
+28
+24
+26
+37
+-
+22
+23
+19
+23
+25
+21
+23
+Ce
+32
+29
+29
+46
+33
+31
+48
+53
+39
+34
+43
+43
+48
+53
+49
+48
+55
+32
+39
+34
+35
+43
+38
+39
+46
+Nd
+20
+17
+16
+24
+16
+20
+23
+27
+25
+18
+25
+20
+23
+24
+24
+23
+38
+41
+18
+16
+17
+21
+15
+16
+19
+Pb
+11
+8
+9
+11
+7
+7
+9
+10
+11
+7
+13
+12
+13
+13
+12
+12
+14
+8
+9
+12
+9
+14
+19
+15
+15
+Note: bdl—below detection limit; - —not determined; AF—amphibole-free group; AB—amphibole-bearing group. Major and trace elements were determined by X-ray fluorescence (XRF) at Dipartimento di Scienze della Terra of the Università
+degli Studi di Firenze, according to the procedure described by Franzini et al. (1972) for major elements, and that described by Jenkins and De Vries (1971) for trace elements. MgO and Na2O were determined by atomic absorbtion
+spectroscopy (AAS), loss on ignition (LOI) by gravimetry, and FeO by titration. The analytical errors for XRF analysis were evaluated to be better than 15% for Pb, better than 10% for Y, La, and Ce, and better than 5% for all other elements.
+
+TABLE 3. ANALYSES OF MAJOR (WT%) AND TRACE ELEMENTS (PPM) OF SECOND PERIOD ROCKS OF THE SAN PEDRO-CERRO GRANDE VOLCANIC COMPLEX
+Group
+A.N.
+A.N.
+A.N.
+A.N.
+A.N.
+A.N.
+A.N.
+A.N.
+AF
+AF
+AF
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+AB
+Sample SPC 24
+(1) SPC 25
+(1) SPC 61
+(1) SPC 109
+(1) SPC 18
+(1) SPC 64
+(1) SPC 17
+(1) SPC 20
+(1) SPC 112 SPC 111 SPC 114 SPC 128 SPC 62
+SPC 63 SPC 115P SPC 66 SPC 144 SPC 65
+SPC 67
+SPC 68
+SPC 23
+SPC 88
+SPC 69 SPC 115F 
+SiO2
+51.0
+52.3
+52.3
+52.5
+53.6
+53.6
+54.2
+54.7
+64.3
+64.6
+64.8
+68.1
+68.6
+69.0
+69.3
+70.3
+70.4
+70.4
+70.5
+70.5
+71.7
+71.7
+72.1
+72.5
+TiO2
+2.31
+1.55
+2.22
+2.10
+2.03
+2.04 
+1.90
+1.46
+0.59
+0.57
+0.51
+0.38
+0.39
+0.37
+0.22
+0.35
+0.29
+0.34
+0.34
+0.33
+0.29
+0.29
+0.21
+0.17
+Al2O3
+17.7
+18.1
+16.7
+17.0
+17.2
+17.1
+17.1
+17.5
+16.3
+16.2
+16.1
+15.3
+15.0
+15.1
+15.3
+14.9
+14.5
+14.7
+14.7
+15.0
+14.4
+14.2
+13.7
+13.4
+Fe2O3
+1.80
+5.58
+1.91
+1.32
+1.79
+1.72 
+1.50
+1.46
+1.49
+1.54
+1.40
+1.23
+1.28
+1.27
+0.95
+1.74
+0.63
+2.36
+2.48
+2.48
+0.86
+0.96
+0.67
+0.50
+FeO
+7.80
+2.12
+7.72
+8.04
+7.08 
+7.08
+7.04
+6.20
+2.96
+2.88
+2.50 
+1.72
+1.72
+1.52
+0.64
+1.00
+1.47
+0.32
+0.20
+0.12
+1.20
+0.99
+0.60
+0.72
+MnO
+0.16
+0.14
+0.17
+0.17
+0.16 
+0.16
+0.15
+0.14
+0.10
+0.10
+0.08 
+0.07
+0.07
+0.07
+0.05
+0.07
+0.06
+0.07
+0.07
+0.07
+0.06
+0.07
+0.05
+0.06
+MgO
+5.17
+5.12
+4.64
+4.67
+4.08 
+3.97
+3.93
+4.92
+1.90
+1.82
+2.01 
+1.54
+1.53
+1.38
+0.29
+1.24
+0.07
+1.27
+1.33
+1.23
+0.85
+0.81
+0.27
+0.27
+CaO
+7.92
+7.84
+7.44
+7.16
+7.11 
+7.09
+7.05
+6.99
+4.47
+4.42
+4.79 
+3.80
+3.71
+3.58
+1.13
+3.28
+2.30
+2.91
+3.04
+2.83
+2.44
+2.43
+1.25
+1.18
+Na2O
+3.69
+3.89
+3.75
+3.78
+3.85
+3.78
+3.84
+4.00
+4.19
+4.22
+3.35
+4.16
+4.04
+4.32
+3.17
+4.28 
+4.99
+4.26
+4.28
+4.29
+4.43
+4.41
+3.98
+3.69
+K2O
+1.62
+1.60
+1.56
+1.71
+1.88
+1.91
+1.92
+1.51
+2.41
+2.32
+2.99
+2.45
+2.50
+2.29
+3.20
+2.39 
+2.89
+2.43
+2.46
+2.54
+2.77
+2.87
+3.35
+3.45
+P2O5
+0.62
+0.52
+0.61
+0.63
+0.51
+0.58 
+0.50
+0.36
+0.18
+0.18
+0.10
+0.08
+0.08
+0.08
+0.03
+0.08
+0.06
+0.08
+0.08
+0.08
+0.07
+0.07
+0.03
+0.03
+LOI
+0.18
+1.21
+0.99
+0.85
+0.76
+0.95
+0.90
+0.71
+1.12
+1.13
+1.44 
+1.12
+1.10
+0.98
+5.69
+0.37
+2.37
+0.81
+0.54
+0.51
+0.97
+1.20
+3.81
+4.08
+V
+226
+165
+211
+204
+193
+192
+185
+163
+75
+76
+82
+61
+63
+56
+15
+55
+36
+42
+41
+39
+36
+34
+14
+13
+Cr
+48
+165
+79
+75
+48
+45
+53
+125
+5
+9
+15
+13
+10
+9
+7
+5
+9
+7
+6
+6
+bdl
+bdl
+bdl
+6
+Co
+35
+33
+31
+25
+26
+26
+25
+28
+9
+9
+11
+7
+7
+6
+bdl
+8
+3
+6
+6
+5
+bdl
+bdl
+bdl
+bdl
+Ni
+37
+94
+40
+40
+21
+22
+22
+63
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+Cu
+23
+25
+23
+30
+24
+21
+20
+24
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+bdl
+Zn
+95
+74
+106
+103
+101
+99
+99
+87
+72
+71
+57
+46
+47
+44
+35
+47
+18
+44
+43
+44
+41
+38
+34
+32
+Rb
+15
+14
+20
+21
+22
+22
+22
+13
+37
+35
+46
+44
+44
+46
+56
+46
+50
+34
+42
+46
+48
+51
+58
+61
+Sr
+686
+597
+563
+561
+559
+556
+551
+604
+555
+541
+515
+522
+523
+494
+199
+480
+352
+437
+459
+424
+337
+329
+236
+210
+Y
+31
+30
+36
+39
+35
+36
+33
+26
+14
+14
+13
+9
+7
+8
+10
+9
+14
+7
+8
+8
+11
+11
+8
+9
+Zr
+239
+221
+256
+256
+282
+280
+278
+181
+160
+155
+156
+107
+105
+103
+140
+111
+116
+107
+106
+108
+113
+115
+125
+119
+Nb
+25
+27
+26
+24
+26
+26
+24
+14
+5
+5
+4
+5
+5
+5
+7
+6
+8
+5
+5
+5
+7
+7
+5
+5
+Ba
+764
+643
+787
+681
+734
+744
+731
+731
+961
+970
+984
+809
+804
+841
+1069
+868
+965
+937
+865
+887
+972
+971
+1077
+1096
+La
+30
+30
+34
+36
+36
+43
+34
+27
+21
+27
+28
+23
+17
+21
+26
+19
+21
+19
+22
+21
+23
+22
+24
+22
+Ce
+70
+50
+77
+76
+66
+70
+80
+49
+47
+47
+42
+36
+30
+36
+45
+41
+35
+38
+33
+35
+40
+34
+39
+42
+Nd
+41
+26
+46
+43
+37
+38
+40
+29
+25
+26
+22
+20
+15
+16
+17
+19
+15
+17
+13
+17
+16
+15
+16
+17
+Pb
+9
+7
+10
+12
+9
+9
+11
+6
+10
+14
+12
+12
+9
+10
+13
+11
+4
+12
+11
+10
+12
+13
+15
+16
+   Note: bdl—below detection limit; AF—amphibole-free group; AB—amphibole-bearing group; A.N. —Amado Nervo lavas. (1) Samples from Petrone et al. (2003). For analytical technique details see Table 2. 
+
+76 
+Petrone et al.
+According to the International Union of the Geological 
+Sciences (IUGS) classiﬁ cation scheme on the total alkalies-sil-
+ica (TAS) diagram (Le Bas et al., 1992), the San Pedro–Cerro 
+Grande volcanic rocks are bimodal in composition, with hawaiite 
+to mugearite at the maﬁ c end and andesite to rhyolite at the inter-
+mediate and felsic end (Fig. 3). In detail, the rocks of the ﬁ rst 
+period range in composition from andesite to rhyolite. Those 
+of the second period are bimodal in composition, with a gap 
+in the range 55–64 wt% of SiO2 between the dacitic-rhyolitic 
+domes (and associated pyroclastic rocks) and the Amado Nervo 
+hawaiites and mugearites. The Amado Nervo rocks are the only 
+maﬁ c varieties in the San Pedro–Cerro Grande volcanic complex 
+TABLE 4. REPRESENTATIVE MICROPROBE ANALYSES OF PLAGIOCLASE 
+Sample:
+SPC122
+SPC 126 
+SPC 130 
+SPC 132 
+SPC 111 
+Period:
+First
+First
+First
+First
+Second
+Group: 
+Amphibole-bearing 
+Amphibole-bearing 
+Amphibole-free
+Amphibole-bearing 
+Amphibole-free
+Texture: 
+Rim
+Rim
+Rim
+Agg
+Core
+Agg
+Core
+Gdm
+Core
+Agg
+(wt%) 
+SiO2
+52.3
+62.4
+60.2
+52.3
+53.6
+46.4
+45.9
+53.8
+61.1
+51.3
+TiO2
+0.01
+0.04
+0.03
+0.02
+0.03
+0.02
+0.03
+0.05
+0.02
+0.03
+Al2O3
+30.2
+23.8
+25.2
+30.7
+29.4
+34.2
+33.9
+29.5
+24.4
+30.4
+Fe2O3
+0.52
+0.22
+0.21
+0.56
+0.46
+0.54
+0.46
+0.62
+0.21
+0.59
+MgO
+0.04
+bdl
+bdl
+0.02
+0.08
+0.05
+0.04
+0.02
+0.05
+0.09
+CaO
+12.91
+4.89
+6.73
+12.51
+11.34
+16.95
+16.97
+11.92
+5.90
+13.36
+Na2O
+3.69
+7.98
+7.40
+4.28
+4.71
+1.47
+1.60
+4.50
+7.63
+3.78
+K2O
+0.15
+0.55
+0.44
+0.14
+0.12
+0.02
+0.03
+0.26
+0.59
+0.10
+SrO
+0.18
+bdl
+0.18
+0.09
+bdl
+0.19
+bdl
+0.18
+0.21
+0.21
+BaO
+0.04
+bdl
+0.10
+bdl
+bdl
+bdl
+bdl
+0.02
+0.02
+0.05
+Total
+100.0
+99.8
+100.5
+100.6
+99.7
+99.8
+99.0
+100.9
+100.1
+99.8
+An % 
+65.3
+24.5
+32.5
+61.3
+56.7
+86.3
+85.3
+58.5
+28.9
+65.7
+Ab % 
+33.7
+72.3
+64.8
+37.9
+42.6
+13.6
+14.6
+40.0
+67.6
+33.6
+Or % 
+0.9
+3.3
+2.5
+0.8
+0.7
+0.1
+0.2
+1.5
+3.4
+0.6
+Sample:
+SPC 109 
+SPC 23 
+SPC120A/B
+SPC 120 A/G 
+SPC 65 
+Period:
+Second
+Second
+Second
+Second
+Second
+Group: 
+Mafic
+Amphibole-bearing 
+Amphibole-bearing 
+Amphibole-bearing 
+Amphibole-bearing 
+Texture: 
+Gdm 
+Gdm 
+Core
+Rim
+Rim
+Agg
+Core
+Micro 
+Rim
+Micro 
+(wt%) 
+SiO2
+53.9
+58.8
+55.1
+51.8
+61.4
+48.5
+56.0
+52.0
+60.1
+51.5
+TiO2
+0.13
+0.24
+0.05
+0.02
+0.06
+0.06
+0.04
+0.05
+0.02
+bdl
+Al2O3
+28.9
+24.4
+28.0
+30.3
+25.0
+32.5
+28.4
+30.2
+25.4
+31.1
+Fe2O3
+0.92
+0.91
+0.27
+0.50
+0.19
+0.56
+0.42
+0.51
+0.30
+0.37
+MgO
+0.10
+0.06
+bdl
+0.05
+bdl
+bdl
+0.03
+0.09
+bdl
+0.05
+CaO
+10.82
+6.67
+9.71
+12.92
+5.83
+14.79
+9.43
+12.18
+6.60
+13.20
+Na2O
+5.14
+6.94
+5.56
+4.37
+7.82
+2.95
+5.95
+4.20
+7.34
+3.74
+K2O
+0.44
+1.07
+0.25
+0.11
+0.48
+0.10
+0.20
+0.13
+0.40
+0.13
+SrO
+0.13
+0.12
+0.37
+0.24
+0.13
+0.18
+0.26
+0.31
+0.22
+0.40
+BaO
+0.05
+0.05
+0.04
+bdl
+0.07
+bdl
+0.03
+0.02
+0.06
+0.07
+Total
+100.5
+99.3
+99.3
+100.4
+100.9
+99.7
+100.7
+99.7
+100.4
+100.6
+An % 
+52.4
+32.5
+48.3
+61.6
+28.3
+73.0
+46.1
+61.1
+32.4
+65.5
+Ab % 
+45.0
+61.2
+50.1
+37.7
+67.8
+26.4
+52.7
+38.1
+65.2
+33.6
+Or % 
+2.5
+6.2
+1.5
+0.6
+2.8
+0.6
+1.2
+0.8
+2.3
+0.8
+Note: bdl—values below detection limit; Core—phenocryst core; Rim—phenocryst rim; Micro—micro-phenocryst; Agg—
+mineral of glomeroporphyritic aggregate; Gdm—mineral in the groundmass. Compositions of major mineral phases were 
+performed at the Dipartimento di Scienze della Terra of the Università degli Studi di Firenze using a JEOL JXA-8600 
+microprobe operating at 15 kv and 10 nA. Matrix effects were corrected following the Bence and Albee (1968) method. 
+Accuracy and precision estimates are given in Vaggelli et al. (1999). The complete set of analyses is available as item 
+2006050 in the GSA Data Repository at www.geosociety.org/pubs/ft2006.htm, or on request from editing@geosociety.org 
+or Documents Secretary, GSA, P.O. Box 9140, Boulder, CO 80301, USA. 
+and are transitional Na-alkaline (Na2O–2 > K2O) in composition. 
+They are quartz-hypersthene and olivine-hypersthene normative. 
+All intermediate and felsic rocks (andesite-dacite-rhyolite) are 
+subalkaline and quartz-hypersthene normative.
+Subalkaline rocks (Fig. 3) can be distinguished into two 
+broad groups based on the occurrence of amphibole (Figs. 4 
+and 5). Amphibole-free rocks have ubiquitous plagioclase and 
+orthopyroxene phenocrysts and microphenocrysts. Clinopyrox-
+ene is rare and is almost exclusively found in the groundmass. 
+Amphibole-free andesite (Fig. 4C) is almost aphyric, whereas 
+amphibole-free dacite is porphyritic (10–20 vol% phenocrysts). 
+Resorbed amphibole relics are rarely present, even in the amphi-
+
+ 
+The San Pedro–Cerro Grande volcanic complex 
+77
+bole-free group. Amphibole-bearing rocks range in composition 
+from andesite to rhyolite, and are characterized by seriate por-
+phyritic textures (~20% phenocryst; Fig. 4A–B) with interser-
+tal-intergranular groundmass, which can be hyaline in rhyolites 
+(Fig. 4D). Plagioclase, amphibole, and orthopyroxene are ubiq-
+uitous; clinopyroxene is rare and restricted to the groundmass. 
+Few quartz crystals are found in dacites and rhyolites. Both 
+amphibole-free and amphibole-bearing rocks have similar minor 
+and accessory phases; opaque minerals are abundant as micro-
+phenocrysts, biotite is present as pheno- and microphenocrysts in 
+the dacitic and rhyolitic rocks, and apatite constitutes a common 
+accessory phase restricted to the groundmass along with opaque 
+minerals.
+Amado Nervo lavas show seriate subporphyritic textures 
+with intersertal groundmass (Fig. 4E), with olivine (>5 vol%) 
+being the only phenocryst in a groundmass of plagioclase, oliv-
+ine, opaques, and clinopyroxene.
+In summary, on the basis of petrographic analysis, a three-
+fold subdivision can be established among rocks of the San 
+Pedro–Cerro Grande volcanic complex: Amado Nervo maﬁ c 
+rocks, amphibole-free, and amphibole-bearing intermediate 
+to felsic rocks. The estimated volume of Amado Nervo vol-
+cano (8.62 km3) is comparable to minimum volume estimates 
+of amphibole-bearing rocks (8.58 km3) calculated on the basis 
+of volumes given by Frey et al. (2004a). It is worth noting that 
+TABLE 5. REPRESENTATIVE MICROPROBE ANALYSES OF CLINOPYROXENE AND ORTHOPYROXENE 
+Clinopyroxene 
+Orthopyroxene 
+Sample:
+SPC 109 
+SPC 122 
+SPC 126 
+SPC 130 
+SPC 132 
+SPC 111 
+SPC 65 
+Period:
+Second
+First
+First
+First
+First
+Second
+Second
+Group: 
+Mafic
+Amphibole-
+bearing
+Amphibole-
+bearing
+Amphibole-
+bearing
+Amphibole-bearing 
+Amphibole-free
+Amphibole-
+bearing
+Type: 
+Gdm Gdm Gdm 
+Micro 
+Gdm 
+Gdm 
+Core
+Gdm
+Rim
+Agg
+Core
+Rim
+Gdm
+Micro 
+(wt%) 
+SiO2
+46.6
+47.7
+48.4
+53.1
+54.7
+52.4
+53.7
+52.3
+54.4
+56.0
+53.3
+51.4
+52.4
+53.2
+TiO2
+3.35
+2.40
+2.53
+0.20
+0.11
+0.34
+0.31
+0.34
+0.25
+0.11
+0.33
+0.32
+0.29
+0.20
+Al2O3
+3.66
+3.52
+3.13
+1.49
+1.27
+2.79
+1.22
+3.00
+2.17
+0.98
+2.56
+3.87
+3.23
+2.06
+Cr2O3
+bdl
+0.08
+0.01
+bdl
+0.02
+bdl
+0.05
+0.10
+0.18
+0.13
+0.16
+0.01
+bdl
+0.05
+Fe2O3
+3.71
+3.96
+1.33
+1.91
+1.82
+2.96
+1.46
+2.77
+2.31
+0.56
+1.50
+2.75
+2.38
+1.87
+FeO
+8.58
+8.36 10.56
+16.40
+14.97
+14.12
+16.03 12.46 10.19 11.88 14.01 14.91 15.20
+15.79
+MnO
+0.31
+0.23
+0.27
+0.88
+0.6
+0.49
+0.46
+0.40
+0.26
+0.23
+0.29
+0.46
+0.47
+0.54
+MgO
+11.5
+12.5
+12.4
+25.4
+27.3
+26.2
+25.6
+26.9
+29.7
+29.7
+26.5
+24.6
+25.2
+25.6
+CaO
+20.7
+20.1
+20.1
+0.85
+0.92
+1.37
+1.68
+1.48
+1.16
+1.33
+1.88
+1.60
+1.55
+1.23
+Na2O
+0.57
+0.54
+0.32
+0.03
+bdl
+bdl
+0.06
+bdl
+0.09
+0.04
+bdl
+0.09
+0.06
+0.05
+Total
+99.1
+99.4
+99.1
+100.2
+101.8
+100.7
+100.6
+99.8 100.6 101.0 100.5 100.0 100.7
+100.6
+Mg#
+0.63
+0.61
+0.65
+0.70
+0.70
+0.73
+0.72
+0.76
+0.81
+0.81
+0.75
+0.71
+0.72
+0.72
+Note: bdl—values below detection limit; Core—phenocryst core; Rim—phenocryst rim; Micro—micro-phenocryst; Agg—mineral of 
+glomeroporphyritic aggregate; Gdm—mineral in the groundmass. Compositions of major mineral phases were performed at the Dipartimento
+di Scienze della Terra of the Università degli Studi di Firenze using a JEOL JXA-8600 microprobe operating at 15 kv and 10 nA. Matrix 
+effects were corrected following the Bence and Albee (1968) method. Accuracy and precision estimates are given in Vaggelli et al. (1999). 
+The complete set of analyses is available as item 2006050 in the GSA Data Repository at www.geosociety.org/pubs/ft2006.htm, or on
+request from editing@geosociety.org or Documents Secretary, GSA, P.O. Box 9140, Boulder, CO 80301, USA. 
+Figure 3. Total alkali-silica classiﬁ cation diagram (Le Bas et al., 1992) 
+(water-free basis) of the San Pedro–Cerro Grande volcanic complex 
+rocks. The Irvine and Baragar (1971) line (heavy line) is also reported.
+
+TABLE 6. REPRESENTATIVE MICROPROBE ANALYSES OF AMPHIBOLE 
+Sample:
+SPC 122 
+SPC 126 
+SPC 130 
+SPC 132 
+SPC 111 
+SPC 120A/B 
+SPC23
+SPC 65 
+Period:
+First
+First
+First
+First
+Second
+Second
+Second
+Second
+Group: 
+Amphibole-
+bearing
+Amphibole-
+bearing
+Amphibole-
+bearing
+Amphibole-
+bearing
+Amphibole-
+free
+Amphibole-
+bearing
+Amphibole-
+bearing
+Amphibole-
+bearing
+Texture: 
+Core
+Rim
+Core
+Rim
+Core
+Agg
+Core
+Agg
+Core
+Micro
+Agg 
+Agg
+Agg
+Micro
+Core 
+Agg
+(wt%) 
+SiO2
+42.9
+49.5
+42.9
+44.5
+43.8
+43.0
+42.5
+44.2
+40.1
+49.0
+42.5
+45.7
+44.1
+48.9
+43.2
+44.6
+TiO2
+3.03
+0.94
+1.88
+1.84
+2.28
+2.47
+3.03
+2.53
+3.81
+1.54
+1.86
+1.65
+1.80
+0.98
+2.92
+1.44
+Al2O3
+11.5
+5.9
+12.4
+11.6
+10.6
+11.8
+11.0
+11.0
+14.1
+11.7
+12.4
+9.2
+12.1
+6.2
+10.8
+12.4
+Cr2O3
+bdl
+0.01
+bdl
+0.06
+bdl
+0.04
+bdl
+0.29
+bdl
+0.01
+bdl
+bdl
+0.10
+0.01
+0.03
+bdl
+Fe2O3
+bdl
+0.99
+0.96
+1.18
+1.21
+0.71
+3.52
+0.28
+2.51
+bdl
+1.19
+2.09
+1.25
+0.93
+bdl
+1.31
+FeO
+12.8
+11.8
+9.65
+8.94
+11.6
+8.54
+14.3
+10.0
+11.2
+5.96
+11.3
+10.6
+8.21
+11.2
+12.0
+8.20
+MnO
+0.27
+0.86
+0.12
+0.14
+0.33
+0.09
+0.24
+0.11
+0.33
+0.20
+0.16
+0.34
+0.13
+0.77
+0.22
+0.15
+MgO
+13.7
+15.7
+15.1
+16.0
+14.8
+15.9
+10.2
+15.7
+13.9
+11.8
+13.9
+15.5
+16.3
+16.2
+14.7
+16.4
+CaO
+11.2
+11.1
+11.2
+11.1
+10.5
+11.3
+13.4
+11.1
+10.0
+18.2
+10.6
+10.9
+11.4
+10.6
+11.0
+10.9
+Na2O
+2.49
+1.09
+2.38
+2.09
+2.13
+2.40
+1.73
+2.13
+2.35
+1.01
+2.08
+1.76
+2.33
+1.29
+2.42
+2.12
+K2O
+0.56
+0.33
+0.39
+0.29
+0.43
+0.27
+0.24
+0.40
+0.37
+0.12
+0.39
+0.40
+0.38
+0.26
+0.47
+0.30
+F
+bdl
+0.11
+0.19
+0.14
+bdl
+bdl
+bdl
+bdl
+0.27
+0.13
+bdl
+0.13
+0.21
+0.12
+bdl
+bdl
+Cl
+bdl
+0.03
+0.02
+bdl
+bdl
+bdl
+bdl
+0.02
+0.02
+0.02
+0.02
+0.03
+bdl
+0.03
+bdl
+bdl
+Total
+98.52
+98.37
+97.14
+97.85
+97.73
+96.47
+100.01
+97.73
+98.98
+99.69
+96.42
+98.29
+98.23
+97.64 97.69
+97.80
+F+Cl=O
+-
+0.05
+0.08
+0.06
+-
+-
+-
+0.02
+0.12
+0.06
+-
+0.06
+0.09
+0.06
+-
+-
+Total
+98.52
+98.32
+97.05
+97.79
+97.73
+96.47
+100.01
+97.72
+98.86
+99.63
+96.41
+98.23
+98.14
+97.59 97.69
+97.80
+Mg#
+0.65
+0.67
+0.72
+0.74
+0.67
+0.75
+0.51
+0.73
+0.64
+0.77
+0.66
+0.68
+0.75
+0.69
+0.68
+0.75
+Note: bdl—values below detection limit; Core—phenocryst core; Rim—phenocryst rim; Micro—micro-phenocryst; Agg—mineral of 
+glomeroporphyritic aggregate. Compositions of major mineral phases were performed at the Dipartimento di Scienze della Terra of the 
+Università degli Studi di Firenze using a JEOL JXA-8600 microprobe operating at 15 kv and 10 nA. Matrix effects were corrected following the 
+Bence and Albee (1968) method. Accuracy and precision estimates are given in Vaggelli et al. (1999). The complete set of analyses is 
+available as item 2006050 in the GSA Data Repository at www.geosociety.org/pubs/ft2006.htm, or on request from editing@geosociety.org or 
+Documents Secretary, GSA, P.O. Box 9140, Boulder, CO 80301, USA. 
+TABLE 7. REPRESENTATIVE MICROPROBE ANALYSES OF MICA 
+Sample:
+SPC 122 
+SPC 126 
+SPC 111 
+SPC 120A/B 
+SPC23
+SPC 65 
+Period:
+First
+First
+Second
+Second
+Second
+Second
+Group: 
+Amphibole-
+bearing
+Amphibole-
+bearing
+Amphibole-free
+Amphibole-
+bearing
+Amphibole-
+bearing
+Amphibole-
+bearing
+Type:
+Core
+Rim
+Core
+Agg
+Agg
+Rim
+Agg
+Core
+Rim
+Micro
+Core
+Rim
+(wt%) 
+SiO2
+38.1
+37.7
+38.2
+37.4
+36.4
+36.9
+37.6
+38.28
+36.7
+37.9
+36.3
+36.0
+TiO2
+4.18
+3.87
+4.17
+4.18
+3.79
+3.79
+3.93
+4.09
+4.05
+4.11
+4.23
+4.10
+Al2O3
+14.1
+13.8
+14.2
+14.5
+14.0
+14.1
+14.8
+14.6
+13.9
+14.0
+14.8
+15.0
+Cr2O3
+0.02
+bdl
+0.02
+0.03
+bdl
+bdl
+bdl
+0.03
+bdl
+0.03
+bdl
+bdl
+FeO
+13.3
+12.8
+13.5
+13.8
+17.4
+17.9
+13.8
+13.4
+13.8
+13.5
+16.3
+15.9
+MnO
+0.14
+0.21
+0.23
+0.19
+0.35
+0.44
+0.20
+0.23
+0.22
+0.22
+0.30
+0.20
+MgO
+16.1
+16.1
+15.9
+16.1
+13.5
+13.3
+15.7
+16.7
+15.9
+16.0
+14.8
+15.2
+CaO
+0.01
+0.02
+0.26
+bdl
+0.03
+0.03
+bdl
+0.07
+bdl
+0.03
+0.03
+0.01
+Na2O
+0.94
+0.92
+0.65
+0.93
+0.67
+0.69
+0.74
+0.81
+1.08
+0.83
+0.69
+0.96
+K2O
+8.16
+7.82
+7.39
+8.45
+9.10
+8.74
+8.17
+7.77
+8.29
+8.66
+7.90
+8.38
+BaO
+bdl
+0.72
+0.67
+1.07
+0.77
+0.88
+0.83
+0.69
+0.64
+0.77
+0.84
+0.87
+F
+bdl
+0.36
+0.31
+0.28
+0.09
+0.33
+0.24
+bdl
+0.13
+0.18
+0.42
+1.67
+Cl
+bdl
+0.04
+0.05
+0.06
+0.03
+0.03
+0.05
+0.07
+0.05
+0.06
+0.08
+0.06
+Total
+99.05
+98.17
+99.64
+100.88
+101.01
+100.89
+100.00
+100.93
+98.66
+100.23
+100.47
+101.45
+F+Cl=O
+0.00
+0.16
+0.14
+0.13
+0.04
+0.15
+0.11
+0.02
+0.07
+0.09
+0.19
+0.72
+Total
+99.05
+98.01
+99.46
+100.75
+99.97
+100.75
+99.89
+100.91
+98.59
+100.14
+100.28
+100.74
+Mg#
+0.68
+0.69
+0.67
+0.67
+0.58
+0.56
+0.67
+0.69
+0.67
+0.67
+0.61
+0.63
+Note: bdl—values below detection limit; Core—phenocryst core; Rim—phenocryst rim; Micro—micro-phenocryst; Agg—
+mineral of glomeroporphyritic aggregate. Compositions of major mineral phases were performed at the Dipartimento di 
+Scienze della Terra of the Università degli Studi di Firenze using a JEOL JXA-8600 microprobe operating at 15 kv and 10 
+nA. Matrix effects were corrected following the Bence and Albee (1968) method. Accuracy and precision estimates are 
+given in Vaggelli et al. (1999). The complete set of analyses is available as item 2006050 in the GSA Data Repository at 
+www.geosociety.org/pubs/ft2006.htm, or on request from editing@geosociety.org or Documents Secretary, GSA, P.O. 
+Box 9140, Boulder, CO 80301, USA. 
+
+ 
+The San Pedro–Cerro Grande volcanic complex 
+79
+amphibole-free and amphibole-bearing rocks are contempora-
+neous but spatially separated. Indeed, the amphibole-free rocks 
+from the Atarjea de Tescalame, Corral Falso, Los Ixletes domes, 
+and GC4 well are geographically restricted to an area southeast 
+of the San Pedro domes (Fig. 5).
+Magmatic Inclusions
+Rounded magmatic inclusions are found hosted in amphi-
+bole-bearing rocks, whereas they are rarely hosted in amphi-
+bole-free rocks. They are less than 0.5 cm in diameter, but some 
+larger (up to 10 cm) inclusions are also found. The most com-
+mon enclaves are characterized by variably porphyritic textures 
+(Fig. 4F) with plagioclase, amphibole, and minor clinopyroxene 
+and opaque minerals as phenocrysts. Rarely, accessory zircon is 
+found. Aphyric inclusions with diktytaxitic textures (Fig. 4G) 
+and variable amounts of plagioclase, amphibole, clinopyroxene, 
+opaque, and orthopyroxene microlites are subordinately found. 
+Few maﬁ c cumulate inclusions are also found in the Amado 
+Nervo rocks; these contain olivine, plagioclase, and subordi-
+nately clinopyroxene phenocrysts set in a microcrystalline inter-
+cumulus matrix.
+MINERAL COMPOSITIONS
+Plagioclase is euhedral to subhedral and commonly contains 
+glass or groundmass inclusions. Phenocrysts in felsic rocks range 
+in composition from An25 to An88 (Table 4, Fig. 6). Phenocrysts 
+TABLE 8. REPRESENTATIVE MICROPROBE ANALYSES OF OXIDES 
+Sample
+SPC 122 
+SPC 126 
+SPC 130 
+SPC 132 
+SPC 111 
+SPC 109 
+SPC 23 
+SPC 65 
+Period 
+First 
+First 
+First 
+First
+Second
+Second
+Second
+Second
+Group 
+Amphibole-
+bearing
+Amphibole-
+bearing
+Amphibole-
+bearing
+Amphibole-
+bearing
+Amphibole-
+free
+Mafic
+Amphibole-
+bearing
+Amphibole-
+bearing
+Texture 
+Core
+Core
+Core
+Agg
+Core
+Gdm
+Agg
+Micro
+Micro
+Gdm
+Micro
+Gdm 
+Core
+Agg
+Core
+Micro
+(wt%) 
+SiO2
+0.04
+bdl
+bdl
+0.18
+0.06
+0.24
+bdl
+bdl
+0.17
+0.15
+0.02
+0.11
+0.89
+0.05
+bdl
+0.06
+TiO2
+8.01
+36.81
+5.27
+5.12
+7.68
+13.4
+8.33
+2.78
+7.16
+14.90
+11.6
+21.4
+0.01
+14.1
+0.88
+2.8
+Al2O3
+2.47
+0.39
+2.37
+1.95
+3.19
+1.41
+3.16
+7.64
+1.75
+1.31
+7.89
+1.46
+0.33
+1.23
+2.68
+6.54
+Cr2O3
+0.11
+bdl
+0.03
+0.06
+bdl
+bdl
+0.05
+0.07
+bdl
+bdl
+16.6
+0.59
+bdl
+bdl
+bdl
+0.03
+Fe2O3
+50.2
+31.2
+56.3
+56.6
+52.0
+41.5
+50.5
+58.1
+53.9
+38.9
+22.4
+25.1
+64.3
+39.6
+65.6
+56.4
+FeO
+36.0
+29.3
+34.2
+34.0
+36.2
+39.7
+36.6
+25.2
+36.1
+42.1
+36.3
+47.6
+30.4
+40.7
+28.4
+31.8
+MnO
+0.47
+0.43
+0.58
+0.65
+0.40
+0.55
+0.31
+0.36
+0.44
+0.65
+0.36
+0.59
+0.27
+0.49
+1.20
+0.57
+MgO
+1.28
+1.88
+0.95
+1.02
+1.64
+1.63
+1.68
+6.12
+1.24
+1.58
+4.29
+1.76
+0.29
+1.64
+1.91
+1.56
+CaO
+0.06
+0.03
+bdl
+bdl
+0.07
+0.88
+0.04
+0.10
+0.04
+0.02
+bdl
+0.04
+0.09
+0.02
+0.02
+0.03
+Total
+98.7
+100.1
+99.7
+99.7
+101.2
+99.2
+100.6
+100.4
+100.8
+99.5
+99.4
+98.7
+96.6
+97.9
+100.7
+99.8
+Usp
+23.6
+-
+14.9
+14.4
+22.3
+38.7
+24.4
+8.1
+20.4
+42.8
+50.3
+62.6
+0.0
+41.1
+0.6
+8.1
+Mt
+76.4
+-
+85.1
+85.6
+77.7
+61.3
+75.6
+91.9
+79.6
+57.2
+49.7
+37.4
+100.4
+58.9
+99.4
+91.9
+Ilm
+67.8
+Hem
+32.2
+Cr#
+0.6
+Note: Ulvospinel (Usp) end-member is calculated following the scheme of Spencer and Lindsley (1981); Mt—magnetite; Ilm—
+ilmenite; Hem—hematite; Cr# = [Cr/(Cr+Al)]. bdl—values below detection limit; Core—phenocryst core; Micro—micro-phenocryst; 
+Agg—mineral of glomeroporphyritic aggregate; Gdm—mineral in the groundmass. Compositions of major mineral phases were 
+performed at the Dipartimento di Scienze della Terra of the Università degli Studi di Firenze using a JEOL JXA-8600 microprobe 
+operating at 15 kv and 10 nA. Matrix effects were corrected following the Bence and Albee (1968) method. Accuracy and precision
+estimates are given in Vaggelli et al. (1999). The complete set of analyses is available as item 2006050 in the GSA Data Repository at 
+www.geosociety.org/pubs/ft2006.htm, or on request from editing@geosociety.org or Documents Secretary, GSA, P.O. Box 9140, 
+Boulder, CO 80301, USA. 
+TABLE 9. REPRESENTATIVE MICROPROBE ANALYSES
+OF OLIVINE
+Sample:
+SPC 109
+Period:
+Second
+Group:
+Mafic
+Type:
+Core
+Rim
+Gdm
+Agg
+(wt%)
+SiO2
+38.4
+37.8
+34.3
+39.5
+TiO2
+0.03
+bdl
+0.16
+bdl
+Al2O3
+bdl
+0.04
+2.09
+bdl
+Cr2O3
+bdl
+bdl
+bdl
+bdl
+Fe2O3
+1.78
+2.05
+0.00
+0.78
+FeO
+20.5
+21.7
+37.4
+20.3
+MnO
+0.36
+0.44
+0.77
+0.34
+NiO
+0.17
+0.15
+0.07
+0.13
+MgO
+40.1
+38.6
+25.0
+41.4
+CaO
+0.19
+0.21
+0.39
+0.14
+Total
+101.5
+101.0
+100.2
+102.7
+Fo (%)
+75.9
+73.9
+53.6
+77.4
+Note: bdl—values below detection limit; Core—phenocryst
+core; Rim—phenocryst rim; Agg—mineral of
+glomeroporphyritic aggregate; Gdm—mineral in the
+groundmass. Compositions of major mineral phases were
+performed at the Dipartimento di Scienze della Terra of the
+Università degli Studi di Firenze using a JEOL JXA-8600
+microprobe operating at 15 kv and 10 nA. Matrix effects were
+corrected following the Bence and Albee (1968) method.
+Accuracy and precision estimates are given in Vaggelli et al.
+(1999). The complete set of analyses is available as item
+2006050 in the GSA Data Repository at
+www.geosociety.org/pubs/ft2006.htm, or on request from
+editing@geosociety.org or Documents Secretary, GSA, P.O.
+Box 9140, Boulder, CO 80301, USA.
+
+Figure 4. Photomicrographs of different textures shown by San Pedro–Cerro Grande volcanic complex rocks: (A) and (B) ﬁ rst-period am-
+phibole-bearing porphyritic rock (SPC125 and SPC124); (C) ﬁ rst-period amphibole-free aphyric rock (SPC117); (D) vitrophyric texture in a 
+second-period amphibole-bearing rock (SPC23); (E) subporphyritic texture with olivine phenocrysts in the second-period maﬁ c Amado Nervo 
+rock (SPC109); (F) porphyritic texture in a magmatic enclave hosted in a ﬁ rst-period amphibole-bearing rock (SPC130); and (G) diktytaxitic 
+texture of an aphyric magmatic enclave hosted in a ﬁ rst-period amphibole-bearing rock (SPC123). Amph—amphibole, Opx—orthopyroxene, 
+Pl—plagioclase, Ol—olivine.
+
+ 
+The San Pedro–Cerro Grande volcanic complex 
+81
+from ﬁ rst-period amphibole-bearing rocks show the highest varia-
+tion, with andesite to low-silica dacite having the most anorthitic 
+plagioclase (An53–88), and are also characterized by the strongest 
+normal, inverse, and oscillatory zoning (Fig. 6). Groundmass pla-
+gioclase is more albitic. Phenocrysts from ﬁ rst-period amphibole-
+bearing high-silica dacites (SPC122, SPC126) show the largest 
+compositional range (An25–An73) and are prevalently normally 
+zoned. Groundmass plagioclase has intermediate compositions. 
+Plagioclase in second-period rocks is characterized by intermediate 
+compositions (An31–67). Crystals from the Las Guásimas pyroclastic 
+rocks (SPC120) have a wide compositional range (An25–78), with a 
+compositional gap between An30 and An48. Plagioclase from Amado 
+Nervo lavas (SPC109) is characterized by almost homogeneous 
+intermediate compositions (An49–52).
+Orthopyroxene is present as euhedral phenocrysts and micro-
+phenocrysts. It is ubiquitous in andesitic to rhyolitic samples and 
+ranges in composition from bronzite to hypersthene (Table 5), 
+from En79 to En65 (Fig. 7). There are no differences in orthopy-
+roxene compositions among intermediate to felsic rocks of the 
+two different periods, or between amphibole-free and amphibole-
+bearing rocks. Normal or reverse zoning is rarely present.
+Clinopyroxene is very rare in intermediate to felsic rocks 
+and, when present, is restricted to the groundmass. No analyses 
+are available because of its small crystal size. On the other hand, 
+clinopyroxene from the Amado Nervo lavas is Ti-rich augite to 
+diopside (Table 5, Fig. 7).
+Amphibole is euhedral to subhedral with frequent opacite 
+rims, especially in ﬁ rst-period rocks. Amphiboles span a large 
+Second period
+Second period
+First period (>~280 ka)
+First period (>~280 ka)
+Figure 5. Schematic map showing the areal distribution of amphibole-free and amphibole-bearing rocks in the San Pedro–Cerro Grande volcanic 
+complex. Sampling localities are also shown.
+
+82 
+Petrone et al.
+compositional range and can be divided, following the scheme 
+of Leake et al. (1997), into low-Al (6–8 wt% Al2O3) Mg-horn-
+blende, high-Al (8–14 wt% Al2O3) pargasite and edenite, and 
+very high-Al (14–15 wt% Al2O3) gedrite populations (Table 
+6). Most amphiboles fall in the pargasite-edenite ﬁ eld having 
+Al2O3 in the range 9–13 wt%. The largest range in composition 
+(Mg-hornblende–pargasite–gedrite) is shown by amphiboles of 
+a ﬁ rst-period high-silica dacite (SPC122) and a second-period 
+rhyolite (SPC23), in contrast to the almost uniform compositions 
+TABLE 10. TRACE ELEMENTS ANALYZED BY INSTRUMENTAL NEUTRON ACTIVATION ANALYSIS FOR 
+SELECTED SAN PEDRO–CERRO GRANDE VOLCANIC COMPLEX SAMPLES. 
+Composition:
+SPC 55 SPC 123 
+SPC 124 
+SPC 130 
+SPC 132 
+SPC 66 
+SPC 24 
+SPC 25 
+SPC 18 
+Sample:
+First
+First
+First
+First
+First
+Second
+Second
+Second
+Second
+La
+22.2
+22.0
+16.8
+16.5
+14.3
+19.3
+31.3
+28.5
+38.4
+Ce
+32.3
+34.3
+30.7
+30.4
+25.4
+35.9
+70.1
+58
+80
+Nd
+19
+13
+16
+14
+11
+15
+31
+25
+34
+Sm
+3.9
+3.8
+3.3
+3.3
+3.0
+3.2
+7.72
+6.7
+8.45
+Eu
+1.05
+0.79
+1.04
+0.96
+0.87
+0.77
+2.51
+1.85
+2.49
+Tb
+0.41
+0.34
+0.67
+0.45
+0.32
+0.47
+1.09
+1.08
+0.95
+Yb
+1.5
+1.5
+1.4
+1.3
+1.2
+1.5
+3.1
+3.1
+3.1
+Lu
+0.25
+0.25
+0.24
+0.22
+0.23
+0.29
+0.46
+0.51
+0.54
+Th
+2.11
+3.84
+1.95
+2.72
+2.03
+4.34
+2.4
+2.5
+2.9
+Ta
+0.36
+0.7
+0.4
+0.56
+0.35
+0.86
+2.06
+2.3
+1.9
+Hf
+2.8
+2.9
+2.9
+2.8
+2.5
+3.1
+5.4
+4.7
+6.0
+Sc
+10.0
+7.5
+10.6
+7.1
+10.5
+6.8
+23.8
+21.9
+20.5
+Co
+13.0
+9.0
+14.3
+10.0
+13.7
+7.5
+34.0
+29.3
+25.1
+LaN/SmN
+3.7
+3.8
+3.3
+3.2
+3.1
+3.9
+2.6
+2.7
+2.9
+TbN/YbN
+1.2
+1.1
+2.2
+1.6
+1.2
+1.4
+1.6
+1.6
+1.4
+Eu/Eu*
+1.1
+1.0
+0.9
+1.0
+1.2
+0.8
+1.1
+0.9
+1.2
+Note: Data for SPC24, SPC25 and SPC18 samples are from Petrone et al. (2003). N: values normalized to primitive 
+mantle from Sun and McDonough (1989). Rare earth elements, Th, Hf, Ta, Co, and Sc contents were determined by 
+instrumental neutron activation analyses (INAA) at the Dipartimento di Scienze della Terra of the Università degli Studi di 
+Firenze, following the method described by Poli et al. (1977). The errors for INAA were evaluated to be better than 15% 
+for Tb and Lu, better than 10% for Nd, and Yb, and better than 5% for all other elements. 
+TABLE 11. Sr AND Nd ISOTOPIC DATA FOR SELECTED ROCKS FROM THE SAN PEDRO–CERRO GRANDE VOLCANIC COMPLEX 
+Sample:
+SPC 117
+ ‡ SPC 123 
+† SPC 124 
+† SPC 131
+‡
+SPC 130
+‡ SPC 132 
+†
+SPC 66 
+†
+SPC 24 
+§
+SPC 25 
+§
+SPC 109 
+§
+SPC 64 
+§
+Period:
+First
+First
+First
+First
+First
+First
+Second
+Second
+Second
+Second
+Second
+87Sr/
+86Sr  
+0.704110
+0.703821
+0.704007
+0.704243
+0.703827
+0.703941
+0.703848
+0.703804
+0.703509
+0.703872
+0.703884
+2SE
+8
+10
+9
+9
+10
+10
+11
+9
+16
+12
+16
+143Nd/
+144Nd  
+n.d.
+0.512785
+0.512789
+n.d.
+n.d.
+0.512794
+0.512712
+0.512893
+0.512946
+0.512877
+0.512883
+2SE
+n.d.
+21
+7
+n.d.
+n.d.
+6
+15
+12
+8
+6
+6
+HNd
+n.d.
+2.87
+2.94
+n.d.
+n.d.
+3.04
+1.44
+5.46
+5.66
+4.31
+4.43
+Note: n.d.—not determined; Sr and Nd isotope ratios were determined at: 
+†Laboratorio Universitario de Geoquímica Isotópica (LUGIS), Instituto de Geofísica of the Universidad Nacional Autónoma de México
+(UNAM) using a Finnigan MAT 262 multi-collector mass spectrometer. 
+‡Dipartimento Scienze della Terra, Università degli Studi di Firenze using a Thermofinnigan Triton®-TI mass spectrometer equipped with 
+nine Faraday cups in a static rotative mode. Analytical procedures for analyses performed at UNAM are given in Schaaf et al. (2000). All 
+errors reported are 2SE (2 standard error of the mean) for within-run precisions and 1SD (1 standard deviation) for standards. All Sr data are 
+corrected for mass fractionation to 
+86Sr/
+88Sr = 0.1194 and normalized to a value of 
+87Sr/
+86Sr = 0.71025 for NBS987 standard. 
+87Sr/
+86Sr values for 
+NBS987 measured at LUGIS during the course of these analyses was 0.710234 ± 16 (n =135) compared to the reported value of 0.71025. 
+Isotopic ratios of Nd were corrected for fractionation to 
+146Nd/
+144Nd = 0.7129 and normalized to a value of 
+143Nd/
+144Nd = 0.511860 for the La Jolla 
+standard. 
+143Nd/
+144Nd values for La Jolla standard, measured at LUGIS, over the course of this work yielded 0.511879 ± 22 (n = 51). Procedure 
+for isotopic analyses performed at the Università degli Studi di Firenze are given in Avanzinelli et al. (2001). All errors reported are 2SE for 
+within-run precision and 2SD for standards. All Sr data are corrected for mass fractionation to 
+86Sr/
+88Sr = 0.1194 and reported relative to a 
+value of 
+87Sr/
+86Sr = 0.71025 for NBS987 standard. 
+87Sr/
+86Sr values for NBS987 standard measured in Firenze during the course of this work 
+yielded 0.710268 ± 16 (n = 30). Bias between measurements performed with the two different mass spectrometers was within the analytical 
+error. 
+§Isotope data for samples SPC24, SPC25, SPC109, and SPC64 are from Petrone et al. (2003). Values are normalized to the accepted 
+values for the standards as reported in Petrone et al. (2003). Analytical details for these samples are reported in Petrone et al. (2003). 
+of amphibole (pargasite-edenite) shown by amphiboles of other 
+analyzed ﬁ rst- and second-period rocks.
+Mica is prevalently found in the most silica-rich rocks. It is 
+euhedral to subhedral, and ranges in composition from phlogopite 
+to biotite (Table 7). Phlogopite is present only in more evolved 
+ﬁ rst-period amphibole-bearing rocks. Phlogopite and biotite are 
+both present in second-period felsic rocks, with the former more 
+frequent. In sample SPC23 from the Los Ocotes dome on the cal-
+dera rim (Fig. 5), only phlogopite is found, but with a relatively 
+
+ 
+The San Pedro–Cerro Grande volcanic complex 
+83
+low Mg/Fe ratio that is close to the boundary with biotite compo-
+sitions. On the other hand, the only mica present in a amphibole-
+free second-period rock sample (SPC111) is biotite, which is also 
+characterized by the lowest Mg/Fe ratio and Mg#, and the highest 
+Ba and Mn contents.
+Magnetite is the most common Fe-Ti oxide mineral present 
+in the San Pedro–Cerro Grande volcanic complex. It has ulvöspi-
+nel (USP) contents that vary between 0.6 and 76 mol% (Table 
+8). Ti-magnetite compositions (USP13 –USP76) are found in all 
+rocks; magnetite is restricted to Los Ocotes and San Pedro–Cerro 
+Grande domes of the second period. The presence of this Ti-poor 
+composition clearly results from subsolidus exsolution (Bacon 
+and Hirschmann, 1988; Frost and Lindsley, 1991). Ilmenite is 
+found limited to second-period rocks of the San Pedro–Cerro 
+Grande domes (samples SPC65 and SPC68), and to sample 
+SPC122 belonging to the amphibole-bearing rocks of the ﬁ rst 
+period of activity. Cr-rich spinel (Cr# = 0.58) is found enclosed 
+in olivine phenocrysts and in the groundmass of olivine-bearing 
+rocks of the Amado Nervo lavas (Tables 8).
+Olivine is found only in Amado Nervo lavas with euhedral to 
+subhedral habitus sometimes showing iddingsite rims. It ranges 
+in composition from Fo53 to Fo78 (Table 9), with groundmass 
+crystals being more fayalitic than phenocrysts.
+Figure 6. Anorthite (An)–albite (Ab)–orthoclase 
+(Or) classiﬁ cation diagrams for plagioclase of 
+the ﬁ rst and second San Pedro–Cerro Grande 
+volcanic complex periods. Symbols: aggregate 
+= aggregate of crystals.
+Mineral compositions of seven magmatic inclusions were 
+analyzed in order to characterize them with respect to their host 
+rocks. No differences are observed between chemical composi-
+tions of mineral phases (plagioclase, pyroxene, amphibole, and 
+opaque minerals) in magmatic inclusions and minerals in the 
+host rocks. Compositional variability of mineral phases in inclu-
+sions spans a narrow range (i.e., olivine of inclusions hosted by 
+Amado Nervo lavas). In other cases (i.e., plagioclase in inclu-
+sions hosted by the Amado Nervo lavas), less evolved composi-
+tions are observed.
+PRE-ERUPTIVE MAGMA CONDITIONS
+The Al-in-hornblende geobarometer (Johnson and Ruth-
+erford, 1989) was applied to samples of the amphibole-bear-
+ing group; in particular to sample SPC122 from the ﬁ rst-period 
+sequence and to sample SPC65 from rocks of the second period. 
+The application of this geobarometer is justiﬁ ed by the presence 
+of all required phases. Both rocks also contain small amounts 
+of quartz, but lack alkali feldspar, which was not found critical 
+for the geobarometer (Johnson and Rutherford, 1989; Vene-
+zky and Rutherford, 1999). Chemical compositions of rims 
+from large amphibole phenocrysts were used for applying the 
+
+84 
+Petrone et al.
+Al-in-hornblende geobarometer. Calculations using data for the 
+ﬁ rst-period amphibole yielded a pressure of 0.25 GPa, while 
+for the second-period amphibole, pressures of 0.43–0.37 GPa 
+were calculated. Considering the error in the calibration (±0.06 
+GPa, Johnson and Rutherford, 1989), the two values overlap, 
+and their average translates to a depth of 13 km, assuming an 
+average crustal density equal to that of an andesite rock column 
+(2.7 g/cm3).
+The clinopyroxene geobarometer (Nimis, 1999) and the 
+olivine-clinopyroxene geothermobarometer (Köhler and Brey, 
+1990) were applied to the magmatic inclusion hosted in the 
+Amado Nervo lavas (sample SPC109), for which equilibrium 
+between the coexisting olivine and clinopyroxene had been pre-
+viously veriﬁ ed. The clinopyroxene geobarometer gives pres-
+sures of 1.68–1.78 GPa, which agrees with an estimated pres-
+Figure 7. Quadrilateral component classiﬁ cation diagrams (Morimoto, 
+1989 et al.) for the pyroxene of the ﬁ rst and second San Pedro–Cerro 
+Grande volcanic complex periods. Symbols: aggregate: aggregate of 
+crystals. Wo = wollastonite; En = Enstatite.
+sure of 1.76 GPa, assuming a temperature of 1225 °C, given by 
+the olivine-clinopyroxene geothermobarometer. These results 
+translate to a depth of 60 km.
+The pre-eruptive magmatic temperature was evaluated 
+using different geothermometers: Fe-Ti oxide (Ghiorso and 
+Sack, 1991); plagioclase-amphibole (Holland and Blundy, 
+1994); Ca-in-orthopyroxene (Brey and Köhler, 1990); and oliv-
+ine-clinopyroxene (Köhler and Brey, 1990).
+Fe-Ti oxide thermometry was applied to ﬁ rst- and to sec-
+ond-period rocks (samples SPC122 and SPC65) of the amphi-
+bole-bearing group. Magnetite and ilmenite pairs used for esti-
+mates met the criterion for equilibrium based on Mn and Mg 
+partition in the oxide phases (Bacon and Hirschmann, 1988). 
+The results indicate a temperature of 830 °C for the ﬁ rst-period 
+sample, and a lower temperature of 711 °C for the second-
+period rock. Oxygen fugacities calculated from these data are 
+–11.19 and –13.72 log fO2 (+2.05 and +2.26 ∆NNO), respectively 
+(∆NNO is Ni-NiO buffer).
+Pre-eruptive temperatures for rocks of the amphibole-bear-
+ing group were also evaluated using the plagioclase-amphibole 
+thermometer. Plagioclase and amphibole rim compositions 
+yielded edenite-richterite exchange temperatures of 770–880 
+°C for the high-silica dacites of the ﬁ rst-period rocks, 870–920 
+°C for andesite and low-silica dacite of the ﬁ rst-period rocks, 
+and 800–860 °C for the second-period rhyolites, using the range 
+of pressures determined already. These results agree with those 
+from the Fe-Ti oxides for the ﬁ rst-period rocks, but plagioclase-
+amphibole temperatures for second-period rocks are higher 
+than those from Fe-Ti oxides.
+The Ca-in-orthopyroxene geothermometer invariably 
+yields higher temperatures than those of the other two geo-
+thermometers, in the pressure ranges obtained herein. Indeed, 
+ﬁ rst- and second-period dacite-rhyolites yielded temperatures 
+in the range of 900–980 °C, whereas less evolved compositions 
+of ﬁ rst-period rocks gave higher temperatures in the range of 
+980–1074 °C, conﬁ rming the slightly higher temperatures as 
+shown by the amphibole-plagioclase thermometer. This is in 
+agreement with the lower degree of evolution (i.e., lower silica 
+contents) shown by the ﬁ rst-period rock (i.e., sample SPC130) 
+with respect to the ﬁ rst- and second-period rocks (i.e., SPC122 
+and SPC65). The higher temperatures obtained by the Ca-in-
+orthopyroxene thermometer may reﬂ ect higher closing temper-
+atures for pyroxene in comparison to magnetite and ilmenite, a 
+discrepancy already reported by other authors (e.g., Matthews 
+et al., 1994; Schmitt et al., 2001).
+The Ca-in-orthopyroxene geothermometer was also 
+applied to amphibole-free rocks, for which other geothermom-
+eters could not be used (i.e., sample SPC111). The results indi-
+cate temperatures in the range of 1018–1080 °C, assuming the 
+same pressure as for the amphibole-bearing rocks. These tem-
+peratures fall in the range of less evolved ﬁ rst-period amphi-
+bole-bearing rocks, obtained with the same geothermometer, 
+in accordance with the less evolved composition shown by this 
+amphibole-free rock.
+
+ 
+The San Pedro–Cerro Grande volcanic complex 
+85
+Figure 8. Variation diagrams for Al2O3, 
+TiO2, FeOtot, CaO, K2O, and P2O5 versus 
+SiO2 for San Pedro–Cerro Grande vol-
+canic complex rocks.
+The plagioclase-melt geohygrometer (Housh and Luhr, 
+1991) was used to constrain the pre-eruptive water contents of 
+amphibole-bearing and amphibole-free rocks. Following the 
+experimental calibration of Housh and Luhr (1991), we consider 
+only the results which did not exceed 0.4 wt% H2O of difference 
+between the Ab and An calibration. Water contents in amphi-
+bole-bearing rocks were calculated at 0.35 GPa and 830 °C and 
+ranged as follows: ﬁ rst-period dacites 6.5–6.8 wt% H2O Ab and 
+6.4–6.7 wt% H2O An, and 7.9 wt% H2O Ab and 8.2 wt% H2O 
+An; second-period rhyolites 7.0 wt% H2O Ab and 6.7 wt% H2O 
+An. Thus, an average value of ~7 wt% H2O can be estimated 
+for amphibole-bearing rocks. Considering the higher temperature 
+of ~900 °C given by the Ca-in-orthopyroxene geothermometer, 
+the estimated water contents are lower (~5–6 wt% H2O), but still 
+high in comparison with those calculated by Carmichael (2002) 
+for Colima andesites.
+Water contents were estimated for amphibole-free rocks 
+assuming a total pressure equal to that for the other group and 
+two values of temperatures: 1050 °C and 830 °C. The higher 
+temperature is the average calculated for this group with the Ca-
+in-orthopyroxene geothermometer, whereas the lower tempera-
+ture is the average for the amphibole-bearing group. These two 
+values were used to overcome the poor temperature estimate, 
+which in this case was based only on one sample. Water contents 
+
+86 
+Petrone et al.
+Figure 9. Variation diagrams for Ce, La, Ba, Rb, Sr, Y, Nb, Zr, Co, and Cr versus SiO2 for San Pedro–Cerro Grande volcanic complex rocks.
+
+ 
+The San Pedro–Cerro Grande volcanic complex 
+87
+in the amphibole-free group thus yielded 2.8–2.9 wt% H2O Ab 
+and 2.9 wt% H2O An at 1050 °C, and 7.3–7.5 wt% H2O Ab and 
+7.6–7.7 wt% H2O An at 830 °C. These latter values overlap those 
+observed for the amphibole-bearing rocks.
+If our estimated water contents are correct, they represent 
+the highest water content obtained for intermediate Quaternary 
+rocks in the rear part of western Trans-Mexican Volcanic Belt. 
+In fact, andesite and dacites from Ceboruco, Tequila, San Juan, 
+and Colima volcanoes have a maximum 5% water content (Luhr, 
+2000; Carmichael, 2002). On the other hand, such high water 
+estimates may reﬂ ect our poorly constrained temperature esti-
+mates.
+WHOLE-ROCK COMPOSITIONS
+Despite the differences between the Na-alkaline maﬁ c 
+Amado Nervo rocks on one hand, and intermediate to felsic sub-
+alkaline rocks on the other, well-correlated trends from the more 
+maﬁ c compositions to the more felsic ones are shown on plots of 
+FeOtot and CaO versus silica contents (Fig. 8). All other major-
+element abundances (Al2O3, TiO2, K2O, and P2O5), however, 
+show a poor correlation with silica contents. Amado Nervo rocks 
+are enriched in all major elements, with the exception of K2O 
+and SiO2, if compared with intermediate-felsic rocks. We observe 
+a compositional gap from 55 to 60 wt% silica between Amado 
+Nervo and intermediate-felsic rocks. No signiﬁ cant differences 
+exist between intermediate to felsic rocks of the two periods on 
+the basis of major elements.
+Trace-element patterns show a different picture (Fig. 9). 
+Amado Nervo rocks plot quite differently from intermediate-
+felsic rocks, and do not represent any typical comagmatic end 
+member. In addition, Amado Nervo rocks are enriched in the 
+light rare earth elements (LREE), high ﬁ eld strength elements 
+(HFSE), and compatible elements, and they are depleted in Ba 
+and Rb contents in comparison to intermediate-felsic rocks (Fig. 
+9). Hygromagmatophile element patterns (Fig. 10) are charac-
+terized by low LILE/HFSE (large ion lithophile elements) and 
+LREE/HFSE ratios, intermediate between those of calc-alka-
+line and oceanic-island basalt suites (i.e., “transitional series” of 
+Petrone et al., 2003).
+The petrographic twofold subdivision already highlighted 
+for intermediate to felsic rocks is strictly reﬂ ected in whole rock 
+compositions of these samples. Indeed, amphibole-free rocks are 
+characterized by higher Ce, La, Ba, Rb, Y, Zr, and slightly lower 
+Sr contents, whereas amphibole-bearing rocks have lower Ce, 
+La, Ba, Rb, Y, and Zr contents and higher Sr at the same silica 
+contents. No signiﬁ cant differences are observed among these 
+two groups in the hygromagmatophile element patterns (Fig. 
+10); these are characterized by depletions in Ta, Nb, and Ti, and 
+high LILE/HFSE and LREE/HFSE ratios. Given this correlation 
+between geochemical and petrographic characteristics, we prefer 
+to use the petrographic distinction between amphibole-free and 
+amphibole-bearing groups, which also implies the geochemical 
+twofold subdivision. It is important to stress that the two groups 
+m
+Figure 10. Patterns of hygromagmatophile elements normalized to 
+primitive mantle (Sun and McDonough, 1989) for San Pedro–Cerro 
+Grande volcanic complex rocks.
+span the two periods without signiﬁ cant geochemical differences 
+among different periods in the same group.
+All studied rocks plot in the depleted Sr and Nd quadrant 
+in the εNd versus 87Sr/86Sr plot (Fig. 11). The Amado Nervo tran-
+sitional rocks straddle the western Trans-Mexican volcanic Na-
+alkaline and calc-alkaline ﬁ elds, whereas intermediate to felsic 
+amphibole-bearing rocks fall in the ﬁ eld of calc-alkaline rocks 
+from the western Trans-Mexican Volcanic Belt.
+Amado Nervo rocks have lower 87Sr/86Sr (0.70351–0.70388) 
+and higher εNd values (4.3–5.7) with respect to all intermediate 
+to felsic subalkaline rocks (Table 11, Fig. 11). Amphibole-bear-
+ing rocks show quite a large range of 87Sr/86Sr values, which 
+
+88 
+Petrone et al.
+Figure 11. εNd versus 87Sr/86Sr dia-
+gram for the amphibole-bearing 
+and Amado Nervo rocks. Fields are 
+based on data from: East Paciﬁ c 
+Rise (EPR) and Gulf of California 
+mid-ocean-ridge basalts (MORB) 
+(Saunders, 1982; Smith, 1999); or-
+thogneiss crustal xenoliths (Cam-
+eron et al., 1992); paragneiss crustal 
+xenoliths (Cameron et al., 1992); 
+Guerrero terrane (Centeno-García et 
+al., 1993); and western Trans-Mexi-
+can Volcanic Belt (WTMVB) rocks: 
+WTMVB Na-alkaline (Verma and 
+Nelson, 1989a, 1989b; Righter et 
+al., 1995; Petrone et al., 2003), WT-
+MVB calc-alkaline and transitional 
+(Luhr et al., 1989; Verma and Nel-
+son, 1989a, 1989b; Wallace and Car-
+michael, 1994; Righter et al., 1995; 
+Luhr, 1997; Petrone et al., 2003), 
+WTMVB Sierra La Primavera (Ma-
+hood and Halliday, 1988); and WT-
+MVB San Juan (Luhr, 2000).
+nearly overlap the higher values of Amado Nervo rocks (Fig. 
+12). On the other hand, amphibole-free rocks are characterized 
+by the highest 87Sr/86Sr ratios (0.70411–0.70424), which are also 
+signiﬁ cantly higher than those of the amphibole-bearing group 
+(0.70382–0.70401) (Fig. 12). No systematic differences in Sr and 
+Nd isotope ratios are observed among intermediate to felsic rocks 
+from different periods. 87Sr/86Sr ratios of Amado Nervo rocks do 
+not correlate with SiO2 or Rb contents, whereas they show a 
+subtle positive correlation with Ce (Fig. 12). 87Sr/86Sr ratios of 
+amphibole-bearing rocks show a negative correlation with silica, 
+Ce, and Rb contents (Fig. 12).
+DISCUSSION
+Amphibole-free and amphibole-bearing subalkaline rocks 
+span the entire period of activity of the San Pedro–Cerro 
+Grande volcanic complex, whereas maﬁ c Na-alkaline Amado 
+Nervo rocks are subordinate and conﬁ ned to the ﬁ nal period 
+of activity. Although, subalkaline and Na-alkaline magmas 
+have been outpoured almost from the same plumbing system, 
+no evidence of magma interaction between these two extreme 
+types of magmas is observed. Petrographic, chemical, and iso-
+topic characteristics of all these three groups indicate that each 
+group underwent different evolution processes. Magmatic 
+enclaves are commonly hosted by amphibole-bearing rocks, 
+whereas they are scarce in the amphibole-free products. They 
+have the same petrographic and mineralogical composition of 
+the hosting dacitic rocks, suggesting crystallization from felsic 
+magma similar to the host. In the following section, we will 
+discuss magma evolution of intermediate to felsic subalkaline 
+and Na-alkaline rocks separately, before proposing a com-
+prehensive petrologic model for the entire San Pedro–Cerro 
+Grande volcanic complex.
+Intermediate to Felsic Rocks
+Amphibole-bearing and amphibole-free rocks do not 
+belong to the same line of magmatic descent, despite their 
+close association in time and space. They contain different 
+mineralogical phases at the same silica contents and also show 
+different correlation trends on silica versus major- and trace-
+element plots. Finally, they are characterized by signiﬁ cantly 
+different 87Sr/86Sr ratios. Trace-element data show that these 
+two groups of rocks follow separate lines of descent. However, 
+the least evolved samples of each subalkaline group of rocks 
+display similar trace-element contents, suggesting they were 
+derived from a common parental magma.
+Given the high water content estimates for these rocks 
+(5–7 wt% H2O for amphibole-bearing and probably lower for 
+amphibole-free), the andesite water-saturated phase diagram 
+
+ 
+The San Pedro–Cerro Grande volcanic complex 
+89
+Figure 12. Variation diagrams of 87Sr/86Sr versus SiO2, Ce, and Rb for San Pedro–Cerro Grande volcanic complex rocks.
+(Moore and Carmichael, 1998) gives insights on their mineral 
+phase relationships. In particular, at high pressure >~0.2 GPa 
+and moderate temperature (≤950 °C), hornblende and plagio-
+clase (±magnetite and pyroxene) are the stable phases at high 
+water contents (5–7 wt%). With decreasing pressure (and dis-
+solved water content), hornblende is no longer stable and pla-
+gioclase (±magnetite and pyroxene) is the dominant phase. 
+Thus, starting from a common hydrated parental magma, dif-
+ferent mineralogical assemblages can be generated.
+The lack of maﬁ c subalkaline end members in the San 
+Pedro–Cerro Grande volcanic complex might be explained by 
+the presence of large magma chambers in which evolutionary 
+processes drive toward intermediate and felsic compositions. 
+An alternative hypothesis might be the possibility that andes-
+ite and dacite magmas can also be generated by partial melt-
+ing of the lower crust. Well-correlated trends shown by major 
+and trace elements of amphibole-free and amphibole-bearing 
+groups, which constitute two continuous series from high-
+silica andesite to rhyolite, indicate that fractional crystalliza-
+tion processes have played an important role in producing the 
+observed chemical and mineralogical characteristics shown 
+by these rocks. In this light, partial melting processes repre-
+sent a mere possibility of secondary importance. On the other 
+hand, simple crystal fractionation cannot explain the observed 
+87Sr/86Sr isotope variations (Fig. 12) in both amphibole-free and 
+amphibole-bearing groups. The observed differences in iso-
+tope compositions in both groups might be related to crustal 
+contamination processes.
+The composition of the middle and lower crust in our study 
+area is not well known. The Puerto Vallarta Cretaceous batho-
+lith (Schaaf et al., 2000) may underlie the area (Ferrari et al., 
+2003), where the batholith is supposed to have intruded Meso-
+zoic volcanic and sedimentary sequences of the Guerrero ter-
+rane (e.g., Centeno-García et al., 1993). However, Schaaf et al. 
+(2003) indicated the presence of an older, pre-Guerrero, mid-
+lower crustal basement in the area. The geochemical nature of 
+this basement is unknown, and we assume that lower-crustal 
+paragneiss and orthogneiss granulite-facies xenoliths reported 
+by Ruiz et al. (1988) for central México might also constitute 
+the basement in western México. All possible crustal contami-
+nants are characterized by Sr isotope ratios higher than our 
+assumed initial magma (Fig. 11), and thus the particular signa-
+ture left in rock compositions involved in an assimilation plus 
+fractional crystallization (AFC) process should be the positive 
+correlation of Sr isotope ratios versus evolutionary parameters 
+(De Paolo, 1981), as observed for the amphibole-free rocks. A 
+different type of crustal contamination process is represented 
+by the so-called assimilation plus equilibrium crystallization 
+processes (AEC; Huppert and Sparks, 1985; Devey and Cox, 
+1987). In this model, different batches of magma, characterized 
+by various degrees of evolution, are able to assimilate differ-
+ent amounts of crustal rock, depending on their temperatures. 
+
+90 
+Petrone et al.
+In detail, maﬁ c magmas that have higher temperatures will be 
+able to assimilate a greater amount of wall rock than cooler 
+silicic magmas. The result is a greater change in Sr isotope 
+ratios for more maﬁ c than for more evolved magmas. By this 
+process, a negative correlation of Sr isotope ratios versus degree 
+of evolution can develop, as is the case of the amphibole-bear-
+ing rocks. Assimilation can occur either in the magma chamber 
+or during magma ascent (Huppert and Sparks, 1985; Devey and 
+Cox, 1987; Peccerillo and Wu, 1992; Francalanci and Santo, 
+1993; Francalanci et al., 1993). Thus, it is clear that different 
+types of crustal contamination processes will result in different 
+relationships between Sr isotope ratios and other evolutionary 
+parameters, as is the case for the amphibole-free and the amphi-
+bole-bearing rocks.
+Amphibole-Free Group
+The observed 87Sr/86Sr isotope variations, with silica-
+rich rocks having higher 87Sr/86Sr values (Fig. 12), might be 
+related to crustal assimilation acting in concert with crystal 
+fractionation. AFC processes (De Paolo, 1981) were mod-
+eled using the less evolved amphibole-free rock (SPC146) as 
+the parental magma composition, and assuming a Sr isoto-
+pic composition equal to the least radiogenic value (0.70382) 
+found in San Pedro–Cerro Grande volcanic complex felsic 
+rocks. Results of the modeling are shown in Figure 13. On 
+the basis of Sr isotope data, it is possible to constrain reason-
+able r (ratio of assimilation rate to crystallization rate) values 
+between 0.1 and 0.5 for the paragneiss composition (mean 
+0.3). This composition seems to better match the variability 
+shown by the isotopic data. On the other hand, unreasonably 
+high r values of 0.8–0.85 are obtained using the orthogneiss 
+composition as a possible crustal contaminant. This suggests 
+that the paragneiss composition is a more likely contaminant 
+than the orthogneiss. Thus, trace elements were modeled using 
+the paragneiss composition. The bulk partition coefﬁ cients 
+for the trace elements used in the modeling were evaluated on 
+the basis of the mode of the rocks and supported by fractional 
+crystallization calculations, which were undertaken in order to 
+get at least some qualitative indications on the proportions of 
+crystallizing mineralogical phases. The fractional crystalliza-
+tion calculations indicated separation of plagioclase (~62%), 
+orthopyroxene (~30%), and titanomagnetite (~8%) in propor-
+tions similar to the observed modes. Starting from this, we 
+evaluated bulk partition coefﬁ cients for the modeled trace ele-
+ments using values from the literature (Francalanci and Santo, 
+1993) suitable for intermediate-felsic subalkaline rocks. AFC 
+processes were modeled using ﬁ xed bulk partition coefﬁ cients 
+for the different elements and variable r values, which gave 
+a grid in the element versus element plot of Figure 13. AFC 
+processes characterized by various combinations of r values 
+and degrees of solid fractionation (S) ﬁ t quite well the varia-
+tion trends observed for trace elements of the second-period 
+amphibole-free rocks. First-period rocks were more problem-
+atic, although most of the observed variation trends may still 
+be explained by AFC processes. High degrees of fractionation 
+need to be invoked in order to explain the generation of the 
+ﬁ rst-period rock, which lies outside the observed trend, but has 
+the lowest Sr content and is the most evolved (Fig. 13). AFC 
+processes can also explain the element variation observed in 
+ﬁ rst-period amphibole-free rocks, which show deviations in Sr 
+versus Ba and Zr plots (Fig. 13). High r values (>0.6) would 
+be needed to match the observed Sr compositional trends on a 
+line for a high bulk Sr partition coefﬁ cient. On the other hand, 
+these ﬁ rst-period rocks are almost aphyric, and it is possible 
+that mineral phase proportions are slightly different for these 
+rocks compared to other ﬁ rst- and second-period rocks. Lower 
+amounts of plagioclase would be enough to lower the bulk Sr 
+partition coefﬁ cient to a value that would produce a line of low 
+constant r (~0.2), matching the trend observed for these rocks.
+The modeling suggests that the evolution of the amphi-
+bole-free magmas is controlled by AFC processes, charac-
+terized by different r values. A range of r values is expected, 
+since samples were collected from different domes and each 
+magma had a different history of ascent. The mass of fraction-
+ating solid also varies, but is around 10%–30% for all modeled 
+trace elements, with probably a smaller range (~10%–20%) for 
+the ﬁ rst-period aphyric rocks. These ﬁ gures are in agreement 
+with the Sr isotope data, which suggest a value of 10% for frac-
+tionating solid.
+Amphibole-Bearing Group
+The amphibole-bearing group shows a large range in iso-
+tope ratios and no clear correlation between 87Sr/86Sr ratios and 
+εNd values (Fig. 11). First-period rocks have almost constant 
+εNd values but a wider range in 87Sr/86Sr ratios. One of the sec-
+ond-period samples is instead characterized by a signiﬁ cantly 
+lower εNd value. In addition, a negative correlation between Sr 
+isotope ratios versus degree of evolution is noticeable (Fig. 12). 
+All these observations can be interpreted in the light of AEC 
+processes.
+In order to evaluate whether AEC processes might explain 
+the geochemical and isotopic characteristics of the investigated 
+rocks, crustal contamination and mixing calculations were 
+undertaken to model such processes. Since AEC processes act 
+on liquids having different degrees of evolution, it is necessary 
+to evaluate the role of fractionation in modifying major- and 
+trace-element contents of this group of rocks. Simple crystal-
+fractionation calculations were performed using quantitative 
+major-element mass-balance modeling and assuming the com-
+position of SPC124 as the parental liquid composition. This 
+sample has the lowest silica content and the highest concen-
+tration of compatible trace elements of the amphibole-bearing 
+group. Thus, it appears to be the closest derivative from a more 
+primitive magma composition among the amphibole-bearing 
+group.
+Two steps of fractionation were evaluated. The ﬁ rst step 
+considers evolution from andesite to dacite, whereas the sec-
+ond step covers evolution of dacite to rhyolite. The fraction-
+
+ 
+The San Pedro–Cerro Grande volcanic complex 
+91
+Figure 13. Sr versus 87Sr/86Sr, Rb, Ce, Ba, and Zr showing the results of assimilation and fractional crystallization (AFC) processes for the am-
+phibole-free rocks using two different compositions of crustal xenoliths: orthogneiss (MN42, Cameron et al., 1992; line with horizontal bars) 
+and paragneiss (GNX22, Cameron et al., 1992; line with vertical bars). Symbols on lines or thin lines represent different amounts of S = solid 
+fractionation (S = 10%–20%–30%). AFC processes were modeled using different r (= assimilation rate/crystallization rate) values and bulk 
+partition coefﬁ cients: DSr = 2; DRb = 0.02; DCe = 0.4; DBa = 0.04; DZr = 0.2. Partition coefﬁ cients were taken from Francalanci and Santo (1993). 
+Hypothetical initial magma composition (pt): 87Sr/86Sr: 0.703821; other element values as in sample SPC146.
+ating mineral assemblages were selected, using those phases 
+that produced the smallest residual errors (Σr2, squared oxide 
+wt%). Andesite to dacite crystal fractionation can be modeled 
+by fractionating around 31% solid, constituted by plagioclase 
+(59%), amphibole (28%), orthopyroxene (7%), and titanomag-
+netite (7%). The dacite-rhyolite path can be modeled by 20% 
+crystallization of plagioclase (56%), amphibole (40%), titano-
+magnetite (3%), and apatite (1%). The residual errors are low 
+in both cases (0.1 and 0.4, respectively), and the fractionating 
+assemblages agree with the observed mineral modal composi-
+tions of the rocks.
+Trace-element modeling for selected elements (Cr, Co, Rb, 
+Sr, Y, Nb, Zr, Ba, La, and Ce) was performed using Rayleigh 
+fractionation. The partition coefﬁ cients were taken from the 
+
+92 
+Petrone et al.
+literature (Francalanci and Santo, 1993) and evaluated for being 
+suitable for intermediate-felsic subalkaline rocks. Results indi-
+cate that the calculated Ce contents agree with observed values, 
+suggesting that amphibole played a key role in determining con-
+trasting Ce contents in amphibole-bearing and amphibole-free 
+groups. Fractional crystallization fails to match the observed 
+variations for all other trace elements. This was expected given 
+the large Sr isotope variability, which points to the assimilation of 
+continental crust. In particular, the Sr enrichment (element con-
+centration in liquid/initial element concentration) is lower than 
+any modeled enrichment, whereas it is always higher for Rb.
+The observed variations in the εNd versus 87Sr/86Sr diagram 
+(Fig. 11) indicate that at least two different crustal composi-
+tions were involved in the evolution of the amphibole-bearing 
+rocks. These crustal components are characterized by hav-
+ing different 143Nd/144Nd and 87Sr/86Sr compositions. Mexican 
+crustal components span large ranges in composition and in 
+many cases one of the components is not clearly distinguish-
+able from the others, given their overlapping isotopic composi-
+tions (Fig. 11). Nevertheless, the observed Nd and Sr isotope 
+compositions of the amphibole-bearing rocks allow us to dis-
+criminate among different crustal compositions. One of the 
+crustal components should be characterized by high 87Sr/86Sr 
+ratios, low Sr contents, and relatively high εNd values, close to 
+those shown by the ﬁ rst-period amphibole-bearing rocks. The 
+most probable candidates with such a composition are either 
+orthogneiss or paragneiss crustal xenoliths from central and 
+eastern México (Cameron et al., 1992). The other component 
+should be characterized by low εNd values and 87Sr/86Sr ratios. 
+This component could be either orthogneiss or the Jurrassic-
+Cretaceous volcano-sedimentary sequence, which constitutes 
+the upper part of the Guerrero terrane, hosting the Puerto Val-
+larta batholith (Centeno-García et al., 1993).
+AEC processes were evaluated using both Sr and Nd iso-
+tope data and selected incompatible trace-element data (Fig. 14). 
+The increase in 87Sr/86Sr ratios without a concurrent decrease in 
+Nd isotope ratios (Fig. 14A), observed for high 143Nd/144Nd and 
+high 87Sr/86Sr ﬁ rst-period rocks, is matched by adding different 
+amounts of crustal contaminants (maximum amount <20%), 
+such as either orthogneiss or paragneiss. In this case, the 
+composition of the paragneiss would be completely different 
+from that previously used for modeling AFC processes for the 
+amphibole-free rocks. This seems highly improbable consider-
+ing the limited area in which both groups were erupted, and 
+thus suggests that the orthogneiss is a more probable candidate 
+as the crustal contaminant. The decrease in 143Nd/144Nd associ-
+ated with a slight increase in 87Sr/86Sr ratios shown by post-
+caldera second-period rock is matched by crustal contamina-
+tion (~5%–10%) from the Jurassic-Cretaceous sequence of the 
+upper part of the Guerrero terrane. This contamination could 
+also have originated from a hypothetical orthogneiss with a 
+composition that is different from the orthogneiss mentioned 
+earlier. This case would imply the existence of an extremely 
+heterogeneous orthogneiss for which evidence is still lacking. 
+A
+B
+C
+Figure 14. (A) 143Nd/144Nd versus 87Sr/86Sr; (B) 87Sr/86Sr versus Ce; and 
+(C) 87Sr/86Sr versus Rb diagrams for amphibole-bearing San Pedro–
+Cerro Grande volcanic complex rocks, showing the results of assimila-
+tion and equilibrium crystallization (AEC) modeling. AEC was mod-
+eled starting from liquids at different degrees of evolution. Lines plus 
+symbols are mixing lines modeling the crustal assimilation processes 
+between the hypothetical parental magma (pt: 143Nd/144Nd 0.512785; 
+87Sr/86Sr 0.703821; Sr 780 ppm; Nd 13 ppm; Ce 29 ppm; and Rb 20 
+ppm) and different compositions of Mexican crustal rocks: orthogneiss 
+crustal xenolith (MN42, Cameron et al., 1992; line with vertical bar) 
+and Guerrero terrane (G8-90; Centeno-García et al., 1993; line with 
+horizontal bar). Numbers on line indicate different percent of mixing. 
+FC = fractional crystallization. More details are given in the text. 
+
+ 
+The San Pedro–Cerro Grande volcanic complex 
+93
+Starting from the hypothetical composition of the parental 
+magma, which has the lowest observed incompatible trace-ele-
+ment contents and the lowest observed 87Sr/86Sr ratios, simple 
+crystal fractionation would not modify Sr isotope ratios, but 
+would produce an increase in incompatible trace elements (i.e., 
+Ce and Rb), as shown in Figures 14B and 14C. The highest 
+87Sr/86Sr ratios displayed by the least-differentiated ﬁ rst-period 
+rocks can be explained by orthogneiss crustal contamina-
+tion. In this case, the highest 87Sr/86Sr ratio is produced by the 
+greatest amount of crustal contamination (10%–20%). On the 
+other hand, this mixing line does not match the lower 87Sr/86Sr 
+ratio shown by the more differentiated ﬁ rst-period rocks. This 
+would require a lower contamination of orthogneiss starting 
+from a more differentiated liquid composition (Figs. 14B and 
+14C). The composition of the second-period rock is matched 
+by less than 5% crustal contamination of an even more dif-
+ferentiated liquid (liquid with the same 87Sr/86Sr ratios as the 
+initial parental magma, but higher Ce and Rb contents) by 
+components from the Guerrero terrane. It might be argued that 
+trace-element variation without concomitant changes in the 
+87Sr/86Sr ratios could also be the result of mantle source par-
+tial melting. The absence of a negative correlation between Nb 
+and compatible elements, as well as the lack of any correlation 
+among HFSE and HREE, speak against this hypothesis. Thus, 
+although nonunique, these models, as well as those shown for 
+the amphibole-free group, demonstrate that the chemical and 
+isotopic composition of the studied rocks can be explained by 
+different crustal contamination processes.
+It is hard to say whether contamination took place during 
+storage in a magma chamber or during ascent. The Al-in-horn-
+blende barometer indicates mineral crystallization depths of 
+around 13 km, which implies a mid- to upper-crustal magma 
+chamber. Isotope data suggest the presence of two different 
+crustal contaminants, which may be located at different depths 
+in the crust (Cameron et al., 1992; Centeno-García et al., 1993). 
+If crustal contamination took place in the magma chamber, we 
+could expect a shallowing of the magma chamber with time 
+from a deeper ﬁ rst-period to a shallower postcaldera reservoir. 
+In principle, this might be possible, but clear evidence for this 
+is not available. In this context, it seems to be more realistic to 
+suggest that magmas having different degrees of evolution and 
+slightly different temperatures, as suggested by geothermom-
+eter calculations (i.e., less evolved ﬁ rst-period rocks showing 
+slightly higher temperatures than more evolved ﬁ rst- and sec-
+ond-period rocks), were generated by crystal fractionation pro-
+cesses, and that assimilation of crustal rocks mostly took place 
+during the ascent of small magma batches feeding different 
+domes. Several lines of evidence support this hypothesis: (1) 
+the amounts of crustal assimilation depend upon the time fac-
+tor in an evolving magma chamber. Under fractional crystal-
+lization and continuous availability of contaminant, the longer 
+magmas remain in the chamber (i.e., more evolved magmas), 
+the higher the contamination. This cannot apply to the amphi-
+bole-bearing rocks, for which less differentiated compositions 
+are the more contaminated. (2) The high water contents of 
+these magmas can favor partial melting of surrounding crustal 
+rocks and thus their assimilation, which will be more efﬁ cient 
+the smaller the batch of magma. (3) Water supply from magma 
+degassing during ascent may favor partial melting of crustal 
+rocks, thus favoring AEC processes even in more evolved 
+magmas.
+Amado Nervo Na-Alkaline Rocks
+Amado Nervo lavas are unique in the San Pedro–Cerro 
+Grande volcanic complex in that they are characterized by 
+large variations in trace-element and isotopic compositions 
+despite their narrow silica range. Olivine is the only pheno-
+cryst, and plagioclase, clinopyroxene, and opaque minerals 
+are found solely in the groundmass, along with olivine. These 
+petrographic characteristics are difﬁ cult to reconcile with the 
+observed variations between silica and other major elements 
+(Fig. 8). Indeed, TiO2, Al2O3, CaO, and K2O do not correlate 
+positively with silica content, as would be expected for olivine-
+dominated fractionation. In addition, trace elements are scat-
+tered at the same silica content (Fig. 9). Amado Nervo rocks 
+also have variable 87Sr/86Sr ratios, which are not correlated with 
+silica or trace-element contents (Fig. 12). All these observa-
+tions indicate that simple fractional crystallization cannot be 
+responsible for the observed whole-rock data. Instead these 
+variations could arise from crustal assimilation or source dif-
+ferentiation processes.
+The negative correlation between Sr and K2O contents 
+(Fig. 15) might suggest crustal assimilation, which could also 
+lead to the negative correlation between 143Nd/144Nd versus 
+87Sr/86Sr ratios and the positive correlation between 87Sr/86Sr and 
+206Pb/204Pb ratios (Fig. 15) (Petrone et al., 2003). On the other 
+hand, this process is not clearly supported by the poor correla-
+tions between 87Sr/86Sr ratios and Rb, Sr, and silica contents. A 
+crustal assimilation process (i.e., AFC) represents just one of 
+the possible explanations for the correlation trends observed 
+between Sr and Nd (i.e., a negative trend) and Pb isotopes 
+(i.e., a positive trend). Furthermore, the rock (SPC24) with the 
+highest Sr content (which should be the most contaminated 
+and evolved magma if produced by an AFC process with no 
+plagioclase fractionation), is neither characterized by the high-
+est Rb and K2O contents, nor by the most radiogenic 87Sr/86Sr 
+and 206Pb/204Pb ratios nor by the lowest 143Nd/144Nd ratio (Fig. 
+15, Tables 3 and 11). In addition, the most primitive and least 
+radiogenic sample (SPC25, based on Mg# and compatible trace 
+elements) is not the most primitive in regard to incompatible 
+trace-element abundances and silica content (Fig. 15, Tables 
+3 and 11). Thus, the relationships between trace elements and 
+Sr, Nd, and Pb isotope data are difﬁ cult to explain by crustal 
+contamination. The absence of a positive correlation between 
+87Sr/86Sr ratios and silica and incompatible elements speaks 
+against an AFC process; the lack of a negative correlation 
+excludes an AEC process.
+
+94 
+Petrone et al.
+Figure 15. Sr versus K2O; Rb versus Ni; 143Nd/144Nd and 206Pb/204Pb versus 87Sr/86Sr diagrams for the Amado Nervo rocks. Some samples are also 
+labeled. See text for more details; 206Pb/204Pb data are from Petrone et al. (2003).
+This evidence suggests that the observed variability in 
+trace-element and isotope compositions was inherited from 
+source processes. Geochemical and isotopic data suggest that 
+the parental magma was only slightly modiﬁ ed by olivine frac-
+tionation. Clinopyroxene barometry of a magmatic enclave 
+hosted in Amado Nervo lava indicates a depth of crystalliza-
+tion of around 60 km. This places the source of this magma in 
+the upper mantle, since the mantle-crust boundary has been 
+estimated at 40–50 km in this area (Urrutia-Fucugauchi and 
+Flores-Ruiz, 1996). The observed variability in Sr, Nd, and Pb 
+isotope compositions points toward a heterogeneous mantle 
+source. The correlations observed between the three isotopic 
+systems suggest variable degrees of mixing between different 
+mantle components. Such an origin for these rocks was sug-
+gested before by Petrone et al. (2003), who showed that at least 
+two mantle components (a depleted one and an enriched one) 
+must exist in the mantle wedge below the San Pedro–Ceboruco 
+graben. Mixing of partial melts from these two mantle sources 
+may explain the observed isotopic compositions of maﬁ c 
+Amado Nervo rocks as well as their transitional afﬁ nity. At the 
+same time, this heterogeneous mantle source might undergo 
+variable degrees of partial melting, producing the observed 
+compositional range in trace-element contents. Thus, the geo-
+chemical and isotopic characteristics of the Amado Nervo 
+maﬁ c rocks are most likely caused by variable degrees of par-
+tial melting of a heterogeneous mantle source.
+Magma Evolution of the San Pedro–Cerro Grande 
+Volcanic Complex
+Petrographic, geochemical, and isotopic characteristics of 
+the amphibole-free and amphibole-bearing rocks originated 
+from different evolutionary processes that modiﬁ ed a common 
+parental magma: AFC controlled the amphibole-free magmas 
+and AEC controlled the amphibole-bearing magmas. The 
+two magma series were contemporaneous but spatially sepa-
+rated (Fig. 5), suggesting the presence of at least two different 
+magma storage regions.
+The amphibole-bearing magma reservoir is probably 
+located in the mid-upper crust. Unfortunately, it was not pos-
+
+ 
+The San Pedro–Cerro Grande volcanic complex 
+95
+sible to constrain the depth of the amphibole-free reservoir 
+from geothermobarometric calculations. Pre-eruptive magma 
+temperatures for the amphibole-free magmas overlap those 
+of the second-period amphibole-bearing rocks. Pre-eruptive 
+water contents of amphibole-free magmas also overlap those 
+for the amphibole-bearing group. Andesitic magmas with 7 
+wt% of water reach their solubility limit at ~0.3 GPa (Moore 
+and Carmichael, 1998), thus water-saturated conditions ﬁ t bet-
+ter with estimated water contents and petrographic and chemi-
+cal characteristics of intermediate to felsic rocks. The absence 
+of amphibole crystallization suggests a magma reservoir that 
+is shallower than that of the amphibole-bearing group. Magma 
+in the shallower reservoir has also lower water contents 
+because of decreasing water solubility at lower depth (Moore 
+and Carmichael, 1998). Alternatively, amphibole-free mag-
+mas may have the same bulk composition and water contents 
+as amphibole-bearing magmas, but they are hotter and thus 
+beyond the thermal stability limit of amphibole. In this case, 
+the two magma reservoirs might be at the same depth. Evi-
+dence is not enough to favor either one of these possibilities, 
+but Al2O3 and Sr contents are higher in the amphibole-bearing 
+than in the amphibole-free rocks, at the same silica contents. 
+This indicates a limited role of plagioclase fractionation in the 
+amphibole-bearing rocks. Plagioclase crystallization may be 
+suppressed in a deeper reservoir, supporting the idea that the 
+two magmas formed at different depths. In the water-saturated 
+phase diagram for western México andesite (Moore and Car-
+michael, 1998), the lower stability ﬁ eld of mineral assemblages 
+observed in amphibole-free and amphibole-bearing rocks is 
+limited by the clinopyroxene-in curve. This mineral phase was 
+not observed in our rocks. Furthermore, the diagram suggests 
+lower pressure and lower water contents (<5 wt%) (and slightly 
+higher temperature) for amphibole-free rocks. Thus, it seems 
+possible that the amphibole-free magmas were more degassed 
+and rested in a reservoir shallower than that of the amphibole-
+bearing magmas. Being stored in different reservoirs may 
+have allowed the magmas to evolve through different crustal 
+assimilation processes. Amphibole-bearing magma rested in 
+a deeper (~0.3–0.4 GPa) reservoir where fractional crystalli-
+zation allowed the formation of andesitic to rhyolitic liquids, 
+which subsequently ascended as single magma batches with 
+different degrees of evolution. Water exsolution subsequent to 
+decompression degassing may have favored partial melting of 
+crustal rocks of different types and thus AEC processes, which 
+occurred during ascent. Amphibole-free magmas rested in a 
+shallower reservoir characterized by lower amounts of water, 
+and they evolved through AFC processes. The different erup-
+tive styles displayed by the amphibole-bearing and amphibole-
+free magmas may have been the result of their different magma 
+storage depths and water contents. Higher water contents of the 
+amphibole-bearing magmas favored intense explosive activ-
+ity, which resulted in the eruption of the Cuastecomate pum-
+ice deposit and subsequent San Pedro caldera collapse. The 
+limited explosive activity produced by amphibole-free mag-
+mas (i.e., Las Cuevas pyroclastic deposit, which was probably 
+related to the emplacement of a dome) may be related to their 
+lower water contents. The amphibole-bearing and amphibole-
+free rocks are not highly crystalline, and hypohyaline lavas 
+as well as aphyric rocks are found among them, respectively. 
+This suggests rapid ascent toward the surface during the ﬁ nal 
+part of the path, as also evidenced by the limited presence of 
+amphibole reaction rims in amphibole-bearing rocks.
+Within this frame, a mantle liquid with different petrolog-
+ical afﬁ nity unrelated to the typical subalkaline compositions 
+(Petrone et al., 2003) of the San Pedro–Cerro Grande volcanic 
+complex rose toward the surface during the second period of 
+activity, giving rise to the Amado Nervo volcano. This vol-
+cano is located along the San Pedro caldera rim, indicating 
+enhanced extensional crustal conditions in this area, which 
+favored rapid ascent of magma from the mantle. A regime of 
+long-term crustal extension in the region (Ferrari and Rosas-
+Elguera, 2000) favored the rising of this maﬁ c liquid.
+CONCLUSIONS
+The volcanic evolution of the San Pedro–Cerro Grande 
+volcanic complex can be divided into two main periods of 
+activity. Highly viscous magmas were extruded in the form of 
+coalescent domes and massive lava ﬂ ows with minor pyroclas-
+tic eruptions. Formation of an ellipsoidal caldera divides the 
+two periods of activity.
+Precaldera volcanic activity is middle Pleistocene (younger 
+than ca. 280 ka) in age and is characterized by the emplace-
+ment of subalkaline rocks ranging in composition from andes-
+ite to rhyolite. This ﬁ rst period ended before ca. 280 ka with 
+the emplacement of the Cuastecomate Plinian deposit related 
+to the formation of the San Pedro caldera. Postcaldera activity 
+covers a time span between ca. 280 ka and 30 ka, with emplace-
+ment of subalkaline rocks, ranging from dacite to rhyolite, 
+and minor Na-alkaline maﬁ c rocks (hawaiite and mugearite). 
+These two different types of magma are genetically unrelated 
+to each other (Petrone et al., 2003) and no evidence of interac-
+tion between them has been found, suggesting that Na-alkaline 
+hawaiites represent a separate pulse of magma from a different 
+source.
+Geochemical characteristics of the Na-alkaline Amado 
+Nervo rocks suggest that source differentiation processes 
+played an important role and that chemical compositions of the 
+rocks were modiﬁ ed only slightly by low-pressure evolution 
+processes. The extensional stress ﬁ eld characterizing the San 
+Pedro–Cerro Grande volcanic complex area favored the rise of 
+these mantle melts.
+The subalkaline suite can be further divided into amphi-
+bole-bearing and amphibole-free rocks, which occur in both 
+pre- and postcaldera periods. These two groups are coeval but 
+spatially separated. Amphibole-bearing rocks have lower Ce 
+and other related incompatible trace-element contents (i.e., La, 
+Zr, Y, Rb) but higher Sr abundances than amphibole-free rocks. 
+
+96 
+Petrone et al.
+Initial 87Sr/86Sr isotope values of amphibole-bearing rocks are 
+lower than those of amphibole-free rocks.
+Amphibole-bearing and amphibole-free magmas evolved 
+in distinct reservoirs at different pressures and water contents. 
+Amphibole-bearing magmas evolved at pressures between 0.3 
+and 0.4 GPa, in a magma chamber at ~13 km depth. Amphi-
+bole-free magmas evolved in a shallower magma chamber, 
+characterized by lower water contents. All data suggest that 
+these two groups of magmas were generated from a common 
+hydrated parental magma that fed the two different reservoirs.
+Amphibole-bearing magmas evolved by AEC processes, 
+where fractionating phases included plagioclase, amphibole, 
+orthopyroxene, and titanomagnetite. In addition, the assimila-
+tion of lower-crustal rocks kept Sr isotopic values low in con-
+trast to Sr isotope ratios measured in amphibole-free rocks. 
+High magmatic water contents favored partial melting of 
+crustal rocks during ascent, and in turn determined AEC pro-
+cesses.
+Amphibole-free magmas evolved by AFC processes with 
+crystallization and fractionation of plagioclase, orthopyrox-
+ene, and titanomagnetite, and assimilation of middle-upper 
+crustal metasedimentary rocks (i.e., paragneiss). In addition, 
+amphibole-free magmas rose to the surface through a different 
+plumbing system from the one used by the amphibole-bearing 
+magmas. Eruption vents of amphibole-free rocks are concen-
+trated to the southeast of the San Pedro–Cerro Grande domes.
+Different depths of magma storage and water contents deter-
+mined magma evolution paths producing either amphibole-bear-
+ing or amphibole-free magmas. Higher water contents in the 
+deeper amphibole-bearing magmas may have favored a more 
+intense explosive activity, which culminated in the San Pedro 
+caldera collapse.
+ACKNOWLEDGMENTS
+The authors would like to thank the staff of the Laborato-
+rio Universitario de Geoquímica Isotópica (LUGIS) of México, 
+and in particular Gabriela Solis and Juan Julio Morales for 
+allowing access to mass spectrometer facilities of the Universi-
+dad Nacional Autónoma de México (UNAM) in México City; 
+Giulia Perini for help during the isotope analyses at the Dipar-
+timento di Scienze della Terra of Florence (Italy); Filippo Olmi 
+and Gloria Vaggelli for allowing access to microprobe facilities; 
+Giordano Montegrossi for help during wet chemistry analysis; 
+Piero Manetti for constantly supporting the research; and Jim 
+Luhr and Alfredo Aguillón-Robles for critical and thoughtful 
+reviews of an early draft of the manuscript. Andrea Orlando 
+and Giulia Perini are thanked for constantly stirring discus-
+sion. Skeptical and thoughtful reviews by Rebecca Lange and 
+Jim Gardner greatly helped to strengthen the ﬁ nal manuscript. 
+Careful review by Claus Siebe improved the English style. 
+Financial support was provided by Università degli Studi di 
+Firenze through ex 60% grant and through a Ph.D. fellowship 
+granted to Chiara M. Petrone, by MIUR Ministero Università 
+e Ricerca Scientiﬁ ca) funds, and by a bilateral CNR (Consiglio 
+Nazionale delle Ricerche)-CONACyT project and the Sezione 
+di Firenze of the Istituto di Geoscienze e Georisorse.
+REFERENCES CITED
+Avanzinelli, R., Conticelli, S., Francalanci, L., Manetti, P., Perini, G., Petrone, 
+C.M., Tommasini, S., and Ulivi, M., 2001, Radiogenic isotope geology in 
+Florence: Aims and perspective: Geoitalia 2001, Abstract volume, Cieti, 
+Italy, p. 705–706. 
+Bacon, C.R., and Hirschmann, M.M., 1988, Mg/Mn partitioning as a test for 
+equilibrium between coexisting Fe-Ti oxide: American Mineralogist, 
+v. 73, p. 57–61.
+Bence, A.E., and Albee, A.L., 1968, Empirical correction factors for the elec-
+tron microanalysis of silicates and oxides: Journal of Geology, v. 76, 
+p. 382–402.
+Brey, G.P., and Köhler, T., 1990, Geothermobarometry in four phase lherzolites. 
+II: New thermobarometers and practical assessment of using thermoba-
+rometers: Journal of Petrology, v. 31, p. 1353–1378.
+Cameron, K.L., Robinson, J.V., Niemeyer, S., Nimz, G.J., Kuentz, D.C., Har-
+mon, R.S., Bohlen, S.R., and Collerson, K.D., 1992, Contrasting styles 
+of pre-Cenozoic and mid-Tertiary crustal evolution in northern Mexico: 
+Evidence from deep crustal xenoliths from La Olivina: Journal of Geo-
+physical Research, v. 97, no. B12, p. 17,353–17,376.
+Carmichael, I.S.E., 2002, The andesite aqueduct perspectives on the evolution 
+of intermediate magmatism in west-central (105–99°W) Mexico: Contri-
+butions to Mineralogy and Petrology, v. 143, p. 641–663.
+Castillo, D., and De La Cruz, V., 1992, Reconocimiento estructural y volca-
+nológico en la zona termal del Domo San Pedro Lagunillas, Nayarit, 
+Mexico: Geofísica Internacional, v. 31, p. 407–415.
+Centeno-García, E., Ruiz, J., Coney, P.J., Patchett, P.J., and Gutiérrez, F.O., 
+1993, Guerrero terrane of Mexico: Its role in the Southern Cordillera from 
+new geochemical data: Geology, v. 21, p. 419–422, doi: 10.1130/0091-
+7613(1993)021<0419:GTOMIR>2.3.CO;2.
+De Paolo, D.J., 1981, Trace element and isotopic effects of combined wall rock 
+assimilation and fractional crystallization: Earth and Planetary Science 
+Letters, v. 53, p. 189–202, doi: 10.1016/0012-821X(81)90153-9.
+DeRemer, L.A., 1986, The geologic and chemical evolution of Volcan Tepetiltic, 
+Nayarit, Mexico [M.S. thesis]: New Orleans, Louisiana, USA, Tulane 
+University, 158 p.
+Devey, C.V., and Cox, K.G., 1987, Relationships between crustal contamination 
+and crystallization in continental ﬂ ood basalt magmas with special refer-
+ence to the Deccan Traps of Western Ghats, India: Earth and Planetary 
+Science Letters, v. 84, p. 59–68, doi: 10.1016/0012-821X(87)90176-2.
+Ferrari, L., 1995, Miocene shearing along the northern boundary of the 
+Jalisco block and the opening of the southern Gulf of California: Geol-
+ogy, 
+v. 23, 
+p. 751–754, 
+doi: 
+10.1130/0091-7613(1995)023<0751:
+MSATNB>2.3.CO;2.
+Ferrari, L., and Rosas-Elguera, J., 2000, Late Miocene to Quaternary exten-
+sion at the northern boundary of the Jalisco block, western Mexico: The 
+Tepic-Zacoalco rift revised, in Delgado-Granados, H., Aguirre-Diaz, G., 
+and Stock, J.M., eds., Cenozoic tectonics and volcanism of Mexico: Geo-
+logical Society of America Special Paper 334, p. 41–64.
+Ferrari, L., Pasquarè, G., Venegas-Salgado, S., and Romero-Ríos, F., 2000, 
+Geology of the western Mexican Volcanic Belt and adjacent Sierra Madre 
+Occidental and Jalisco block, in Delgado-Granados, H., Aguirre-Diaz, G., 
+and Stock, J.M., eds., Cenozoic tectonics and volcanism of Mexico: Geo-
+logical Society of America Special Paper 334, p. 65–84.
+Ferrari, L., Petrone, C.M., and Francalanci, L., 2001, Generation of OIB-
+type volcanism in the western Trans-Mexican Volcanic Belt by slab 
+roll-back, asthenosphere inﬁ ltration and variable ﬂ ux-melting: Geol-
+ogy, 
+v. 29, 
+p. 507–510, 
+doi: 
+10.1130/0091-7613(2001)029<0507:
+GOOIBT>2.0.CO;2.
+Ferrari, L., Petrone, C.M., Francalanci, L., Tagami, T., Eguchi, M., Conti-
+celli, S., Manetti, P., and Venegas-Salgado, S., 2003, Geology of the San 
+Pedro–Ceboruco graben, western Trans-Mexican Volcanic Belt: Revista 
+Mexicana de Ciencias Geológicas, v. 20, p. 165–181.
+Francalanci, L., and Santo, A.P., 1993, Magmatological evolution of Filicudi 
+volcanoes, Aeolian Islands, Italy: Constraints from mineralogical, geo-
+chemical and isotopic data: Acta Vulcanologica, v. 3, p. 203–227.
+
+ 
+The San Pedro–Cerro Grande volcanic complex 
+97
+Francalanci, L., Manetti, P., Peccerillo, A., and Keller, J., 1993, Magmatologi-
+cal evolution of the Stromboli volcano (Aeolian Arc, Italy): Inferences 
+from major and trace element and Sr isotopic composition of lavas and 
+pyroclastic rocks: Acta Vulcanologica, v. 3, p. 127–151.
+Franzini, M., Leoni, L., and Saitta, M., 1972, A simple method to evaluate 
+matrix effects in X-ray ﬂ uorescence analysis: X-Ray Spectrometry, v. 1, 
+p. 151–154, doi: 10.1002/xrs.1300010406.
+Frey, H.M., Lange, R.A., Hall, C.M., and Delgado-Granados, H., 2004a, 
+Magma eruption rate constrained by 40Ar-39Ar chronology and GIS for the 
+Ceboruco–San Pedro volcanic ﬁ eld, western Mexico: Geological Society 
+of America Bulletin, v. 116, p. 259–276, doi: 10.1130/B25321.1.
+Frey, H.M., Lange, R.A., Hall, C.M., Nelson S., and Delgado-Granados, H., 
+2004b, Eruptive history of Volcán Tepetiltic, Mexico: Evidence for 
+remelting of silicic ashﬂ ows revealed by 40Ar/39Ar geochronology: Eos 
+(Transactions, American Geophysical Union), v. 85(47), Abstract V53A-
+0606.
+Frost, B.R., and Lindsley, D.H., 1991, Occurrence of iron-titanium oxides in 
+igneous rocks: Reviews in Mineralogy, v. 25, p. 433–468.
+Gardner, J., and Tait, S., 2000, The caldera-forming eruption of Volcán 
+Ceboruco, Mexico: Bulletin of Volcanology, v. 62, p. 20–33, doi: 10.1007/
+s004450050288.
+Gastil, G., Krummenacher, D., and Jensky, A.W., 1978, Reconnaissance geo-
+logic map of the west-central part of the state of Nayarit, Mexico: Geolog-
+ical Society of America Maps and Chart Series MC-24, scale 1:200,000.
+Ghiorso, M.S., and Sack, R.O., 1991, Fe-Ti oxide geothermometry: Thermo-
+dynamic formulation and the estimation of intensive variables in silicic 
+magmas: Contributions to Mineralogy and Petrology, v. 108, p. 485–510, 
+doi: 10.1007/BF00303452.
+Holland, T., and Blundy, J., 1994, Non-ideal interactions in calcic amphiboles 
+and their bearing on amphibole-plagioclase thermometry: Contribu-
+tions to Mineralogy and Petrology, v. 116, p. 433–447, doi: 10.1007/
+BF00310910.
+Housh, T.B., and Luhr, J.F., 1991, Plagioclase-melt equilibria in hydrous sys-
+tems: American Mineralogist, v. 76, p. 477–492.
+Huppert, H.E., and Sparks, R.S.J., 1985, Cooling and contamination of maﬁ c 
+and ultramaﬁ c magmas during ascent through the continental crust: Earth 
+and Planetary Science Letters, v. 74, p. 371–386.
+Irvine, T.N., and Baragar, W.R.A., 1971, A guide to the chemical classiﬁ cation 
+of the common igneous rocks: Canadian Journal of Earth Sciences, v. 8, 
+p. 523–548.
+Jenkins, R., and De Vries, J.L., 1971, Spettrometria a raggi X in pratica: Milano, 
+Italy, Biblioteca Tecnica Philips, 193 p.
+Johnson, M.C., and Rutherford, M.J., 1989, Experimental calibration of the 
+aluminum-in-hornblende geobarometer with application to Long Valley 
+caldera (California) volcanic rocks: Geology, v. 17, p. 837–841.
+Köhler, T.P., and Brey, G.P., 1990, Calcium exchange between olivine and 
+clinopyroxene calibrated as a geothermobarometer for natural peridotites 
+from 2 to 60 kb and applications: Geochimica et Cosmochimica Acta, 
+v. 54, p. 2375–2388, doi: 10.1016/0016-7037(90)90226-B.
+Leake, B.E., Woolley, A.R., Arps, C.E.S., Birch, W.D., Gilbert, M.C., Grice, 
+K.D., Hawthorne, F.C., Kato, A., Kisch, H.J., Krivovichev, V.G., Linthout, 
+K., Laird, J., Mandarino, J.A., Marisch, W.V., Nickel, E.H., Rock, N.M.S., 
+Schumacher, J.C., Smith, D.C., Stephenson, N.C.N., Ungaretti, L., Whit-
+taker, E.J.W., and Youzhi, G., 1997, Nomenclature of amphiboles: Report 
+of the Subcommittee on Amphiboles of the International Mineralogical 
+Association, Commission on New Mineral Names: American Mineralo-
+gist, v. 82, p. 1019–1037.
+Le Bas, M.J., Le Maitre, R.W., and Woolley, A.R., 1992, The construction of 
+the total alkali-silica chemical classiﬁ cation of volcanic rocks: Mineral-
+ogy and Petrology, v. 46, p. 1–22, doi: 10.1007/BF01160698.
+Luhr, J., 1997, Extensional tectonics and the diverse primitive volcanic rocks 
+in the western Mexican Volcanic Belt: Canadian Mineralogist, v. 35, 
+p. 473–500.
+Luhr, J., 2000, The geology and petrology of Volcán San Juan Nayarit, Mex-
+ico, and the compositionally zoned Tepic Pumice: Journal of Volcanol-
+ogy and Geothermal Research, v. 95, p. 109–156, doi: 10.1016/S0377-
+0273(99)00133-X.
+Luhr, J.F., Allan, J.F., Carmichael, I.S.E., Nelson, S.A., and Hasenaka, T., 1989, 
+Primitive calc-alkaline and alkaline rock types from the western Mexican 
+Volcanic Belt: Journal of Geophysical Research, v. 94, p. 4515–4530.
+Mahood, G.A., and Halliday, A.N., 1988, Generation of high-silica rhyolite: A 
+Nd, Sr and O isotopic study of Sierra La Primavera, Mexican Volcanic 
+Belt: Contributions to Mineralogy and Petrology, v. 100, p. 183–191, doi: 
+10.1007/BF00373584.
+Matthews, S.J., Jones, A.P., and Gardeweg, M.C., 1994, Lascar volcano, north-
+ern Chile; evidence for steady-state disequilibrium: Journal of Petrology, 
+v. 35, p. 401–432.
+Moore, G., and Carmichael, I.S.E., 1998, The hydrous phase equilibria (to 3 
+kbar) of an andesite and basaltic andesite from western Mexico: Con-
+straints on water content and conditions of phenocryst growth: Contri-
+butions to Mineralogy and Petrology, v. 130, p. 304–319, doi: 10.1007/
+s004100050367.
+Morimoto, N., Fabries, J., Ferguson, A.K., Ginzburg, I.V., Ross, M., Seifeit, 
+F.A., and Zussman, J., 1989, Nomenclature of pyroxenes: Canadian Min-
+eralogist, v. 27, p. 143–156
+Nelson, S.A., 1980, Geology and petrology of Volcán Ceboruco, Nayarit, Mex-
+ico: Geological Society of America Bulletin, v. 91, p. 2290–2431, doi: 
+10.1130/0016-7606(1980)91<639:GAPOVC>2.0.CO;2.
+Nelson, S.A., and Carmichael, I.S.E., 1984, Pleistocene to Recent alkalic vol-
+canism in the region of Sanganguey volcano, Nayarit, Mexico: Contri-
+butions to Mineralogy and Petrology, v. 85, p. 321–335, doi: 10.1007/
+BF01150290.
+Nelson, S.A., and Livieres, R.L., 1986, Contemporaneous calc-alkaline and 
+alkaline volcanism at Sanganguey volcano, Nayarit, Mexico: Geologi-
+cal Society of America Bulletin, v. 97, p. 798–808, doi: 10.1130/0016-
+7606(1986)97<798:CCAAVA>2.0.CO;2.
+Nimis, P., 1999, Clinopyroxene geobarometry of magmatic rocks. Part 2: 
+Structural geobarometers for basic to acid, tholeiitic and mildly alkaline 
+magmatic systems: Contributions to Mineralogy and Petrology, v. 135, 
+p. 62–74, doi: 10.1007/s004100050498.
+Peccerillo, A., and Wu, T.W., 1992, Evolution of calc-alkaline magmas in con-
+tinental arc volcanoes: Evidence from Alicudi, Aeolian arc (southern Tyr-
+rhenian Sea, Italy): Journal of Petrology, v. 33, p. 1295–1315.
+Petrone, C.M., Tagami, T., Francalanci, L., Matsumura, A., and Sudo, M., 2001, 
+Volcanic systems in the San Pedro–Ceboruco graben (Nayarit, Mexico) 
+in the light of new K-Ar geochronological data: Geochemical Journal, 
+v. 35, p. 77–88.
+Petrone, C.M., Francalanci, L., Carlson, R.W., Ferrari, L., and Conticelli, S., 
+2003, Unusual coexistence of subduction-related and intraplate-type 
+magmatism: Sr, Nd and Pb isotope and trace element data from the mag-
+matism of the San Pedro–Ceboruco graben (Nayarit, Mexico): Chemical 
+Geology, v. 193, p. 1–24, doi: 10.1016/S0009-2541(02)00229-2.
+Poli, G., Manetti, P., Peccerillo, A., and Cecchi, A., 1977, Determinazione di 
+alcuni elementi del gruppo delle terre rare in rocce silicatiche per atti-
+vazione neutronica: Rendiconti Società Italiana Mineralogia e Petrologia, 
+v. 33, p. 755–763.
+Righter, K., Carmichael, I.S.E., Becker, T.A., and Renne, R.P., 1995, Pliocene 
+to Quaternary volcanism and tectonism at the intersection of the Mexican 
+Volcanic Belt and the Gulf of California: Geological Society of America 
+Bulletin, v. 107, p. 612–626, doi: 10.1130/0016-7606(1995)107<0612:
+PQVAFA>2.3.CO;2.
+Rosas-Elguera, J., Ferrari, L., Garduño-Monroy, V.H., and Urrutia-Fucugau-
+chi, J., 1996, Continental boundaries of the Jalisco block and their 
+inﬂ uence in the Pliocene-Quaternary kinematics of western Mexico: 
+Geology, v. 24, p. 921–924, doi: 10.1130/0091-7613(1996)024<0921:
+CBOTJB>2.3.CO;2.
+Ruiz, J., Patchett, P.J., and Arculus, R.J., 1988, Nd-Sr isotope composition of 
+lower crustal xenoliths: Evidence for the origin of mid-Tertiary felsic 
+volcanism in Mexico: Contributions to Mineralogy and Petrology, v. 99, 
+p. 36–43, doi: 10.1007/BF00399363.
+Saunders, A.D., 1982, Geochemistry of basalts recovered from the Gulf of Cali-
+fornia during Leg 65 of the Deep Sea Drilling Project, in Lewis, B.T.R., 
+Robinson, P., et al., Initial Reports, Deep Sea Drilling Project Leg 65: 
+Washington, D.C., U.S. Government Printing Ofﬁ ce, p. 591–621.
+Schaaf, P., Böhnel, H., and Pérez-Venzor, J.A., 2000, Pre-Miocene paleoge-
+ography of the Los Cabos block, Baja California Sur: Geochronologi-
+cal and paleomagnetic constraints: Tectonophysics, v. 318, p. 53–69, doi: 
+10.1016/S0040-1951(99)00306-6.
+Schaaf, P., Hall, B.V., and Bissig, T., 2003, The Puerto Vallarta batholith and 
+Cuale mining district, Jalisco, Mexico—High diversity parenthood of 
+continental arc magmas and Kuroko-type volcanogenic massive sulﬁ de 
+deposits, in Morán Zenteno, D., ed., Geologic transects across Cordil-
+leran Mexico: Instituto de Geología, Universidad Nacional Autónoma de 
+México (UNAM) Special Publication 1, p. 183–200.
+
+98 
+Petrone et al.
+Schmitt, A.K., de Silva, S.L., Trumbull, R.B., and Emmermann, R., 2001, 
+Magma evolution in the Purico ignimbrite complex, northern Chile: 
+Evidence for zoning of a dacitic magma by injection of rhyolitic melts 
+following maﬁ c recharge: Contributions to Mineralogy and Petrology, 
+v. 140, p. 680–700.
+Smith, A.D., 1999, The Nd-Sr-Pb isotopic record in abyssal tholeiites from the 
+Gulf of California region, western Mexico: No evidence for a gulf mouth 
+plume: International Geology Review, v. 41, p. 921–931.
+Spencer, K.J., and Lindsley, D.H., 1981, A solution model for coexisting iron-
+titanium oxides: American Mineralogist, v. 66, p. 1189–1201.
+Sun, S.S., and McDonough, W.F., 1989, Chemical and isotopic systematics of 
+oceanic basalts: Implications for mantle composition and processes, in 
+Saunders, A.D., and Norry, M.J., eds., Magmatism in the ocean basins: 
+Geological Society of America Special Paper 42, p. 313–346.
+Urrutia-Fucugauchi, J., and Flores-Ruiz, J.H., 1996, Bouguer gravity anomalies 
+and regional crustal structure in central Mexico: International Geology 
+Review, v. 38, p. 176–194.
+Vaggelli, G., Olmi, F., and Conticelli, S., 1999, Quantitative electron micro-
+probe analyses of reference silicate mineral and glass samples: Acta Vul-
+canologica, v. 11, p. 297–303.
+Printed in the USA
+Venezky, D.Y., and Rutherford, M.J., 1999, Petrology and Fe-Ti oxide reequili-
+bration of the 1991 Mount Unzen mixed magma: Journal of Volcanol-
+ogy and Geothermal Research, v. 89, p. 213–230, doi: 10.1016/S0377-
+0273(98)00133-4.
+Verma, S.P., and Nelson, S.A., 1989a, Isotopic and trace element constraints 
+on the origin and evolution of alkaline and calc-alkaline magmas in the 
+north-western Mexican Volcanic Belt: Journal of Geophysical Research, 
+v. 94, no. B4, p. 4531–4544.
+Verma, S.P., and Nelson, S.A., 1989b, Correction to “Isotopic and trace element 
+constraints on the origin and evolution of alkaline and calc-alkaline mag-
+mas in the north-western Mexican Volcanic Belt”: Journal of Geophysical 
+Research, v. 96, no. B6, p. 7679–7681.
+Wallace, P., and Carmichael, I.S.E., 1994, Petrology of Volcán Tequila, Jalisco, 
+Mexico: Disequilibrium phenocryst assemblages and evolution of the 
+subvolcanic magma system: Contributions to Mineralogy and Petrology, 
+v. 117, p. 345–361, doi: 10.1007/BF00307270.
+MANUSCRIPT ACCEPTED BY THE SOCIETY 28 JULY 2005

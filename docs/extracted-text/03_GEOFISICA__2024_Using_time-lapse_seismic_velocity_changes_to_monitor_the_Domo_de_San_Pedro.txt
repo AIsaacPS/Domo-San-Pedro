@@ -1,0 +1,1121 @@
+Geothermics 120 (2024) 103010
+Available online 29 March 2024
+0375-6505/© 2024 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Using time-lapse seismic velocity changes to monitor the Domo de San 
+Pedro Geothermal field, Mexico 
+F. Mu˜noz-Burbano a,*, M. Cal`o b, G. Savard a, V. Reyes-Orozco c, M. Lupi a 
+a Department of Earth Sciences, University of Geneva, Geneva, Switzerland 
+b Instituto de Geofísı́ca. UNAM, Mexico City, Mexico 
+c Grupo Dragon. Via Chapalilla - Compostela km 15, Nayarit, Mexico   
+A R T I C L E  I N F O   
+Keywords: 
+Geothermal operations 
+Induced seismicity 
+Velocity changes 
+dv/v mapping 
+A B S T R A C T   
+The Domo de San Pedro Geothermal field, located in the westernmost part of the trans-Mexican volcanic belt, is 
+part of a silicic volcanic complex. Geothermal energy is produced since 2015 from 9 wells as deep as 3 km. We 
+monitor geothermal operations using a continuous seismic dataset from a temporary network of 20 broadband 
+stations from March 2021 to January 2022. The well logs describing the geothermal operations allow us to 
+investigate the seismic response of the geothermal field to fluid extraction and re-injection across the geothermal 
+wells. We produced a catalog of 217 local earthquakes and derive an optimized 1D velocity model for the 
+geothermal field between 1.2 m above the sea level (masl) and 12 km depth. Apparent velocity changes (dv/v) 
+are measured using seismic ambient noise interferometry from the coda of noise cross-correlations. Next, we 
+identify and locate subsurface velocity anomalies, combining the methods of station collapse sensitivity and 
+ambient noise imaging applied to the continuous seismic noise records. We distinguish three periods of seismic 
+activity where prominent changes in velocity coincide with the re-injection of fluids and significant variation in 
+the production rate of the geothermal wells. We determine the distribution of these velocity transients inside the 
+geothermal field and propose that they are associated with variations in reservoir fluid content and effective 
+stress changes beneath the volcanic system and are responsible for induced microseismicity. Our study shows 
+that implementing dv/v quantification as an additional tool for geothermal seismic monitoring can lead to an 
+improved understanding of the behavior of the geothermal system over time and ultimately de-risk geothermal 
+operations.   
+1. Introduction 
+Monitoring geothermal systems in the production stage may provide 
+relevant information to understand the dynamics of fluid flow at depth 
+which is necessary to control geothermal plant operations safely. 
+Seismology-based approaches such as microseismic monitoring and 
+time-dependent local earthquake to- mography have been carried on 
+recently to monitor and characterize geothermal systems across the 
+world e.g., (Cal`o et al., 2011; Cal`o and Dorbath, 2013; Taira et al., 2018; 
+Toledo et al., 2020; Ge and Saar, 2022). Recently, innovative techniques 
+such as the analysis of network coherence and seismic interferometry 
+applied in Europe and Mexico (Plan`es et al., 2020; L¨oer et al., 2020; 
+Jiwani-Brown et al., 2022; Granados- Chavarrı́a et al., 2022; Cabrer­
+a-P´erez et al., 2023a,b) have revealed the velocity structure of 
+geothermal systems. 
+Transient seismic velocity changes (dv/v) have been identified using 
+all the components of seismic sensors for ambient noise interferometry 
+in multiple geological environments such as volcanoes, active tectonic 
+regions, and geothermal fields (Hillers et al., 2015; Heckels et al., 2018; 
+Yates et al., 2019; Cal`o et al., 2021; Machacca et al., 2023). Ambient 
+noise interferometry takes advantage of scattered signals repeatedly 
+sampling a given volume of crust. In particular, velocity changes are 
+computed by retrieving empirical Green’s Functions (GF) via 
+cross-correlation of noise records for a pair of stations and measuring the 
+time delays of coda waves with respect to a reference GF. The seismic 
+coda is sensitive to changes in the mechanical properties of the media as 
+small as 0.01 % (e.g., Snieder et al., 2002; Donaldson et al., 2019; 
+Brenguier et al., 2020), therefore, a promising tool for monitoring 
+transient variations at depth caused by geothermal operations. 
+Poupinet et al. (1984) and Ratdomopurbo and Poupinet (1995) first 
+* Corresponding author. 
+E-mail address: francisco.munozburbano@unige.ch (F. Mu˜noz-Burbano).  
+Contents lists available at ScienceDirect 
+Geothermics 
+journal homepage: www.elsevier.com/locate/geothermics 
+https://doi.org/10.1016/j.geothermics.2024.103010 
+Received 19 December 2023; Received in revised form 24 March 2024; Accepted 24 March 2024   
+
+Geothermics 120 (2024) 103010
+2
+introduced a method to assess velocity changes using the coda of 
+earthquake multiplets, also implemented by Beroza et al. (1995); Got 
+and Coutant (1997) in seismic sequences and volcanic environments 
+respectively. Other studies show that dv/v can be retrieved from 
+single-station auto-correlations to detect volcanic activity and seasonal 
+effects (Yates et al., 2019; Donaldson et al., 2019). Additional studies 
+have succeeded in mapping velocity variations during periods of vol­
+canic unrest and fluid re-injections in CO2 reservoirs showing 
+time-dependent changes correlated with volcano-tectonic events, 
+geodetic changes, and gas saturation (Hillers et al., 2015; Cubuk- Sab­
+uncu et al., 2021a; Cabrera-P´erez et al., 2023a). 
+In this study, we investigate the Domo de San Pedro geothermal field 
+(DSPgf) (Reyes-Orozco et al., 2019; Rodrı́guez et al., 2019) using 
+approximately 10 months of continuous passive seismic data alongside 
+the data of the main geothermal operations as extraction and 
+re-injection of fluids. The DSPgf is a high-enthalpy geothermal field, part 
+of the Domo de San Pedro volcanic complex, located in Central-West 
+Mexico (Fig. 1). The DSPgf has been exploited since 2015 with an 
+installed capacity of 35.5 Mw profiting from nine production-injection 
+wells drilled up to 3 km depth (Reyes-Orozco et al., 2019). The DSPgf 
+was developed based on gravimetric and magnetotelluric surveys that 
+gave information about the structures and a shallow geothermal reser­
+voir located around 0.5 km depth (Reyes-Orozco et al., 2019; Rodrı́guez 
+et al., 2019). Our manuscript is structured as follows. First, we create an 
+earthquake catalog where we distinguish 3 periods of seismic activity. 
+Next, we derive a minimum 1D velocity model to refine the location of 
+the events. We then compare local seismicity, injection and extraction 
+rates, and dv/v derived from the GFs of 21 station pairs in the vicinity of 
+the geothermal field. Then, we map the three most significant observed 
+velocity variations at the DSPgf. Finally, with the analysis of velocity 
+transients, 
+earthquake 
+distribution, 
+and 
+information 
+on 
+extraction/injection operations, we propose a conceptual model for the 
+role of fluids regarding these observations. 
+2. Geological setting 
+The Domo de San Pedro (DSP) is part of a silicic volcanic complex 
+located in the westernmost part of the Trans-Mexican Volcanic Belt 
+(TMVB). The TMVB is a continental magmatic arc associated with the 
+subduction of the Rivera and Cocos plates beneath the North American 
+plate. The TMVB extends E-W for about 1000 km, from the Pacific coast 
+to the Gulf of Mexico (Frey et al., 2004; Prol-Ledesma and Mor´an- 
+Zenteno, 2019). The DSP develops within a WNW-ESE striking exten­
+sional basin (Fig. 1) associated with Na-alkaline and calc-alkaline 
+volcanism acting since the late Miocene (Ferrari et al., 2003). The vol­
+canic bodies of this region lay to the north of the Cretaceous-Paleocene 
+batholith of the Jalisco Block (Ferrari et al., 2000; 2003; Reyes-Orozco 
+et al., 2019). The products of this volcanism are the two calc-alkaline 
+stratovolcanoes Ceboruco and Tepetiltic, 16 monogenetic cinder 
+cones, and more than 20 andesitic and dacitic lava domes. The dacitic 
+complex of San Pedro (1980 masl) is the largest of these domes and 
+consists of coalesced domes aligned along a WNW-ESE direction. The 
+DSP dated between 27 ± 7 and 55 ± 8 Ka and its estimated sub-aerial 
+volume is about 4.5 km3 (Ferrari et al., 2003; Frey et al., 2004). The 
+vicinity of the DSP is controlled by the regional Compostela (CP) and 
+Pedernales (PD) faults trending NW-SE. At the local scale, multiple fault 
+systems have been identified with the same regional trending. However 
+some faults oriented N-S and NE-SW may control the fluid flow within 
+the volcanic system (Castillo and De-La-Cruz, 1992; Reyes-Orozco et al., 
+2019; Rodrı́guez et al., 2019). 
+Prol-Ledesma and Mor´an-Zenteno (2019) proposed a set of 
+geothermal provinces for Mexico based on of thermal, geological, and 
+Fig. 1. Geological map of the Domo de San Pedro. a. Geological map of the Domo de San Pedro region and the temporary seismic network deployed between March 
+2021 and January 2022 (inverted triangles). The inset is the location of DSP in Mexico. b. Geothermal power plant, the nine production-injection wells, and the 
+closest seismic stations. Modified from Ferrari et al., 2003; Reyes-Orozco et al., 2019; Rodrı́guez et al., 2019; Granados-Chavarrı́a et al., 2022. 
+F. Mu˜noz-Burbano et al.                                                                                                                                                                                                                      
+
+Geothermics 120 (2024) 103010
+3
+tectonic data. The DSP is part of the province known as a 
+convection-dominated magmatic-heat-source within the TMVB with 
+heat flux ranging from 150 to 200 mW/m2, and a geothermal gradient 
+above 80 ◦C/km is expected in most areas. These data suggest that the 
+heat source driving the geothermal system is active and has a high po­
+tential for further expansion and exploitation of the field. Geological 
+observations and geochemical analysis of hot springs suggest the pres­
+ence of a deeply-rooted hydrothermal system (Castillo and De-La-Cruz, 
+1992). Reyes-Orozco et al. (2019) and Rodrı́guez et al. (2019) propose 
+the existence of at least two reservoirs heated by a plutonic heat source, 
+a deep reservoir in a liquid phase reaching about 330 ◦C and a shallow 
+two-phase reservoir with a minor fraction of steam reaching tempera­
+tures of 280 ◦C. The water source is meteoric-dominated, and the 
+recharge zone is suggested to occur in the NW of the dome with a minor 
+supply from the W and SW of the DSP (Fig. 1). The water in the system 
+has little or no contribution from magmatic origin (Rodrı́guez et al., 
+2019). 
+3. Methods 
+In this section, we describe the characteristics of the seismic network 
+deployed in the surroundings of the DSPgf. We introduce the methods 
+implemented for earthquake detection and location to produce an 
+earthquake catalog alongside the methodology to obtain a minimum 1D 
+velocity model for the DSPgf. We later present the methods to calculate 
+the transient velocity changes by computing cross-correlation functions 
+and obtaining differential times of the coda. Finally, we introduce the 
+methodology to map the temporal velocity changes in the DSPgf. 
+3.1. Seismic network and dataset 
+We deployed 20 broadband seismic stations distributed around the 
+Domo de San Pedro geothermal field in Nayarit, Mexico (Fig. 1). The 
+temporary network was operating from March 2021 to January 2022. 
+All the seismic stations worked with DATA-CUBE3ext 24-bit digitizers 
+(Digos) with three channels, configured at a gain of 1 and a sampling 
+rate of 100 samples per second. The station distribution was denser to­
+wards the dome to detect the signals produced by the operation of the 
+geothermal wells. The ten months of continuous seismic data have a 
+completeness greater than 80 %, and background noise power spectral 
+densities are within the standard range of noise models proposed by 
+Peterson (1993) (figures S1 and S2. Supplementary material). 
+3.2. Earthquake catalog 
+We detected and located more than 300 seismic events semi- 
+automatically using the code QuakeMigrate (Winder et al., 2020). This 
+algorithm uses the seismic waveforms from the entire network simul­
+taneously for event detection and provides locations as probability 
+density functions. To refine earthquake locations provided by Quake­
+Migrate and remove false detections, we manually re-picked 1333 and 
+1166 P and S phases, respectively. Then, we relocated 217 actual events 
+using the algorithm HYPOCENTER (Lienert, 1994), included in the 
+package SEISAN (Havskov et al., 2010). In the absence of a dedicated 
+velocity model for the DSP, we used a version of the 1D model of 
+Ceboruco volcano composed of five layers and one half- space with 
+velocities ranging from 2.5 to 7.7 km/s and a 1.78 Vp/Vs ratio 
+(Nú˜nez-Cornú et al., 2020). We calculate the magnitudes implementing 
+the coda-duration method (Mc), suitable for micro-seismic to moderate 
+magnitude events (Rodríguez-Pradilla and Eaton, 2019). The 217 events 
+range in coda magnitude between −2 and 1.6 Mc. The released seismic 
+moment, calculated by analyzing the spectral amplitude of 49 seismic 
+events with the highest signal-to-noise ratio, is between 1 × 109 and 3.1 
+× 1011 N.m. 
+3.3. Minimum 1D velocity model 
+Kissling (1988) introduced the concept of a minimum 1D velocity 
+model calculated by joint hypocenter- velocity inversion of local 
+earthquake travel-time data, implemented in the software VELEST 
+(Kissling et al., 1994, 1995) and extensively applied in multiple studies 
+(Ojeda and Havskov, 2001; Matrullo et al., 2013; Diehl et al., 2017; 
+Antunes et al., 2020). We calculated a minimum 1D velocity model for 
+the Domo de San Pedro region ranging from the surface to 12 km depth, 
+derived from 65 high-quality events (Fig. 2a,b), also obtaining refined 
+earthquake re-locations and station corrections in the process (see Sec­
+tion 2 of the supplementary material). From this selection of events, we 
+inverted 504 travel times of P waves and 468 travel times of S waves. For 
+station corrections, we selected station APX as a reference since it was 
+located in the center of the network (Fig. 1) and registered the highest 
+number of phases. Eight initial velocity models are used for inversion, 
+including the simplified velocity model explained in Section 3.2 and 
+other models published for western Mexico and Ceboruco Volcano 
+(Nú˜nez-Cornú et al., 2002, 2020; Ochoa-Ch´avez et al., 2015), along with 
+several arbitrary velocity models (Fig. 2c.) as suggested in Kissling et al. 
+(1995) to reduce inversion biases. The inversion uses a constant Vp/Vs 
+ratio of 1.70, which we constrained with a Wadati diagram analysis over 
+individual earthquakes considering correlation values greater than 0.9. 
+After the inversion, we obtained several output models spanning a 
+narrower range of velocities with depth (red-shaded area in Fig. 2d). We 
+test about 5000 velocity models re-locating the 65 earthquakes with a 
+grid search method. We selected the model with the lowest travel time 
+residuals as the velocity model for the DSPgf (Fig. 2d red bold line). 
+3.4. Transient velocity changes 
+The reconstructed Green Functions (GFs) derived from inter-station 
+cross-correlations of ambient noise records can reveal changes in the 
+subsurface’s seismic velocities (Lecocq et al., 2014; Obermann et al., 
+2015). The cross-correlations are two-sided time functions with positive 
+(causal) and negative (acausal) correlation lags representing waves 
+traveling in opposite directions between the two stations (Bensen et al., 
+2007). The coda of the GFs is composed of scattered waves that samples 
+the subsurface repeatedly, which makes it particularly sensitive to small 
+changes in velocity (Snieder et al., 2002; Donaldson et al., 2019 ; 
+Brenguier et al., 2020). The relative time delay registered in the coda of 
+the GFs corresponding to different recording periods is directly related 
+to the relative change in subsurface velocity, assuming it is distributed 
+homogeneously over the studied volume, as follows: 
+δv
+v
+= −δt
+t
+(1) 
+Where t is the initial arrival time, δt is the measured time delay, v is 
+the initial velocity, and δv is the change in velocity (Sens-Sch¨onfelder 
+and Wegler, 2006; Yates et al., 2019). We calculate the temporal velocity 
+variations over ten months of continuous seismic records, using the nine 
+tensor components (figures S5 to S7 supplementary material), by 
+implementing the Moving-Window Cross-Spectrum (MWCS) technique, 
+implemented by Lecocq et al. (2014) within the code MSNoise. The 
+workflow begins with a pre-processing stage applied to the whole data 
+set. Then, we compute the cross-correlation functions (CCFs) and sub­
+sequent stacking of the CCFs for different time spans for each station 
+pair. Next, we measure the travel time arrivals between the “current” 
+CCFs and the reference cross-correlation functions (RCC). Finally, we 
+calculate the average travel-times delays over all the station pairs to 
+assess the relative velocity changes in the study area (Lecocq et al., 
+2014). Additional details on the workflow can be found in the supple­
+mentary material (Section 5). 
+F. Mu˜noz-Burbano et al.                                                                                                                                                                                                                      
+
+Geothermics 120 (2024) 103010
+4
+3.5. Mapping of temporal velocity changes in the DSPgf 
+To image the spatial distribution of the dv/v and its evolution within 
+the system, we identified in the dv/v time series the most prominent 
+velocity variations. For each identified period of prominent dv/v fluc­
+tuation, we averaged the dv/v of each station pair in the considered time 
+period and located the change in space via a tomographic inversion 
+approach composed of three steps. First, we implemented a modified 
+version of a standard 2D tomography approach (Barmin et al., 2001) as 
+described in Cal`o et al. (2021). This method assumes that the coda 
+sensitivity is mainly distributed along the trajectory between station 
+pairs. Second, we reconstructed the velocity kernel underneath the 
+station sites using the “station collapsed sensitivity” method introduced 
+by Brenguier et al. (2014). This approach assumes that most of the dv/v 
+sensitivity is concentrated beneath the stations (Pacheco and Snieder, 
+2005; Obermann et al., 2013). The third step consists in reconstructing 
+the final dv/v spatial distribution combining the two imaging techniques 
+discussed above using partition coefficients (Cal`o et al., 2021). Ober­
+mann et al. (2019) demonstrated that the 3D location of velocity 
+changes can be obtained by computing the full sensitivity kernel 
+combining the sensitivities of scattered body and surface waves using 
+partition coefficients (PC). Body waves dominate the inter-station tra­
+jectory and the surface waves dominate the sensitivity beneath the 
+stations. Then, we combine the dv/v of steps 1 and 2 using a grid of 
+0.55×0.55 km (resolution tests Section 8 of the supplementary material) 
+and partition coefficients from 0 to 1 with steps of 0.25. PC of 0 stands 
+for images computed using ray-tracing tomography, and PC of 1 corre­
+sponds to images retrieved using the station collapsed sensitivity 
+method. To map the dv/v transients, we used central frequencies of coda 
+waves of the GF’s of 0.5 and 0.6 Hz corresponding to GF’s filtered at 
+frequencies of 0.4–0.8 and 0.1–0.9, a time lag window width of 30 s, and 
+inter-station distances shorter than 2 km. We finally show the spatial 
+dv/v results as two kinds of maps: absolute dv/v values (directly ob­
+tained from the time delays) and dv/v deviations from the mean. See 
+Section 6 of the supplementary material. 
+4. Results 
+We introduce the re-location of the seismicity registered at the DSP 
+during the ten months of seismic monitoring using a 1D velocity model 
+developed for the region. We also show the average production and re- 
+injection rates of fluids at the geothermal field. Then, we utilize all the 
+described information to contrast against the temporal velocity varia­
+tions calculated at the DSPgf during the monitoring campaign. Finally, 
+we show the space-time evolution of the most prominent transient ve­
+locity perturbations in the geothermal field. 
+4.1. Optimized 1D velocity model for the DSP 
+The new velocity model for the DSPgf (Fig. 2d) is composed of four 
+layers and one half-space, ranging from the surface down to 12 km depth 
+with P wave velocities from 3.96 to 6.17 km/s. We use the new 1D 
+minimum velocity model to locate the whole earthquakes catalog. Fig. 3 
+shows the relocation of 217 local earthquakes during the ten months of 
+operation of the temporary network. The cross sections in Fig. 3 only 
+show the seismicity enclosed by a square of 2 km side regarding the 
+center of the DSPgf. The distribution of the earthquakes suggests at least 
+two groups of seismicity, a shallow one from the surface up to 0.5 km 
+depth and a deeper seismicity ranging from 2.5 km to about >7 km 
+depth. Most earthquakes are located beneath the DSP. The seismicity is 
+Fig. 2. Earthquake selection and inputs-outputs of the 1D velocity model inversion. a. Distribution map of the 65 earthquakes selected to calculate the 1D velocity 
+model and representation of the rays passing through the study area. b. East-West cross-section of the ray paths in depth. c. Initial 1D velocity models used to perform 
+the simultaneous inversion with VELEST (Kissling et al., 1995). d. Result of the inversion of the regional velocity models and arbitrary models obtained from the 
+travel times of the selected 65 earthquakes. The red-shaded area highlights the range of velocities and depths in which we implemented a grid search to obtain the 
+minimum 1D velocity model (red bold line). 
+F. Mu˜noz-Burbano et al.                                                                                                                                                                                                                      
+
+Geothermics 120 (2024) 103010
+5
+scarce or non-existent below 7 km depth (Fig. 3c,d). Fig. 4a shows the 
+evolution of the seismicity registered at DSP that occurred between 
+March 2021 and January 2022. We distinguish at least three epochs of 
+seismicity: the first group of earthquakes occurred during the first 40 
+days of the study time, a second group between days 75 and 115, and the 
+third group of events occurred from 165 to 200 days after the beginning 
+of the monitoring campaign. The quality of the locations of the entire 
+catalog is shown in the supplementary material (Section 3). The travel 
+time RMS residual is 30 % lower compared to the locations using the 
+preliminary 1D model. We note that volcanic environments are extreme 
+examples of subsurface complexity and that 1D velocity models cannot 
+capture the full complexity of the DSP volcanic field, which is reflected 
+by the relatively high final RMS residual. 
+4.2. Velocity variations at the DSPgf 
+We introduce the results of the velocity variations compared with the 
+geothermal operations conducted in the DSPgf. Fig. 4a shows the 
+occurrence of earthquakes beneath the dome (events inside the rect­
+angle in Fig. 3a) together with coda magnitudes and cumulative seismic 
+moment. The average of re-injection and production rates of the 
+geothermal wells alongside their well-head pressures are presented in 
+Figs. 4b and 4c, respectively. Fig. 4d and 4e show the dv/v diagrams 
+obtained by the CCFs of station pairs with moving windows of one day 
+and five days respectively, using vertical components filtered from 0.1 to 
+0.9 and from 0.4 to 0.8 Hz. Finally, Fig. 4f shows the dv/v diagram 
+obtained by the CCFs of vertical-horizontal (EZ) cross- components of 
+station pairs, with a moving window of one day, using a GF filtered from 
+0.3 to 0.9 Hz. Visual inspection of the cross-correlation functions for a 
+given pair of stations shows evident coherence changes over the moni­
+toring campaign duration (supplementary material figures S6 and S7). 
+This is one indicator of convergence to the Green’s function and an 
+appropriate reference cross-correlation function. Fig. 4d shows the 
+media of the dv/v of the 21 station pairs ranging from −0.17 to 0.25 % 
+while Fig. 4e shows the dv/v from ZZ CCFs ranging from −0.17 to 0.11 
+% and Fig. 4f from EZ CCFs from −0.1 % to 0.26 %. Fig. 4 highlights the 
+three analysis periods marked by transparent sky-blue boxes (Period 1, 
+Period 2, and Period 3) and the most prominent velocity changes 
+enclosed within transparent gray boxes (P1, P2, and P3) used to locate 
+the velocity variations. We chose the beginning and end of the periods 
+regarding major changes in brine re- injection/extraction. 
+4.2.1. Period 1 
+This section spans from day 0 of the monitoring campaign to day 47. 
+This period shows the most abundant seismicity registered during our 
+acquisition. The rates of re-injection of fluids were the highest, reaching 
+130 m3/h on average. The average production of the geothermal field 
+was consistently low, about 80 m3/h. The velocity variations presented 
+in the dv/v diagrams (sky-blue section of Fig. 4e) show a prominent drop 
+of the apparent velocity reaching down to −0.15 % for the five days 
+moving window (gray box P1), suggesting that the velocity drop might 
+indicate phenomena with a duration of several days. The velocity vari­
+ations observed in the sky-blue section of panels d and f in Fig. 4 still 
+show a downward trend in velocity reaching down to −0.15 % using 
+vertical components (ZZ), and down to −0.15 % using CC of vertical- 
+horizontal cross-components (EZ), respectively. Velocity variations at 
+different stacks suggest a trade-off between temporal resolution and 
+robustness of the GF retrieval i.e., the longer stacking, the higher 
+coherence, but lower time resolution. However, we also observe similar 
+dv/v obtained at multiple moving windows and frequency bands indi­
+cating that the apparent velocity changes are registered in the full tensor 
+(supplementary material, figure S8 and S9). This period finishes with a 
+progressive decrease of re-injection, a sudden increment of pressure, the 
+complete ceasing of earthquakes, and a period of low fluctuation of the 
+apparent velocity around zero. Fig. 5 displays tomograms of the dv/v 
+space-time evolution during Period 1. We analyze the dv/v drop regis­
+tered using the five-day moving window described in Fig. 4e (gray box 
+P1). We use partition coefficients of body waves and surface waves of 0.5 
+Fig. 3. Local seismicity registered at the DSP. a. Map of the seismicity that occurred from March 2021 to January 2022. Hypocenters are located with the new 
+velocity model for the DSP. Colored circles represent earthquakes, and the circle size represents coda magnitudes. The black frame surrounds the closest seismicity at 
+the DSPgf referred in Fig. 4. b. Cross section N’-S’ depicting the most proximal seismicity to the DSPgf. c,d. Cross sections N-S and W-E describing the seismicity 
+around the DSPgf respectively. The dashed red square in c encloses the cross-section introduced in b. Vertical lines in the cross-sections represent the 
+geothermal wells. 
+F. Mu˜noz-Burbano et al.                                                                                                                                                                                                                      
+
+Geothermics 120 (2024) 103010
+6
+following Obermann et al. (2019) and Cal`o et al. (2021). Additional 
+tomograms using other partition coefficients from 0 to 1 are available in 
+the supplementary material (figures S12 and S13). The panels on the left 
+(a1, a2, and a3) are dv/v location results relative to the average dv/v 
+(rel) of the corresponding time window. 
+The panels on the center (b1, b2, and b3) correspond to absolute 
+values of the dv/v (abs). Fig. 5c includes a section of Fig. 4 corre­
+sponding to all the parameters contrasted during Period 1, involving the 
+dv/v chosen for location (gray box P1). Both panels a1 (rel) and b1 (abs) 
+show the apparent velocities from day 0 to day 14, depicting a velocity 
+wave field dominated by velocities above zero towards the eastern re­
+gion of the network, and lower velocities in the western region high­
+lighted in a1 (rel). Panels a2 (rel) and b2 (abs) show the dv/v variations 
+from day 15 to 29 (gray box P1, bottom panel of Fig. 5c.) corresponding 
+to a prominent velocity drop at the SE of the DSPgf. The location of this 
+dv/v drop dominates the eastern region of the geothermal field, 
+matching the highest rates of re-injection of fluids, the low production of 
+the geothermal wells, and the most abundant seismicity. Although the 
+tomogram of absolute values b2 (abs) shows a concentration of the low- 
+velocity anomaly to the east of the DSPgf, the tomogram in a2 (rel) 
+suggests that the distribution of the velocity drop affects the region of 
+the geothermal system where operations of re-injection and production 
+of fluids were conducted. The tomograms a3 (rel) and b3 (abs) introduce 
+the apparent velocity anomaly after the dv/v drop when the system is 
+progressively recovering its background values of dv/v above zero. This 
+time coincides with the diminishing of seismic events, the increasing of 
+production to the highest rates, and the progressive diminishing of re- 
+injection of fluids. 
+Fig. 4. Velocity changes registered at the DSPgf using cross-correlations of the seven stations located inside the geothermal field (Fig. 1) without data gaps in the 
+recording. a. Occurrence of 163 earthquakes during the time of monitoring located beneath the DSPgf only (black bars), alongside coda magnitudes (red dots), and 
+cumulative seismic moment (blue line, values in N.m). b. Average fluid re-injection rates (m3/h) registered by all the injector wells at the DSPgf (pressure in Bar). c. 
+Average production rates in m3 per hour of the whole geothermal field and hourly average pressures in Bar registered at the well-heads at the DSPgf. d. Mean values 
+of apparent velocity variations using the vertical component cross-correlations computed within a frequency band from 0.1 to 0.9 Hz and stacking moving window of 
+one day. e. Mean values of percentage velocity variations using the vertical component cross-correlations computed in a frequency band from 0.4 to 0.8 Hz and a 
+stacking moving window of five days. f. Mean values of apparent velocity variations from EZ cross-correlations in a frequency band from 0.3 to 0.9 Hz and a stacking 
+moving window of one day. The light-purple shade of the dv/v is the standard deviation. The light-blue boxes crossing all the panels stand for the three periods of 
+significant changes in the wave-field velocity. The transparent gray boxes labelled as P1, P2, and P3 in the panels d, e, and f, correspond to the velocity variations 
+chosen for space-time location by combining the sensitivities of scattered body and surface waves using partition coefficients. 
+F. Mu˜noz-Burbano et al.                                                                                                                                                                                                                      
+
+Geothermics 120 (2024) 103010
+7
+4.2.2. Period 2 
+This section spans from day 58 to day 121. It shows an almost con­
+stant average production of about 110 m3/h at pressures from 14 to 15 
+Bar (Fig. 4c). The re-injection rate peaks during this period, and includes 
+two short-lasting drops on days 71 and 90 that have no significant 
+response on the dv/v. A third re-injection drop occurred between days 
+95 and 101, from 110 m3/h to 12.5 m3/h conducted with an increase of 
+pressure from 10 to 50 Bar. We observe a sudden increment of earth­
+quakes and a jump in the cumulative seismic moment (Fig. 4a). The 
+changes in velocity are visible in the sky-blue sections on the panels 
+d and f of Fig. 4 where a sudden increase up to 0.24 % dv/v happens 
+immediately after the re-injection drops. Later, the re-injection suddenly 
+increases to 140 m3/h on average, and the system recovers its initial dv/ 
+v fluctuation near zero. This change in velocity is smoothed using 
+stacking moving windows larger than five days (Fig. 4e and supple­
+mentary material figures S8 and S9), suggesting a velocity change pro­
+moted by a short-duration phenomenon. 
+Fig. 6 introduces the location of dv/v registered during Period 2 
+using PC of 0.5 for body waves and surface wave sensitivities (see sec­
+tion 10 of the supplementary material for maps with other PCs). The 
+panels on the left (a1, a2, a3) are tomograms of relative dv/v (rel) and 
+the panels on the center (b1, b2, b3) are tomograms using absolute 
+values of dv/v (abs). The panels c, compare the occurrence of earth­
+quakes, geothermal operations, and the fluctuation of dv/v during 
+Period 2. We located the positive dv/v peak from day 95 to 101 with a 
+dv/v of 0.2 % (gray box P2 the in bottom panel of Fig. 6c). The dv/v 
+variation before the prominent positive peak (days 58 to 94) fluctuates 
+around low positive values above zero. Panels a1 (rel) and b1 (abs) show 
+that positive dv/v dominate the wavefield towards the western part of 
+the network. The tomograms a2 (rel) and b2 (abs) show the location of 
+the positive dv/v peak. The tomogram b2 (abs) shows that most of the 
+study area is dominated by an increase of dv/v, although a2 (rel) sug­
+gests that the positive velocity peak may be sourced at the northwest of 
+the network in the surroundings of the geothermal wells, but also to­
+wards the southernmost part of the network. The positive peak of dv/v 
+in Period 2 coincides with quasi-constant production rates, a sudden 
+drop in re-injection of fluids, and a sudden increase of seismic moment 
+release. The last part of Period 2 corresponds to dv/v values near zero 
+when the system recovered dv/v background values. See the panels a3 
+(rel), and b3 (abs) of Fig. 6. 
+4.2.3. Period 3 
+This section spans from day 140 to day 219. It starts with almost no 
+seismicity and diminishing production and re-injection of fluids. The re- 
+Fig. 5. Location of velocity changes occurred during Period 1 using partition coefficients of 0.5 of the body and surface waves sensitivities. Days from 0 to 47 of the 
+monitoring campaign. Panels a1, a2, and a3 correspond to tomograms of relative velocities (rel) regarding the average of the dv/v of the analyzed window of time. 
+Panels b1, b2, and b3 are tomograms of absolute values of dv/v of the selected time window (abs). The location of the DSPgf is labeled in a1, and the seismic stations 
+are labeled by red dots in all the tomograms. The bottom right color bar depicts the dv/v range computed in Period 1. The panels c. on the right are extractions of the 
+Fig. 4 corresponding to Period 1 for comparison of the occurrence of earthquakes, geothermal operations, and dv/v. The transparent-grey box (labeled as P1) on the 
+dv/v panel (bottom) highlights the velocity drop registered between days 15 and 29. 
+F. Mu˜noz-Burbano et al.                                                                                                                                                                                                                      
+
+Geothermics 120 (2024) 103010
+8
+injection rate decreases from 110 to 85 m3/h. The production drop goes 
+from 115 to 80 m3/h alongside the pressure production diminishing 
+from 15 to 11 Bar. The changes in production and re-injection rates 
+match the sudden increment in the apparent velocity observable on the 
+dv/v diagram of vertical-horizontal (EZ) components (label P3 in 
+Figs. 4f and 7c.). The sudden velocity variation (0.26 %) in Fig. 4f is only 
+visible using a moving window of one day and matches an increase of re- 
+injection and production. Moving windows of more than 5 days smooth 
+this apparent velocity change (figures S8 and S9 supplementary mate­
+rial), suggesting a short-lasting dv/v as a response to the system re­
+covery. Around day 182, the values of re-injection and production 
+fluctuate between 90 and 100 m3/h, respectively, with a short-lived 
+drop in re- injection and production rates that do not produce visible 
+dv/v. However, this part of Period 3 shows the occurrence of 27 
+earthquakes that ceased when the re-injection of fluids dropped from 
+110 to 40 m3/h and production increased from 105 to 120 m3/h 
+alongside an increase of pressure in the production wells from 14 to 17 
+Bar. The dv/v does not indicate any significant change suitable for 
+space-time location. Period 3 ends on day 219, from which the seis­
+micity is no longer detected, and the geothermal operations of re- 
+injection and production become steady (about 50 and 110 m3/h, 
+respectively). Fig. 7 shows the time-dependent velocity variations of 
+Period 3 using PC of 0.5 for body and surface wave sensitivities (figures 
+S13 and S14 show maps with other PCs.) The panels on the left (a1, a2, 
+a3) are tomograms of relative dv/v (rel) and the panels on the center 
+(b1, b2, b3) are tomograms using absolute values of dv/v (abs). Panel c., 
+shows the number of earthquakes, geothermal operations, and the dv/v 
+diagram of Period 3, highlighting the dv/v peak used for location 
+(bottom panel, gray box P3). The tomograms a1 (rel) and b1 (abs) show 
+dv/v spanning from 140 to 156 days where the dv/v fluctuates near zero 
+before a sudden increase in dv/v occurred on day 157 until day 161. 
+Tomograms in a2 (rel) and b2 (abs) show the distribution of the positive 
+dv/v change to the northwest and south areas of the study region. Note 
+that in b2 (abs), the location of the higher apparent velocities is towards 
+the southernmost station inside the DSPgf. The central region enclosed 
+by the seismic network highlights a low-velocity anomaly that remains 
+after the system goes back to dv/v fluctuations near zero. Low velocities 
+are dominate the dv/v distribution, see panels a3 (rel) and b3 (abs). The 
+tomogram in b3 (abs) reveals that the northern region decreases the 
+value of dv/v, suggesting that the system backs to almost its original 
+state. These observations suggest that the sudden positive change of 
+velocity may obey fluctuations in the rate of fluid re- injection and 
+production of the geothermal field. 
+5. Discussion 
+5.1. Earthquakes distribution 
+We document for the first time the occurrence of seismic activity in 
+the region of the DSP that has events lower than 1.6 Mc. We introduce an 
+optimized velocity model that yields locations with 30 % lower RMS 
+than earthquake locations with previous regional models. The 
+Fig. 6. Location of velocity changes occurred during Period 2 using partition coefficients of 0.5 of the body and surface waves sensitivities. Days from 58 to 121 of 
+the monitoring campaign. Figure conventions regarding relative and absolute tomograms, location of the DSPgf and seismic stations are the same as Fig. 5. The panels 
+c., on the right show information of the Fig. 4 corresponding to Period 2. The transparent gray box (labeled as P2) highlights the dv/v positive peak that occurred 
+between days 95 and 101. 
+F. Mu˜noz-Burbano et al.                                                                                                                                                                                                                      
+
+Geothermics 120 (2024) 103010
+9
+distribution along depth of the relocated earthquakes shows two clus­
+ters. A shallow cluster mostly confined within the geothermal reservoir 
+(i.e., between 0.5 km and 2.5 km depth). We also identify a second group 
+of events from 2.5 to 7 km depth. While our observations indicate that 
+the shallow cluster is probably associated with geothermal operations 
+(see discussion herein), we cannot assess the causative nature of the 
+deeper seismicity. Hence, to establish a possible link between velocity 
+changes and anthropogenic activity, we consider only the seismicity that 
+we relocated into the geothermal reservoir. The three periods of most 
+abundant seismicity at the DSPgf coincide with the most intense hy­
+draulic activity conducted onsite. This seismicity increases when fluids 
+re-injection reaches the maximum (Period 1 Fig. 4a,b) or the re-injection 
+suddenly decreases (Period 2 Fig. 4a,b). Furthermore, the seismicity 
+displays a swarm-like behavior, with no clear mainshock-aftershocks 
+evolution, typical of fluid-driven seismicity (Hainzl, 2004; Chen et al., 
+2012; Hainzl et al., 2012; Shelly et al., 2013; Cox, 2016), in contrast to 
+periods of relatively stable geothermal operations (i.e., starting from day 
+200 onwards). An interesting lack of seismicity was observed between 
+days 40 and 50 during simultaneous re-injection/production of about 
+the same order of magnitude that may have compensating effects, 
+leading to a pore pressure equilibrium in the shallow subsurface. We 
+notice that the depth of the shallow seismicity is the same as the bottom 
+wells where operations were conducted (Fig. 3b). This corresponds to 
+the proposed depth of the reservoir where magnetotelluric surveys 
+(Reyes-Orozco et al., 2019) found a highly fractured fluid circulation 
+zone between the isotherms of 150 and 250 ◦C (Rodrı́guez et al., 2019). 
+In line with previous studies (e.g., Gaucher et al., 2015; Guglielmi et al., 
+2015; McGarr, 2014; Lin and Wu, 2018; Ge and Saar, 2022), we propose 
+that pore pressure variations may promote microseismic activity in 
+geothermal reservoirs. The shallow seismicity spreads out horizontally 
+about 4 km from the geothermal wells. Zones at that distance are sug­
+gested to be close enough to be affected by the causal effects of hori­
+zontal pore pressure variations linked to re-injected fluids. These reduce 
+effective stress on fractures in a critical state inducing seismicity (Sha­
+piro et al., 1997; Shapiro and Dinske, 2009; Terakawa et al., 2012; Ge 
+and Saar, 2022). The deeper seismicity cluster spans from 2.5 km (i.e., 
+the bottom-wells of re- injections) to about 7 km (Fig. 3). Rodrı́guez et al. 
+(2019) inferred the isotherms of the DSPgf using geothermometers 
+showing that the maximum depth of the geothermal wells (3 km from 
+the surface) reaches about 300 ◦C. Temperatures obtained with geo­
+themometers can show large uncertainties. Instead, stabilized temper­
+atures could better constrain the thermal structure (Nitschke et al., 
+2017; Ystroem et al., 2020). Nevertheless, we assume that temperatures 
+underneath the DSPgf at >7 km depth might be above ≈500 ◦C, over­
+coming the brittle-ductile transition zone (Parisio et al., 2019; Cheng 
+and Ben-Zion, 2019), which can explain the absence of deeper seis­
+micity. Although seismicity in the deep and shallow clusters occurs 
+generally at the same time (figure S8 supplementary material), it is 
+unclear if the fluids re-injected/extracted within the reservoir may be 
+linked to the seismicity in the deeper cluster. The lack of a spatial cor­
+relation between the reservoir and the deep cluster makes it challenging 
+to speculate about the origin of the deep seismicity. For instance, a 
+possible trigger may be related to the perturbation of local fault systems 
+by pore pressure diffusion fronts. This has been proposed in multiple 
+studies (e.g., Goebel et al., 2017; Porter et al., 2019), including pore 
+pressure diffusion in groundwater wells (e.g., Shalev et al., 2023; 
+Fig. 7. Location of velocity changes occurred during Period 3 using partition coefficients of 0.5 of the body and surface waves sensitivities. Days from 140 to 219 of 
+the monitoring campaign. Figure conventions regarding relative and absolute tomograms, location of the DSPgf and seismic stations are the same as Fig. 5. The panel 
+c., show the number of earthquakes during Period 3, rates of re-injection of fluids, rates of production, and the dv/v curve. The transparent-gray box highlights the 
+peak of dv/v (labeled as P3) located in the tomograms of days 157 to 161. 
+F. Mu˜noz-Burbano et al.                                                                                                                                                                                                                      
+
+Geothermics 120 (2024) 103010
+10
+Wetzler et al., 2019). Another possible explanation of the deep seis­
+micity may be related to elevated pore pressures caused by a cooling 
+magmatic body. Indeed, the lack of seismic activity below 7 km depth 
+may caused by a ductile rheology, possibly related to magma storage. 
+The occurrence of such magma may justify the elevated geothermal 
+gradient of the region (Rodrı́guez et al., 2019) and justify fluid-driven 
+seismicity. Interestingly, we observed no seismic activity during 
+Period 3 (Fig. 4, days 150 to 165) when production suddenly declined. 
+The resume of seismicity occurred about ten days after such a produc­
+tion drop. Finally, we acknowledge that seismicity may be promoted by 
+other simultaneous processes unrelated to fluid perturbation that are not 
+trivial to discriminate (Hainzl, 2004; Lohman and McGuire, 2007; 
+V´avryˇcuk and Hrubcov´a, 2017). Nevertheless, in geothermal systems, 
+fluid flow is often the key factor affecting seismicity (Shelly et al., 2013; 
+Taira et al., 2018; Ake et al., 2005) as we discussed for Periods 1 and 2 of 
+this study (Fig. 4 and figure S4 of the supplementary material). 
+5.2. dv/v changes and spatial distribution 
+The unique dataset we have available of the DSPgf allows us to seek 
+the association of the seismic velocity changes with geothermal opera­
+tions. We investigate station pair cross-correlations in frequency bands 
+ranging from 0.1 to 1 Hz using central periods from 1 to 3.5 s. For the 
+dv/v calculations, the chosen time window of the cross-correlations 
+corresponds to the early coda where scattered Rayleigh waves are sug­
+gested to dominate (Obermann et al., 2013) and Love waves can also be 
+present. Rayleigh waves dominate seismic signals retrieved on CCfs, 
+particularly on components that combine vertical and/or radial chan­
+nels (ZZ, ZR, RZ, RR). Therefore, a proportion of Rayleigh energy is 
+expected on both N and E channels when looking at unrotated horizontal 
+components. By averaging all station pairs, Rayleigh energy is present 
+on both N and E channels. Since Rayleigh energy is known to be present 
+on the vertical channel, we assume it is present on ZZ, EZ, ZE, NZ, and 
+ZN components (figure S9). For consistency, we display a simplified 
+combination of vertical and horizontal components to represent the 
+dv/v in the wavefield. The method can be affected by the stations array 
+geometry, the inter-station distance, and topography. Resolution test 
+performed to describe the spatial distribution of dv/v variations at the 
+subsurface of the DSPgf at a period of 1 s (figure S6 of the supplementary 
+material) demonstrates the resolution of our mapping. This corresponds 
+to the shallow geothermal system under the DSPgf (see velocity kernel of 
+the DSPgf. Figure S11 of the supplementary material). The dv/v dia­
+grams of Fig. 4d, e, f, and the ones available in the supplementary ma­
+terial (figures S8 and S9) describe the apparent velocity changes 
+sampled by the scattered coda waves (Snieder et al., 2002). The most 
+prominent dv/v (P1, P2, and P3) changes at the DSPgf coincide with 
+active geothermal operations and occur when such activities change 
+significantly in less than 24 h. One exception is a prominent negative 
+dv/v change visible at about 130 days of monitoring using a GF filtered 
+from 0.4 to 0.8 Hz (Fig. 4e). This negative dv/v change matches the 
+occurrence of the greatest earthquake registered (1.8 Mc, Fig. 4a), 
+whose epicentre is within the DSPgf but does not coincide with any 
+geothermal operation (Fig. 4b,c). Fig. 4e shows the dv/v changes of 
+Period 1 when the dv/v drop of 0.15 % coincides with the highest fluids 
+re-injection (> 140 m3/h) and with the lowest extraction. Apparent 
+velocity changes of similar magnitude have been reported in other 
+geothermal fields associated with fluids re-injection (Ojo et al., 2022), 
+volcanic unrest (Cubuk-Sabuncu et al., 2021b), and large earthquakes 
+(Taira et al., 2018). The dv/v returns gradually to its pre-injection value 
+(± 0.05 %) as the re-injection rate of fluids decreases. The maximum 
+dv/v drop coincides with the most abundant occurrence of earthquakes. 
+This suggests a seismic response of the geothermal system to high rates 
+of fluid re-injection and the steady depletion of the production rate. This 
+also emerges while analyzing Period 2 where the production rate is 
+constant for more than three months, and the only significant change is a 
+sudden drop of re-injection of fluids lasting about 10 days. We observe a 
+similar prominent increment of dv/v (0.2 %) in Period 2 when the 
+re-injection rate drops to 12.5 m3/h around days 93–100 (Fig. 4d) with a 
+concurrent increment of seismic activity and a sudden jump in the cu­
+mulative seismic moment (Fig. 4a). The system recovers its original state 
+(i.e., ± 0.05 %) once the re- injection rates recover their background 
+levels. Numerical simulations have shown that changes in the number 
+and pattern of fractures and fluid circulation in an elastic media produce 
+changes in seismic velocity (Sawayama et al., 2022). We attribute the 
+dv/v variations to pore pressure changes in the system induced by the 
+abrupt variations in re-injection rates that create or perturb 
+critically-stressed fractures and faults promoting simultaneously 
+micro-seismicity (Taira et al., 2018; S´anchez-Pastor et al., 2019). Other 
+possible mechanisms that cause changes in the elastic properties of the 
+media are deformation (e.g., creation of cracks and fractures) and 
+changes in pore pressure, temperature and pressure. Pore pressure 
+diffusion also may induce decreasing of the friction coefficient between 
+clays within pre-existing fracture and cause mechanical weakening of 
+the host rock leading to failure (Talwani and Acree, 1984; Ge and Saar 
+2022). We expect changes in pore pressure to more likely cause a ve­
+locity change significant enough to be observable. Seasonal effects may 
+cause periodic long-duration variations in dv/v curves (on the scale of 
+months) if there are significant variations in the distribution of 
+low-frequency noise sources or significant changes in surface tempera­
+ture, and natural hydrological variations (e.g., precipitation, soil mois­
+ture content, recharge level of shallow aquifers), which may mainly 
+affect the shallower subsurface (e.g., < 100 m). For periods 1 and 2, the 
+main velocity changes are successfully located and presented in Figs. 5 
+and 6. The time-dependent tomograms allowed us to track the dynamics 
+of the geothermal site and observe the most likely location of subsurface 
+velocity changes. In both cases (Period 1 and 2), we highlight that the 
+dv/v source is near the geothermal wells. The dv/v anomaly resulted of 
+Period 1 (Fig. 5) is clearer than the one observed for the Period 2 (Fig. 6). 
+This may be due to the longer duration of the dv/v transient for Period 1 
+(14 days) compared to Period 2 (6 days). We note that it is unlikely that 
+the dv/v method could locate subsurface velocity transients shorter than 
+a few days such as the ones that could be induced by sudden 1-day-long 
+variations of the re-injection rates (e.g., days 72, 90, and 182 Fig. 4b), 
+which are not associated with prominent peaks in the dv/v curves. The 
+dv/v transient observed in Period 3 differs from periods 1 and 2. A 
+prominent positive peak of 0.26 % in dv/v occurs between days 157 to 
+161, matching the ending of a sudden decrease in production rate 
+alongside a pressure drop registered on the production wells (Fig. 4c). 
+The brine re-injection rate fluctuates around a background value of 80 
+m3/h, with no major changes. The spatial distribution of this P3 dv/v 
+peak (Fig. 7) suggests the source of the velocity transient was located in 
+the surroundings of the DSPgf. Here, we point out that there is no 
+concomitant micro-seismicity. Studies found aseismic velocity varia­
+tions may still occur as a result of changes in the fluid re- injection in the 
+reservoir (Rivet et al., 2016; Taira et al., 2018). 
+Our high-resolution seismic catalog, coupled with a detailed 
+schedule of the geothermal operations, allows us to derive a conceptual 
+model linking geothermal procedures and velocity changes across the 
+DSPgf (Fig. 8). Although it is difficult to rule out certain combinations of 
+conditions that promote prominent dv/v changes, we argue that sig­
+nificant variations of the apparent velocity are observed as a conse­
+quence of sudden dynamic changes in fluid circulation and pore pressure 
+within the geothermal reservoir. This seems not to be reflected by the 
+background pressure registered at the well-heads. Reductions in velocity 
+may occur due to fluids saturation into the system (both water and steam 
+phases), increasing the overall pressure of the reservoir as discussed by 
+De Matteis et al. (2008) based on the modeling of wave velocity as a 
+function of porosity and fluids saturation in a geothermal field. Instead, 
+the positive dv/v may respond to the depletion of fluids, causing 
+porosity to increase and pressure to decrease, leading to an increase in 
+seismic wave velocity. We observe that for the DSPgf sudden changes in 
+the re-injection of fluids produce changes in seismic velocity and can 
+F. Mu˜noz-Burbano et al.                                                                                                                                                                                                                      
+
+Geothermics 120 (2024) 103010
+11
+trigger microseismicity. Fig. 8a represents a perturbation of the me­
+dium’s seismic velocity (red background of the subsurface) caused by 
+abrupt changes in fluid re-injection rate while maintaining the fluid 
+extraction rate constant, which promotes the generation of 
+micro-earthquakes. This is in agreement with the findings of Cal`o et al. 
+(2011), that documented the possibility of spatially mapping such 
+changes when variations in the injection rate are imposed. In the case of 
+Cal`o et al. (2011), the documented induced changes were observed in a 
+crystalline basement during a high-pressure injection test aimed to 
+stimulate a well at 5 km depth. In our case, the change is triggered by 
+injection of fluids at shallower depths and in different lithological and 
+pressure contexts. This suggests that a common mechanism may occur 
+independently from the lithology and preexisting stress conditions. 
+Fig. 8b explains that when the re-injection rate of fluids is held constant, 
+and the extraction rate of fluids suddenly changes, velocity variations 
+(represented by a blue subsurface) may occur, although the negative 
+pore pressure does not induce immediate micro-seismicity. 
+6. Conclusion 
+We introduce a seismic catalog and an optimized 1D minimum ve­
+locity model for earthquake location in the Domo de San Pedro, Mexico. 
+We also analyzed the seismic response of the DSPgf to activities of 
+extraction and re-injection of fluids using ambient noise interferometry. 
+We demonstrate that prominent velocity changes are related to sudden 
+changes in the re-injection of fluids and sharp changes in the extraction 
+of geothermal fluids, regardless of the well-heads’ pressure. Under 
+certain conditions, such as constant extraction and sudden change of 
+fluids re-injection, induced micro-seismicity. Analysis of the spatial 
+distribution of the dv/v can reveal the evolution of the stress state of the 
+geothermal field in response to the fluid dynamics. Combining classical 
+earthquake monitoring methods, geothermal operation logs, and seismic 
+ambient noise interferometry constitute a new approach to geothermal 
+exploitation monitoring. This workflow can be implemented in real- 
+time and provide hints for improving the current geothermal models. 
+CRediT authorship contribution statement 
+F. Mu˜noz-Burbano: Writing – original draft, Visualization, Soft­
+ware, Investigation, Formal analysis, Data curation. M. Cal`o: Supervi­
+sion, Software, Methodology, Funding acquisition, Conceptualization. 
+G. Savard: Writing – review & editing, Supervision, Methodology. V. 
+Reyes-Orozco: Data curation. M. Lupi: Writing – review & editing, 
+Supervision, Resources, Funding acquisition, Conceptualization. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Data availability 
+Data will be made available on request. 
+Acknowledgments 
+This study was funded by the Swiss agency REPIC in the frame of the 
+project DOSPEGAS, contract 2020.05, the University of Geneva UNIGE, 
+the Instituto de Geofı́sica UNAM, Mexico. Thanks to Grupo Dragon 
+Company, Mexico, for sharing the geothermal data and allowing the 
+station deployment. Thanks to David Avalos of Grupo Dragon. Thanks to 
+Jose Manuel de Jesús and Mario Alberto Dı́az Cruz of the IGEF-UNAM 
+for the enormous help in the field. The dv/v computing was done 
+using the HPC facilities of UNIGE. The information used for this work 
+can be requested directly to the first author and to the company Grupo 
+Dragon. The authors can be contacted to share other non-restricted data 
+(cross- correlations, dv/v curves, etc.) and codes. 
+Fig. 8. Schematic model summarizing the relation between geothermal operations, occurrence of earthquakes and velocity variations. The reservoir is represented in 
+greenish colour. a. Changes in re-injection of fluids at different rates and pressures with steady extraction of fluids promote velocity variations (represented by a 
+portion of the subsurface in red colour) and changes in the pore-fluid pressure inducing shallow seismicity (dark dots) and likely deeper seismicity (white dots). b. 
+Schematic model where the fluid re-injection rates are low and the fluids-extraction is unstable. The response of the system is an increase of the velocity wave-field 
+(represented by a portion of the subsurface in blue), without occurrence of concomitant induced seismicity. 
+F. Mu˜noz-Burbano et al.                                                                                                                                                                                                                      
+
+Geothermics 120 (2024) 103010
+12
+Supplementary materials 
+Supplementary material associated with this article can be found, in 
+the online version, at doi:10.1016/j.geothermics.2024.103010. 
+References 
+Ake, J.P., Mahrer, K.D., O’Connell, D.R.H., Block, L.V., 2005. Deep-injection and closely 
+monitoredinduced seismicity at paradox valley, colorado. Bull. Seismol. Soc. 
+America 95, 664–683. URL. https://api.semanticscholar.org/CorpusID:130713493. 
+Antunes, V., Plan`es, T., Zahradnı́k, J., Obermann, A., Alvizuri, C., Carrier, A., Lupi, M., 
+2020. Seismotec-tonics and 1-D velocity model of the Greater Geneva Basin, 
+France–Switzerland. Geophy.J.Internat. 221 (3), 2026–2047. https://doi.org/ 
+10.1093/gji/ggaa129, 03.  
+Barmin, M.P., Ritzwoller, M.H., Levshin, A.L., 2001. A fast and reliable method for 
+surface wavetomography. Pure Appl. Geophys. 1351–1375 pages.  
+Bensen, D., Ritzwoller, M., Barmin, P., Levshin, L., Lin, F., Moschetti, P., Shapiro, M., 
+Yang, Y., 2007. Process-ing seismic ambient noise data to obtain reliable broad-band 
+surface wave dispersion measurements. Internat. J. Geophy. 169, 1239–1260. 
+https://doi.org/10.1111/j.1365-246X.2007.03374.x. 
+Beroza, G.C., Cole, A.T., Ellsworth, W.L., 1995. Stability of coda wave attenuation during 
+the lomaprieta, california, earthquake sequence. J. Geophys. Res. 100, 3977–3987. 
+https://doi.org/10.1029/94JB02574. ISSN01480227.  
+Brenguier, F., Campillo, M., Takeda, T., Aoki, Y., Shapiro, N.M., Briand, X., Emoto, K., 
+Miyake, H., 2014. Mapping pressurized volcanic fluids from induced crustal seismic 
+velocity drops. Science (1979) 345 (6192), 80–82. https://doi.org/10.1126/ 
+science.1254073. 
+Brenguier, F., Courbis, R., Mordret, A., Campman, X., Bou´e, P., Chmiel, M., Takano, T., 
+Lecocq, T., V.der Veen, W., Postif, S., Hollis, D., 2020. Noise-based ballistic wave 
+passive seismic monitoring. Bodywaves. Geophy. J. Internat. 221, 683–691. https:// 
+doi.org/10.1093/gji/ggz440, 4. ISSN 1365246X.  
+Cabrera-P´erez, I., D’Auria, L., Soubestre, J., Przeor, M., Barrancos, J., Garcı́a-Hern 
+́andez, R., Ib ́a ̃nez, J.M., Koulakov, I., van Dorth, D.M., Ortega, V., Padilla, G.D., 
+Sagiya, T., P´erez, N., 2023a. Spatio-temporalvelocity variations observed during the 
+pre-eruptive episode of la palma 2021 eruption inferred fromambient noise 
+interferometry. Sci. Rep. 13, 12039. https://doi.org/10.1038/s41598-023-39237-9, 
+7ISSN 2045-2322URL. https://www.nature.com/articles/s41598-023-39237-9. 
+Cabrera-P´erez, I., Soubestre, J., D’Auria, L., Barrancos, J., Martı́n-Lorenzo, A., van 
+Dorth, D.M., D.Padilla, G., Przeor, M., P´erez, N.M., 2023b. Geothermal and 
+structural features of la palma island (canaryislands) imaged by ambient noise 
+tomography. Sci. Rep. 13, 12892. https://doi.org/10.1038/s41598-023-39910-z, 
+8ISSN 2045-2322.  
+Cal`o, M., Dorbath, C., Cornet, F.H., Cuenot, N., 2011. Large-scale aseismic motion 
+identified through 4-dp-wave tomography. Geophys. J. Int. 186, 1295–1314. 
+https://doi.org/10.1111/j.1365-246X.2011.05108.x, 9ISSN 0956540X.  
+Cal`o, M., Mazariegos, E.A.L., Tramelli, A., Orazi, M., 2021. Hydrothermal systems 
+characterization of thestromboli volcano using spatial and temporal changes of the 
+seismic velocities. J. Volcanologyand Geothermal Res. 411 https://doi.org/10.1016/ 
+j.jvolgeores.2021.107177, 3ISSN 03770273.  
+Cal`o, M., Dorbath, C., 2013. Different behaviours of the seismic velocity field at soultz- 
+sous- forˆets re-vealed by 4-d seismic tomography: case study of gpk3 and gpk2 
+injection tests. Geophy. J. Internat. 194, 1119–1137. https://doi.org/10.1093/gji/ 
+ggt153, 7ISSN 0956540X.  
+Castillo, D., De-La-Cruz, M., 1992. In spanish: reconocimiento estructural y volcanol 
+́ogico en la zona termaldel domo de san pedro lagunillas, nayarit, m ́ exico. Geofisica 
+Internacional 31, 407–415. 
+Chen, X., Shearer, P.M., Abercrombie, R.E., 2012. Spatial migration of earthquakes 
+within seismic clustersin southern california: evidence for fluid diffusion. Solid Earth 
+117 (B4). https://doi.org/10.1029/2011JB008973. 
+Cheng, Y., Ben-Zion, Y., 2019. Transient brittle-ductile transition depth induced by 
+moderate-large earth-quakes in southern and baja california. Geophys. Res. Lett. 46 
+(20), 11109–11117. https://doi.org/10.1029/2019GL084315. 
+Cox, S.F., 2016. Injection-driven swarm seismicity and permeability enhancement: 
+implications for theDynamics of hydrothermal ore systems in high fluid-flux, 
+Overpressured Faulting Regimes—AnInvited Paper. Econ. Geol. 111 (3), 559–587. 
+https://doi.org/10.2113/econgeo.111.3.559, 05.  
+Cubuk-Sabuncu, Y., Jonsdottir, K., Caudron, C., Lecocq, T., Parks, M.M., Geirsson, H., 
+Mordret, A., 2021a. Temporal seismic velocity changes during the 2020 rapid 
+inflation at mt. dorbj ¨orn svartsengi, iceland,using seismic ambient noise. Geophys. 
+Res. Lett. 48 https://doi.org/10.1029/2020GL092265, 6.  
+Cubuk-Sabuncu, Y., Jonsdottir, K., Caudron, C., Lecocq, T., Parks, M.M., Geirsson, H., 
+Mordret, A., 2021b. Temporal seismic velocity changes during the 2020 rapid 
+inflation at mt. porbj ¨orn-svartsengi, iceland,using seismic ambient noise. Geophys. 
+Res. Lett. 48 (11), e2020GL092265 https://doi.org/10.1029/2020GL092265. 
+De Matteis, R., Vanorio, T., Zollo, A., Ciuffi, S., Fiordelisi, A., Spinelli, E., 2008. Three- 
+dimensional tomog-raphy and rock properties of the larderello-travale geothermal 
+area, italy. Phys. Earth Planet. Interiors 168 (1), 37–48. https://doi.org/10.1016/j. 
+pepi.2008.04.019. ISSN 0031-9201.  
+Diehl, T., Kraft, T., Kissling, E., Wiemer, S., 2017. The induced earthquake sequence 
+related to the St.Gallen deep geothermal project (Switzerland): fault reactivation and 
+fluid interactions imaged bymicroseismicity. Solid Earth 122 (9), 7272–7290. 
+https://doi.org/10.1002/2017JB014473. 
+Donaldson, C., Winder, T., Caudron, C., White, R.S., 2019. Crustal seismic velocity 
+responds to a magmaticintrusion and seasonal loading in iceland’s northern volcanic 
+zone. Sci. Adv. 5. URL. https://www.science.org. 
+Ferrari, L., Pasquare, G., Venegas-Salgado, S., Romero-Rios, F., 2000. Geology of the 
+western mexicanvolcanic belt and adjacent sierra madre occidental and jalisco block. 
+Special Paper Geolog. Soc. America 334, 65–83. https://doi.org/10.1130/0-8137- 
+2334-5.65. ISSN 00721077.  
+Ferrari, L., Petrone, C., Francalanci, L., Tagami, T., Eguchi, M., Conticelli, S., Manetti, P., 
+Venegas-Salgado, S., 2003. Geology of the san pedro – ceboruco graben, western 
+trans-mexican volcanic belt. RevistaMexicana de Ciencias Geologicas 20, 165–181. 
+Frey, H.M., Lange, R.A., Hall, C.M., Delgado-Granados, H., 2004. Magma eruption rates 
+constrained by40ar/39ar chronology and gis for the ceboruco-san pedro volcanic 
+field, western mexico. Bullet. Geolog. Soc. America 116, 259–276. https://doi.org/ 
+10.1130/B25321.1, 3ISSN 00167606.  
+Gaucher, E., Schoenball, M., Heidbach, O., Zang, A., Fokker, P.A., Wees, J.D.V., Kohl, T., 
+2015. Inducedseismicity in geothermal reservoirs: a review of forecasting 
+approaches. Renew. Sustain. Energy Rev. 52, 1473–1490. https://doi.org/10.1016/ 
+j.rser.2015.08.026, 12ISSN 18790690.  
+Ge, S., Saar, M.O., 2022. Review: induced seismicity during geoenergy development—A 
+hydromechanicalperspective. Solid Earth 127. https://doi.org/10.1029/ 
+2021JB023141, 3ISSN 21699356.  
+Goebel, T., Weingarten, M., Chen, X., Haffener, J., Brodsky, E., 2017. The 2016 mw5.1 
+fairview, oklahomaearthquakes: evidence for long-range poroelastic triggering at 
+¿40km from fluid disposal wells. Earthand Planet. Sci. Letters 472, 50–61. https:// 
+doi.org/10.1016/j.epsl.2017.05.011. 
+Got, J.L., Coutant, O., 1997. Anisotropic scattering and travel time delay analysis in 
+kilauea volcano,hawaii, earthquake coda waves. Solid Earth 102 (B4), 8397–8410. 
+https://doi.org/10.1029/96JB03731. 
+Granados-Chavarrı́a, I., Cal`o, M., Figueroa-Soto, Angel, Jousset, P., 2022. Seismic 
+imaging of the magmaticplumbing system and geothermal reservoir of the los 
+humeros caldera (mexico) using anisotropic shearwave models. J. Volcanol. 
+Geothermal Res. 421, 107441 https://doi.org/10.1016/j.jvolgeores.2021.107441, 
+1ISSN 03770273URL. https://linkinghub.elsevier.com/retrieve/pii/S0377027 
+321002705. 
+Guglielmi, Y., Cappa, F., Avouac, J.P., Henry, P., Elsworth, D., 2015. Seismicity triggered 
+by fluid injec-tion–induced aseismic slip. Science (1979) 348, 1224–1226. https:// 
+doi.org/10.1126/science.aab0476. 
+Hainzl, S., 2004. Seismicity patterns of earthquake swarms due to fluid intrusion and 
+stress triggering. Geophys. J. Int. 159 (3), 1090–1096. https://doi.org/10.1111/ 
+j.1365-246X.2004.02463.x, 12.  
+Hainzl, S., Fischer, T., Dahm, T., 2012. Seismicity-based estimation of the driving fluid 
+pressure in the caseof swarm activity in western bohemia. Geophys. J. Int. 191 (1), 
+271–281. https://doi.org/10.1111/j.1365-246X.2012.05610.x. 
+Havskov, J., Ottemoller, L., Voss, P., 2010. Seisan earthquake analysis software. 
+Department Earth Sci,University Bergen, Norway Geological Sur. 
+DenmarkGreenland. 
+Heckels, R.E., Savage, M.K., Townend, J., 2018. Post-seismic velocity changes following 
+the 2010mw 7.1darfield earthquake, new zealand, revealed by ambient seismic field 
+analysis. Geophys. J.Internat. 213, 931–939. https://doi.org/10.1093/gji/ggy021, 
+5ISSN 1365246X.  
+Hillers, G., Husen, S., Obermann, A., Plan`es, T., Larose, E., Campillo, M., 2015. Noise- 
+based monitor-ing and imaging of aseismic transient deformation induced by the 
+2006 basel reservoir stimulation. GEOPHYSICS 80, KS51–KS68. https://doi.org/ 
+10.1190/geo2014-0455.1, 7ISSN 19422156.  
+Jiwani-Brown, E.A., Plan`es, T., Pacheco, J.F., Mora, M.M., Lupi, M., 2022. Magmatic and 
+tectonicdomains of central costa rica and the iraz ́u-turrialba volcanic complex 
+revealed by ambient noisetomography. Solid Earth 127. https://doi.org/10.1029/ 
+2022JB024575, 11ISSN 21699356.  
+Kissling, E., 1988. Geotomography with local earthquake data. Rev. Geophysics 26 (4), 
+659–698. 
+Kissling, E., Ellsworth, W., Eberhart-Phillips, D., Kradolfer, U., 1994. Initial reference 
+models in localearthquake tomography. J. Geophys. Res. 99 (B10) https://doi.org/ 
+10.1029/93JB03138, 19,635–19,646.  
+Kissling, E., Ellsworth, W., Thurber, C., 1995. Velest user’s guide. Service, Swiss 
+Seismological and Instituteof Geophysics. ETH Zurich 1, 31. 
+Lecocq, T., Caudron, C., Brenguier, F., 2014. Msnoise, a python package for monitoring 
+seismic velocitychanges using ambient seismic noise. Seismolog. Res. Letters 85, 
+715–726. https://doi.org/10.1785/0220130073. ISSN 19382057.  
+Lienert, B.R., 1994. Hypocenter 3.2 a computer program for locating earthquakes locally, 
+regionally andglobally. Hawaii InstituteGeophy. Planetol. 1, 1–74, 10.  
+Lin, G., Wu, B., 2018. Seismic velocity structure and characteristics of induced seismicity 
+at the geysersgeothermal field, eastern california. Geothermics. 71, 225–233. 
+https://doi.org/10.1016/j.geothermics.2017.10.003, 1ISSN 03756505.  
+Lohman, R.B., McGuire, J.J., 2007. Earthquake swarms driven by aseismic creep in the 
+salton trough,california. Solid Earth 112 (B4). https://doi.org/10.1029/ 
+2006JB004596. 
+L¨oer, K., Toledo, T., Norini, G., Zhang, X., Curtis, A., Saenger, E.H., 2020. Imaging the 
+deep structures oflos humeros geothermal field, mexico, using three-component 
+seismic noise beamforming. Seismol. Res. Letters 91, 3269–3277. https://doi.org/ 
+10.1785/0220200022, 11ISSN 19382057.  
+Machacca, R., Lesage, P., Tavera, H., Pesicek, J.D., Caudron, C., Torres, J.L., Puma, N., 
+Vargas, K., Lazarte, I., Rivera, M., Burgisser, A., 2023. The 2013–2020 seismic 
+activity at sabancaya volcano (peru):long lasting unrest and eruption. J. Volcanology 
+Geother. Res. 435, 107767 https://doi.org/10.1016/j.jvolgeores.2023.107767. 
+Matrullo, E., Matteis, R., Satriano, C., Amoroso, O., Zollo, A., 2013. An improved 1-D 
+seismic velocitymodel for seismological studies in the Campania–Lucania region 
+F. Mu˜noz-Burbano et al.                                                                                                                                                                                                                      
+
+Geothermics 120 (2024) 103010
+13
+(Southern Italy). Geophys. J. Internat. 195 (July), 460–473. https://doi.org/ 
+10.1093/gji/ggt224. 
+McGarr, A., 2014. Maximum magnitude earthquakes induced by fluid injection. Solid 
+Earth 119 (2), 1008–1019. https://doi.org/10.1002/2013JB010597. 
+Nitschke, F., Held, S., Villalon, I., Neumann, T., Kohl, T., 2017. Assessment of 
+performance and parame-ter sensitivity of multicomponent geothermometry applied 
+to a medium enthalpy geothermal system. Geothermal Energy 5. https://doi.org/ 
+10.1186/s40517-017-0070-3, 12ISSN 21959706.  
+Nú˜nez-Cornú, F.J., Marta, R.L., Nava, A., Reyes-Davila, G., Su´arez-Plascencia, C., 2002. 
+Characteristics ofseismicity in the coast and north of jalisco block, mexico. Phys. 
+Earth Planet. Interiors 132, 141–155. 
+Nú˜nez-Cornú, F.J., de Jesús Escalona-Alc´azar, F., Nú˜nez, D., Trejo-Gomez, E., Su´arez- 
+Plascencia, C., Rodrı́guez-Ayala, N., 2020. Study of seismic activity at ceboruco 
+volcano (nayarit, mexico) in the period 2012to 2014. J. South. Am. Earth. Sci. 98 
+https://doi.org/10.1016/j.jsames.2019.102473, 3ISSN 08959811.  
+Obermann, A., Plan`es, T., Larose, E., Sens-Sch¨onfelder, C., Campillo, M., 2013. Depth 
+sensitivity of seis-mic coda waves to velocity perturbations in an elastic 
+heterogeneous medium. Geophy. J. Internat. 194, 372–382. https://doi.org/ 
+10.1093/gji/ggt043, 7ISSN 0956540X.  
+Obermann, A., Kraft, T., Larose, E., Wiemer, S., 2015. Potential of ambient seismic noise 
+techniques tomonitor the st. gallen geothermal site (switzerland). Solid Earth 120, 
+4301–4316. https://doi.org/10.1002/2014JB011817. ISSN 21699356.  
+Obermann, A., Plan`es, T., Larose, E., Campillo, M., 2019. 4-d imaging of subsurface 
+changes with codawaves: numerical studies of 3-d combined sensitivity kernels and 
+applications to the mw 7.9, 2008wenchuan earthquake. Pure Appl. Geophys. 176, 
+1243–1254. https://doi.org/10.1007/s00024-018-2014-7, 3ISSN 14209136.  
+Ochoa-Chavez, J.A., Escudero, C.R., Nú˜nez-Cornú, F.J., Bandy, W.L., 2015. P-wave 
+velocity tomographyfrom local earthquakes in western mexico. Pure Appl. Geophys. 
+173, 3487–3511. https://doi.org/10.1007/s00024-015-1183-x, 10ISSN14209136.  
+Ojeda, A., Havskov, J., 2001. Crustal structure and local seismicity in Colombia. 
+J. Seismol. 5, 575–593. 
+Ojo, A.O., Kao, H., Visser, R., Goerzen, C., 2022. Spatiotemporal changes in seismic 
+velocity associatedwith hydraulic fracturing-induced earthquakes near fox creek, 
+alberta, canada. J. Petroleum Sci. Eng. 208, 109390 https://doi.org/10.1016/j. 
+petrol.2021.109390. 
+Pacheco, C., Snieder, R., 2005. Time-lapse travel time change of multiply scattered 
+acoustic waves. J. Acoustical Soc.America 118, 1300–1310. https://doi.org/ 
+10.1121/1.2000827, 9ISSN 0001-4966.  
+Parisio, F., Vinciguerra, S., Kolditz, O., Nagel, T., 2019. The brittle-ductile transition in 
+active volcanoes. Sci. Rep. 9 https://doi.org/10.1038/s41598-018-36505-x, 12.  
+Peterson, J., 1993. Observations and modeling of seismic background noise. Open file 
+report. U.S. GeologicalSurvey. Department interior 0–94 pages.  
+Plan`es, T., Obermann, A., Antunes, V., Lupi, M., 2020. Ambient-noise tomography of the 
+greater genevabasin in a geothermal exploration context. Geophys. J. Int. 220, 
+370–383. https://doi.org/10.1093/gji/ggz457, 1ISSN 1365246X.  
+Porter, R.T., Striolo, A., Mahgerefteh, H., Walker, J.Faure, 2019. Addressing the risks of 
+induced seismicityin subsurface energy operations. WIREs Energy Environment 8 
+(2), e324. https://doi.org/10.1002/wene.324. 
+Poupinet, G., Ellsworth, W.L., Frechet, J., 1984. Monitoring velocity variations in the 
+crust using earthquakedoublets: an application to the calaveras fault, california 
+(usa). J. Geophys. Res. 89, 5719–5731. https://doi.org/10.1029/JB089iB07p05719. 
+ISSN 01480227.  
+Prol-Ledesma, R.M., Mor´an-Zenteno, D.J., 2019. Heat flow and geothermal provinces in 
+mexico. Geothermics. 78, 183–200. https://doi.org/10.1016/j. 
+geothermics.2018.12.009, 3ISSN 03756505.  
+Ratdomopurbo, A., Poupinet, G., 1995. Monitoring a temporal change of seismic velocity 
+in a volcano:application to the 1992 eruption of mt. merapi (indonesia). Geophys. 
+Res. Lett. 22, 775–778, 4.  
+Reyes-Orozco, V.M., Avalos-Tapia, D., Garcı́a-Tirado, J., Rodrı́guez-Pineda, E., 2019. 
+Preliminary Con-ceptual Model of the Domo San Pedro Geothermal Field - Western 
+Sector of Trans-Mexican VolcanicBelt, Nayarit, Mexico. Workshop on Geothermal 
+Reservoir Engineering. Stanford University, Stanford,California, pp. 1–8 pages.  
+Rivet, D., De Barros, L., Guglielmi, Y., Cappa, F., Castilla, R., Henry, P., 2016. Seismic 
+velocity changesassociated with aseismic deformations of a fault stimulated by fluid 
+injection. Geophys. Res. Letters 43 (18), 9563–9572. https://doi.org/10.1002/ 
+2016GL070410. 
+Rodrı́guez, E., Ocampo, F., Reyes, V., Avalos, D., Garcı́a, J., 2019. Preliminary 
+Geochemical Model Ofthe Domo San Pedro Geothermal Field in San Pedro 
+Lagunillas, Mexico. Workshop on GeothermalReservoir Engineering. Stanford 
+University, Stanford, California, pp. 1–15 pages.  
+Rodrı́guez-Pradilla, G., Eaton, D.W., 2019. The application of coda and energy methods 
+for magnitudeestimation of microseismic events. Seismolog. Res. Letters 90, 
+1296–1307. https://doi.org/10.1785/0220180366. ISSN 19382057.  
+Sawayama, K., Ikeda, T., Tsuji, T., Jiang, F., Nishizawa, O., Fujimitsu, Y., 2022. Elastic 
+wave velocitychanges due to the fracture aperture and density, and direct correlation 
+with permeability: an energeticapproach to mated rock fractures. Solid Earth 127. 
+https://doi.org/10.1029/2021JB022639, 2ISSN21699356.  
+Sens-Sch¨onfelder, C., Wegler, U., 2006. Passive image interferemetry and seasonal 
+variations of seismicvelocities at merapi volcano, indonesia. Geophys. Res. Lett. 33 
+https://doi.org/10.1029/2006GL027797, 11ISSN 00948276.  
+Shalev, E., Wetzler, N., Shatanawi, A., R¨odiger, T., Kurzon, I., Lyakhovsky, V., 
+Salameh, E., Siebert, C., 2023. Induced seismicity by groundwater extraction at the 
+dead sea fault, jordan. Solid Earth 128 (1), e2022JB025044. https://doi.org/ 
+10.1029/2022JB025044. 
+Shapiro, S.A., Dinske, C., 2009. Scaling of seismicity induced by nonlinear fluid-rock 
+interaction. Solid Earth 114 (B9). https://doi.org/10.1029/2008JB006145. 
+Shapiro, S.A., Huenges, E., Borm, G., 1997. Estimating the crust permeability from fluid- 
+injection-inducedseismic emission at the ktb site. Geophys. J. Int. 131 (2), F15–F18. 
+https://doi.org/10.1111/j.1365-246X.1997.tb01215.x. 
+Shelly, D.R., Hill, D.P., Massin, F., Farrell, J., Smith, R.B., Taira, T., 2013. A fluid-driven 
+earthquakeswarm on the margin of the yellowstone caldera. Solid Earth 118 (9), 
+4872–4886. https://doi.org/10.1002/jgrb.50362. 
+Snieder, R., Gret, A., Douma, H., Scales, J., 2002. Coda wave interferometry for 
+estimating nonlinear behaviorin seismic velocity. Science (1979) 295, 2253–2255, 
+3URL. https://www.science.org. 
+S´anchez-Pastor, P., Obermann, A., Schimmel, M., Weemstra, C., Verdel, A., Jousset, P., 
+2019. Short- and long-term variations in the reykjanes geothermal reservoir from 
+seismic noise interferometry. Geophy. Res. Letters 46, 5788–5798. https://doi.org/ 
+10.1029/2019GL082352, 6ISSN 19448007.  
+Taira, T., Nayak, A., Brenguier, F., Manga, M., 2018. Monitoring reservoir response to 
+earthquakes andfluid extraction, salton sea geothermal field, california. Sci. Adv. 4 
+(1), e1701536 https://doi.org/10.1126/sciadv.1701536. 
+Talwan, P., Acree, S., 1984. Pore pressure diffusion and the mechanism of reservoir- 
+induced seismicity. PAGEOPH 122, 85. 
+Terakawa, T., Miller, S.A., Deichmann, N., 2012. High fluid pressure and triggered 
+earthquakes in theenhanced geothermal system in basel, switzerland. Solid Earth 
+117 (B7). https://doi.org/10.1029/2011JB008980. 
+Toledo, T., Gaucher, E., Jousset, P., Jentsch, A., Haberland, C., Maurer, H., Krawczyk, C., 
+Cal`o, M., Figueroa, A., 2020. Local earthquake tomography at los humeros 
+geothermal field (mexico). Solid Earth 125. https://doi.org/10.1029/ 
+2020JB020390, 12.  
+V´avryˇcuk, V., Hrubcova, P., 2017. Seismological evidence of fault weakening due to 
+erosion by fluids fromobservations of intraplate earthquake swarms. Solid Earth 122 
+(5), 3701–3718. https://doi.org/10.1002/2017JB013958. 
+Wetzler, N., Shalev, E., G¨obel, T., Amelung, F., Kurzon, I., Lyakhovsky, V., Brodsky, E.E., 
+2019. Earthquakeswarms triggered by groundwater extraction near the dead sea 
+fault. Geophys. Res. Lett. 46 (14), 8056–8063. https://doi.org/10.1029/ 
+2019GL083491. 
+Winder, T., Bacon, C., Smith, J., Hudson, T., Greenfield, T., White, R., 2020. 
+Quakemigrate: a modular, open-source python package for automatic earthquake 
+detection and location. QuakeMigrate. AGUFM pagesS38–0013.  
+Yates, A.S., Savage, M.K., Jolly, A.D., Caudron, C., Hamling, I.J., 2019. Volcanic, 
+coseismic, and sea-sonal changes detected at white island (whakaari) volcano, new 
+zealand, using seismic ambient noise. Geophys. Res. Lett. 46, 99–108. https://doi. 
+org/10.1029/2018GL080580, 1ISSN 19448007.  
+Ystroem, L.H., Nitschke, F., Held, S., Kohl, T., 2020. A multicomponent geothermometer 
+for high-temperature basalt settings. Geothermal Energy 8. https://doi.org/ 
+10.1186/s40517-020-0158-z, 12ISSN 21959706.  
+F. Mu˜noz-Burbano et al.                                                                                                                                                                                                                      

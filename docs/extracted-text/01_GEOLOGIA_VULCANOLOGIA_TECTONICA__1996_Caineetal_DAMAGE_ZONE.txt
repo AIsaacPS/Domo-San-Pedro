@@ -1,0 +1,627 @@
+Fault zone architecture and permeability structure
+Jonathan Saul Caine
+Department of Geology and Geophysics, University of Utah, Salt Lake City, Utah 84112
+James P. Evans
+Department of Geology, Utah State University, Logan, Utah 84322-4505
+Craig B. Forster
+Earth Sciences and Resources Institute, Department of Civil and Environmental Engineering,
+University of Utah, Salt Lake City, Utah 84112
+ABSTRACT
+Fault zone architecture and related permeability structures form primary controls on
+ﬂuid ﬂow in upper-crustal, brittle fault zones. We develop qualitative and quantitative
+schemes for evaluating fault-related permeability structures by using results of ﬁeld in-
+vestigations, laboratory permeability measurements, and numerical models of ﬂow within
+and near fault zones. The qualitative scheme compares the percentage of the total fault zone
+width composed of fault core materials (e.g., anastomosing slip surfaces, clay-rich gouge,
+cataclasite, and fault breccias) to the percentage of subsidiary damage zone structures (e.g.,
+kinematically related fracture sets, small faults, and veins). A more quantitative scheme is
+developed to deﬁne a set of indices that characterize fault zone architecture and spatial
+variability. The fault core and damage zone are distinct structural and hydrogeologic units
+that reﬂect the material properties and deformation conditions within a fault zone.
+Whether a fault zone will act as a conduit, barrier, or combined conduit-barrier system is
+controlled by the relative percentage of fault core and damage zone structures and the
+inherent variability in grain scale and fracture permeability. This paper outlines a frame-
+work for understanding, comparing, and correlating the ﬂuid ﬂow properties of fault zones
+in various geologic settings.
+INTRODUCTION
+Brittle fault zones are lithologically het-
+erogeneous and structurally anisotropic dis-
+continuities in the upper crust. They may act
+as conduits, barriers, or combined conduit-
+barrier systems that enhance or impede ﬂuid
+ﬂow (Randolph and Johnson, 1989; Smith et
+al., 1990; Scholz, 1990; Caine et al., 1993;
+Forster et al., 1994; Antonellini and Aydin,
+1994; Newman and Mitra, 1994; Goddard
+and Evans, 1995). Fault zones are composed
+of distinct components: a fault core where
+most of the displacement is accommodated
+and an associated damage zone that is me-
+chanically related to the growth of the fault
+zone (Sibson, 1977; Chester and Logan,
+1986; Davison and Wang, 1988; Forster and
+Evans, 1991; Byerlee, 1993; Scholz and
+Anders, 1994). The amount and distribution
+of each component control ﬂuid ﬂow within
+and near the fault zone.
+Insufﬁcient data, particularly ﬁeld-based
+data, are available to adequately character-
+ize and compare architecture, permeability
+structure, ﬂuid ﬂow, and mechanical prop-
+erties of fault zones found in different geo-
+logic environments. Current demands to
+prove the long-term integrity of waste-dis-
+posal facilities, produce hydrocarbons from
+reservoirs
+compartmentalized
+by
+fault
+zones, extract mineral deposits, and esti-
+mate earthquake risk require incorporating
+detailed, ﬁeld-based representations of the
+physical properties of fault zones in predic-
+tive ﬂuid ﬂow simulators. Development of
+valid ﬂow models is hindered by our inability
+to measure in situ fault zone properties in a
+way that adequately characterizes the spatial
+and temporal variations in permeability, po-
+rosity, and storativity.
+In this paper, we compile data, terminol-
+ogy, and conceptual models in order to con-
+solidate our knowledge of fault-related per-
+meability structures. We outline a fault zone
+model and a set of indices that serve as a
+guide in evaluating the physical properties
+of fault zones. This model can be used as a
+framework for determining spatial variabil-
+ity in fault zone architecture from ﬁeld data
+and for incorporating physically based geo-
+logic information in mathematical models of
+ﬂuid ﬂow in faulted rocks. We ﬁrst deﬁne
+the major components of a fault zone and
+then set forth both qualitative and quanti-
+tative schemes for fault-related permeability
+structures. The schemes are based on a syn-
+opsis of our research and the work of other
+authors (Sibson, 1981; Oliver, 1986; Chester
+and Logan, 1986; Parry and Bruhn, 1986;
+Scholz, 1987; Scholz and Anders, 1994;
+Parry et al., 1988; Bruhn et al., 1990; Smith
+et al., 1990; Forster and Evans, 1991; Moore
+and Vrolijk, 1992; Caine et al., 1993; New-
+man and Mitra, 1994; Goddard and Evans,
+1995).
+FAULT ZONE DEFINITION
+The primary components of upper-crustal
+fault zones are fault core, damage zone, and
+protolith (shown in the conceptual model of
+Fig. 1). No scalar relationship is implied be-
+tween the components, nor must all of the
+components be present in any given fault
+zone. Note that the ﬂuid ﬂow properties of
+a fault zone may change, thus the diagram
+represents only a single point in time. For
+example, the core may act as a conduit dur-
+ing deformation and as a barrier when open
+pore space is ﬁlled by mineral precipitation
+following deformation. Thus, it is important
+to specify the stage of fault evolution when
+forming a conceptual model for a particular
+fault zone.
+We deﬁne a fault core as the structural,
+lithologic, and morphologic portion of a
+fault zone where most of the displacement is
+Figure 1. Conceptual model of fault zone with protolith removed (after Chester and Logan, 1986;
+Smith et al., 1990). Ellipse represents relative magnitude and orientation of the bulk two-
+dimensional permeability (k) tensor that might be associated with each distinct architectural
+component of fault zone.
+Data Repository item 9659 contains additional material related to this article.
+Geology; November 1996; v. 24; no. 11; p. 1025–1028; 3 ﬁgures; 1 table.
+1025
+
+accommodated (Fig. 1). Fault cores may in-
+clude single slip surfaces (Caine et al., 1991),
+unconsolidated
+clay-rich
+gouge
+zones
+(Anderson et al., 1983), brecciated and geo-
+chemically altered zones (Sibson, 1977), or
+highly indurated, cataclasite zones (Chester
+and Logan, 1986). Our ﬁeld-based observa-
+tions suggest that thickness variations, both
+down dip and along strike, combined with a
+distinctive internal structure and composi-
+tion, play an important role in controlling
+the ﬂuid ﬂow properties of fault zone cores.
+Grain-size reduction and/or mineral precip-
+itation generally yield fault cores with lower
+porosity and permeability than the adjacent
+protolith (e.g., Chester and Logan, 1986;
+Antonellini and Aydin, 1994; Goddard and
+Evans, 1995). Permeability reduction leads
+to fault cores that act as barriers to ﬂuid ﬂow
+(see Table 1 below).
+A damage zone is the network of subsid-
+iary structures that bound the fault core and
+may enhance fault zone permeability rela-
+tive to the core and the undeformed proto-
+lith (Fig. 1; Chester and Logan, 1986; Smith
+et al., 1990; Andersson et al., 1991; Scholz
+and Anders, 1994; Goddard and Evans,
+1995). Fault-related subsidiary structures in
+damage zones include small faults, veins,
+fractures, cleavage, and folds that cause het-
+erogeneity and anisotropy in the permeabil-
+ity structure and elastic properties of the
+fault zone (Bruhn et al., 1994). Wide dam-
+age zones may indicate multiple episodes of
+slip and the overprinting of successive de-
+formation events.
+The fault core and damaged zones shown
+in Figure 1 are surrounded by relatively un-
+deformed protolith. This is the country rock
+where fault-related permeability structures
+are absent, and both ﬂuid ﬂow and elastic
+properties of the rock reﬂect those of the
+unfaulted host rock. Fault zone architecture
+may ultimately reﬂect the degree to which
+the processes of strain localization vs. strain
+distribution compete as the fault zone cuts
+different rock types in the protolith.
+The geometry and magnitude of perme-
+ability contrasts between the fault core and
+damage zone are primary controls on the
+barrier-conduit
+systematics
+of
+the
+fault
+zone. Fracture density in the fault core is
+usually signiﬁcantly less than in the damage
+zone (Andersson et al., 1991; Chester et al.,
+1993). Thus, the permeability of the fault
+core may be dominated by the grain-scale
+permeability of the fault rocks, whereas the
+damage zone permeability is dominated by
+the hydraulic properties of the fracture
+network.
+CONCEPTUAL SCHEME FOR
+FAULT-RELATED FLUID FLOW
+A range of fault zone architectures are
+observed in outcrop (Fig. 2). Each of the
+four end-member architectural styles is as-
+sociated with a characteristic permeability
+structure (Chester and Logan, 1986; Bruhn
+et al., 1990; Forster and Evans, 1991; Moore
+and Vrolijk, 1992; Newman and Mitra,
+1994). These include localized conduits, dis-
+tributed conduits, localized barriers, and
+combined conduit-barriers (Table 1).
+NUMERICAL MEASURES OF FAULT
+ZONE ARCHITECTURE AND
+PERMEABILITY STRUCTURE
+Fault zone architecture and permeability
+structure are characterized by using three
+numerical indices derived from our concep-
+tual model: Fa, Fm, and Fs.
+Fa 5
+damage zone width
+total fault zone width
+5
+damage zone width
+core width 1 damage zone width .
+Fm 5 mean of Fa values for
+a single fault zone.
+Fs 5 ~Fa)max 2 ~Fa)min.
+Fa is a fault zone architectural index. Values
+of Fa range from 0 to 1 and provide a mea-
+sure of the relative width of the fault core
+and damage zone at a speciﬁed location
+(Fig. 3A). When Fa is 0, ideally the damage
+zone is absent, and the lower permeability of
+the fault core causes the fault zone to act as
+a barrier to ﬂow. When Fa is 1, ideally the
+fault core is absent, and the presence of a
+higher permeability damage zone causes the
+fault zone to act as a conduit for ﬂow. Fm is
+the mean value of Fa obtained for a set of
+fault zone measurements (Fig. 3A). Fm is
+indicative of the overall architecture and
+permeability structure of a fault zone and
+can be measured along speciﬁc transects
+(e.g., along the dip or strike of the fault
+zone). Fs is a spatial variability index that
+represents the spread in values of Fa ob-
+tained within a speciﬁc fault zone (Fig. 3A).
+This measure of the spread is, perhaps, a
+more physically based measure than using
+the standard deviation.
+Plotting values of Fa against total fault
+zone width yields insight regarding the me-
+chanics of faulting, the response of protolith
+rock types to deformation, and the resulting
+architecture
+and
+permeability
+structure
+within a single fault zone (Fig. 3A) or within
+a group of fault zones (Fig. 3B).1 The hor-
+izontal axis of the plot ranges between two
+end-member architectures and permeability
+structures. When Fa 5 0, the architecture of
+the fault zone may be dominated by strain
+localized deformation resulting in a barrier-
+type permeability structure (Fig. 3). When
+Fa 5 1, the fault zone may reﬂect distributed
+strain resulting in a conduit-type permeabil-
+ity structure (Fig. 3). Intermediate values of
+Fa indicate combined strain localization and
+distributed deformation that yield a barrier-
+conduit permeability structure (Fig. 3).
+Figure 3A is an example plot of fault zone
+architecture and permeability structure ob-
+tained for a single fault (fault 6) located in
+upper Paleozoic clastic rocks at Traill Ø,
+East Greenland. Fault 6 is an oblique-slip
+normal fault on which there has been 85 m
+of displacement. Excellent exposures of the
+fault core, damage zone, and protolith were
+mapped at 11 localities along a 400 m ver-
+tical traverse. Numbers associated with each
+point plotted in Figure 3A indicate the ele-
+vation at which the data were collected.
+Figure 3A shows possible correlations be-
+tween protolith rock type, the protolith’s
+mechanical response to deformation, and
+the resulting permeability structure of fault
+6. The three points clustered in the lower
+right-hand corner of Figure 3A are from a
+part of fault 6 where the protolith is domi-
+1GSA Data Repository item 9659, raw fault-
+zone data, is available from Documents Secre-
+tary, GSA, P.O. Box 9140, Boulder, CO 80301.
+E-mail: editing@geosociety.org.
+Figure 2. Conceptual scheme for fault-related ﬂuid ﬂow.
+1026
+GEOLOGY, November 1996
+
+nated by shale and the fault core lithology is
+dominated by clay-rich gouge. The damage
+zone structures include quartz and calcite
+veins, open fractures, and small faults. Out-
+crop observations suggest that where the
+fault zone cuts shale-rich protolith there has
+been a higher degree of strain localization
+than where it cuts sandstone-rich protolith.
+This is illustrated by the clustering of points
+in contrast to the more diffusely distributed
+points. The high clay content in the fault
+core in this part of the fault, combined with
+veins and open fractures in the damage
+zone, would suggest that the fault zone acted
+as a syn- and postdeformational conduit-
+barrier permeability structure.
+The relatively wide spread of the diffusely
+distributed points corresponds to the in-
+crease of quartz-rich sandstone in the pro-
+tolith. At these locations the fault core li-
+thology becomes dominated by siliciﬁed
+breccias. The fault zone architecture and
+permeability structure in this region indi-
+cates that the fault zone would have been a
+syndeformational ﬂow conduit and a post-
+deformational conduit-barrier ﬂuid ﬂow sys-
+tem, with ﬂow being preferentially oriented
+parallel to the fault zone.
+For fault 6, Fm 5 0.79 (Fig. 3A). This re-
+sult indicates that the overall architecture is
+a conduit-barrier ﬂuid ﬂow system, which
+agrees with outcrop observations. Both si-
+liciﬁed breccia and clay-rich gouge in the
+core would act as barriers to ﬂow normal to
+the fault zone, and open fractures in the
+damage zone would act as a conduit for ﬂow
+parallel to the fault zone. The overall spread
+in values of Fa obtained for fault 6 yields an
+Fs value of 0.33. This relatively small value
+of Fs suggests that fault 6 has a relatively
+uniform architecture, which is observed in
+the ﬁeld.
+Fault zone architecture and permeability
+structure plots can also be used with three-
+dimensional data from extensive surface ex-
+posures and drill cores. Multiple fault zones
+from a single area or many different areas
+can be plotted to compare lithology, defor-
+mation structures, and ﬂuid ﬂow properties
+(Fig. 3B). Figure 3B shows values of Fm
+plotted for several different fault zones
+where we have obtained data from our ﬁeld
+work or from the literature. The data shown
+in Figure 3B suggest that fault zones that are
+damage zone dominated (e.g., Fm values
+greater than 0.5) tend to form in clastic
+rocks and span a large range of displace-
+ments. Plotting architectural data and de-
+termining Fm from many diverse fault zones
+will enable correlations to be made between
+the factors that control fault zone architec-
+ture (e.g., lithology, displacement, and de-
+gree of strain localization) and subsequent
+ﬂuid ﬂow properties (Fig. 3B). By using this
+approach, a better understanding of the
+“rules” that govern the development of fault
+zone architecture and permeability struc-
+ture may be gained, and predictive estimates
+of the ﬂuid ﬂow properties of similar fault
+zones might be made where direct mea-
+surements are not possible.
+DISCUSSION: FACTORS THAT
+CONTROL FAULT ZONE
+HYDROGEOLOGY
+Intrinsic controls (i.e., rock types vs. ex-
+trinsic controls such as stress state) on fault
+zone permeability, porosity, and storativity
+include lithology, fault displacement, three-
+dimensional fault zone geometry, deforma-
+tion conditions, types of subsidiary struc-
+tures, ﬂuid-rock interactions, and the spatial
+and temporal variability of these parame-
+ters. Little work using ﬁeld-based and ex-
+perimental methods has been done to gain
+insight into these controls. A major difﬁculty
+in assessing fault zone permeability data
+comes from the lack of consistent documen-
+tation of the morphological position (i.e.,
+core, damage zone, or protolith) from which
+fault zone samples and data are collected
+(Evans, 1990). Fully characterizing the ﬂuid
+ﬂow properties of fault zones involves ob-
+taining permeability data for each fault zone
+component and clearly documenting the
+Figure 3. Fault zone architec-
+ture and permeability structure
+plots. A: Data obtained from
+fault 6, Traill Ø, East Greenland
+(dots represent quartz-rich
+lithologies; squares represent
+clay-rich lithologies). B: Data
+from faults mapped in different
+geologic environments.
+GEOLOGY, November 1996
+1027
+
+component of the fault zone from which
+samples and related data are collected.
+Field observations of unfractured fault
+core materials suggest that they are domi-
+nated by grain-scale permeability. Labora-
+tory-determined permeabilities for natural
+fault core materials show a range of varia-
+tion of approximately 10 orders of magni-
+tude (10212 to 10222 m2 from Smith et al.,
+1990). These data suggest that the perme-
+ability of fault core materials depends, in
+part, on lithology and the degree to which
+that lithology has been chemically altered.
+Rocks with the lowest phyllosilicate content
+tend to have the highest permeability. If
+there is a direct correlation between proto-
+lith rock type and the types of fault core
+materials that develop in a given deforma-
+tion environment, then a predictive link may
+be made with the resulting conduit-barrier
+systematics.
+Although fault zone core materials often
+have low matrix permeability, they may not
+always act as a barrier to ﬂow, particularly
+during deformation. For example, work on
+the Dixie Valley fault zone shows that the
+fault core acted as a short-lived, syndefor-
+mational, ﬂuid ﬂow conduit that then rap-
+idly sealed to form a barrier to ﬂow. This
+history is also indicated from work on fault
+6, Traill Ø, East Greenland. In contrast,
+damage zones tend to be conduits compared
+with both the fault core and the often lower
+or “background” permeability of the protolith.
+In spite of the dearth of laboratory-deter-
+mined grain-scale permeability values from
+samples of damage zone materials, our ﬁeld
+observations suggest that damage zone per-
+meability is fracture dominated. The juxta-
+position of highly fractured damage zone
+materials with undeformed protolith and
+generally unfractured fault core materials
+forms major permeability contrasts within a
+fault zone. Preliminary estimates of damage
+zone fracture permeability, using the frac-
+ture-permeability estimation methods of
+Oda et al. (1987) and Bruhn (1993), in both
+the Dixie Valley fault zone and fault 6, are
+two to three orders of magnitude greater
+than the permeability of fractured protolith
+and four to six orders of magnitude greater
+than the fault core grain-scale permeabili-
+ties. The magnitude and spatial variability of
+this permeability contrast may be the pri-
+mary control on fault zone barrier-conduit
+systematics.
+Additional controls on fault zone archi-
+tecture and permeability structure may in-
+clude deformation conditions and the chem-
+istry of fault zone ﬂuids. Understanding the
+combined impact of mechanical and chem-
+ical changes in each of the three fault zone
+components on overall architecture and per-
+meability structure is crucial to a better un-
+derstanding of heterogeneity and anisotropy
+in fault zones. Field-based fault zone archi-
+tectural data can then be evaluated in the
+context of permeability structure and for-
+mative deformation processes by using the
+quantitative scheme and architectural indices.
+CONCLUSIONS
+Fluid ﬂow in upper-crustal, brittle fault
+zones depends on fault zone architecture
+and permeability structure. We represent
+these aspects of fault zone structure and hy-
+drogeology in the qualitative and quantita-
+tive schemes presented in this paper. The
+schemes are based on a three-component
+fault zone model that includes a fault core,
+damage zone, and protolith. This concep-
+tual model is used to delineate the distinct
+structural and hydrogeologic regimes of a
+fault zone. A conceptual scheme with four
+end members is used to identify the range of
+possible and observed conﬁgurations of the
+three fault zone components. A second,
+more quantitative scheme, represents vari-
+ations in fault zone structure by using archi-
+tectural indices. Adopting these schemes
+provides a consistent framework for evalu-
+ating how the permeability structure of fault
+zones controls ﬂuid ﬂow in diverse struc-
+tural regimes.
+There is a clear need to continue ﬁeld-
+based characterization and sample collec-
+tion to determine the factors that control
+ﬂuid ﬂow in fault zones. This work should be
+done in each fault zone component, on a
+variety of fault zone types developed within
+different lithologies over a broad range of
+scales. Once reﬁned quantitative data are
+added to the scheme, new axes may be
+added. These might include time or lithol-
+ogy axes that would make the schemes more
+comprehensive and possibly provide a pre-
+dictive tool for better understanding fault
+zone architecture and permeability struc-
+ture. The role of ﬂuids in faulting processes,
+as well as the growing concerns of fault-
+related utilization of ground-water, hydro-
+carbon, mineral, and geothermal resources,
+makes understanding and characterizing
+fault zone architecture and permeability
+structure critical at various times through-
+out the evolution of a fault zone.
+ACKNOWLEDGMENTS
+We thank Arild Andresen of the University of Oslo for support
+of ﬁeld work in East Greenland, Exxon Production Research Com-
+pany for support of ﬁeld and laboratory work in east Greenland,
+U.S. Geological Survey National Earthquake Hazards Reduction
+Program grant 1434-93-G-2280 (to Forster, R. L. Bruhn, and J.
+Fredrich) for support of work on the Dixie Valley fault zone, and
+National Science Foundation grant 92-05774 and U.S. Geological
+Survey National Earthquake Hazards Reduction Program grant
+1434-94-G-2468 (to Evans).
+REFERENCES CITED
+Anderson, L. J., Osborne, R. H., and Palmer, D. F., 1983, Cata-
+clastic rocks of the San Gabriel fault—An expression of
+deformation at deeper crustal levels in the San Andreas
+fault zones: Tectonophysics, v. 98, p. 209–251.
+Andersson, J. E., Ekman, L., Nordqvist, R., and Winberg, A., 1991,
+Hydraulic testing and modeling of a low-angle fracture zone
+at Finnsjon, Sweden: Journal of Hydrology, v. 126, p. 45–77.
+Antonellini, M., and Aydin, A., 1994, Effect of faulting on ﬂuid
+ﬂow in porous sandstones: Petrophysicial properties: Amer-
+ican Association of Petroleum Geologists Bulletin, v. 78,
+p. 355–377.
+Bruhn, R. L., 1993, Crack 2D: An unpublished MatLab computer
+program for deriving permeability tensors in two dimensions
+using the methods of Oda, 1986 and Oda et al., 1987: Uni-
+versity of Utah, Department of Geology and Geophysics,
+Structural Geology Lab.
+Bruhn, R. L., Yonkee, W. E., and Parry, W. T., 1990, Structural
+and ﬂuid-chemical properties of seismogenic normal faults:
+Tectonophysics, v. 175, p. 139–157.
+Bruhn, R. L., Parry, W. T., Yonkee, W. A., and Thompson, T.,
+1994, Fracturing and hydrothermal alteration in normal
+fault zones: PAGEOPH, v. 142, p. 609–644.
+Byerlee, J., 1993, Model for episodic ﬂow of high-pressure water
+in fault zones before earthquakes: Geology, v. 21, p. 303–306.
+Caine, J. S., Coates, D. R., Timoffeef, N. P., and Davis, W. D.,
+1991, Hydrogeology of the Northern Shawangunk Moun-
+tains: New York State Geological Survey Open-File Re-
+port 1g806, 72 p. and maps.
+Caine, J. S., Forster, C. B., and Evans, J. P., 1993, A classiﬁcation
+scheme for permeability structures in fault zones: Eos
+(Transactions, American Geophysical Union), v. 74, p. 677.
+Chester, F. M., and Logan, J. M., 1986, Composite planar fabric of
+gouge from the Punchbowl fault, California: Journal of
+Structural Geology, v. 9, p. 621–634.
+Chester, F. M., Evans, J. P., and Biegel, R. L., 1993, Internal
+structure and weakening mechanisms of the San Andreas
+fault: Journal of Geophysical Research, v. 98, p. 771–786.
+Davison, C. C., and Wang, C. Y., 1988, Hydrogeologic character-
+istics of major fracture zones in a large granite batholith of
+the Canadian shield: Proceedings, 4th Canadian-American
+Conference on Hydrogeology, Banff, Canada, June 1988,
+n.p.
+Evans, J. P., 1990, Textures and deformation mechanisms and the
+role of ﬂuids in cataclastically deformed granitic rocks, in
+Knipe, R. J., and Rutter, E., eds., Deformation mechanisms,
+rheology, and tectonics: Geological Society of London Spe-
+cial Publication 54, p. 29–39.
+Forster, C. B., and Evans, J. P., 1991, Hydrogeology of thrust faults
+and crystalline thrust sheets: Results of combined ﬁeld and
+modeling studies: Geophysical Research Letters, v. 18,
+p. 979–982.
+Forster, C. B., Goddard, J. V., and Evans, J. P., 1994, Permeability
+structure of a thrust fault, in The mechanical involvement of
+ﬂuids in faulting: U.S. Geological Survey Open-File Re-
+port 94-228, p. 216–223.
+Goddard, J. V., and Evans, J. P., 1995, Chemical changes and
+ﬂuid-rock interaction in faults of crystalline thrust sheets,
+northwestern Wyoming, U.S.A.: Journal of Structural Geo-
+logy, v. 17, p. 533–547.
+Moore, J. C., and Vrolijk, P., 1992, Fluids in accretionary prisms:
+Reviews of Geophysics, v. 30, p. 113–135.
+Newman, J., and Mitra, G., 1994, Fluid-inﬂuenced deformation
+and recrystallization of dolomite at low temperatures along
+a natural fault zone, Mountain City window, Tennessee: Geo-
+logical Society of America Bulletin, v. 106, p. 1267–1280.
+Oda, M., Hatsuyama, Y., and Ohnishi, Y., 1987, Numerical ex-
+periments on permeability tensor and its application to
+jointed granite at Stripa mine, Sweden: Journal of Geo-
+physical Research, v. 92, p. 8037–8048.
+Oliver, J., 1986, Fluids expelled tectonically from orogenic belts:
+Their role in hydrocarbon migration and other geologic phe-
+nomena: Geology, v. 14, p. 99–102.
+Parry, W. T., and Bruhn, R. L., 1986, Pore ﬂuid and seismogenic
+characteristics of fault rock at depth on the Wasatch fault,
+Utah: Journal of Geophysical Research, v. 91, p. 730–744.
+Parry, W. T., Wilson, P. N., and Bruhn, R. L., 1988, Pore-ﬂuid
+chemistry and chemical reactions on the Wasatch normal
+fault, Utah: Geochimica et Cosmochimica Acta, v. 52,
+p. 2053–2063.
+Randolph, L., and Johnson, B., 1989, Inﬂuence of faults of mod-
+erate displacement on groundwater ﬂow in the Hickory
+sandstone aquifer in central Texas: Geological Society of
+America Abstracts with Programs, v. 21, p. 242.
+Scholz, C. H., 1987, Wear and gouge formation in brittle faulting:
+Geology, v. 15, p. 493–495.
+Scholz, C. H., 1990, The mechanics of earthquakes and faulting:
+Cambridge, Cambridge University Press, 439 p.
+Scholz, C. H., and Anders, M. H., 1994, The permeability of faults,
+in The mechanical involvement of ﬂuids in faulting: U.S.
+Geological Survey Open-File Report 94-228, p. 247–253.
+Sibson, R. H., 1977, Fault rocks and fault mechanisms: Geological
+Society of London Journal, v. 133, p. 191–231.
+Sibson, R. H., 1981, Fluid ﬂow accompanying faulting: Field evi-
+dence and models, in Simpson, D. W., and Richards, P. G.,
+eds., Earthquake prediction—An international review:
+American Geophysical Union Monograph, Maurice Ewing
+Series, v. 4, p. 593–603.
+Smith, L., Forster, C. B., and Evans, J. P., 1990, Interaction of fault
+zones, ﬂuid ﬂow, and heat transfer at the basin scale, in
+Hydrogeology of permeability environments: International
+Association of Hydrogeologists, v. 2, p. 41–67.
+Manuscript received March 8, 1996
+Revised manuscript received July 10, 1996
+Manuscript accepted July 29, 1996
+1028
+GEOLOGY, November 1996
+Printed in U.S.A.

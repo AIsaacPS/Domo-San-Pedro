@@ -1,0 +1,281 @@
+PROCEEDINGS, 44th Workshop on Geothermal Reservoir Engineering 
+Stanford University, Stanford, California, February 11-13, 2019 
+SGP-TR-214 
+1 
+Preliminary Conceptual Model of the Domo San Pedro Geothermal Field - Western Sector of 
+Trans-Mexican Volcanic Belt, Nayarit, Mexico 
+Violeta Mirthala Reyes-Orozco, David Avalos-Tapia, Julio García-Tirado, Esteban Rodríguez-Pineda and Fernando 
+Ocampo-Aguilar 
+vreyeso@gdragon.com.mx 
+reyvi11_11@hotmail.com 
+ 
+Keywords: Domo San Pedro, surface exploration, geology, geophysics, geochemistry, lithology, model 
+ABSTRACT  
+The surface exploration of the Domos de San Pedro geothermal field located in Nayarit, Mexico indicates that the permeability of the 
+reservoir is controlled by regional and local tectonic structures. The emplaced of the San Pedro dacitic domes is related along a NW-SE 
+direction and this is limited mainly by the NE-SW normal faulting. The conductive structures of the fluid have a NW-SE and E-W trend, 
+with possible suspicion the N-S normal faulting. These conditions are hosting the geothermal fluid of high enthalpy in the granitic-
+granodioritic complex of the Jalisco Block, associated with a propylitic alteration and confined by a clay cap which alters the andesites 
+of the Miocene. 
+1. INTRODUCTION  
+ 
+The Domos de San Pedro geothermal field is located, in the state of Nayarit, in the central western Mexico. This geothermal 
+project is situated 5 km from the municipality of San Pedro Lagunillas as shown in Fig. 1., about 60 km south-east from the town of 
+Tepic, in the western state of Nayarit. The Domos de San Pedro is the first private company in geothermal generation in Mexico, 
+developed and operated by Grupo Dragon. Nine wells have been drilled in the field and currently has an installed capaciy of 35.5 MW. 
+It is composed of two backpressure units of 5 MW each and one condensing flash power plant of 25.5 MW.  
+ 
+Figure 1: Location of Domos de San Pedro, Nayarit, Mexico. 
+ 
+
+Reyes Orozco et al. 
+ 
+2
+ 
+2. LITHOLOGY AND HYDROTHERMAL ALTERATION  
+ 
+In the Domos de San Pedro geothermal field, four different formations were recognized according to their stratigraphic position, age, 
+and composition with the help of cuttings from the drilled wells. This is made up of the (i) most recent volcanic deposits of dacitic and 
+rhyolitic flows (0.6 -0.1 Ma), including pumicite, glass, and fluidal rhyolite. The San Pedro Pleistocene dacitic formation is present with 
+dacitic colluvium and dacites. (ii) Underlying andesites and dacites of the Pliocene (4.93.8 Ma) and lay over on the (iii) andesitic lavas 
+of the Miocene (13-8 Ma). This unit seems to be the clay cap of the geothermal reservoir. (iv) And the regional basement is the 
+granodiorite and diorite from the Cretaceous to the Late Paleocene (75-56 Ma). This granitic complex is associated with the reservoir of 
+the geothermal system due to secondary permeability related to the faulting. 
+In the Domos de San Pedro geothermal field, there is an argillic zone (clay layer) over a propylitic zone (high temperature deposit> 240 
+° C). The epidote is a common mineral that is indicative of the propylitic zone. However, the epidote occurs more deeply than the 240 ° 
+C isotherm. This difference in the typical mineral set can potentially be explained by the presence of a boiling zone in wells SP06 to 
+SP08, which would cause calcite to be favored by above the epidote and a hydrotemal deposit with an alkaline tendency. 
+The most shallow argillic zone is found in the recent rhyolites where clay is observed in thin section. Clay is also highly developed in 
+the underlying pyroclastics of the Pliocene. On the other hand, in the andesites of the Miocene is the largest alteration by argilitization in 
+the rock found with an average thickness of 500 m, where it is present in illite-smectite and illite, as well as hematization and 
+silicification. It is considered that the argillic alteration works as the clay cap of our reservoir, limiting the deposit stored in the granite 
+and granodiorite of the BJ, as well as in the contacts with the diorite. As support of the petrography, the presence of clays with the 
+Methylene Blue test made from wells SP05, SP06, SP07 and SP08 is evidenced. 
+ 
+The propylitic alteration associated with high temperature geothermal deposits is related and is abundant in fault zones that 
+tectonically affect the granite complex, as well as in the dykes emplaced in this faulting, in the northern region of the San Pedro Domes 
+In the northeastern zone, it is associated with lithological contact with diorite with intense hydrothermal alteration, exclusively in the 
+area of wells SP05, SP06, SP07 and SP08. Since in the northern zone the diorite is without any alteration, being able to observe its 
+original structure.  
+In general, the analysis of thin sections of the Domo de San Pedro geothermal field shows hydrothermal alteration patterns mainly of 
+argillic and propylitic alteration, as well as the presence of alkaline alteration (SP05-SP08) in the field discharge. The mineralogy of the 
+high temperature geothermal field can be divided into the main hydrothermal mineral zones with increasing depth: argillic, propylitic 
+and propylitic / high temperature potassium. The zones of phyllic alteration can also be found in the propylitic zone, particularly near 
+the structures. 
+ 
+3. REGIONAL GEOLOGY 
+The San Pedro volcanic system is a WNW-ESE striking extensional basin, with volcanic and subvolcanic bodies emplaced since late 
+Miocene until at least since the Pliocene.  These are located along the boundary between two different basement blocks. These are the 
+batholith of the Jalisco Block (JB) to the south, and the Sierra Madre Occidental (SMO) silicic volcanic province to the north. The San 
+Pedro domes are part of a large silicic volcanic complex, where the most activity occurred in the last 1 my.  The most recent volcanism 
+is represented by NNW-SSE alignments of several silicic domes and mono-genetic cinder cones (northern and middle chain) with 
+northern WNW-ESE alignment of monogenetic volcanoes. The region of San Pedro is located inside the Compostela graben and center 
+of a structural depression caused by a cross between N-S, NE-SW, NW-SE and E-W faults. This is a complex asymmetrical depression 
+developed during Late Miocene and Pliocene time with vertical displacement exceeding 2 km. 
+A local-regional geological-structural study was made starting from the observation of the correlation with gravimetric guidelines and 
+the topography of the study area. Previously, there was only one study to recognize the fault in the outcrops of the granodioritic 
+basement of the Jalisco Block. The theory was corroborated that not all the Miocene and Pliocene faulting had been buried by younger 
+magmatic pulses, updating the conceptual model of the San Pedro Domo field and defining the structures that tectonically affect the 
+reservoir, based on the geophysical information, geochemistry and well data. 
+Ferrari et al (1994) conducted an extensive structural field work campaign over the western part of the Trans-Mexican Volcanic Belt 
+(TMVB). Objectives of this structural campaign is to give clarity to plate tectonic, fault kinematics along with a geologic unit 
+reconnaissance in order to stablish the tectonic evolution. It has been documented that the western sector of the TMVB, holds more total 
+deformation than other sectors (i.e. central and eastern sectors) (Pasquarè et al, 1986). 
+ 
+Results of Ferrari in (1994) related to the northern side of Jalisco block mainly consist in: (a) No major strike-slip faulting has 
+been occurring along Tepic-Zacoalco graben (TZG) since late Miocene). This lateral movement is a result of the incipient tectonic 
+separation of Baja California along the west coast and is considered to be mainly dextral. (b) the boundary of the TZG consists in 
+various extensional structures related to different geodynamic events. (c) the neotectonic activity is weak, mainly north-south 
+extensional. 
+
+List Authors in Header, surnames only, e.g. Smith and Tanaka, or Jones et al. 
+ 
+3
+Consequent studies (Ferrari & Rosas-Elguera, 1999; Ferrari et al, 2003) confirmed the geodynamic setting proposed in Ferrari (1994). 
+Field studies found that the right lateral component is only present in middle Miocene rocks as major extensional and lateral 
+displacement is no longer recorded on rocks younger than Miocene. Minor deformation component “σ3” was determined via inversion 
+of fault data analysis, resulting in a NE-SW trend. As for the whole Tepic-Zacoalco boundary, a set of time-differing extensional 
+structures were identified and properly linked with their period development; main stages comprise the Baja California Gulf opening 
+and the lateral response associated to this movement. Subducting plate roll-back granted new types of volcanism and intra-arc extension. 
+This intra-arc period is considered to be the last one and the current one, eventhought with less deformation intensity; “σ3” for this last 
+period, reported to be NNE-SSW, thus generating nearly E-W faults. 
+4. LOCAL GEOLOGY 
+ 
+The region of San Pedro is located inside the Compostela graben and center of a structural depression caused by a cross between N-S, 
+NE-SW, NW-SE and E-W faults. This is a complex asymmetrical depression developed during Late Miocene and Pliocene time with 
+vertical displacement exceeding 2 km. 
+The Compostela graben is formed by two NW137°SE Compostela Fault and NW319°SE  Pedernales Fault being normal faults which 
+border a 10 km wide depression. This NW-SE faulting is of great importance because it is regional fault and is formed in the area by a 
+structural train of the faults that emerge, they seem to be part of the same fault. These faults are mentioned as Compostela, San Pedro, 
+Corral Falso, Casa Blanca and Atarjea. The Compostela Fault is outcrop in the northwestern region and is interrupted by faulting N-S 
+and NE-SW to be buried below the Domes of San Pedro, and emerging again to SE flank. In the southeastern portion it is conformed for 
+Corral Falso, Casa Blanca and Atarjea Faults, this last means of discharge of the reservoir, by the springs Agua Tibia and Agua 
+Caliente. 
+To the SE of the prospect, the rhyolitic and dacitic domes are clearly located along a NW-SE direction. Therefore, the distribution of 
+these domes is indicative of an environment limited to an extensional regime NE-SW. In addition, the location of the springs is 
+restricted to a discharge with EW orientation related mainly to the Guasimas Fault and thermal springs to the SE of the field conducted 
+in NW-SE faulting, suggesting that hydrothermal fluids may be draining along EW structures. Northeast of the geothermal field and 
+south-east in NW-SE structures, without evidence that the NE-SW faulting serves as a means of transport. 
+Middle Miocene N-S faults reactivated during the Pliocene and NE-SW work as a reservoir boundary, the eastern flank of the domes is 
+limited by the NE-SW fault system with a dip south-east toward Agua Caliente and Agua Tibia springs.  
+The N-S faults of the middle Miocene reactivated during the Pliocene, and the NE-SW function as the boundary of the reservoir. The 
+east flank of the domes is limited by a fault NE-SW with dip to the southeast in the direction of the springs Agua Caliente and Agua 
+Tibia, this fault is Los Lobos Fault. The western flank of san Pedro domes is limited mainly by a system of N-S faults with a dip to the 
+east, which disappear to the center of the graben. 
+To the SE of the prospect, the rhyolitic and dacitic domes are clearly emplaced along a NW-SE direction. Therefore, the layout of these 
+domes is indicative of an environment constrained by an NE-SW extensive regime. Additionally, the location of the Agua Caliente and 
+Agua Tibia thermal features to the SE of the field, suggests that the hydrothermal fluids might be drained along extensive structures as 
+the San Pedro, Corral Falso, Atarjea, and Casa Blanca faults. 
+Faults with orientations E-W are also present and are very frequent, considering a secondary system derived from the dominant regime 
+of extensional stress NW-SE Pliocene. These faults become relevant because they are observed crossing the northern flank of the 
+Domes of San Pedro as part of the same system, formed on the surface by the Fallas Ocotes, Avalos and Guásimas. Likewise, in the 
+geophysical analysis, it is identified by gravimetry (Boguer residual with Gaussian high pass filter and Euler deconvolution), 
+magnetotelluric profiles (AA profile, geophysics report) and passive seismic that this system is a deep faulting in a range of 2.5 km and 
+most likely it is affecting the reservoir rock. Another E-W fault is found cutting the Domes of San Pedro in its central part is the Falla 
+Cerro Grande. This E-W fault is significant and is also inferred by gravimetry, however, it is not clear from the geophysical analysis 
+whether this fault is shallow or is also deep. 
+ 
+ 
+ 
+ 
+
+Reyes Orozco et al. 
+ 
+4
+ 
+ 
+Figure 2. Structural and geological map of the study area with inferred faults based on the previous gravimetry and resistivity 
+discontinuity. 
+ 
+ 
+5. GEOPHYSICS 
+ 
+5.1 MICROSEISMIC 
+During a period of 6 months, a seismicity register was made through a network of 5 digital seismographs installed in the vicinity of the 
+DSP. Registered microsisms were induced as a result of the injection in well SP03, having earthquakes with an average of 1.3 ° in 
+magnitude of coda at depths of the order of 2.5 km and with injection averages of 150 m3 / h. The focal mechanisms of these 
+earthquakes; that is, the orientations of the structures in which the earthquakes are occurring correspond to faults with orientations 
+predominantly Northeast-Southeast and North-South. 
+5.2 GRAVIMETRIC EXPLORATION 
+Gauss filter was used on the residual bouguer anomaly data in order to identify slim structures. Two wide range anomalies can be seen 
+in gauss filter map in NW and SE area; these anomalies might delineate the underground structure of the area as a possible response for 
+elevated crystalline blocks that comprise the basements. 
+In the Euler deconvolution map for DSP, a alignment of deep source faults can be seen under the San Pedro Domes. This orientations 
+correlate to main graben fault structure that might continue from Compostela fault in northwest, to the DSP towards the southeast; in 
+addition, a strong lineation can be proposed in the east sector of DSP, with a NE-SW trend that links with structural limits seen in other 
+filtered maps.  
+ 
+
+List Authors in Header, surnames only, e.g. Smith and Tanaka, or Jones et al. 
+ 
+5
+ 
+Figure 3: Euler Deconvolution Map. 
+ 
+5.3 MAGNETOTELURIC PROSPECTION 
+The magnetoteluric data information was compiled and reinterpreted by the WestJEC company based in Fukuoka, Japan. And using 
+different considerations for data inversion (such as noise elimination and data preprocessing, among others) developed 2 profiles and 
+maps of electrical resistivity from 100 m to 3,000 m depth from the inversion of magnetotelluric data at different depths . Two zones of 
+discontinuity in the resistivity were identified from the maps and profiles developed. The first one with N-S orientation east of the San 
+Pedro Dome and the second with slightly E-W orientation to the north and central sector of the Domes of San Pedro. Magnetotelluric 
+data used by GEOTEM was taken from a previous campaign conducted by MombaRiga Geoscience, since nearly 65 magnetotelluric 
+stations were stablished. Gravimetric information generated through the GEOTEM field campaign and ZONGE data addition, can be 
+considered as a qualitative interpretation; this allowed the identification of geological structures or prominent domains linked to density 
+contrast over the study area. Nevertheless, to generate a quantitative interpretation of gravimetric data, a bi-dimensional gravimetric 
+model was performed, using the 2D (TE-MT) inversion of geoelectrical model from the magnetotelluric information available through 
+MombaRiga field campaign. This process, along with the available lithological information, allowed the restriction of unit thickness and 
+lateral continuity to provide the optimal density consignment. 
+Four profiles named “A, B, C and D” with different orientations, were generated across the San Pedro Domes geothermal field taking in 
+consideration that, several amounts of magnetotelluric stations where available, and that underground complexity is present so that 
+comprehensibility needs to be achieved. 
+This profile A is north-south oriented and located in the eastern sector of DSP. It uses a restriction model of 4 kilometres (1400 to -2600 
+m.a.a.s.l.) (Figure 4). The bouguer residual filter shows a low amplitude anomaly from the 0 km reference to the 7 km point; from this 
+point, anomaly begins to recover high values, associated to an elevated crystalline block.  
+Another anomaly can be detected from 1 km to 2.5 km reference; it could be associated to intense fracturing and probably fluid 
+circulation. Strong red colours or low resistivities are inferred to be the seal cap of the geothermal reservoir, as hydrothermal fluid alter 
+the host rock and produces clay minerals that are conductive. In Figure 2, the integration of gravimetric, electrical and geological 
+information for profile A are presented. 
+
+Reyes Orozco et al. 
+ 
+6
+ 
+ 
+Figure 4:  Resistivity result for profile A-A'. 
+Profile “B” is NW-SE oriented; restriction model is similar to profile A (4 km magnitude) (Figure 5). Low amplitude anomaly in 
+bouguer residual can be inferred in the base of dacitic DSP; from northwest to southeast the anomaly recovers its values as it appraises 
+an elevated block. A 1 km width anomaly is seen from the 2.5 to 3 .5 reference points, possibly linked to intense fracturing and fluid 
+ascent. A low resistivity horizont measured at 800 m depth, acts as the seal cap of geothermal system. Near surface high resistivity 
+values correspond to unaltered rhyolitic, basaltic and dacitic rocks of Quaternary period.  
+
+List Authors in Header, surnames only, e.g. Smith and Tanaka, or Jones et al. 
+ 
+7
+ 
+Figure 5: Integrated profile B-B’. 
+CONCLUSION 
+Summarizing, the conceptual geothermal model of the Domos de San Pedro geothermal field is limited mainly by the NE-SW faulting, 
+as well as the existence of conductive structures of the fluid, which most likely would be NW-SE and EW faulting and with possible 
+suspicion the NS fault. Hosting the geothermal fluid in the granite-granodiorite complex of the Jalisco Block, which is confined by a 
+layer of clay which alters the andesites of the Miocene and knowing that the permeability zones are associated with the faulting that 
+affected said plutonic rock, where the major propilitic alteration associated with geothermal deposits of high enthalpy is presented. The 
+EW orientation related mainly to the Guasimas fault and thermal springs to the SE of the field conducted in NW-SE faulting, suggest 
+that hydrothermal fluids may be draining along EW structures. To the Northeast of the geothermal field and to the south-east in NW-SE 
+structures, without evidence that the NE-SW faulting serves as a means of transport, if not as a limiter of the geothermal system. 
+ 
+ 
+ 
+ 
+ 
+
+Reyes Orozco et al. 
+ 
+8
+REFERENCES 
+DeMets, C., Stein, S., 1990. Present-day kinematics of the Rivera plate and implications for tectonics in southwestern Mexico.  Journal 
+of Geophysics Research 95 (B13), pp. 21931-21948. 
+DeMets, 
+C., 
+Traylen, 
+S., 
+2000. 
+Motion 
+of 
+the 
+Rivera 
+plate 
+since 
+10 
+Ma 
+relative 
+to 
+the  
+Pacific and North American plates and the mantle. Tectonophysics, 318, pp. 407-415. 
+Diaz-Bravo, B.A., et al., 2014. The origin of intraplate magmatism in the western Trans-Mexican Volcanic Belt. Geosphere, v. 10, num. 
+2, pp. 340-373. 
+Ferrari, L., et al., 1994. Regional tectonics of western Mexico and its implications for the northern boundary of the Jalisco Block. 
+Geofisica Internacional, Vol. 33, num. 1, pp. 139-151. 
+Ferrari, L., et al., 1999. Geology of the western Mexican Volcanoc Belt and adjacent Sierra Madre Occidental and Jalisco Block. 
+Geological Society of America, special Paper, 334. 
+Ferrari, L., Rosas-Elguera, J., 2000. Late Miocene to Quaternary extensión at the northern boundary of the Jalisco block, western 
+Mexico: the Tepic-Zacoalco Rift revised, in Degalgo-Granados, H., Aguirre-Diaz, G., Stock, J.M. (eds.), Cenozoic Tectonics and 
+Volcanism of Mexico: Bouder, Geological Society of America, Special Paper, 334, pp. 41-64. 
+Ferrari, L., et al., 2000. Geology of the western Mexican Volcanic Belt and adjacent Sierra Madre Occidental and Jalisco Block, in 
+Degalgo-Granados, H., Aguirre-Diaz, G., Stock, J.M. (eds.), Cenozoic Tectonics and Volcanism of Mexico: Bouder, Geological Society 
+of America, Special Paper, 334, pp. 65-84.  
+Ferrari, L., et al. 2002. Ignimbrite flare up and deformation in the southern Sierra Madre Occidental, western Mexico: implications for 
+the late subduction history of the Farallon plate. Tectonics, 21(4), 17, 1/24. 
+Ferrari, L., et al., 2003. Geology of the San Pedro – Ceboruco Graben, western Trans-Mexican Volcanic Belt. Revista Mexicana de 
+Ciencias Geologicas, v. 20, num. 3, pp. 165-181. 
+Frey, H.M. et al., 2004. Magma eruption rate constrained by 40Ar-39Ar chronology and GIS for the Ceboruco-san Pedro volcanic field, 
+western Mexico. Geological Society of America Bulletin, v. 166, pp. 259-276.  
+Frey, H.M., et al., 2007. A Pliocene ignimbrite flare-up along the Tepic-Zacoalco rift: evidence for the initial stages of rifting between 
+the Jalisco Block (Mexico) and the North America. Geological Society of America, Bull. 199 (1-2), pp. 49-64. 
+GEOTEM, 2017. Estudio Geofísico en el Domo de San Pedro y sus alrededores, Municipio de San Pedro Lagunillas, Nayarit, Mexico. 
+Internal Report for Grupo Dragon. GEOTEM Ingeniería S.A. de C.V., 2017.  
+Petrone, C.M., et al., 2001. Volcanic systems in the San Pedro-Ceboruco graben (Nayarit, Mexico) in the light of new K-Ar 
+geochronological data. Geochemical Journal, Vol. 35, pp. 77-88.  
+Petrone, C.M. et al., 2006. The San Pedro – Cerro Grande volcanic complex (Nayarit, Mexico): Inference on volcanology and magma 
+evolution. Geological Society of America, special Paper 402, pp. 62-97. 
+West Jec, 2017. DSP Final Report for GD. Internal Report for Grupo Dragon. West Jec Japan Engineering Consultants, Inc, 2017. 
+ 

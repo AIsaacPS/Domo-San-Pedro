@@ -1,0 +1,429 @@
+
+
+
+
+CAPÍTULO 5
+PERFORACIÓN Y DISEÑO DE
+POZOS GEOTÉRMICOS
+
+Resumen Técnico
+
+Fuente: Watson, A. (2013). Geothermal Engineering:
+Fundamentals and Applications. Springer.
+
+
+Elaborado para: Ingeniero Geofísico
+en especialización en Geotermia
+
+ÍNDICE
+1. Introducción
+2. Construcción de Pozos Geotérmicos
+3. El Proceso de Perforación
+   3.1 Mecanismo de perforación
+   3.2 El equipo de perforación (Drilling Rig)
+   3.3 Velocidad de penetración y progreso
+4. Fluidos de Perforación
+5. Requerimientos del Sitio de Perforación
+6. Prevención de Reventones (Blowouts)
+7. Diseño de Pozos
+   7.1 Propiedades mecánicas del acero y criterios de falla
+   7.2 Falla por inestabilidad: Pandeo y Colapso
+   7.3 Propiedades y falla de la roca
+   7.4 Especificación del acero para tubería
+   7.5 Selección de profundidades de tuberías
+8. Modos de Falla del Pozo
+9. Cabezal del Pozo Terminado
+10. Glosario Técnico Inglés-Español
+11. Referencias
+
+1. INTRODUCCIÓN
+Los pozos geotérmicos no son simplemente agujeros en el suelo; son estructuras de ingeniería compuestas por tramos de tubería de acero denominados tubería de revestimiento (casing), cementados en el terreno y equipados con válvulas en la superficie. Su función es conectar el recurso geotérmico con la superficie de manera que la descarga del pozo sea controlable en todo momento.
+La perforación es una actividad de alto costo que se ejecuta en un periodo corto de tiempo. Requiere gestión cuidadosa y un equipo de perforación experimentado. Aunque el diseño y los procedimientos se basan en principios de ingeniería, la práctica es casi un arte más que una ciencia, dado el alto grado de incertidumbre en las condiciones subsuperficiales.
+Datos fundamentales:
+Profundidad típica: Los pozos geotérmicos de alta temperatura van desde unos cientos de metros hasta ~4,000 m. Los pozos más profundos están en Kakkonda, Japón, con temperaturas superiores a 350°C.
+Limitación principal: La temperatura de la formación afecta directamente la resistencia mecánica del equipo de perforación.
+Objetivos geológicos: Los pozos se perforan hacia blancos específicos definidos por geólogos — fallas, formaciones particulares, intrusiones o plutones.
+Pozos desviados (directionales): Es posible desviar pozos deliberadamente cientos de metros para alcanzar objetivos que no pueden accederse desde la vertical directa. Son más costosos que los verticales.
+Diámetro común: El revestimiento de producción más utilizado tiene un diámetro de 9 5/8" (0.244 m). Incluso con 20" de diámetro, un pozo de 500 m es una estructura extremadamente esbelta.
+El trayecto final del pozo resulta de optimizar múltiples factores: rutas de tuberías superficiales, ubicación de separadores, procesamiento de la descarga y costos.
+Nota para el geofísico: La temperatura de la formación es la principal limitación geotérmica que no existe en pozos petroleros convencionales. La selección de objetivos y trayectorias requiere integrar información geológica, geofísica y geoquímica antes de perforar.
+
+2. CONSTRUCCIÓN DE POZOS GEOTÉRMICOS
+Un pozo de producción típico de 2,000 m está compuesto por tuberías de revestimiento concéntricas en la parte superior (~800 m) y una zona de agujero abierto con liner ranurado en la parte inferior.
+2.1 Componentes Principales del Pozo
+La siguiente tabla resume los componentes principales de un pozo geotérmico típico de 2,000 m (de exterior/superficial a interior/profundo):
+
+[ESPACIO PARA IMAGEN — Figura 5.1]
+Insertar aquí: Figura 5.1 — Ejemplo de diseño de un pozo geotérmico de 2,000 m.
+Muestra las tuberías concéntricas, diámetros, profundidades y pesos por pie.
+
+
+
+
+
+
+
+
+2.2 Proceso de Cementación
+1. Se perfora el agujero para la primera tubería (la más superficial).
+2. Se arma la tubería en el agujero, uniendo tramos de ~10 m roscados entre sí.
+3. El tramo más profundo se equipa con una zapata (shoe) protectora y una válvula de no retorno.
+4. Se bombea cemento por el interior de la tubería con un volumen ligeramente mayor al del espacio anular.
+5. Se inserta un pistón de goma detrás del cemento y se bombea agua para desplazarlo hacia abajo.
+6. El cemento sube por el espacio anular hasta desbordarse en superficie → esto indica que el anular está completamente lleno.
+7. Se deja fraguar el cemento.
+8. Se suelda una brida en la parte superior y se instala el cabezal de perforación con preventores de reventón (BOPs).
+9. Se reanuda la perforación a menor diámetro, perforando a través del pistón, válvula de no retorno y cemento residual.
+2.3 Conceptos Clave Adicionales
+Brida del cabezal (Casing Head Flange - CHF): Se convierte en el datum para mediciones de profundidad del pozo. Se mueve 10–100 mm por expansión térmica durante la vida del pozo.
+Tubería ancla: Recibe su nombre porque resiste las fuerzas de levantamiento producidas por la presión interna cuando las válvulas están cerradas.
+Liner ranurado: Puede estar apoyado en el fondo del agujero (sobresaliendo unos metros dentro de la tubería de producción) o suspendido desde la tubería de producción mediante un acople especial.
+Peso por pie (lb/ft): Dato esencial para calcular el peso total de cada sarta y la capacidad de elevación requerida del equipo. Ejemplo: liner de 26.4 lb/ft = ~104 toneladas totales.
+
+3. EL PROCESO DE PERFORACIÓN
+3.1 Mecanismo de Perforación
+La roca es un material frágil: resistente a la compresión pero débil en tensión. No puede cortarse como el metal. En su lugar, la broca de perforación (rock bit / tricone bit) avanza por un mecanismo de trituración (crushing), logrado mediante rodillos cónicos dentados que siguen una trayectoria circular horizontal conforme la broca rota.
+Componentes de la sarta de perforación:
+Broca (drill bit): Se monta en el extremo inferior de la sarta. Tiene rodillos cónicos con dientes (tricone).
+Lastrabarrenas (drill collars): Tramos de tubería más pesados inmediatamente encima de la broca. Proporcionan el peso adecuado sobre la broca según el tipo de roca.
+Tubería de perforación (drill pipe): Tramos estándar de ~10 m con extremos roscados.
+Sarta de perforación (drill string): Conjunto completo de tubería conectada que porta la broca.
+Remoción de recortes (cuttings):
+Los recortes de roca (en forma de grava y arena fina) se remueven del agujero mediante un fluido de perforación denso y viscoso, bombeado por el interior de la sarta. El fluido emerge por las toberas (nozzles) de la broca como chorros de alta presión, recoge los recortes y los transporta a superficie por el espacio anular.
+Si los recortes se acumulan y atascan la broca, puede ocurrir una rotura por torsión (twist-off) de la sarta. La recuperación de equipo roto del pozo se denomina "pesca" (fishing) — una operación frustrante y costosa.
+En superficie, los recortes son colectados e inspeccionados por el geólogo de plataforma (rig geologist), quien elabora la columna estratigráfica del pozo: información esencial para la interpretación del recurso y el modelado del reservorio.
+
+3.2 El Equipo de Perforación (Drilling Rig)
+Los pozos geotérmicos se perforan con equipos de perforación rotaria, del mismo tipo desarrollado para la industria petrolera. Un equipo rotario es aquel en el que la broca se hace girar sobre su propio eje.
+[ESPACIO PARA IMAGEN — Figura 5.2]
+Insertar aquí: Figura 5.2 — Componentes principales del equipo de perforación.
+Parte (a): detalle del piso de perforación. Parte (b): vista general del sistema.
+
+
+
+
+
+
+
+
+Componentes principales del equipo:
+
+Capacidad del equipo:
+Carga de gancho (hook load): hasta 400 toneladas.
+Potencia: hasta 1,000 hp.
+Ventaja mecánica del sistema de poleas: 10:1 (la tensión en el cable es 1/10 de la carga del gancho, pero el bloque viajero debe recorrer 10× la distancia de elevación).
+Un equipo para perforar 3,000 m con agujero de 8 1/2" requiere ~150 toneladas de capacidad de tiro.
+Métodos de rotación de la broca:
+Mesa rotaria + Kelly (convencional): La mesa rotaria gira un tubo de sección no circular (kelly, ~13 m de largo) que encaja en un buje central. Conforme la perforación avanza, el kelly desciende. Al agotarse su longitud, se detiene, se colocan cuñas (slips) para sostener la sarta, se desconecta el kelly, se agrega un tramo nuevo y se reconecta.
+Motor de fondo (Mud motor): Motor de desplazamiento positivo operado por el fluido de perforación. Funciona como una bomba mono-progresiva invertida (monopump). Se instala cerca de la broca dentro de la sarta.
+Top drive (Cabezal motriz superior): Motor eléctrico o hidráulico montado cerca del bloque corona que gira directamente la sarta suspendida de él. Ventaja: permite agregar/remover múltiples tramos de tubería por cada maniobra de elevación.
+
+Prevención de daño por rozamiento: La sarta en rotación podría desgastar las tuberías de revestimiento existentes → riesgo de contaminación de acuíferos o reventón. Se evita manteniendo la sarta en tensión (parte inferior pesada con lastrabarrenas y tramos más rígidos).
+
+3.3 Velocidad de Penetración y Progreso
+[ESPACIO PARA IMAGEN — Figura 5.3]
+Insertar aquí: Figura 5.3 — Gráfica típica de profundidad vs. tiempo
+de perforación para un pozo geotérmico.
+
+
+
+
+
+
+
+
+La tasa de penetración (ROP - Rate of Penetration) es el factor principal que determina el costo del pozo terminado.
+El progreso es irregular: se detiene por cementación de tuberías, cambio de brocas o resolución de problemas.
+El cambio de broca requiere extraer toda la sarta (tramo por tramo de 10 m), operación conocida como "viaje" (trip).
+La gráfica de avance se grafica junto con la columna estratigráfica, un registro de tasas de penetración, fluido usado y periodos de inactividad.
+Estos datos se usan para mejorar la perforación del siguiente pozo en la misma área.
+La estratigrafía geológica encontrada es información esencial para la interpretación de mediciones y el modelado del reservorio.
+
+4. FLUIDOS DE PERFORACIÓN
+4.1 Funciones del Fluido de Perforación (en orden de prioridad)
+
+4.2 Tipos de Fluido de Perforación
+Lodo de perforación (drilling mud): Mezcla de agua + bentonita (partículas 0.5–2 μm) con aditivos menores. Es el más utilizado. Apariencia de lodo negro denso y viscoso.
+Agua: Opción benigna cuando se pierde circulación total. Lleva recortes a la formación pero no los recupera a superficie.
+Lodo aireado / espuma (aerated mud / foam): Reduce la presión hidrostática del fluido. Permite mayor velocidad de penetración pero a mayor costo.
+Aire: Última opción cuando no es posible mantener circulación con ningún líquido.
+4.3 Circuito de Circulación del Lodo
+1. Se mezcla el lodo en una presa adyacente al equipo de perforación.
+2. Se bombea a alta presión (bombas de desplazamiento positivo) por el interior de la sarta hasta la broca.
+3. Sale por las toberas (nozzles) como chorros de alta velocidad → levanta los recortes.
+4. El lodo con recortes asciende por el espacio anular hasta emerger en el cabezal.
+5. Pasa por zarandas vibratorias (shale shakers) → remueve recortes gruesos.
+6. Pasa por tanques sedimentadores → partículas intermedias se depositan.
+7. Separadores centrífugos → remueven partículas finas residuales (hasta <30 μm).
+8. El lodo limpio se enfría y recircula continuamente.
+4.4 Pérdida de Circulación
+Parte del lodo se pierde al penetrar en formaciones permeables bajo presión. El lodo puede sellar los poros formando una costra (mud cake) — ventajoso si estabiliza la pared del agujero, pero desventajoso a largo plazo si reduce la permeabilidad del reservorio.
+Si la pérdida es total, se recurre a perforar "a ciegas" (drilling blind): sin retorno de fluido ni información estratigráfica para el geólogo. Antes de esto, se intenta recuperar circulación inyectando material sellante que pueda removerse después (descarga del pozo o inyección ácida).
+Nota para el geofísico: La pérdida de circulación y la costra de lodo pueden afectar las mediciones posteriores de flujo, pruebas de producción y registros geofísicos de pozo. Un suministro confiable de agua es esencial (2,000–2,500 L/min para un pozo de 2,000 m).
+
+5. REQUERIMIENTOS DEL SITIO DE PERFORACIÓN
+El sitio de perforación debe cumplir con especificaciones mínimas para garantizar operaciones seguras y eficientes:
+Superficie: Plana, típicamente 50 × 100 m o mayor para acceso de vehículos y colocación del equipo.
+Suministro de agua: Ininterrumpido y confiable. Un pozo de 2,000 m requiere 2,000–2,500 L/min (~3,000 toneladas/día). No es raro usar bombas temporales con tuberías de varios kilómetros.
+Presas para lodo y agua contaminada (pueden ser sin revestimiento si el terreno ya está contaminado con especies geotérmicas).
+Zarandas vibratorias (shale shakers), equipo de enfriamiento y mezcla de lodo.
+Silenciador para la descarga posterior del pozo (el equipo de perforación ya habrá partido).
+Combustible, materiales de perforación y alojamiento temporal para el personal.
+Drenaje pluvial: Crítico en suelos volcánicos — la escorrentía de sedimentos a cauces naturales debe prevenirse.
+Consolidación del terreno (grouting): Puede requerirse inyección de cemento en pozos someros alrededor del sitio para mejorar la resistencia del suelo.
+
+6. PREVENCIÓN DE REVENTONES (BLOWOUTS)
+6.1 Mecanismo del Reventón
+Considere un pozo parcialmente terminado: la tubería ancla está cementada y se perfora el agujero para la tubería de producción. Si la broca penetra una formación o estructura geológica (como una falla) que expone el pozo a una presión mucho mayor que la previamente experimentada:
+1. El fluido de alta presión es empujado hacia arriba por el espacio anular.
+2. Al emerger fluido, se reduce la presión hidrostática en el fondo del pozo.
+3. La reducción de presión permite mayor entrada de fluido → retroalimentación positiva.
+4. Sin control, puede destruir el equipo y generar descargas incontroladas por años, creando un cráter.
+6.2 Dispositivos de Prevención (BOPs)
+Válvula interna en la sarta: Cierra el paso del fluido por el interior del drill string.
+Preventor tipo ariete (Ram-type BOP): Compuertas que sellan el espacio anular alrededor de la sarta.
+Compuertas de corte (Shear rams): En la industria O&G, como última línea de defensa, cortan la sarta para sellar completamente el pozo.
+Se instalan juegos de BOPs para cada diámetro de tubería conforme se instalan las tuberías de revestimiento sucesivas.
+Función primaria del lodo como barrera: El lodo de perforación actúa como la primera línea de defensa al llenar el pozo con un fluido de alta densidad cuya presión hidrostática supera la presión de formación en todo momento. Los BOPs son la última línea de defensa mecánica.
+
+7. DISEÑO DE POZOS
+El proceso de diseño consiste en imaginar cómo el pozo podría fallar, seleccionar dimensiones y profundidades de tubería para evitar el riesgo tanto durante la construcción como durante la operación, calcular las fuerzas involucradas y elegir una tubería capaz de resistirlas. Es un proceso iterativo de prueba y error.
+7.1 Propiedades Mecánicas del Acero y Criterios de Falla
+Conceptos fundamentales de resistencia de materiales:
+Esfuerzo axial (σₐ): σₐ = F / (πd²/4) — Fuerza por unidad de área transversal del material.
+Deformación unitaria (strain, ε): ε = δL/L — Extensión proporcional de la barra.
+Módulo de Young (E): E = σₐ/ε = 2×10¹¹ Pa para el acero. Pendiente de la curva esfuerzo-deformación en régimen elástico.
+Esfuerzo de fluencia (yield stress): Límite del comportamiento elástico. Por encima, el material se deforma permanentemente (comportamiento plástico).
+Esfuerzo último de tensión (ultimate tensile stress): Punto de fractura del material.
+Esfuerzo de trabajo seguro: Típicamente 2/3 del esfuerzo de fluencia en estructuras convencionales. En diseño de casing, a veces se usa el esfuerzo de fluencia como valor admisible.
+Esfuerzos en un cilindro de pared delgada (casing presurizado internamente):
+Un cilindro presurizado con extremos cerrados experimenta dos esfuerzos principales:
+Esfuerzo axial: σₐ = PD/4t
+Esfuerzo circunferencial (hoop stress): σₕ = PD/2t
+Donde: P = presión diferencial, D = diámetro, t = espesor de pared.
+
+El esfuerzo circunferencial es el doble del axial → por eso las tuberías y cilindros a presión fallan con grietas longitudinales (revientan a lo largo del eje), no con grietas transversales.
+Teorías de falla:
+1. Máxima diferencia de esfuerzos principales (Tresca):
+   σ_max − σ_min = σ_f
+   Para el cilindro: falla cuando σₕ = σ_f
+2. Criterio de von Mises:
+   √[½((σ₁−σ₂)² + (σ₂−σ₃)² + (σ₃−σ₁)²)] = σ_f
+   Más conservador para combinaciones de esfuerzos multiaxiales.
+En la práctica, se utilizan las fórmulas del API Bulletin 5C3 (1994), que proporcionan valores de cargas de falla ajustados por experimentación. El API Bulletin 5C2 proporciona valores tabulados para cada tipo de casing.
+
+7.2 Falla por Inestabilidad: Pandeo y Colapso
+Pandeo (Buckling):
+Un componente puede fallar bajo cargas que producen esfuerzos menores al de fluencia, si su geometría permite que una deformación inicial se amplifique sin aumento de carga.
+La sarta de tubería es extremadamente esbelta → bajo compresión axial puede pandearse.
+Carga crítica de Euler: F_cr = π²EI/L² (para extremos articulados), donde I = segundo momento de área.
+Si la tubería se pandea, toca la pared del agujero → cementación deficiente → menor resistencia estructural del conjunto.
+Relevante al manejar sartas largas que pueden arquearse bajo su propio peso.
+Colapso (Collapse):
+Un cilindro bajo presión externa es inestable si la presión es suficiente y las paredes son delgadas. Desviaciones locales de la circularidad perfecta se amplifican bajo presión externa → el cilindro puede colapsar antes de que los esfuerzos alcancen el valor de fluencia. Esto es crítico para tuberías enterradas sujetas a presión litostática o hidrostática exterior.
+7.3 Propiedades y Falla de la Roca
+En un recurso geotérmico de origen volcánico se encuentran diversos tipos de roca:
+Rocas densas y frágiles: Riolita, andesita, diorita, grauvaca — fuertes en compresión, débiles en tensión. Las fracturas surgen por concentraciones de esfuerzo en imperfecciones microestructurales.
+Rocas alteradas: Arcillas plásticas formadas por alteración hidrotermal — fácilmente deformables.
+Estado fracturado preexistente: Los esfuerzos tectónicos han generado fallas y fracturas a diversas escalas. La roca está en un estado "pre-fallado".
+Presión litostática: Presión equivalente a un fluido con densidad de roca a esa profundidad. Sin embargo, la roca NO transmite presión uniformemente en todas direcciones (a diferencia de un fluido).
+Presión de poro: En rocas permeables o con fracturas conectadas, relacionada con la presión hidrostática del agua en formaciones interconectadas.
+Fracturas horizontales: Tienden a permanecer cerradas por la carga litostática, aunque la rugosidad superficial puede dejar espacios para flujo de fluidos.
+
+7.4 Especificación del Acero para Tubería de Revestimiento
+Las tuberías de revestimiento (casing) se fabrican bajo estándares del American Petroleum Institute (API). La especificación completa incluye grado, peso por pie, tipo de rosca y diseño de acoplamiento.
+Ejemplo de especificación:
+Grade K-55, 47 lb/ft, R3, buttress casing
+
+
+Normas API relevantes:
+API Specification 5A: Clasifica tipos de acero, requisitos de resistencia y dimensiones.
+API Bulletin 5C2: Propiedades de desempeño tabuladas (cargas de falla para cada tipo).
+API Bulletin 5C3: Fórmulas y cálculos para casing, tubing y drill pipe.
+Para 9 5/8" en grados J, K y L: los pesos disponibles van de 36.0 a 53.5 lb/ft. Diferentes espesores pueden ser necesarios en diferentes secciones de la misma sarta.
+7.5 Selección de Profundidades de Tuberías de Revestimiento
+El criterio principal para decidir a qué profundidad cementar cada tubería es la protección contra reventones: ¿hasta qué profundidad puede perforarse agujero abierto de manera segura?
+[ESPACIO PARA IMAGEN — Figura 5.4]
+Insertar aquí: Figura 5.4 — Curva de punto de ebullición (bpd), presión
+hidrostática saturada y presión litostática vs. profundidad
+(densidad de roca = 2,200 kg/m³).
+
+
+
+
+
+
+
+
+Lógica de selección:
+1. Se grafican: curva bpd (temperatura de ebullición vs. profundidad), presión hidrostática correspondiente y presión litostática.
+2. Un pozo de 2,000 m lleno de vapor tiene presión hidrostática despreciable comparada con una columna de agua.
+3. Si la tubería de producción termina a profundidad B (~650 m) y existe una fractura allí, la presión del vapor podría superar la presión litostática → la fractura se abre → vapor alcanza superficie (reventón).
+4. Conclusión: Se requiere casing cementado hasta profundidad B + margen de seguridad.
+5. El proceso se repite iterativamente para determinar la profundidad de cada tubería más superficial.
+6. El NZ Code of Practice [1991] advierte que la mayoría de los reventones ocurren desde profundidades de 150 m o menos.
+Zapata de la tubería de producción (Production Casing Shoe):
+Define la profundidad por debajo de la cual se colectan fluidos. Las formaciones por encima quedan "encamisadas" (cased out). Es posible ajustar la profundidad durante la perforación según la temperatura encontrada.
+Métodos para estimar temperatura de formación durante la perforación:
+SFTT (Static Formation Temperature Test): Prueba de temperatura estática de formación basada en análisis transitorio.
+Medición de temperaturas del lodo en circulación (inlet y outlet).
+Advertencia importante: En perforación exploratoria, encamisar (cased out) la formación más caliente en una zona de descarga lateral (outflow) puede ser un error irreversible que oculte información sobre formaciones más profundas. Es mejor ser conservador durante la exploración.
+
+8. MODOS DE FALLA DEL POZO
+8.1 Operaciones de Perforación que Pueden Causar Falla
+8.2 Modos de Falla del Pozo Terminado (en operación)
+Estallido por agua atrapada en el cemento: Bolsas de agua fría quedan atrapadas entre tuberías al fraguar el cemento. Al calentar durante la primera descarga, el agua se expande térmicamente → presión suficiente para deformar la tubería de producción hacia adentro. Se repara cementando un parche (casing patch) de menor diámetro, lo cual reduce la sección de flujo.
+Falla de la tubería ancla sobre el nivel del suelo: La combinación de alta presión interna + alta temperatura + corrosión atmosférica (H₂S + O₂ + agua) genera condiciones extremas. Es la sección más vulnerable por estar expuesta.
+Corrosión interna por fluidos ácidos: Si el pozo intercepta fluidos con gases magmáticos disueltos (HCl, H₂S, CO₂, HF), la corrosión puede ser extremadamente agresiva.
+Falla por compactación de formaciones: Si un estrato se compacta y las tuberías están firmemente cementadas en formaciones arriba y abajo, la sección en la zona de compactación queda bajo carga compresiva que puede causar falla.
+8.3 Métodos de Inspección
+Los pozos geotérmicos se espera que tengan vida indefinida, aunque operan en ambientes corrosivos con variaciones severas de temperatura. Técnicas de inspección disponibles:
+Corrientes parásitas (Eddy current): Mide espesor de pared remanente.
+Calibrador electrónico: Mide diámetro interno.
+Indicador de rugosidad superficial: Detecta picaduras (pitting).
+Calibrador mecánico multi-brazo (60 dedos): Proporciona perfil detallado del diámetro interno → se deduce espesor remanente → se establece presión máxima admisible para operaciones futuras.
+
+9. CABEZAL DEL POZO TERMINADO (WELLHEAD)
+El pozo completado debe ser capaz de cerrarse de manera segura contra la presión ejercida por los fluidos del reservorio. La presión en el cabezal varía con el tiempo después del cierre.
+[ESPACIO PARA IMAGEN — Figura 5.5]
+Insertar aquí: Figura 5.5 — Arreglo típico de un cabezal de pozo geotérmico
+(wellhead), mostrando válvulas, spool de expansión y sección T.
+
+
+
+
+
+
+
+
+9.1 Componentes del Cabezal (de abajo hacia arriba)
+
+9.2 Protocolo de Operación de Válvulas
+APERTURA: Primero se abre completamente la válvula maestra → luego se abren las válvulas de control.
+CIERRE: Primero se cierran las válvulas de control → luego se cierra la válvula maestra.
+REGLA FUNDAMENTAL: La válvula maestra NUNCA se expone al flujo parcial → preservar su capacidad de sello hermético.
+Todas las válvulas del cabezal son de tipo compuerta (gate valves): paso directo sin restricción cuando están abiertas.
+9.3 Protección contra Corrosión
+El H₂S (más denso que el aire) se acumula en el sótano del pozo (cellar) y ataca la tubería ancla a nivel del suelo. Medidas de protección:
+Ventilación de anulares de cemento: Se remueve cemento superficial y se reemplaza con grava permeable + tubo de venteo.
+El calor del pozo evapora la humedad que pudiera acumularse.
+El sótano tiene drenaje a un nivel inferior para que CO₂ y H₂S fluyan por gravedad (más densos que el aire).
+Pintura anticorrosiva en la sección expuesta a la atmósfera.
+9.4 Diseño del Espesor de Pared (ANSI/ASME B31.1)
+Fórmula para espesor mínimo de pared:
+t = P·D / [2(σf + 0.4P)]
+
+Donde: t = espesor, P = presión, D = diámetro exterior, σf = esfuerzo de trabajo seguro.
+A este espesor mínimo se agregan:
+Tolerancia por corrosión: típicamente 3 mm.
+Factor de reducción por alta temperatura de operación (según norma).
+
+10. GLOSARIO TÉCNICO INGLÉS-ESPAÑOL
+
+11. REFERENCIAS
+API (1994). Bulletin 5C3 - Formulas and Calculations for Casing, Tubing, Drill Pipe, and Line Pipe Properties, 6th ed. American Petroleum Institute, Washington, DC.
+Bassam, A. et al. (2010). Estimation of static formation temperatures in geothermal wells by using an artificial neural network approach. Computers & Geosciences, 36(9), 1191–1199.
+Bixley, P.F. & Hattersly, S.D. (1983). Long term casing performance of Wairakei production wells. Proc. 5th NZ Geothermal Workshop.
+Dench, N.D. (1970). Casing string design for geothermal wells. Geothermics, Special Issue 2, Part 2: 1485–96.
+Kurata, Y. et al. (1995). Casing pipe materials for deep geothermal wells. GRC Transactions, 19, 105–109.
+Leaver, J.D. (1982). Failure mode analysis for casing and liners in geothermal production wells. Proc. 4th NZ Geothermal Workshop.
+Lejano, D.M.Z. et al. (2010). Casing inspection caliper campaign in the Leyte geothermal field, Philippines. Stanford Geothermal Workshop.
+New Zealand Standard (1991). Code of practice for deep geothermal wells. NZS 2403:1991.
+Southon, J.N.A. (2005). Geothermal well design, construction and failures. Proc. World Geothermal Conference.
+Stevens, L. (2000). Monitoring of casing integrity in geothermal wells. Proc. World Geothermal Conference.
+Watson, A. (2013). Geothermal Engineering: Fundamentals and Applications. Springer Science+Business Media, New York.
+
+
+— Fin del documento —
+Componente	Diámetro	Profundidad	Diám. Agujero	Función
+Tubería conductora
+(Conductor casing)	Variable	~30 m	—	Evitar colapso superficial
+Tubería superficial
+(Surface casing)	20"	90 m	26"	Protección de acuíferos someros
+Tubería ancla
+(Anchor casing)	13 3/8"	250 m	17 1/2"	Soporte del cabezal y válvula maestra
+Tubería de producción
+(Production casing)	9 5/8"	800 m	12 1/4"	Sello contra formaciones; conduce fluido producido
+Liner ranurado
+(Slotted liner)	7 5/8"	800–2,000 m	8 1/2"	Permite ingreso de fluidos del reservorio
+Componente (Inglés)	Traducción Técnica	Función
+Derrick / Tower	Torre de perforación	Estructura tipo grúa para levantar la sarta
+Crown block	Bloque corona	Poleas fijas en la cima de la torre
+Travelling block	Bloque viajero	Poleas móviles acopladas al gancho
+Hook	Gancho	Suspende la sarta de perforación
+Rotary table	Mesa rotaria	Transmite rotación a la sarta vía el Kelly
+Kelly	Kelly (cuadrante)	Tubo de sección cuadrada/hexagonal; transmite torque
+Slips (wedges)	Cuñas	Sostienen la sarta cuando no está en el gancho
+Swivel	Eslabón giratorio	Permite rotación mientras se inyecta fluido
+Elevator	Elevador	Sujeción para extraer/insertar tubería sin roscar
+Prioridad	Función
+1 (Máxima)	Prevención de reventones — presión hidrostática supera la presión de formación
+2	Remoción de recortes — levantar fragmentos de roca a superficie
+3	Formación de costra (mud cake) — sella zonas permeables débiles
+4	Enfriamiento de la sarta y la broca
+5	Lubricación — reduce desgaste y requerimientos de potencia
+Parámetro	Significado
+Grados J, K, L	Tipos metalúrgicos comunes para pozos geotérmicos
+K-55	Resistencia mínima a la tensión de 55,000 lb/ft²
+lb/ft (peso por pie)	Indica espesor de pared; mayor peso = mayor espesor
+R3	Tipo/longitud de rosca
+Buttress	Diseño de la conexión roscada / acoplamiento
+Operación	Modo de Falla	Consideración de Diseño
+Descenso de tubería al agujero	Tensión excesiva en tramos superiores por peso propio	Tramos superiores deben ser más resistentes
+Descenso en agujero lleno de lodo	Compresión axial (tubería como puntal) por presión en el fondo	La sarta debe ser lo suficientemente rígida para no pandearse
+Pozos desviados	Esfuerzos combinados por curvatura excesiva	Radio de curvatura apropiado para collares y tubería rígida
+Bombeo de cemento	Alta presión interna o externa si el cemento no es continuo	Evitar discontinuidades en la columna de cemento
+Aumento excesivo de densidad del lodo	Fracturamiento hidráulico de la roca del agujero abierto	Presión hidrostática no debe superar la presión litostática local
+Componente	Traducción	Función
+Casing Head Flange (CHF)	Brida del cabezal	Datum de profundidad; montada sobre tubería ancla
+Expansion spool	Carrete de expansión (reductor)	Adapta de la tubería ancla a válvulas de 10"
+Master valve	Válvula maestra	Cierre principal; SOLO abierta o cerrada totalmente
+T-section	Sección T	Distribuye flujo a 2 válvulas de control
+Control valves	Válvulas de control	Regulan flujo; operan parcialmente abiertas
+Side valves	Válvulas laterales	En el expansion spool; para muestreo químico
+Término en Inglés	Traducción Técnica al Español
+Anchor casing	Tubería de anclaje / Tubería ancla
+Annulus	Espacio anular
+BOP (Blowout Preventer)	Preventor de reventones
+Buckling	Pandeo
+Casing	Tubería de revestimiento (TR)
+Casing Head Flange (CHF)	Brida del cabezal de tuberías
+Casing shoe	Zapata de la tubería
+Casing string	Sarta de tubería de revestimiento
+Collapse	Colapso
+Conductor casing	Tubería conductora
+Crown block	Bloque corona
+Cuttings	Recortes de perforación
+Derrick	Torre de perforación
+Deviated well	Pozo desviado / direccional
+Drill bit	Broca de perforación
+Drill collars	Lastrabarrenas
+Drill floor	Piso de perforación
+Drill pipe	Tubería de perforación
+Drill string	Sarta de perforación
+Drilling blind	Perforación a ciegas
+Drilling fluid / Mud	Fluido de perforación / Lodo
+Elevator	Elevador
+Expansion spool	Carrete de expansión
+Fishing	Pesca (recuperación de equipos)
+Hook	Gancho
+Hoop stress	Esfuerzo circunferencial / tangencial
+Kelly	Kelly / Cuadrante de perforación
+Liner (slotted)	Liner ranurado
+Lithostatic pressure	Presión litostática
+Master valve	Válvula maestra
+Mud cake	Costra de lodo / Revoque
+Mud motor	Motor de fondo
+Production casing	Tubería de producción (TP)
+Rate of Penetration (ROP)	Tasa / Velocidad de penetración
+Rotary table	Mesa rotaria
+Shale shakers	Zarandas vibratorias
+Slips	Cuñas
+Surface casing	Tubería superficial
+Swivel	Eslabón giratorio / Unión giratoria
+Top drive	Top drive / Cabezal motriz superior
+Travelling block	Bloque viajero
+Tricone bit	Broca tricónica
+Twist-off	Rotura por torsión
+Yield stress	Esfuerzo de fluencia
+Young's modulus	Módulo de Young / Módulo de elasticidad

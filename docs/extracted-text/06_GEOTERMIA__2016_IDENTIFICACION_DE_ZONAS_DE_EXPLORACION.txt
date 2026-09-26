@@ -1,0 +1,4451 @@
+UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO 
+ 
+ 
+FACULTAD DE INGENIERÍA 
+ 
+DIVISIÓN DE INGENIERÍA EN CIENCIAS DE LA TIERRA 
+ 
+ 
+“IDENTIFICACIÓN DE ZONAS DE EXPLORACIÓN 
+CON POTENCIAL GEOTÉRMICO UTILIZANDO 
+PERCEPCIÓN REMOTA Y SISTEMAS DE 
+INFORMACIÓN GEOGRÁFICA, EN EL OCCIDENTE 
+DEL VOLCÁN CEBORUCO, NAYARIT.” 
+ 
+ 
+T E S I S 
+PARA OBTENER EL TÍTULO DE: 
+ 
+ 
+INGENIERO GEOFÍSICO 
+ 
+ 
+PRESENTA: 
+JOSÉ DANIEL ELIZALDE GUERRERO 
+ 
+ 
+DIRECCIÓN DE TESIS: 
+DRA. ROSA MARÍA PROL LEDESMA 
+ 
+CIUDAD UNIVERSITARIA, MÉXICO, D.F. 2016 
+ 
+ 
+
+2 
+ 
+Agradecimientos 
+ 
+En opinión de este autor se agradece el apoyo recibido para realizar esta tesis por parte 
+del proyecto del Fondo de Sustentabilidad SENER-CONACyT: “Mapas de Gradiente 
+Geotérmico y Flujo de Calor de la República Mexicana” a cargo del Centro Mexicano de 
+Innovación en Energía Geotérmica (CeMIE-Geo). 
+ 
+Agradezco enormemente a la Dra. Rosa Ma. Prol Ledesma por compartir su experiencia, 
+visión, energía y alegría, por su apoyo y consejos para desarrollar mis conocimientos 
+académicos e involucrarme en la exploración geotérmica y sobre todo por su paciencia y 
+confianza. 
+ 
+Al jurado por su asesoría y observaciones, gracias Dr. Osvaldo Sánchez Zamora, Dra. 
+Claudia Arango Galván, Ing. Alfredo Victoria Morales e Ing. Juan Sánchez Pérez. 
+ 
+A la Mc. Alejandra Membrillo por sus observaciones, comentarios, recomendaciones y 
+sugerencias para el desarrollo eficaz de este trabajo. 
+ 
+A mis padres por su apoyo en todo momento y a mis hermanos por enseñarme el camino. 
+ 
+A la UNAM, especialmente a la Facultad de Ingeniería, a mis profesores, compañeros y al 
+Instituto de Geofísica. 
+ 
+ 
+
+3 
+ 
+ÍNDICE 
+ 
+RESUMEN ----------------------------------------------------------------------------------------------------- 5 
+1. 
+INTRODUCCIÓN --------------------------------------------------------------------------------------- 6 
+1.1 
+Antecedentes ------------------------------------------------------------------------------------ 6 
+1.2 
+Definición del problema ---------------------------------------------------------------------- 9 
+1.3 
+Justificación -------------------------------------------------------------------------------------- 9 
+1.4 
+Propósito del estudio ------------------------------------------------------------------------- 10 
+2. 
+ENERGÍA GEOTÉRMICA -------------------------------------------------------------------------- 11 
+2.1 
+Origen de los sistemas geotérmicos ---------------------------------------------------- 11 
+2.2 
+Componentes de un sistema geotérmico ---------------------------------------------- 16 
+2.3 
+Etapas de un proyecto de energía geotérmica --------------------------------------- 18 
+2.4 
+Energía geotérmica en México ------------------------------------------------------------ 22 
+3. 
+ÁREA DE ESTUDIO --------------------------------------------------------------------------------- 24 
+3.1 
+Localización ------------------------------------------------------------------------------------- 24 
+3.2 
+Geología regional ------------------------------------------------------------------------------ 24 
+3.3 
+Tectónica ----------------------------------------------------------------------------------------- 26 
+3.4 
+Geología local ----------------------------------------------------------------------------------- 27 
+4. 
+METODOLOGÍA -------------------------------------------------------------------------------------- 29 
+4.1 
+Fundamentos de Percepción Remota --------------------------------------------------- 29 
+4.1.1 Definición --------------------------------------------------------------------------------------- 29 
+4.1.2 Desarrollo histórico --------------------------------------------------------------------------- 29 
+4.1.3 Panorama del proceso de percepción remota ----------------------------------------- 30 
+4.1.4 Fuente de energía y principio de radiación electromagnética --------------------- 32 
+4.1.5 Espectro Electromagnético----------------------------------------------------------------- 33 
+4.1.6 Leyes de la radiación ------------------------------------------------------------------------ 36 
+4.1.7 Interacción de la radiación ----------------------------------------------------------------- 38 
+4.1.8 Sistema de percepción remota ------------------------------------------------------------ 49 
+4.1.9 Resolución de instrumentos de percepción remota ---------------------------------- 55 
+
+4 
+ 
+4.2 
+Técnicas de procesamiento ---------------------------------------------------------------- 58 
+4.2.1 Materiales -------------------------------------------------------------------------------------- 58 
+4.2.2 Pre-procesamiento --------------------------------------------------------------------------- 60 
+4.2.3 Realce digital ---------------------------------------------------------------------------------- 63 
+4.2.4 Transformación de imágenes -------------------------------------------------------------- 65 
+4.2.5 Sistema de Información Geográfica ------------------------------------------------------ 74 
+5. 
+RESULTADOS ---------------------------------------------------------------------------------------- 76 
+5.1 
+Análisis estadístico --------------------------------------------------------------------------- 76 
+5.2 
+Resultados del pre-procesamiento ------------------------------------------------------ 77 
+5.3 
+Realce espectral ------------------------------------------------------------------------------- 78 
+5.3.1 Cociente de bandas -------------------------------------------------------------------------- 78 
+5.3.2 Análisis de componentes principales ---------------------------------------------------- 83 
+5.3.3 Técnica de Crosta ---------------------------------------------------------------------------- 88 
+5.3.4 Composiciones en falso color ------------------------------------------------------------- 94 
+5.4 
+Realce espacial ------------------------------------------------------------------------------- 100 
+5.5 
+Integración de la información espacial ----------------------------------------------- 103 
+6. 
+DISCUSIÓN ------------------------------------------------------------------------------------------ 107 
+7. 
+CONCLUSIONES ----------------------------------------------------------------------------------- 113 
+8. 
+LÍNEAS DE INVESTIGACIÓN A SEGUIR ---------------------------------------------------- 115 
+REFERENCIAS BIBLIOGRÁFICAS ----------------------------------------------------------------- 116 
+ 
+
+5 
+ 
+RESUMEN 
+ 
+El objetivo principal de esta tesis es localizar recursos geotérmicos con base en las 
+evidencias superficiales que son las que se pueden localizar e identificar con las técnicas 
+de percepción remota, como son la presencia de alteración hidrotermal en las rocas y de 
+estructuras principales que favorezcan una alta permeabilidad de las rocas en el 
+yacimiento. Al menos tres zonas presentan la posible ocurrencia de minerales de 
+alteración hidrotermal y tienen características estructurales favorables para el desarrollo 
+de una etapa de exploración de recursos geotérmicos, al occidente del volcán Ceboruco, 
+Nayarit. Las zonas identificadas se denominaron como Tepetiltic, San Pedro y Santa 
+María, éstas se identificaron a partir del procesamiento digital de una imagen Landsat TM 
+(columna 30 y renglón 45) con técnicas de realce espectral y espacial. La técnica de 
+análisis de componentes principales permitió diferenciar las zonas que contienen 
+minerales típicos de alteración hidrotermal como óxidos e hidroxilos en zonas 
+parcialmente cubiertas con vegetación, la cual tiene una respuesta espectral similar. Se 
+integró espacialmente la cartografía de lineamientos estructurales, fallas, fracturas, 
+estructuras volcánicas, así como de la presencia de zonas alteradas hidrotermalmente en 
+superficie como resultado de la convección de fluidos. A partir de estos resultados se 
+elaboró una serie de mapas preliminares del subsuelo que servirán de guía en las 
+subsecuentes etapas de exploración para localizar las principales zonas de descarga de 
+los sistemas hidrotermales y señalar las zonas con potencial geotérmico. 
+ 
+ABSTRACT 
+ 
+The main objective of this thesis is to locate geothermal resources, based on superficial 
+evidence like hydrothermal alteration and main structures that can be identified with 
+remote sensing techniques, such as the presence of hydrothermal alteration in rocks and 
+major structures that favor high rock permeability in the reservoir. At least three areas 
+show the possible occurrence of hydrothermal alteration minerals and have favorable 
+structural features for the development of an advanced geothermal exploration stage in the 
+western side of the Ceboruco volcano, Nayarit. The identified areas were designated as 
+Tepetiltic, San Pedro and Santa Maria, they were identified using digitally processed 
+Landsat TM images (path 30 and row 45). The technique of principal component analysis 
+allowed to differentiate the areas containing hydrothermal alteration minerals such as 
+oxides and hydroxyls, even in areas partially covered with vegetation, which has a similar 
+spectral response. Mapping of structural lineaments, faults, fractures, volcanic structures 
+and hydrothermally zones by fluid convection allowed spatial integration of a series of 
+preliminary maps that will serve as a guide in further advances exploration stages to locate 
+hydrothermal systems and the point out areas with geothermal potential. 
+ 
+
+6 
+ 
+1. INTRODUCCIÓN 
+ 
+1.1 
+Antecedentes 
+ 
+Las múltiples necesidades de la actividad productiva y la constante demanda de bienestar 
+de la población, han detonado una continua búsqueda por conseguir una generación de 
+energía mayor pero que impacte de la menor manera al medio ambiente. Se trata, por 
+tanto, de seguir las rutas que permitan cubrir el mayor número de necesidades de la 
+población con energía limpia, y que conlleve a su bienestar y comodidad. 
+ 
+De manera global, la protección del medio ambiente se ha convertido en una de las 
+principales preocupaciones en todas las sociedades del mundo. En este sentido, la 
+electricidad, como forma final de energía, es muy utilizada por su seguridad y versatilidad 
+y la facilidad en su distribución. Sin duda, tanto en usos residenciales como en la industria 
+y los servicios, la electricidad, en su etapa última, ha significado una alternativa 
+ampliamente utilizada. A cambio de esta cualidad, los efectos sobre el medio ambiente 
+ocurren en el proceso de generación de energía eléctrica (de investigaciones Eléctricas, 
+1999). 
+ 
+La geotermia es la energía contenida como calor en el interior de la Tierra. Es reconocida 
+como una fuente de energía renovable, inmensa y prácticamente inagotable usada para la 
+generación de electricidad en forma continua y confiable, lo que permite el ahorro de 
+combustibles fósiles y que contribuye a la diversificación de las fuentes de energía 
+(Barbier, 2002). 
+ 
+Aunque se ha especulado sobre el riesgo por subsidencia y contaminación de suelo y 
+agua por salmueras, entre los beneficios de la generación de energía geotérmica, se 
+puede mencionar que se trata de una fuente de energía generalmente renovable que, 
+cuando se administra de forma racional su aprovechamiento es sostenible en tiempos 
+mayores a 100 años, con impactos mínimos sobre el medio ambiente en comparación con 
+los combustibles fósiles. El uso del suelo para la construcción de instalaciones y las 
+perforaciones es poco, el impacto ambiental es mínimo y fácil de prevenir y mitigar, el 
+incremento en la inversión social a través del apoyo a comunidades en sus programas de 
+
+7 
+ 
+desarrollo local, de costo moderado y, sobre todo, con una tasa prácticamente nula de 
+emisión de gases con efecto invernadero (IRENA, 2015). 
+ 
+La industria que gira alrededor de las energías renovables, y en particular de la geotermia, 
+está creciendo en forma paulatina en respuesta a las necesidades futuras de energía de 
+los países, y ante la amenaza pronosticada del probable agotamiento de los hidrocarburos 
+y los problemas de cambio climático. 
+ 
+Actualmente la geotermia contribuye en la generación eléctrica mundial mediante el 
+desarrollo de los sistemas hidrotermales, y se espera para 2030 un despliegue acelerado 
+en su aprovechamiento, impulsado por sus ventajas en comparación con otras fuentes de 
+energía renovable, sobre todo por los factores de planta de más del 90%. El impulso de 
+industrialización que México está experimentando conlleva también un aumento en la 
+demanda de energía. La geotermia aporta el 1,59% de la energía eléctrica que el país 
+necesita para su abastecimiento y consumo, y representa una buena opción de cara a su 
+futuro energético (SENER). El estado de Nayarit tiene la posibilidad de incrementar su 
+potencial renovable desarrollando aún más la generación de energías limpias, 
+principalmente la geotérmica en los alrededores del volcán Ceboruco. Hoy en día el 
+Ceboruco es uno de los diez volcanes activos de la República Mexicana con fumarolas en 
+las cercanías de los focos de la erupción más reciente de 1870. Este volcán representa 
+una fuente de calor en la región occidental del Cinturón Volcánico Mexicano, ésto resulta 
+interesante porque los puntos de nuestro planeta donde se presentan descargas 
+concentradas de calor, generalmente se ubican en las zonas de tectonismo y vulcanismo 
+joven, y sobre todo a lo largo de los límites de placas tectónicas donde hay volcanes 
+activos o fallas geológicas (Barbier, 2002). 
+ 
+Un primer paso para determinar el potencial de la energía térmica en la superficie 
+poniente del volcán es mediante un mapa de flujo de calor, ya que este es el punto de 
+partida para estimar la energía térmica almacenada en el subsuelo de una región 
+determinada. Además, para convertir la energía almacenada a un potencial eléctrico 
+probable, debe estimarse primero la cantidad de calor que podría ser recuperado en 
+superficie. Para localizar el recurso geotérmico se realizan estudios de reconocimiento y 
+exploración superficial de tipo geológico, geofísico y geoquímico a escala regional y luego 
+a detalle. Una vez identificado el recurso se requiere perforar pozos de prueba en la 
+
+8 
+ 
+formación para evaluar la recuperación de la energía geotérmica almacenada. La 
+perforación es el gasto más importante en el desarrollo de los recursos geotérmicos, ya 
+que aunado a su alto costo se tiene el alto riesgo para poder finalmente desarrollar el 
+recurso. 
+ 
+En los estudios geológicos regionales se ha utilizado con gran éxito el análisis de 
+imágenes de satélite con técnicas de percepción remota para obtener información de la 
+superficie del terreno como la cartografía de lineamientos estructurales, fallas, fracturas y 
+zonas mineralizadas para elaborar planos geológicos preliminares del subsuelo que sirvan 
+de guía en las subsecuentes etapas de exploración para localizar los sistemas 
+hidrotermales y que se integren con los datos obtenidos con otras disciplinas como la 
+Geología, la Geoquímica y la Geofísica (Barbier, 2002). 
+ 
+Con la creación de numerosos sensores y plataformas con gran variedad de valores de 
+resolución espacial, temporal, radiométrica y espectral, el uso de datos de percepción 
+remota para diversas aplicaciones ambientales y mapeo de recursos ha experimentado un 
+considerable aumento en las últimas décadas (Meneses III, 2013). 
+ 
+La tecnología de percepción remota ha desempeñado un papel cada vez más importante 
+en los campos de la geología y en la búsqueda de yacimientos minerales. Su aplicación 
+con imágenes multi e hiper-espectrales permite identificar áreas de la superficie terrestre 
+que presentan alteración hidrotermal de rocas y lineamientos estructurales de forma 
+rápida, precisa y económica por lo que se utiliza como herramienta auxiliar en la 
+exploración de recursos geotérmicos (Sabins, 1999; Fernández et al., 2001; Mutua et al., 
+2011). 
+ 
+Finalmente con la aplicación de un Sistema de Información Geográfica (SIG) se toma la 
+información generada a partir de los datos digitales de los sensores remotos combinados 
+con otros datos geoespaciales (geológicos, geoquímicos y geofísicos) que permiten 
+resolver un problema práctico específico, tal como planear el uso de suelo o la 
+exploración en minería e hidrogeología (Saraf & Choudhury, 1998). 
+ 
+ 
+
+9 
+ 
+1.2 
+Definición del problema 
+ 
+Se elige la zona de estudio a partir de la presencia de vulcanismo reciente y 
+manifestaciones superficiales reportadas, que muestran resultados favorables de 
+encontrar sistemas hidrotermales activos en la zona (Castillo & De la Cruz, 1992; Ferrari 
+et al., 2003). 
+ 
+No hay manantiales termales reportados en la zona pero si hay descarga de gases en las 
+cercanías de los focos de la última erupción. Por lo que esta investigación se aplica como 
+una estrategia que pretende determinar la presencia de zonas con potencial geotérmico 
+donde no existen expresiones termales obvias en superficie, por lo que su identificación 
+dependerá de la caracterización de lineamientos y alteración hidrotermal y la 
+interpretación de estructuras. Por lo tanto se intentará descubrir recursos geotérmicos con 
+base en las evidencias superficiales con las técnicas de percepción remota.  
+ 
+La solución a esta problemática representa una aportación importante al desarrollo del 
+potencial geotérmico y energético de la zona y el impacto positivo que tiene para la 
+economía, el medio ambiente, los habitantes y las empresas energéticas en el país. 
+ 
+1.3 
+Justificación 
+ 
+Con la tecnología de percepción remota se obtienen imágenes en diferentes frecuencias 
+del espectro electromagnético que combinadas entre sí, resaltan diferentes rasgos 
+superficiales, como pueden ser fallas, lineamientos y zonas alteradas hidrotermalmente, 
+con esta información y con el desarrollo de un modelo cuantitativo es posible integrar 
+dicha información para elaborar mapas temáticos que sirvan de apoyo a las siguientes 
+etapas de exploración que permitan una mejor evaluación de los recursos geotérmicos. 
+ 
+La presente investigación contempla la identificación de recursos geotérmicos, como parte 
+de la etapa de reconocimiento, de un campo geotérmico, que podría ser aprovechado 
+comercialmente para generación de energía eléctrica. 
+ 
+El estado de Nayarit tiene la posibilidad de incrementar su potencial renovable 
+desarrollando aún más la generación de energía eléctrica limpia, que actualmente incluye 
+
+10 
+ 
+a: la Presa Hidroeléctrica de Aguamilpa en el municipio de Tepic, la Presa del Cajón y La 
+Yesca en Santa María del Oro y la planta geotérmica en San Pedro Lagunillas. 
+ 
+Con la concesión otorgada a una empresa privada para el uso y explotación de recursos 
+geotérmicos en San Pedro Lagunillas (Del Valle, 2015), la información resultante de este 
+trabajo será compartida con los organismos competentes, con el propósito de disponer del 
+conocimiento adecuado para la toma de decisiones respecto a la ubicación de zonas para 
+barrenación de pozos de prueba como una etapa de exploración geotérmica a mayor 
+detalle. 
+ 
+1.4 
+Propósito del estudio 
+ 
+El objetivo principal consiste en identificar zonas específicas, a partir del procesamiento 
+digital de imágenes Landsat TM para identificar y mapear tanto la alteración hidrotermal 
+de rocas como los lineamientos, en las cuales existan las condiciones geológicas y 
+geoquímicas indicadoras de actividad hidrotermal que permitan desarrollos geotérmicos 
+futuros al occidente del volcán Ceboruco, Nayarit, México. 
+ 
+Los objetivos específicos son: 
+ 
+1. Desplegar información espacial que muestre la presencia de rocas que contienen 
+óxidos de hierro e hidroxilos asociados a alteraciones hidrotermales. 
+ 
+2. Mapear las estructuras activas como fallas y fracturas que incrementen la 
+permeabilidad de los estratos. 
+ 
+3. Integrar los mapas obtenidos como resultado de la aplicación de realce espectral y 
+espacial a las imágenes Landsat TM para identificar y definir las zonas con 
+potencial geotérmico. 
+ 
+ 
+
+11 
+ 
+2. ENERGÍA GEOTÉRMICA 
+ 
+En este capítulo se tratan puntos fundamentales de la geotermia, que son relevantes para 
+entender el trabajo que se aplica en la exploración de sistemas hidrotermales. 
+ 
+2.1 
+Origen de los sistemas geotérmicos 
+ 
+Se presentan tres ideas importantes y necesarias para introducirse en los sistemas 
+geotérmicos: a) La estructura interna de la Tierra. b) El origen de la fuente de calor y los 
+mecanismos de transferencia de calor en el interior del manto y la corteza. c) El gradiente 
+térmico y la conductividad térmica de las rocas. 
+ 
+a) La estructura interna de la Tierra 
+ 
+La palabra geotermal proviene del griego Geo significa tierra, Termal significa calor. El 
+calor es una forma de energía y la geotermia literalmente es la energía contenida en 
+forma de calor dentro de la Tierra. El origen de este calor está relacionado con la 
+estructura interna de nuestro planeta y los procesos físicos que ocurren en él. Usualmente 
+es referida a la energía que puede ser recuperada o extraída y utilizada por el hombre 
+(Barbier, 2002; Dickson & Fanelli, 2003). 
+ 
+A medida que se acumulaba el material para formar la Tierra, el impacto a gran velocidad 
+de los restos de nebulosa y la desintegración de los elementos radiactivos provocó el 
+aumento constante de la temperatura y en consecuencia comenzó un proceso de 
+diferenciación química, el cual estableció las tres divisiones básicas del interior de la 
+Tierra: el núcleo rico en hierro, el manto y la corteza. El interior de la Tierra se caracteriza 
+por un aumento gradual de temperatura, presión y densidad con la profundidad. La 
+temperatura en el núcleo es alrededor de 4000°C y la presión en el centro de la tierra 
+360000 MPa. El material caliente que se encuentra en las profundidades del manto se 
+mueve despacio hacia arriba y sirve como una parte del sistema de convección interna del 
+planeta. Simultáneamente, láminas más frías y densas de la litosfera oceánica 
+descienden al manto, poniendo en movimiento la litosfera (Tarbuck & Lutgens, 2005). 
+ 
+
+12 
+ 
+ 
+Teoría de las placas tectónicas y el desarrollo geológico de los recursos 
+geotérmicos 
+ 
+La teoría de tectónica de placas actualmente aceptada, es la base sobre la que se 
+consideran la mayoría de los procesos geológicos. Explica que el movimiento observado 
+de la capa externa de la Tierra o litosfera (corteza suprayacente y manto superior) por 
+medio de mecanismos de subducción y de expansión del fondo oceánico, se divide en 
+bloques o en placas separadas, denominadas placas litosféricas (contempla los 
+continentes y el piso oceánico). Estas placas se mueven una respecto de la otra 
+lentamente por encima de la astenosfera superior, que es la región más dúctil del manto, 
+a una velocidad de unos pocos centímetros por año. Este movimiento es impulsado en 
+último extremo por la distribución desigual de calor en el interior de la Tierra. Si las placas 
+se alejan una de otra el movimiento es divergente, si se mueven una hacia la otra es 
+convergente y de transformación cuando se deslizan entre sí (Tarbuck & Lutgens, 2005). 
+ 
+ 
+Bordes de placa 
+ 
+Las placas interactúan principalmente en tres tipos de bordes, que se diferencian en 
+función del tipo de movimiento que exhiben. Esos bordes se muestran en la parte inferior 
+de la Figura 2.1 y se describen brevemente a continuación: 
+ 
+1) Bordes divergentes (bordes constructivos): donde dos placas se separan, lo que 
+produce el ascenso de material desde el manto para crear nuevo suelo oceánico, 
+son sitios favorables para la presencia de campos geotérmicos, por ejemplo 
+Islandia, las islas Azores, y la depresión de Afar en Etiopia en dorsales oceánicas 
+que se extienden sobre el nivel del mar y, dorsales en los continentes como la 
+extensión al norte de la Dorsal del Pacífico oriental, con los campos geotérmicos 
+de Cerro Prieto, en México y el valle Imperial en EE.UU, y el Rift de África Oriental, 
+con los campos de Langano en Etiopia y Olkaria en Kenia (Barbier, 2002). 
+ 
+2) Bordes convergentes (bordes destructivos): donde dos placas (una de mayor 
+densidad que la otra) se juntan provocando el descenso de la litosfera oceánica 
+debajo de una placa superpuesta, que es finalmente reabsorbida en el manto (este 
+proceso se conoce como subducción) o posiblemente la colisión de dos bloques 
+
+13 
+ 
+continentales para crear un sistema montañoso. Japón, Indonesia, Nueva 
+Zelandia, Chile y Centroamérica son ejemplos del proceso de subducción y la 
+parte noroeste de la India, Australia y la placa Euroasiatica son ejemplo de colisión 
+de continentes (Barbier, 2002). La fusión de la corteza y el empuje descendente 
+producen cápsulas de magma que se elevan en la placa superior y actúan como 
+fuentes de calor para yacimientos geotérmicos superpuestos. 
+ 
+Anomalías de fusión intraplaca son responsables del vulcanismo Cuaternario de 
+campos geotérmicos asociados donde plumas del manto suben debajo de un 
+continente (Yellowstone en los EE.UU) o una placa oceánica (Hawai). En lugar de 
+romper la placa, las plumas como fuente de calor (o “hot spot”) por debajo de la 
+placa móvil, forman una línea de volcanes que gradualmente se van alejando del 
+centro eruptivo. 
+ 
+3) Bordes de falla transformante (bordes pasivos): donde dos placas se desplazan 
+lateralmente una respecto de la otra sin la producción ni la destrucción de litosfera. 
+ 
+ 
+Figura 2.1 – La imagen muestra las principales placas tectónicas y 
+los bordes de placa (tomada de Tarbuck & Lutgens, 2005). 
+
+14 
+ 
+ 
+b) Origen de la fuente de calor de la Tierra 
+ 
+El flujo de calor de la Tierra es la cantidad de calor que se libera al espacio desde el 
+interior a través de una unidad de área en una unidad de tiempo. Este flujo varía con el 
+tiempo y de un lugar a otro en la superficie. Se origina a partir del calor generado durante 
+la formación de la Tierra y por la desintegración de los isótopos radiactivos de vida larga 
+comparable a la edad de la Tierra: 40K, 232Th, 235U y 238U. El flujo de calor de la corteza 
+continental deriva de este decaimiento dentro de la corteza superior, junto con el calor 
+generado en el más reciente episodio magmático y el calor procedente del manto. En la 
+corteza oceánica, la concentración de isótopos radiactivos es insignificante, y el flujo de 
+calor se deriva en gran parte del calor que fluye desde el manto por debajo de la litosfera 
+(Barbier, 2002). Por lo que en sistemas geotérmicos, las fuentes de calor pueden ser 
+debidas a: intrusión magmática a alta temperatura (>6000°C) a profundidades someras (5 
+– 10 km), corrientes convectivas de fluidos a alta temperatura, reacciones exotérmicas 
+dentro de la corteza, fricción entre capas generadas por fallamientos, calor latente 
+liberado por la cristalización del magma, entre otras. 
+  
+ 
+Transferencia de calor dentro de la Tierra 
+ 
+La extracción y la utilización del calor relacionado al movimiento del magma dentro de la 
+corteza requieren un portador para transferir el calor hacia profundidades accesibles 
+debajo de la superficie de la Tierra. Generalmente el calor se transfiere de lo más 
+profundo hacia las regiones superficiales por medio de los fluidos geotérmicos a partir de 
+dos procesos de transferencia: 
+ 
+ 
+La conducción: involucra la transferencia aleatoria de energía cinética entre 
+las moléculas sin transferencia de material, el movimiento de las moléculas 
+causa una vibración más rápida y transfiere calor. La conducción es el 
+principal modo de transferencia de calor en sólidos. 
+ 
+ 
+La convección: involucra la transferencia de calor entre un fluido (líquido o 
+gaseoso) y un cuerpo sólido. Consiste en el movimiento de fluidos calientes 
+de un lugar a otro. Es más eficiente en comparación con la conducción. 
+
+15 
+ 
+ 
+La Figura 2.2 muestra la relación del punto de ebullición con la profundidad bajo 
+condiciones estáticas (recarga más densa/ descarga menos densa). En un sistema 
+hidrotermal el agua se infiltra hacia el interior por convección (A-B), debido a las 
+variaciones de densidad causadas por la temperatura (B-C), la transferencia de calor 
+desde las partes más bajas del depósito a sus partes superiores ocurre por conducción 
+(C-F), el calor es transferido por conducción desde el cuerpo de magma hacia las rocas 
+del yacimiento permeable (G-F). Fluidos calientes a menudo escapan del depósito y 
+llegan a la superficie, produciendo la actividad geotérmica visible como punto de ebullición 
+(D-E). 
+ 
+Figura 2.2 – La imagen muestra un sistema hidrotermal (tomado de www.geothermal-
+energy.org). 
+ 
+c) El gradiente geotérmico de la Tierra y la conductividad térmica de las rocas 
+ 
+El calor de la Tierra se mueve desde el interior hacia la superficie donde se disipa, esto se 
+observa con el gradiente geotérmico, significa que aumenta la temperatura de las rocas 
+con la profundidad, en promedio 30°C/km. 
+ 
+La cantidad de calor que fluye por conducción a través de una unidad de superficie de 1 
+m2 de roca sólida en un tiempo determinado, que es la tasa de flujo de calor, es 
+proporcional al gradiente geotérmico y a una constante de proporcionalidad que se 
+conoce como la conductividad térmica de rocas, ésta se define como la cantidad de calor 
+
+16 
+ 
+conducido por segundo a través de un área de 1 m2, cuando el gradiente de temperatura 
+es 1°C / m perpendicular a esa área. Si el gradiente se expresa en °C/km y la 
+conductividad térmica en W/m°C, el flujo de calor estará en mW/m2. 
+ 
+2.2 
+Componentes de un sistema geotérmico 
+ 
+Un sistema geotérmico contiene un conjunto de elementos que permiten la circulación 
+continua de calor y fluidos, la fuente de calor, el reservorio y el fluido por el cual ocurre la 
+transferencia de calor son los principales, son sistemas de tipo volcánico, tectónico y 
+sedimentario (Tabla 1). 
+ 
+Tabla 1. Tipos de sistemas geotérmicos. 
+Tipo de Sistema 
+Marco Geológico 
+Volcánico-magmático 
+Andesítico/ Arco de Islas 
+Basáltico / Ridge Oceánico-Hawaiano 
+Silícico / Continental (Calderas) 
+Cuencas Sedimentarias profundas / Centros de Dispersión 
+ 
+Flujo de Calor Continental 
+Basin and Range (Extensión/ alto flujo de calor regional) 
+Flujo de calor de fondo 
+Tipo Fase / Química 
+ 
+Líquido-dominante 
+Dos-fases 
+Vapor-dominante 
+Agua meteórica alterada 
+Agua de mar alterada 
+ 
+Actualmente los sistemas geotérmicos que se explotan reúnen las siguientes 
+características: liberación de calor debido a un cuerpo intrusivo o una cámara magmática 
+enfriándose todavía en un estado fluido o en estado de solidificación; un conjunto de 
+estratos de roca porosa a una profundidad accesible por perforación, generalmente con 
+alta presión y temperatura, una recarga constante de agua que asegure el transporte 
+continuo de energía a través de los fluidos geotérmicos y una capa impermeable en las 
+partes someras que evite que los fluidos calientes alcancen fácilmente la superficie y los 
+
+17 
+ 
+mantenga bajo presión, dejando solamente algunos canales-fracturas por los que los 
+fluidos escapen a la superficie a través de zonas de descarga, presentes como 
+manantiales termales, geiseres, pozas de lodos caliente, entre otras (Fig. 2.3). 
+ 
+ 
+Figura 2.3 – La imagen muestra el modelo conceptual de un sistema 
+continental de tipo hidrotermal (tomado de www.geothermal-energy.org) 
+ 
+Durante la explotación los fluidos se recargan al reservorio a través de la reinyección por 
+medio de pozos que inyectan los fluidos utilizados por las plantas. Este proceso de 
+reinyección puede compensar al menos parte del fluido extraído por la producción, y 
+tendrá un cierto límite para prolongar la vida útil comercial del sistema geotérmico. 
+(Barbier, 2002; Huenges, 2010; Prol-Ledesma & Nieva, 2013).  
+ 
+Los rasgos superficiales relacionados con actividad geotérmica son: 
+ 
+ 
+Manantiales calientes, fumarolas y pozas de lodo. 
+ 
+Zonas con descarga de gases. 
+ 
+Composición geoquímica anómala de agua subterránea. 
+ 
+Brechas producidas por erupciones geotérmicas. 
+ 
+Depositación de minerales: sílice, carbonato de calcio, sulfatos, boratos. 
+ 
+Alteración hidrotermal. 
+ 
+Escarpes de falla. 
+ 
+Anomalías de la vegetación. 
+
+18 
+ 
+ 
+Anomalías de temperatura superficial o somera. 
+ 
+Rocas volcánicas jóvenes. 
+ 
+2.3 
+Etapas de un proyecto de energía geotérmica 
+ 
+Un proyecto de energía geotérmica es un conjunto de actividades interrelacionadas que 
+desarrolla un equipo de personas multidisciplinarias o entidad para alcanzar objetivos 
+específicos de exploración y explotación de los recursos geotérmicos dentro de los límites 
+que impone un presupuesto, calidad establecida y un lapso de tiempo definido. En la 
+Tabla 2 se muestran en general las etapas de desarrollo de un proyecto geotérmico. 
+ 
+En los estudios geológicos regionales se ha utilizado con gran éxito el análisis de 
+imágenes de satélite con técnicas de percepción remota para obtener información de la 
+superficie del terreno como la cartografía de lineamientos estructurales, fallas, fracturas y 
+zonas mineralizadas con alteración hidrotermal para elaborar planos geológicos 
+preliminares del subsuelo que sirven de guía en las subsecuentes etapas de exploración 
+superficial como parte de la fase inicial de un proyecto geotérmico o minero (Wright et al., 
+1990; Prol-Ledesma et al., 1993; Wannamaker et al., 1994; Ruiz-Armenta & Prol-
+Ledesma., 1998; Sabins, 1999; Urai et al., 2000; Nash et al., 2004; Littlefield et al., 2009; 
+Mboin, I., 2011; Mutua et al., 2011). 
+ 
+Como se ha mencionado, los fluidos calientes a menudo escapan del reservorio hacia la 
+superficie a través de zonas de debilidad estructural como fracturas y fallas existentes, 
+formando las manifestaciones hidrotermales. La alteración mineral de las rocas de tipo 
+hidrotermal se genera a partir de esta circulación de fluidos calientes que interactúan con 
+la roca, por ello con la identificación de fallas, fracturas y alteración hidrotermal desde la 
+etapa de reconocimiento de un proyecto geotérmico se podría generar información útil 
+acerca del patrón de circulación de los fluidos, la zona de ascenso y descarga de un 
+sistema hidrotermal. 
+ 
+ 
+
+19 
+ 
+Tabla 2. Etapas de desarrollo de un proyecto geotérmico. 
+Reconocimiento 
+Proceso de evaluación ambiental 
+Reconocimiento 
+Recopilación de la información 
+disponible 
+Evaluación del recurso 
+Gestión de concesión y permisos ambientales 
+Evaluación de la 
+información  
+Trabajos de 
+gabinete 
+Preparación 
+y 
+ejecución 
+de 
+un 
+programa 
+de 
+investigaciones 
+geocientíficas de campo y laboratorio 
+Análisis de imágenes de satélite con técnicas de percepción remota 
+Inventario geotérmico y cartografía de lineamientos 
+estructurales, 
+fallas, 
+fracturas, 
+manifestaciones 
+termales, temperatura, flujo de calor y zonas 
+mineralizadas. 
+Planos 
+geológicos 
+preliminares 
+Interpretación integrada de los estudios  
+Definición del área o 
+áreas 
+de 
+interés 
+geotérmico. 
+Exploración 
+Exploración superficial 
+Modelo conceptual: 
+Geología, 
+Geoquímica y 
+Geofísica 
+Evaluación de impacto ambiental 
+inicial 
+Perforación exploratoria 
+Características de 
+pozos 
+Estudios de prefactibilidad 
+Reporte de 
+Prefactibilidad 
+Evaluación de pozos perforados 
+Características de 
+pozos 
+Factibilidad 
+Estudios de factibilidad 
+Disposición de 
+salmuera, corrosión e 
+incrustaciones 
+Evaluación de impacto ambiental 
+Diseño 
+Diseño desarrollado 
+Localización de pozos 
+y ruta de tuberías 
+Estudios de ingeniería de reservorios 
+Licitaciones y contratos 
+Planta 
+Obras civiles 
+Líneas de 
+transmisión 
+Desarrollo de 
+pozos 
+Construcción de 
+planos 
+Sistema de colección de fluidos 
+Perforación 
+Planta potencia/proceso 
+Diseños finales 
+Características de 
+producción 
+Construcción 
+y Operación 
+Control y 
+monitoreo 
+ambiental 
+Construcción e instalación de planta 
+Control de calidad 
+Manejo del campo 
+Condicionamiento 
+Operación y mantención comercial 
+
+20 
+ 
+Alteración mineral de tipo hidrotermal en las rocas de la superficie 
+ 
+En un sistema hidrotermal el fluido ascendente en contacto con las rocas provoca una 
+serie de reacciones de hidrólisis producto de un desequilibrio químico entre las 
+condiciones originales de formación de las rocas y las condiciones de composición, 
+temperatura y pH del fluido, que alteran la roca y, por ende, los minerales primarios que la 
+constituyen, lo cual da lugar a la formación de minerales secundarios o de alteración 
+mineral, a través de la transformación de fases minerales, crecimiento de nuevos 
+cristales, disolución de minerales y/o precipitación, cambio textural y reacciones de 
+intercambio iónico (Henley & Ellis, 1983). 
+ 
+La alteración mineral de tipo hidrotermal son asociaciones de minerales secundarios 
+(como óxidos de hierro, hidroxilos, arcillas y carbonatos) formados por el reemplazamiento 
+de otros minerales que han formado la roca (olivino, piroxeno, anfíbol, feldespato potásico 
+y plagioclasas) y son una herramienta útil para conocer elementos de sistemas 
+geotérmicos activos y fósiles, tales como la capa sello, la zona de ascenso y descarga, el 
+patrón de circulación de los fluidos y sus características, además proporcionan un mejor 
+conocimiento de procesos de interacción agua/roca y son parte integral de la investigación 
+geotérmica e interpretación con base en la mineralogía observada (Kauffmann, 1988). 
+ 
+Feldespatos alcalinos dan lugar a una fase que son las illitas, y estas mismas illitas dan 
+lugar a la caolinita. La caolinita como mineral de alteración de rocas ígneas, típicamente 
+volcánicas, es un indicador de que ha circulado fluido de muy alta acidez y temperatura 
+cercana a los 100°C. Otras reacciones están relacionadas con cambios en las posiciones 
+de óxido reducción, por ejemplo, los cambios de fase que contienen hierro, como la 
+pirrotita que se pierde en condiciones de mayor oxidación, se oxida a pirita y estos a 
+óxidos como hematita o la goethita. El óxido de hierro se observa con frecuencia en los 
+afloramientos de rocas alteradas hidrotermalmente como resultado del intemperismo, su 
+identificación es una clave útil para definir las áreas que contengan rocas alteradas 
+hidrotermalmente por intemperismo. 
+ 
+En los hidroxilos se encuentran minerales como: alunita, yeso, talco, clorita, pirofilita, 
+caolín, muscovita, montmorillonita e illita, los cuales son formados a partir de una reacción 
+química llamada hidrólisis (Henley et al., 1983). 
+
+21 
+ 
+Los minerales de alteración hidrotermal comunes en campos geotérmicos son: calcita, 
+cuarzo, minerales arcillosos (esmectitas, illita), arcillas cloríticas, ceolitas, clorita, pennina, 
+epidota, anhidrita, pirita y wairakita, entre otros. Las facies argilítica y filítica son la 
+asociación de minerales secundarios presentes en superficie (Tabla 3). Las facies 
+permiten definir rangos de temperaturas a las que se formaron esos minerales, 
+identificarlos ayuda a saber si se está acercando al reservorio geotérmico, para la parte 
+mecánica de perforación, sirve para proponer la estabilidad del pozo. 
+ 
+Tabla 3. Asociaciones minerales presentes en las zonas de alteración hidrotermal de los 
+principales tipos de rocas encajonantes (Ruiz-Armenta & Prol-Ledesma, 1998). 
+Zona 
+Mineralogía 
+Propilítica 
+Sericita*, Albita, Feldespato-K, Biotita*, Siderita*, 
+Pirita, Hematita, Ankerita, Calcita*, Montmorillonita*, 
+Zeolita, Epidota*, Clorita*. 
+Argílica 
+Caolinita*, Montmorillonita*, Pirita. 
+Fílica 
+Sericita*, Topacio, Turmalina 
+Argilización avanzada 
+Caolinita*, Alunita*, Pirofilita*, Pirita. 
+Potásica 
+Sericita*, 
+Calcita*, 
+Ankerita, 
+Pirita, 
+Boiotita*, 
+Feldespatos-K, Hematita, Siderita*, Clorita*. 
+*Minerales con rasgos espectrales en el infrarrojo cercano y medio. 
+ 
+Estructuras geológicas que controlan el movimiento de los fluidos en profundidad 
+ 
+El control del movimiento de los fluidos geotérmicos en profundidad, en un sistema de 
+rocas fracturadas, es realizado por las fracturas y fallas geológicas; aunque también 
+puede haber algún control ejercido por contactos entre diferentes capas litológicas. 
+ 
+En el caso de reservorios en medio de porosidad y permeabilidad primaria, el control lo 
+ejercen los poros interconectados entre sí y también pueden estar presentes fracturas, 
+fallas geológicas y contactos litológicos. 
+ 
+Las estructuras activas como fallas y fracturas que incrementen la permeabilidad de los 
+estratos y que sugieran la salida del recurso geotérmico pueden localizarse utilizando el 
+método propuesto por Moore & Waltz (1983) para realce de bordes con los filtros 
+
+22 
+ 
+espaciales en la imagen y sobre un modelo digital del terreno con iluminación artificial 
+(Ferrer et al., 1986). 
+ 
+Los Sistemas de Información Geográfica (en adelante SIG) son una importante 
+herramienta para integrar información espacial de diferentes campañas de exploración. 
+Por lo que los SIG han sido utilizados en la exploración geotérmica (Prol-Ledesma, R. M., 
+2000; Nash et al., 2001; García-Estrada et al., 2003; Velador et al., 2003; Moghaddam et 
+al., 2014; Noorollahi et al., 2007, 2008; Noorollahi, Y., & Itoi, R., 2008; Carranza et al., 
+2008; Seugn-Gyun et al., 2010; Tüfekςi et al., 2010). 
+ 
+2.4 
+Energía geotérmica en México 
+ 
+En México la primera unidad geotermoeléctrica empezó a operar desde 1959 con 3.5 MW 
+de capacidad, en el campo geotérmico de Pathé, Hidalgo, actualmente fuera de 
+operación. A través de la Comisión Federal de Electricidad (CFE), el país cuenta con una 
+extensa experiencia en la generación geotermoeléctrica, opera actualmente 38 unidades 
+con una capacidad instalada total de 1051 MW (Tabla 4). Según la información 
+recolectada por Lund et al. (2010) en México, al final del 2009 para utilización de energía 
+geotérmica para usos directos alcanzó una capacidad instalada de 155.8 MWt; con un uso 
+anual de 4022.8 TJ/año; uso anual 1117.5 GWh/año; factor de capacidad: 0.8, y del 
+Sistema de Información Eléctrica con información de CFE se conoce que la capacidad 
+efectiva instalada y la generación bruta de energía geotérmica a Junio de 2015, son de 
+873 MW y 536,331.406 MWh respectivamente. 
+ 
+Los cuatro campos geotérmicos en operación comercial de CFE son: Los Azufres y Los 
+Humeros, dentro del Cinturón Volcánico Mexicano, Las Tres Vírgenes y Cerro Prieto en la 
+península de Baja California y una futura concesión para instalar un nuevo campo en 
+Cerritos Colorados, Jalisco (Gutiérrez-Negrín et al., 2015). El campo geotérmico Domo de 
+San Pedro en Nayarit está a cargo de una empresa privada que planea empezar la 
+producción en el corto plazo (Del Valle, 2015). 
+ 
+ 
+
+23 
+ 
+Tabla 4. Características de los cinco campos geotérmicos que operan en México. 
+Campo 
+Inicio 
+Capacidad [MW] 
+Junio 2015 
+Instalada 
+Operando 
+ 
+Cerro Prieto, BC. 
+ 
+1973 
+ 
+720 
+ 
+570 
+ 
+Los Azufres, Mich. 
+1982 
+227.4 
+224.4 
+Los Humeros, Pue. 
+1990 
+93.6 
+68.6 
+Las Tres Vírgenes, BCS. 
+2001 
+10 
+10 
+Domo San Pedro, Nay. 
+2015 
+10 
+10 
+Total 
+1061 
+883 
+ 
+ 
+ 
+
+24 
+ 
+3. ÁREA DE ESTUDIO 
+ 
+3.1 
+Localización 
+ 
+El área de estudio se ubica en la parte SSW del estado de Nayarit y el límite NNW del 
+estado de Jalisco; entre las coordenadas geográficas 21°6’ y 21°25’ de latitud norte y los 
+meridianos 104°28’ y 104°48’ de longitud oeste, con una superficie de 1208,19 km2 (34,5 
+x 35,02 km). Políticamente se localiza entre los municipios de Santa María del Oro, Jala, 
+Ahuacatlán, San Pedro Lagunillas, Xalisco y Tepic (Fig. 3.1). 
+ 
+3.2 
+Geología regional 
+ 
+El área de estudio se encuentra en el Graben Tepic-Zacoalco, considerado como uno de 
+los bordes del Bloque Jalisco (en adelante BJ), en el extremo noroccidental del Cinturón 
+Volcánico Mexicano (en adelante CVM). El contacto tectónico entre el BJ y el CVM está 
+cubierto por productos volcánicos calcioalcalinos, transicionales y alcalinos sódicos 
+(Ferrari et al., 2003). 
+ 
+El CVM es un complejo arco continental relacionado con la subducción de la Placa de 
+Cocos por debajo de la Placa Norteamericana a lo largo de la Trinchera Mesoamericana. 
+Se extiende desde el Mar de Cortés hasta el Golfo de México (Fig. 3.1). Abarca una 
+buena porción de la parte central de México y está formado en su mayoría por conos 
+cineríticos basálticos y volcanes escudo, estratovolcanes andesíticos a dacíticos y domos 
+dacíticos a riolíticos. Se divide en tres sectores: occidental, central y oriental, que 
+presentan diferencias significativas en lo que respecta al tipo de vulcanismo y su 
+composición química (Demant, 1978,1981; Suárez & Singh, 1986).  
+ 
+El sector occidental donde se localiza el área de estudio, está limitado al este por el “rift” 
+de Colima, el arco volcánico se sobrepone a la parte norte del BJ (Cretácico-Paleoceno) y 
+al límite meridional de la Sierra Madre Occidental (Oligoceno-Mioceno temprano). 
+Presenta vulcanismo del periodo cuaternario influenciado por la subducción de la Placa 
+Rivera debajo de la Placa Norteamericana. Contiene una transición (que ocurre de 
+manera simultánea a la reorganización de la placa causada por la extensión del Golfo de 
+California) de rocas volcánicas silíceas en la Sierra Madre Occidental (en adelante SMO) 
+
+25 
+ 
+a rocas volcánicas más máficas (Ferrari et al., 2000). Las rocas basálticas del CVM 
+dominan esta región y son resultado de procesos extensivos más recientes (Ferrari et al., 
+1994) 
+ 
+ 
+Figura 3.1 – La imagen muestra la localización del área de estudio y un mapa modificado de 
+Ferrari et al (2000) que muestra la geología y tectónica del centro de México, las principales 
+provincias volcánicas cenozoicas y las cuatro placas tectónicas principales. Además representa en 
+gris oscuro los afloramientos de lavas máficas de finales del Mioceno. 
+ 
+
+26 
+ 
+3.3 
+Tectónica 
+ 
+La tectónica regional para este sector está caracterizada por el BJ definido como un 
+sistema de tres fallas extensionales: Graben Tepic-Zacoalco, Graben Chapala y Graben 
+Colima con orientación N-S, E-W y NW-SE donde cada sistema corresponde a “rifts” 
+activos independientes (Ferrari et al., 1994). Las rocas dominantes en el área de los tres 
+grábenes son andesitas calcoalcalinas y rocas relacionadas, típicas de los arcos 
+volcánicos de subducción. En el Graben Colima y Graben de Tepic-Zacoalco se han 
+producido magmas alcalinos contemporáneamente con magmas calcoalcalinos desde el 
+Plioceno (Luhr et al., 1985). 
+ 
+El Graben Tepic-Zacoalco se extiende 180 km hacia el Noroeste, a 50 km del punto triple 
+de Jalisco, y eventualmente se une a la parte noroeste del CVM. Está caracterizado por 
+una fuerte asimetría y la presencia de bloques de alrededor de 1 km de largo. Muestra 
+fallas transformantes laterales derechas con orientación paralela al azimut de las fallas 
+transformantes del golfo de California y fallas laterales izquierdas del Mioceno-Plioceno 
+inferior, seguidas de un fallamiento lateral-derecho en el Plioceno superior-Cuaternario 
+(Ferrari et al., 1994). La existencia de este graben está claramente marcada por la 
+perfecta alineación NW-SE de volcanes activos, desde Guadalajara al SE hasta Tepic al 
+NW, e incluye los centros volcánicos de la Sierra La Primavera, Tequila, Ceboruco, 
+Tepetiltic, Santa María del Oro, Sangangüey, Las Navajas, San Juan, pequeños conos 
+escoriáceos y domos riolíticos y dacíticos, con la excepción de las Sierras La Primavera y 
+Las Navajas, que son volcanes riolíticos alcalinos, los volcanes de esta porción del CVM 
+han emitido lavas y cenizas calcialcalinas (Nelson, 1986). Toda esta región está cubierta 
+de material volcánico reciente, el más joven de los volcanes de ésta zona erupcionó hace 
+menos de mil años, y se sabe que han venido erupcionando desde el Pleistoceno (Ferrari 
+et al., 1994). 
+ 
+El Graben Tepic-Zacoalco está compuesto por numerosos sistemas de fallas, que se 
+agrupan en dos ramas principales: 
+ 
+ 
+Rama Norte: formada por dos cuencas escalonadas, el Graben Ceboruco y el 
+graben de Barrancas-Santa Rosa. En los límites entre estas dos cuencas o 
+depresiones se presentan movimientos de deslizamiento. En la parte sureste del 
+
+27 
+ 
+graben Plan de Barrancas-Santa Rosa se encuentran rocas del Cuaternario, que 
+se ven afectadas por pequeñas fallas (Rosas-Elguera et al., 1996). 
+ 
+ 
+Rama Sur: consiste de tres medios grábenes: Amatlán de Cañas, Zacoalco y Río 
+Ameca. Se localizan dentro del Bloque Jalisco y son paralelos a la rama norte del 
+rift Tepic (Rosas-Elguera et al., 1996). Las paredes de los medios grábenes son de 
+rocas graníticas del Cretácico, las cuales son cortadas por las fallas normales de 
+deslizamiento sureste. El primer medio graben está formado por volcanes alcalinos 
+y calcoalcalinos que están encima de un conglomerado granítico con un espesor 
+de 100 m. La depresión situada más al este es el medio graben Zacoalco, que 
+está formado por fallas de deslizamiento con dirección sur-suroeste con un 
+desplazamiento vertical mínimo de 1400 m. Se sugiere el graben del Río Ameca, 
+como una ramificación secundaria del Graben Tepic-Zacoalco. 
+ 
+3.4 
+Geología local 
+ 
+La actividad volcánica está representada por el volcán Ceboruco y los conos cineríticos 
+asociados con dirección NW-SE. La única erupción histórica bien documentada ocurrió en 
+el año de 1870, cuyo resultado fue un derrame de lava riodacítico en el flanco occidental 
+del Ceboruco (Nelson, 1986).  
+ 
+El Ceboruco es un estratovolcán calco-alcalino de tamaño medio con flujos de lava 
+andesítica que predominan sobre las unidades félsicas de material piroclástico (Ferrari et 
+al., 2003), tiene una altura de 2,200 m.s.n.m y un volumen aproximado de 60 km3. Forma 
+parte de la cadena de volcanes que se extienden desde Guadalajara, Jalisco hasta Tepic, 
+Nayarit. Así como los volcanes San Juan, Tepetiltic y Santa María del Oro, el Ceboruco 
+también tiene calderas (Williams y McBirney, 1979). Las laderas oriental y meridional 
+están cubiertas por vegetación. Sin embargo, las laderas occidental y septentrional están 
+cubiertas por derrames de lava que parecen muy recientes. En la ladera suroriental se 
+encuentran dos domos volcánicos y un cono escoriáceo, y en la noroccidental algunos 
+conos escoriáceos. Estos se alinean con una serie de pequeños volcanes en dirección 
+noroccidental, que pasa por el Ceboruco, paralela a la estructura general de la región 
+(Nelson, 1986). La geología local descrita por Nelson (1986), está dominada por 
+afloramientos de rocas volcánicas, principalmente ignimbritas riolíticas y andesitas que 
+
+28 
+ 
+están sobre una secuencia de rocas arcillosas intrusionadas por granitos y gabros, esto 
+se aprecia también en la Figura 3.2. 
+ 
+Actualmente el Ceboruco es uno de los diez volcanes activos de la república con 
+fumarolas en las cercanías de los focos de la erupción más reciente de 1870. Además de 
+otras dos erupciones, de las cuales la más grande está ubicada sobre la fractura de la 
+caldera exterior, donde el suelo tiene un color rojo debido a la oxidación del hierro. La otra 
+está ubicada en el flanco occidental del domo central en la caldera interior. Las fumarolas 
+de la fuente de erupción de 1870 están depositando cantidades pequeñas de azufre y 
+emiten un olor a H2S (Nelson, 1986) 
+ 
+ 
+Figura 3.2 – La imagen muestra la litología del área de estudio (modificada de la carta geológica-
+minera Tepic F13-8 Nayarit y Jalisco, escala 1:250000 del Servicio Geológico Mexicano). 
+
+29 
+ 
+4. METODOLOGÍA 
+ 
+4.1 
+Fundamentos de Percepción Remota 
+ 
+4.1.1 
+Definición 
+ 
+La percepción remota es la práctica de adquirir información sobre las superficies de tierra 
+y agua de la Tierra a partir de mediciones efectuadas con instrumentos a una distancia sin 
+llegar a estar en contacto con ellas utilizando la radiación electromagnética reflejada o 
+emitida por la superficie terrestre (Campbell, 2002). 
+ 
+4.1.2 
+Desarrollo histórico 
+ 
+El concepto de percepción remota fue desarrollado con la invención de la fotografía 
+usando una cámara en el Siglo XIX, y la astronomía fue uno de los primeros campos en 
+utilizar esta técnica. Avionetas planeadoras fueron usadas durante la Guerra Civil 
+Americana para adquirir información a partir de sensores remotos usando fotografías 
+aéreas para el movimiento de tropas y soldados. Éstas tuvieron desarrollo en los años 
+intermedios a las dos guerras mundiales, aplicadas a la agricultura e ingeniería civil. 
+Durante la segunda Guerra Mundial (1939-1945), el empleo del espectro electromagnético 
+fue ampliamente utilizado, tanto las regiones del visible, del infrarrojo y las microondas.  
+ 
+Evelyn Pruit, científica que trabajaba para la U.S. Navy´s Office of Naval Research acuño 
+el término de remote sensing (en Campbell et al., 2011) cuando reconoció que el término 
+de fotografía aérea no era lo suficientemente preciso para describir las muchas formas de 
+adquisición de imágenes usando radiación fuera de la región del espectro visible, y fue a 
+principios de la década de 1960 la Administración Aeronáutica y Espacial Nacional de 
+Estados Unidos (NASA) estableció un programa de investigación en percepción remota 
+para apoyar la investigación de la observación con sensores remotos en instituciones de 
+Estados Unidos. 
+ 
+La nueva era de la percepción remota se encaminó hacia satélites para reconocimiento 
+militar, vuelos espaciales tripulados, satélites meteorológicos y satélites de recursos 
+terrestres. Los programas de vuelos espaciales tripulados se iniciaron en 1961 por 
+
+30 
+ 
+EE.UU., lo que resulta en el primer aterrizaje lunar en 1969. El primer satélite espacial 
+dedicado al manejo de los recursos fue lanzado en 1972. Este fue nombrado como ERTS-
+1 (Earth Resources Technology Satellite), y fue muy adecuado para fines agrícolas. Estos 
+satélites son ahora conocidos como Landsat (land satellite). Estos satélites se orientaron 
+a adquirir datos de la superficie de la Tierra de forma sistemática y repetitiva en una base 
+multiespectral. 
+ 
+Esta disponibilidad sistemática de datos digitales en un formato estándar creó el contexto 
+que permitió el crecimiento de la popularidad de análisis digital y sentó las bases para el 
+desarrollo de software para su manipulación, así como un mejor diseño de instrumentos 
+mecánicos que llevo a la mejora en la precisión y en la realización de la adquisición, 
+procesamiento, producción y distribución de los datos de percepción remota.De esta 
+manera el programa Landsat fungió como modelo para el desarrollo de otros satélites de 
+observación de la Tierra diseñados y operados por diversas organizaciones en todo el 
+mundo (Campbell et al., 2011). De los más destacados se encuentra el primer satélite de 
+percepción remota con radar (SEASAT) lanzado en 1978. El primero de la serie de SPOT 
+con capacidades estereoscópicas, se puso en marcha en 1985 por Francia. El primer 
+satélite de percepción remota de la India fue lanzado en 1988, y fue nombrado como IRS 
+(Indian Remote Sensing). Japón también lanzó su propio satélite de recursos terrestres 
+(JERS) y el satélite de observación marina (MOS). El consorcio europeo ha lanzado 
+satélites de radar ERS (European Radar Satellite) en 1991 y en 1995, el (RADARSAT) por 
+Canadá en 1995 (Chandra & Ghosh, 2006). 
+ 
+A principios de 1980 surgió una segunda generación de instrumentos para la adquisición 
+de información con sensores remotos con un mayor detalle en la resolución espacial (10 a 
+30 m) y para la década de 1990 hasta una resolución de metros, desarrollando las 
+capacidades comerciales (por ejemplo, GeoEye e IKONOS) para la adquisición de 
+imágenes de satélite con resolución espacial fina a subdetalle, esto ha abierto nuevas 
+aplicaciones en distintos campos de investigación. 
+ 
+4.1.3 
+Panorama del proceso de percepción remota 
+ 
+Es posible utilizar esta herramienta para recopilar datos y transformarlos en información 
+distribuida espacialmente, utilizando técnicas de procesamiento e interpretación de 
+
+31 
+ 
+imágenes y los métodos apropiados para conseguirlo. Esta técnica incluye una secuencia 
+de procedimientos en los que de manera general primero se plantea el problema a 
+resolver, luego se obtienen los datos requeridos, después se realizan una serie de 
+procedimientos que incluyen el análisis estadístico, el pre procesamiento radiométrico y 
+geométrico, el procesamiento digital y la interpretación de las imágenes que registran la 
+interacción entre la energía electromagnética y la materia, por último se presenta la 
+información obtenida del análisis para la toma de decisiones con base en los datos 
+procesados (Fig. 4.1). 
+ 
+ 
+Figura 4.1 - Flujo general o método por el cual se analizan y procesan los 
+datos digitales de sensores remotos (modificado de Campbell, 2002). 
+
+32 
+ 
+4.1.4 
+Fuente de energía y principio de radiación electromagnética 
+ 
+La energía electromagnética es generada por muchos mecanismos, incluyendo cambios 
+en los niveles de energía de los electrones, aceleración de las cargas eléctricas, 
+decaimiento radiactivo de las sustancias y el movimiento térmico de átomos y moléculas.  
+ 
+Las ráfagas solares son un fenómeno originado en la superficie del Sol, que involucra la 
+producción de radiación electromagnética (en adelante REM) junto con la expulsión y 
+aceleración de partículas cargadas. Las cuales ocurren cuando la energía almacenada en 
+el campo magnético solar es liberada súbitamente y emitida hacia el espacio. Estas 
+reacciones nucleares dentro del sol producen REM en todos los rangos del espectro 
+electromagnético, la cual se transmite a través del espacio sin experimentar grandes 
+cambios. 
+ 
+La radiación electromagnética consiste de un campo eléctrico   que varía en magnitud en 
+una dirección perpendicular a la dirección en la cual la radiación está viajando, y un 
+campo magnético   orientado en ángulo recto al campo eléctrico. La REM es la radiación 
+emitida, transmitida y propagada en un medio y puede ser modelada por ondas o por el 
+transporte de fotones (Chandra & Ghosh, 2006) (Fig. 4.2). Dos características de la REM 
+son particularmente importantes en percepción remota, éstas son la longitud de onda y la 
+frecuencia. 
+ 
+ 
+Figura 4.2 – Representación de las componentes de la radiación electromagnética el campo 
+eléctrico (E) y magnético (H). Estas componentes están orientadas en ángulos rectos entre sí y 
+varían a lo largo de un eje perpendicular al eje de propagación (tomada de Campbell et al., 2011). 
+ 
+
+33 
+ 
+La longitud de onda es la longitud de un ciclo de onda, la cual puede ser medida como la 
+distancia entre las crestas sucesivas de la onda, usualmente se representa con la letra 
+griega lambda    . La longitud de onda se mide en metros (m) o algún factor de metros tal 
+como nanómetros                 , micrómetros                  o centímetros 
+                . La frecuencia se refiere al número de ciclos de una onda que pasa por 
+un punto fijo por unidad de tiempo, es decir la frecuencia con que las ondas vibran por 
+segundo, está se mide normalmente en (Hz), equivalente a un ciclo por segundo. La 
+relación entre la longitud de onda y la frecuencia se muestra en la ecuación 4.1: 
+ 
+                    
+Donde: 
+                       
+                                     
+                              
+   
+ 
+Por lo tanto, las dos están inversamente relacionadas una de otra. Cuanto más corta es la 
+longitud de onda, mayor es la frecuencia y cuanto mayor sea la longitud de onda, menor 
+será la frecuencia. 
+ 
+Los sensores remotos suelen registrar la radiación electromagnética que viaja a una 
+velocidad de            de la fuente, directamente a través del espacio o 
+indirectamente por reflexión de la radiación hasta el sensor. La REM representa un enlace 
+de comunicaciones de alta velocidad entre el sensor y los fenómenos situados a gran 
+distancia. Los cambios en la cantidad y propiedades de la REM llegan a ser, tras su 
+detección, una valiosa fuente de datos para interpretar las propiedades importantes de los 
+fenómenos con los que interactúan (Jensen, 1996). 
+ 
+4.1.5 
+Espectro Electromagnético 
+ 
+Las ondas electromagnéticas tienen una clasificación basada en la localización de su 
+longitud de onda dentro de un espectro electromagnético (Fig. 4.3). La mayoría de las 
+divisiones del espectro electromagnético son en esencia definidas arbitrariamente. En un 
+espectro completo de la energía solar no hay cortes bruscos en las divisiones como se 
+indica en la Figura 3.3. Las subdivisiones son establecidas por conveniencia y por la 
+
+34 
+ 
+interacción conocida de las ondas de REM con las sustancias. El espectro 
+electromagnético se extiende desde los rayos cósmicos a longitudes de onda corta y las 
+radiofrecuencias bajas a longitudes de onda larga (Campbell et al., 2011; Jensen, 1996). 
+ 
+ 
+Dos importantes categorías son el espectro óptico de 0,30    a 15    la cual define las 
+longitudes de onda que pueden ser reflejadas y refractadas con lentes y espejos. La 
+segunda categoría se refiere al espectro reflectivo que se extiende desde 0,38    a 3,0 
+  , este define la porción del espectro solar usado directamente por percepción remota 
+(Campbell, 2002). 
+ 
+4.1.5.1 
+Espectro visible 
+ 
+Aunque el espectro visible constituye una pequeña porción del espectro electromagnético, 
+este tiene una obvia importancia en la percepción remota. Debido a que los límites del 
+visible son definidos por la sensibilidad de nuestro sistema visual. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 4.3 – Espectro electromagnético. Las longitudes de onda corta están 
+representadas en la parte superior, y las longitudes de onda larga en la parte inferior. 
+        
+        
+        
+ 
+Rayos 
+Rayos X 
+Microondas 
+Luz Visible 
+ 
+Ondas de 
+Radio 
+Ultravioleta 
+ 
+Infrarrojo 
+        
+       
+        
+       
+       
+Longitud 
+de 
+onda     
+
+35 
+ 
+Las propiedades ópticas de la radiación visible fueron primeramente investigadas por 
+Isaac Newton (1641-1727), quien durante 1665 y 1666 condujo experimentos para revelar 
+que la luz visible puede ser dividida usando prismas, o en su tiempo rejillas de difracción, 
+dentro de secciones. Ahora se sabe que estos segmentos son los colores primarios 
+aditivos, delimitados aproximadamente de 0,4 a 0,5    (azul); 0,5 a 0,6    (verde) y 0,6 a 
+0,7    (rojo). 
+ 
+Colores Primarios 
+ 
+Los colores primarios se definen tal que un solo color pueda ser formado de una mezcla 
+de otros dos y que todos los otros colores se puedan formar mediante la mezcla de los 
+tres colores primarios en proporciones apropiadas (rojo, anaranjado, amarillo, verde, azul, 
+cian, violeta). Proporciones iguales de los tres colores primarios aditivos se combinan 
+para formar la luz blanca. El color de un objeto se define por el color de luz que refleja. 
+Los colores intermedios se forman cuando un objeto refleja dos o más de los colores 
+primarios, los cuales combinados crean la sensación de “amarillo” (rojo y verde), 
+“magenta” (rojo y azul), “cian” (verde y azul). 
+ 
+Los tres colores primarios sustractivos absorben una tercera parte del espectro visible, el 
+amarillo absorbe en el azul (refleja en el rojo y verde), el cian absorbe en el rojo (refleja en 
+el azul y verde) y el magenta absorbe en el verde (refleja en el rojo y azul). Los 
+sustractivos definen los colores de los pigmentos y colorantes, la combinación de estos 
+primarios se utiliza en la representación de los colores en las impresiones. Una mezcla de 
+proporciones iguales de pigmentos de los tres primarios sustractivos produce negro 
+(completa absorción del espectro visible). 
+ 
+4.1.5.2 
+Espectro infrarrojo 
+ 
+Las longitudes de onda mayores a la porción del rojo del espectro visible son designadas 
+como la región del infrarrojo, descubierto en 1800 por el astrónomo británico William 
+Herschel (1738-1822). Este segmento del espectro es relativamente largo comparado a la 
+región del visible, va de 0,72    a 15,0   , por lo que es 40 veces más el ancho del 
+visible. 
+ 
+
+36 
+ 
+Dos importantes categorías pueden ser reconocidas. La primera consiste en la radiación 
+del infrarrojo cercano y del infrarrojo medio debida a la radiación del sol reflejada de la 
+superficie terrestre, estas son más cercanas a la región del visible. La segunda categoría 
+es la radiación del infrarrojo lejano emitida por la Tierra, este consiste en longitudes de 
+onda muy alejadas del visible, extendiéndose dentro de las regiones cercanas a la región 
+de las microondas. 
+ 
+4.1.6 
+Leyes de la radiación 
+ 
+La propagación de la energía electromagnética sigue ciertas leyes físicas. Algunas de 
+ellas son mencionadas a continuación. 
+ 
+1) Newton mantenía que la luz es un flujo de partículas minúsculas (“corpuscles”) que 
+viajan en líneas rectas. Esta noción es consistente con la teoría moderna de Max 
+Planck (1858-1947) y Albert Einstein (1879-1955). Planck descubrió que la energía 
+electromagnética es absorbida y emitida en unidades discretas llamadas “quanto o 
+fotones”. El tamaño de cada unidad es directamente proporcional a la frecuencia de la 
+energía radiada. Planck definió una constante     para relacionar la frecuencia     
+con la energía radiada    : 
+                    
+ 
+La ecuación 4.2 explica el efecto fotoeléctrico, esto es la generación de corrientes 
+eléctricas por la exposición de ciertas sustancias a la luz, como el efecto de impacto 
+de estas unidades discretas de energía (quanto) sobre superficies de ciertos metales 
+causando la emisión de electrones (Campbell et al., 2011). 
+ 
+2) Ley de Stefan-Boltzman define la relación entre la radiación emitida total     y la 
+temperatura    . Para la cual la radiación total emitida por un cuerpo negro es 
+proporcional a la cuarta potencia de su temperatura absoluta. 
+ 
+                      
+ 
+Donde 
+  
+es 
+la 
+constante 
+de 
+Stefan-Boltzamann 
+con 
+un 
+valor 
+de 
+                      , la cual define una unidad de tiempo y una unidad de área. 
+
+37 
+ 
+En esencia, esta ley establece que cuerpos negros calientes emiten más energía por 
+unidad de área que cuerpos negros fríos (Campbell et al., 2011). 
+ 
+3) Ley de Kirchhoff establece que todos los objetos emiten radiación electromagnética, 
+excepto aquellos que se encuentren en el cero absoluto, es decir, todos los objetos 
+con temperaturas por encima del cero absoluto tienen temperatura y emiten energía. 
+La cantidad de energía y la longitud de onda en las cuales ésta es emitida dependen 
+de la cantidad de temperatura del objeto. Conforme la temperatura de un objeto 
+aumente, la cantidad total de energía emitida también incrementa, y el máximo de 
+longitud de onda emitida llega a ser más corto. Estas relaciones pueden ser 
+expresadas formalmente usando el concepto de cuerpo negro de modo que la relación 
+de la radiación emitida por/hacia/ el flujo de radiación absorbida es el mismo para 
+todos los cuerpos negros a la misma temperatura (Campbell et al., 2011). 
+ 
+Un cuerpo negro es una fuente de energía hipotética que se comporta de una manera 
+idealizada, absorbe toda la radiación incidente, y no refleja nada, emite energía con 
+una eficiencia perfecta, su eficacia como radiador de energía varía solamente con 
+variaciones de temperatura. En la naturaleza, todos los objetos tienen emisividad que 
+cae entre los extremos “cuerpos grises”. Para estos objetos, la emisividad     es una 
+medición útil de la eficiencia radiada de REM y se define como la relación entre la 
+emitancia   de un objeto dado y un cuerpo negro a la misma temperatura    
+(Campbell et al., 2011). 
+                  
+   
+ 
+La emisividad de un verdadero cuerpo negro es uno, y la de un perfecto reflector o 
+cuerpo blanco es cero. 
+ 
+4) Ley del desplazamiento de Wien especifica la relación entre la longitud de onda de la 
+radiación emitida y la temperatura del cuerpo negro. 
+ 
+                          
+ 
+
+38 
+ 
+Donde   es la longitud de onda a la cual la radiancia es máxima y T es la temperatura 
+absoluta. Conforme los cuerpos negros lleguen a calentarse, la longitud de onda de 
+máxima emitancia se desplaza hacia longitudes de onda corta. 
+ 
+La radiancia registra el brillo de la radiación reflejada por la superficie de la Tierra, 
+medido en unidades físicas como el brillo         por intervalo de longitud de onda 
+     por unidad angular por metro cuadrado de la cual fue reflejada, como valores 
+reales. Se aplica, por ejemplo en la comparación de áreas de la misma superficie 
+adquiridas para diferentes tiempos (Campbell et al., 2011). 
+ 
+4.1.7 
+Interacción de la radiación 
+ 
+4.1.7.1 
+Interacción con la atmósfera 
+ 
+Cuando la radiación electromagnética generada por el sol se aproxima a la Tierra, esta 
+interactúa con el estrato más alejado de la atmósfera, la ionósfera, situada 
+aproximadamente entre los 50 y 1000    de altura, antes de alcanzar la superficie 
+terrestre, esta es sujeta a modificaciones por algunos procesos físicos incluyendo la 
+dispersión, la absorción y la refracción. Por lo que una parte es reflejada hacia arriba de la 
+superficie de la Tierra y otra parte es absorbida por la superficie terrestre que luego es 
+nuevamente radiada como energía térmica, por lo que la radiación en forma de ondas 
+electromagnéticas es el tercer mecanismo de transmisión de calor. 
+ 
+A. Dispersión 
+ 
+Es la redirección de la REM por partículas suspendidas en la atmósfera o por las 
+partículas de los gases que componen la atmósfera, de modo que una porción de haz 
+solar entrante se redirige de nuevo hacia el espacio, así como hacia la superficie de la 
+Tierra. La cantidad de dispersión que ocurre depende del tamaño de estas partículas, su 
+abundancia, la longitud de onda de la radiación y la profundidad de la atmósfera en la cual 
+la energía está viajando (Fig. 4.4). Lord J. W. S. Rayleigh (1824-1919) demostró que la 
+cantidad de dispersión de la luz aumenta en gran medida como la longitud de onda se 
+hace más corta.  
+ 
+
+39 
+ 
+ 
+Figura 4.4 – La imagen muestra el comportamiento de la dispersión de tres tipos de partículas 
+atmosféricas: a) Partículas de polvo y humo de forma irregular, estas dispersan la energía 
+formando un pico hacia adelante. b) Moléculas que muestran simetrías parecidas. c) Gotas 
+grandes de agua dispersan la energía formando un pico hacia adelante (Campbell et al., 2011). 
+ 
+a) Dispersión Rayleigh 
+ 
+Ocurre cuando las partículas de la atmósfera tienen diámetros que son relativamente más 
+pequeños que la longitud de onda de la radiación. Estas partículas tienen diámetros que 
+son tan pequeños como la longitud de onda de la radiación en el visible y del infrarrojo 
+cercano. La Ley de Rayleigh establece que esta forma de dispersión es proporcional a la 
+inversa de la cuarta potencia de la longitud de onda. 
+ 
+b) Dispersión Mie 
+ 
+Es causada por partículas gruesas como el polvo, el polen, el humo “smoke” y gotas de 
+agua que tienen diámetros que son muy aproximados a la longitud de onda de la 
+radiación dispersada. Esta dispersión puede influir en un amplio rango de longitudes de 
+onda, dentro y cerca del espectro visible. 
+ 
+c) Dispersión no selectiva 
+ 
+Es causada por partículas que son mucho más largas que la longitud de onda de la 
+radiación dispersada. Para radiación dentro y fuera del espectro visible, las partículas 
+
+40 
+ 
+pueden ser grandes gotas de agua o grandes partículas de polvo de avión. El término no 
+selectiva hace referencia a que la dispersión no depende de la longitud de onda, se 
+observa como niebla blanca o grisácea, donde todas las longitudes de onda visibles se 
+encuentran dispersas por igual. 
+ 
+B. Absorción 
+ 
+La absorción de la radiación ocurre cuando la atmósfera evita o atenúa fuertemente la 
+transmisión de la radiación a través de la atmósfera. El Ozono   , el Dióxido de Carbono 
+    y el vapor de agua    , son los tres gases responsables de la mayor absorción de 
+radiación solar. El Ozono juega un papel importante en el balance de la Tierra, debido a 
+que absorbe las longitudes de onda corta en la porción del espectro Ultravioleta. 
+ 
+a) Ventanas atmosféricas 
+ 
+Los gases que se encuentran en la atmósfera, juntos forman una importante barrera para 
+la transmisión de la REM a través de la atmósfera. La transmisión selectiva de ciertas 
+longitudes de onda que se transmiten relativamente fácil a través de la atmósfera se les 
+denomina ventanas atmosféricas (Tabla 5). Su posición, extensión y eficacia son 
+determinadas por la absorción espectral de los gases en la atmósfera. Las longitudes de 
+onda dentro de la ventana atmosférica son utilizadas en percepción remota para formar 
+imágenes (Campbell et al., 2011). 
+ 
+Tabla 5. Mayores ventanas atmosféricas. (Tomada de Campbell et al., 2011). 
+Región 
+Rango 
+Ultravioleta y 
+visible 
+0.30 – 0.75    
+0.77 – 0.91    
+Infrarrojo cercano 
+1.55 – 1.75    
+2.05 – 2.4    
+Infrarrojo térmico 
+8.0 – 9.2    
+10.2 – 12.4    
+Microondas 
+7.5 – 11.5    
+>20.0    
+ 
+
+41 
+ 
+ 
+C. Refracción 
+ 
+Es la flexión de los rayos de luz que hacen contacto entre dos medios que transmiten luz 
+(Fig. 3.5). Esto ocurre en la atmósfera cuando pasa la luz a través de las capas de la 
+atmósfera de variada claridad, humedad y temperatura. Estas variaciones influyen en la 
+densidad de las capas de la atmósfera, las cuales causan una flexión de los rayos de luz 
+cuando pasan de una capa a otra (Campbell et al., 2011). El ángulo que define la 
+trayectoria del rayo flexionado está dado por la Ley de Snell descrita por la ecuación 2.6: 
+ 
+                              
+ 
+Donde   y    son los índices de refracción del primer y segundo medio, respectivamente, 
+  y    son ángulos medios con respecto a la superficie normal.  
+ 
+Asumiendo un medio uniforme, cuando la luz pasa dentro de un medio denso, este es 
+flexionado hacia la superficie normal como una línea perpendicular hacia la superficie, 
+punto donde el rayo de luz entra al medio denso. 
+ 
+ 
+Figura 4.5 – Refracción. Este diagrama representa la trayectoria de un rayo 
+de luz que pasa a través de un medio (aire) a otro (vidrio) y de nuevo al 
+primer medio (tomada de Campbell et al., 2011). 
+ 
+
+42 
+ 
+4.1.7.2 
+Interacción con la superficie 
+ 
+Cuando la radiación electromagnética alcanza la superficie de la Tierra, esta es 
+absorbida, reflejada o transmitida. Las proporciones representadas para cada proceso 
+dependen de la naturaleza de la superficie, de la longitud de onda de la radiación y del 
+ángulo de iluminación. 
+ 
+A. Reflexión 
+ 
+La reflexión ocurre cuando un rayo de luz se redirige al chocar con una superficie no 
+transparente. La naturaleza de la reflexión depende del tamaño de las irregularidades de 
+la superficie (rugosa o lisa) en relación con la longitud de onda de la radiación 
+considerada. 
+ 
+a) Reflexión Especular 
+ 
+Si la superficie es lisa en relación a la longitud de onda, ocurre una reflexión especular. 
+Esta redirige toda o casi toda la radiación incidente en una sola dirección. En tales 
+superficies el ángulo de incidencia es igual al ángulo de reflexión (Fig. 4.6 a). Para la 
+radiación del visible la reflexión especular puede ocurrir con superficies como espejos, 
+metales lisos o cuerpos de agua calmada. 
+ 
+b) Reflexión Difusa 
+ 
+Ocurre cuando la energía incidente se dispersa más o menos igual en todas las 
+direcciones (Fig. 4.6 b). Para la radiación en el visible muchas superficies de la naturaleza 
+pueden ser ejemplos de reflectores difusos, como el pasto uniforme, pero un perfecto 
+reflector difuso es la superficie Lambertian, la cual establece que la radiación percibida de 
+una perfecta superficie difusa no cambia con el ángulo con que se observa. Este concepto 
+es derivado de la Ley de Lambert de la iluminación, por Johann H. Lambert (1728-1777), 
+quien condujo muchos experimentos designados para describir el comportamiento de la 
+luz. 
+ 
+
+43 
+ 
+c) Reflexión Bidireccional 
+ 
+La Función de Distribución Bidireccional de Reflexión. Conocida por sus siglas en inglés 
+como BRDF (bidirectional reflectance distribution function). Es “bidireccional” en el sentido 
+de que se representa tanto para el ángulo de iluminación y el ángulo de observación. Se 
+aplica para las superficies que presentan patrones complejos de reflexión determinados 
+por detalles de la geometría de la superficie (por ejemplo, tamaño, forma y orientación de 
+la vegetación viva).La BRDF es una descripción matemática del comportamiento óptico de 
+una superficie con respecto a ángulos de iluminación y observación, dado que estos han 
+sido iluminados con un haz paralelo de luz con un azimut y elevación específica. La 
+descripción de superficies BRDF reales, en lugar de superficies idealizadas, permite la 
+evaluación de los grados a los que ellos se aproximan a las superficies ideales de 
+superficies especulares y difusas. 
+ 
+ 
+Figura 4.6 – a) Muestra la reflexión especular y b) representa la reflexión difusa 
+(tomada de Campbell et al, 2011). 
+ 
+d) Reflectancia 
+ 
+Se expresa como la brillantez relativa de una superficie según se mida durante un 
+intervalo específico de longitud de onda. 
+ 
+                                                 
+           
+ 
+ 
+El cociente de la ecuación 2.7 entre la energía reflejada sobre la energía incidente resulta 
+en un número adimensional entre cero y uno, pero comúnmente se expresa como un 
+porcentaje tal como la ecuación 2.8. 
+ 
+
+44 
+ 
+                                      
+Donde: 
+ 
+     Es la reflectancia espectral en una longitud de onda particular. 
+      Es la energía en la longitud de onda reflejada desde el objeto. 
+      Es la energía de la longitud de onda incidente sobre el objeto. 
+ 
+En la práctica usual de la percepción remota, la reflectancia no se puede medir 
+directamente, ya que normalmente se presenta sólo la brillantes observada y se debe 
+calcular la irradiancia. 
+ 
+B. Transmisión 
+ 
+La transmisión de la radiación ocurre cuando esta pasa a través de una sustancia sin 
+atenuarse significativamente. 
+ 
+a) Transmitancia 
+ 
+Dado un espesor o profundidad de una sustancia, la capacidad de un medio para 
+transmitir energía se mide como transmitancia. 
+ 
+                                                   
+                    
+ 
+En el campo de la percepción remota, la transmitancia de cámaras o filtros es muy 
+importante con respecto a materiales de origen natural, con frecuencia se piensa que sólo 
+los cuerpos de agua son capaces de transmitir grandes cantidades de radiación. Sin 
+embargo, la transmitancia de muchos materiales varía bastante con las longitudes de 
+onda, por lo que las observaciones directas en el espectro visible no se transfieren a otras 
+partes del espectro. Por ejemplo, las hojas de las plantas son generalmente opacas a la 
+radiación visible pero reflejan cantidades significativas de radiación en el infrarrojo 
+(Campbell et al, 2011). 
+ 
+
+45 
+ 
+4.1.7.3 
+Interacción con los objetos físicos 
+ 
+La percepción remota consiste en el estudio de la radiación emitida y reflejada de las 
+características físicas de la superficie de la Tierra. Depende de la observación de las 
+diferencias espectrales de la radiación reflejada o emitida de los rasgos característicos de 
+interés. 
+ 
+Una premisa fundamental en la percepción remota es que se puede aprender acerca de 
+los objetos y sus características sobre la superficie de la Tierra por medio del estudio de la 
+radiación reflejada, absorbida y / o emitida por estas características (Campbell et al., 
+2011). Los objetos de interés para este estudio son la vegetación y minerales producto de 
+alteración hidrotermal como óxidos de hierro e hidroxilos. 
+ 
+Firma Espectral 
+ 
+Usando cámaras y otros instrumentos de percepción remota, es posible observar la 
+incidencia de radiación electromagnética sobre los objetos físicos como una red de 
+distribución de radiación reflejada, emitida y absorbida en un rango de longitudes de onda, 
+un paquete de tales observaciones o mediciones constituyen un patrón de respuesta 
+espectral, algunas veces llamada firma espectral de un objeto. El patrón de respuesta de 
+cada objeto posee características espectrales únicas con las cuales se pueden 
+categorizar e identificar el material de tales objetos, esto se debe a que los átomos y las 
+moléculas absorben energía en función de sus estructuras atómicas y por lo tanto, cada 
+material tendrá una firma espectral única. 
+ 
+Propiedades espectrales de minerales y vegetación 
+ 
+Minerales secundarios como óxidos de hierro, hidroxilos, arcillas y carbonatos tienen 
+rasgos de absorción de radiación electromagnética característicos en el rango del visible e 
+infrarrojo cercano (VNIR, por sus siglas en inglés) y el infrarrojo de onda corta (SWIR, por 
+sus siglas en inglés) respectivamente, porque estas regiones del espectro son muy 
+sensibles a vibraciones de enlaces de moléculas y radicales que están dentro de 
+estructuras cristalinas de minerales, principalmente los hidroxilos (OH), el enlace entre el 
+catión y el hidroxilo (AlOH, Fe2OH, MgOH), también el agua estructural (H20), el amonio 
+
+46 
+ 
+(NH4
++) y los carbonatos (CO3). Estos grupos de minerales pueden ser identificados a 
+través de sus firmas espectrales (Crosta & Moore, 1989; Fraser, S. J., 1991; Loughlin, 
+1991; Ruiz-Armenta et al., 1998; Fernández et al., 2001). 
+ 
+La cobertura de vegetación muestra características de absorción de 0,45 a 0,68 μm y alta 
+reflectancia en el infrarrojo cercano entre 1,6 y 2,2 μm, ambos son debido al contenido de 
+clorofila en las hojas. Los rasgos de absorción observados cerca de 1,4 y 1,9 μm por la 
+vegetación están relacionados al contenido de agua (Fig. 4.7). Estas características de 
+absorción del agua son también observados en el espectro de los minerales que 
+contienen H20 o OH- en su estructura cristalina (Ruiz-Armenta & Prol-Ledesma, 1998; 
+Fernández et al., 2001). 
+ 
+ 
+Figura 4.7 – La imagen muestra el comportamiento de la vegetación, suelo seco y agua limpia 
+a la incidencia de la radiación electromagnética en las bandas TM (tomado de Drury, 2001). 
+ 
+Los óxidos de hierro y la vegetación tienen reflectancia similar en la banda 1 del sensor 
+TM (0,45-0,52 μm) y la banda 2 del sensor TM de Landsat (0,52-0,60 μm) por lo tanto 
+estas bandas no son utilizadas para la separación de dichos materiales. En la Figura 3.7 
+se observa que la región del espectro cubierta por la banda 3 TM (0,63-0,69 μm) muestra 
+una alta reflectancia para óxidos de hierro y una fuerte absorción para la vegetación, esta 
+característica puede ser usada para diferenciar óxidos de vegetación (Ruiz-Armenta & 
+Prol-Ledesma, 1998). 
+ 
+
+47 
+ 
+La firma espectral de algunos óxidos, como la jarosita muestra rasgos de absorción bien 
+definidos en 0,43 μm y 0,92 μm, la hematita tiene una reflectancia mínima en 0,85 μm y la 
+goethita cerca de 0,94 μm (Hunt & Ashley, 1979) (Fig. 4.8). 
+ 
+ 
+Figura 4.8 – Curvas del patrón de respuesta espectral de óxidos de 
+hierro (tomada de Fernández et al., 2001). 
+ 
+En los hidroxilos se encuentran minerales como: alunita, yeso, talco, clorita, pirofilita, 
+caolín, muscovita, montmorillonita e illita, los cuales son formados a partir de una reacción 
+de descomposición química que involucra la descomposición del agua llamada hidrólisis 
+(Fig. 4.9) (Ruiz-Armenta & Prol-Ledesma, 1998). 
+ 
+Los hidroxilos también pueden ser identificados utilizando el sensor TM de Landsat, por 
+las características espectrales que presentan: un alto porcentaje de reflectancia en la 
+banda cinco del sensor TM y una alta reflectancia en la banda siete del sensor TM. Las 
+bandas TM 5 y TM 7 corresponden a la parte del infrarrojo medio en el espectro 
+electromagnético. 
+ 
+
+48 
+ 
+ 
+Figura 4.9 – Reflectancia espectral de minerales arcillosos, filosilicatos, 
+carbonatos y sulfatos (tomada de Tomada de Fernández et al., 2001). 
+ 
+En la Tabla 6 se muestran algunos rasgos característicos de absorción y de reflectancia 
+de vegetación, óxidos e hidroxilos. 
+ 
+Tabla 6. Características espectrales para vegetación, óxidos e hidroxilos del sensor TM (Ruiz-
+Armenta & Prol-Ledesma, 1995). 
+Materiales 
+Reflectancia 
+Absorción 
+Vegetación 
+TM4*, TM2 y TM5 
+TM3* y TM1 
+Hematita 
+TM3 
+TM1 
+Goethita 
+TM3* y TM2 
+TM1 
+Jarosita 
+TM3* 
+TM1 
+Minerales arcillosos, carbonatos, 
+filosilicatos y sulfatos. 
+TM5* 
+TM7* 
+*Bandas con los rasgos espectrales más característicos. 
+ 
+ 
+
+49 
+ 
+Las bandas del sensor Thematic Mapper son demasiado anchas para identificar minerales 
+aislados, sin embargo estas sirven para identificar grupos de minerales para propósitos de 
+exploración de recursos minerales en el espectro visible e infrarrojo de las rocas con 
+alteración hidrotermal (Hunt, 1977, 1979; Hunt & Ashley, 1979; Crosta & Moore, 1989; 
+Fraser, S. J., 1991; Loughlin, 1991; Ruiz-Armenta et al., 1998; Fernández et al., 2001). 
+ 
+4.1.8 
+Sistema de percepción remota 
+ 
+La instrumentación de la percepción remota actúa como un sistema cuya función es 
+captar la energía procedente de la superficie terrestre, codificarla y registrarla o enviarla 
+directamente al sistema de recepción donde está disponible para el usuario (Fig. 4.10). 
+ 
+Este modelo de percepción remota usa principalmente energía en las partes del visible y 
+del infrarrojo cercano del espectro. Las variables clave incluyen la claridad atmosférica, 
+las propiedades espectrales de los objetos, el ángulo y la intensidad del haz de luz solar, 
+las opciones de cámaras y filtros. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 4.10 – La imagen muestra el sistema ideal de percepción remota (modificada de 
+Chandra & Ghosh, 2006). 
+ 
+ 
+Fuente 
+de REM 
+ 
+Sensor 
+Adquisición 
+de datos 
+Información 
+requerida 
+ Usuario 
+REM Transmitida 
+REM Absorbida 
+REM Reflejada
+REM Emitida 
+Objeto físico de estudio 
+
+50 
+ 
+a) Fuente de energía electromagnética 
+ 
+El sol actúa como la principal fuente de energía que da origen a la radiación 
+electromagnética. 
+ 
+b) Objeto físico de estudio 
+ 
+Los objetos físicos que se desean examinar son todos aquellos que se encuentren sobre 
+la superficie terrestre, como edificios, cobertura vegetal, suelos, agua, etc. 
+ 
+c) Sensor y Plataforma 
+ 
+El equipo espacial está formado por una plataforma y un sensor, la primera es aquella en 
+la que va acoplado el sensor, dos ejemplos son los satélites y los aviones; el segundo es 
+el aparato que adquiere la información, es el dispositivo que registra la REM del sol, 
+dispersada o emitida por los materiales de la superficie de la Tierra y la atmósfera. Estos 
+sistemas pueden ser activos o pasivos. 
+ 
+Los sensores pasivos registran la ocurrencia natural de la radiación electromagnética que 
+es reflejada o emitida por el material de interés. Los sensores activos tales como el radar 
+o el sonar impregnan el terreno con energía electromagnética artificial y luego registran la 
+cantidad de flujo radiante que vuelve al sistema del sensor. Estos sistemas de percepción 
+remota pueden obtener dos tipos de datos, los analógicos (p.ej. fotos aéreas o video) y los 
+digitales (p.ej. una matriz (raster) con valores de brillo obtenidos con un scanner) (Jensen, 
+1996). 
+ 
+o IFOV 
+ 
+El campo instantáneo de vista de un mecanismo de escaneo óptico, conocido por sus 
+siglas en inglés como IFOV (Instantaneous Filed of View) se refiere al área vista por el 
+instrumento. Define las pequeñas áreas vistas por el escáner y establece un límite para el 
+nivel de detalle espacial o resolución espacial que puede ser representado en una imagen 
+digital. 
+ 
+
+51 
+ 
+o Orbitas de los satélites 
+ 
+ 
+La órbita Geoestacionaria es aquella en la que los satélites mantienen una 
+posición constante con respecto a una región específica de la superficie de la 
+Tierra. 
+ 
+ 
+Las órbitas sincronizadas con el sol están diseñadas para reducir las variaciones 
+en iluminación moviendo sistemáticamente la trayectoria de la órbita de tal manera 
+que se mueva hacia el oeste 360° cada año. De modo que un satélite puesto en 
+este tipo de órbita observará cada parte de la Tierra dentro de su punto de vista al 
+mismo tiempo que el sol local cada día. Ésta última característica es la diferencia 
+con las órbitas inclinadas que no están sincronizadas con el sol. 
+ 
+o Satélite Landsat 5 
+ 
+El satélite Landsat 5 con el sensor Thematic Mapper (TM) fue lanzado dentro de una 
+órbita repetitiva a sus predecesores, circular, sincrónica con el sol y cerca de los polos, al 
+ecuador, tienen un ángulo de inclinación de 98.2° con respecto al ecuador. Tiene la 
+capacidad de tomar imágenes de un punto de la superficie terrestre cada 16 días 
+(resolución temporal), compuesto por 7 bandas con resolución espacial a 30 metros (para 
+todas las bandas excepto la banda térmica la cual tiene una resolución de 120), la 
+resolución radiométrica se realiza por una conversión análoga-digital sobre un rango de 
+cuantificación de 256 números digitales lo que corresponde a 8 bits , las cuales pueden 
+ser combinadas de distintas formas para obtener variadas composiciones de color u 
+opciones de procesamiento (Jensen, 1996). 
+ 
+d) Adquisición de datos 
+ 
+Los sensores contienen arreglos de dos dimensiones de dispositivos de carga acoplada, 
+conocidos por sus siglas en inglés como CCDs (Charged-Coupled Devices) que 
+responden electrónicamente y linealmente al brillo sin necesidad de un movimiento 
+mecánico, pueden ser colocados en el plano focal del sensor de tal manera que vean una 
+delgada tira rectangular orientada en ángulo recto con la trayectoria de vuelo. El 
+movimiento de avance del satélite mueve el campo de visión hacia adelante a lo largo de 
+
+52 
+ 
+la trayectoria de vuelo, construyendo una cobertura, este proceso se conoce como 
+escaneó óptico de barrido (Fig. 4.11). 
+ 
+ 
+Figura 4.11 – Esquema de un arreglo lineal (modificado de Campbell et al., 2011). 
+ 
+Los dispositivos de carga acoplada (en adelante CDD) son detectores compuestos por 
+materiales sensibles a regiones selectas del espectro (incluyendo el visible e infrarrojo) 
+incrustados en un chip de silicio (Fig. 4.12). 
+ 
+ 
+Figura 4.12 – Dispositivo de Carga Acoplada (CDDs) (modificado de Campbell et al., 2011). 
+ 
+Cada detector dentro de un CDD recoge los fotones reflejados o emitidos de áreas 
+individuales sobre el terreno (pixels “picture elements”) que golpean su superficie y 
+acumulan una carga proporcional a la intensidad de la radiación que recibe de la 
+superficie terrestre. En un intervalo especificado, las cargas acumuladas para cada 
+detector pasan a través de un puerto de transferencia, la cual controla el flujo de datos 
+desde los detectores. 
+ 
+Los microcircuitos conectan los detectores dentro de un arreglo para formar registros de 
+desplazamiento (shift). Estos registros permiten recibir las cargas para cada detector 
+
+53 
+ 
+dividiendo la radiación en varios segmentos en bandas espectrales distintas, cada una 
+aporta información sobre el brillo de una región separada del espectro, para después ser 
+pasado a elementos adyacentes, registrando temporalmente la información hasta que sea 
+conveniente para transferir a otra parte del instrumento. A través de este proceso, la 
+información leída desde el registro de desplazamiento se lee secuencialmente. 
+ 
+La corriente eléctrica proporcional a la intensidad de la radiación recibida de la superficie 
+terrestre suministra una versión electrónica continua del brillo del terreno observado por 
+el/los sensores, por lo tanto esta se encuentra en forma análoga. Para crear una versión 
+digital, la señal eléctrica debe subdividirse en unidades distintas para crear los valores 
+discretos necesarios para el análisis digital. Esto se lleva a cabo mediante el muestreo de 
+la corriente en un intervalo uniforme de acuerdo al detalle espacial registrado por la 
+imagen, proceso conocido como conversión análoga digital (AD) (Fig. 4.13). Debido a que 
+los valores dentro de este intervalo se representan como un único promedio, todas las 
+variaciones dentro de este intervalo se pierden. 
+ 
+ 
+Figura 4.13 – Conversión Análoga-Digital (modificada de Campbell et al., 2011). 
+ 
+Cada pixel representa el brillo línea por línea de una pequeña región sobre la superficie 
+terrestre registrada digitalmente como un valor numérico discreto, conocido por sus siglas 
+en inglés como DNs (Digital Numbers), a menudo con valores separados para cada una 
+de las varias regiones del espectro electromagnético (Campbell et al., 2011). 
+ 
+Cada valor digital (en adelante DN) se registra como una serie de valores binarios 
+conocidos como bits. El sistema Landsat 5 registra 8 bits para cada valor digital, esto 
+
+54 
+ 
+significa que ocho lugares binarios están disponibles para registrar el brillo percibido para 
+cada banda del sensor. 
+ 
+El nombre valor digital (DN) indica que no son valores reales de brillo (es decir, radiancia) 
+de un cuadro del terreno sino que se escalan valores que representan brillo relativo dentro 
+de un cuadro de terreno. El número de valores de brillo dentro de una imagen digital está 
+determinado por el número de bits disponibles (8 bits = 28 = 0 – 255 para cada pixel) que 
+a su vez está determinado por el diseño del sistema especialmente la sensibilidad del 
+sensor y de sus capacidades para el registro y transmisión de datos. 
+ 
+Los datos de la imagen desplegada se llevan a cabo en el “Frame-Bufer”, este es un largo 
+segmento de la memoria de la computadora dedicado a la manipulación de los datos para 
+su visualización. El Frame-Bufer proporciona uno o más bits para registrar el brillo de 
+cada pixel que se muestra en pantalla (o plano de bits), así se genera el despliegue de la 
+imagen, bit por bit en el Frame-Bufer. 
+ 
+Para la visualización real en la pantalla, el valor digital para cada pixel se convierte en una 
+señal eléctrica que controla el brillo del pixel en la pantalla. Esto requiere una conversión 
+digital análoga (DA) que traduce los DN a señales eléctricas continuas. 
+ 
+Por lo tanto una imagen digital está compuesta de una matriz de muchos miles de píxeles, 
+cada uno demasiado pequeño como para ser resuelto individualmente por el ojo humano. 
+Las imágenes a color se componen de varías de tales matrices de la misma área de 
+terreno, cada uno representando el brillo en una región separada del espectro (Fig. 4.14). 
+ 
+ 
+Figura 4.14 – Píxel multiespectral (modificada de Campbell et al., 2011). 
+
+55 
+ 
+ 
+e) Formato de datos 
+ 
+Los datos de los sensores son transmitidos en forma digital por señales de microondas 
+hacia un sistema de recepción con estaciones terrestres equipadas para recibir los datos 
+transmitidos por la plataforma, procesarlos y grabarlos en un formato apropiado para que 
+el usuario final acceda a ellos. 
+ 
+Raster: En el análisis de imágenes digitales se utilizan estructuras de datos raster en la 
+que cada imagen es tratada como un arreglo o matriz de valores, así cada pixel es tratado 
+como una unidad independiente, la cual puede ser siempre localizada dentro de la imagen 
+por sus coordenadas de fila y columna. 
+ 
+Vector: Se utiliza cuando no se quiere representar los pixeles individuales, es decir, como 
+zonas de pixeles, tales como máscaras o zonas discretas. Este formato utiliza máscaras 
+poligonales y sus límites como las unidades fundamentales para análisis y manipulación. 
+ 
+4.1.9 
+Resolución de instrumentos de percepción remota 
+ 
+La resolución o poder de resolución es la medida de la capacidad de un sistema óptico 
+para distinguir entre señales que están espacialmente cerca o son espectralmente 
+similares (Tabla 7). La resolución de una imagen tiene cuatro aspectos o tipos de 
+resolución estos son: 
+ 
+Resolución espacial: Medida de menor separación angular o lineal entre dos objetos que 
+pueden ser resueltas por el sensor. 
+ 
+Resolución espectral: Número y ancho de los intervalos de longitud de onda en el 
+espectro electromagnético para el cual el sensor es sensible. 
+ 
+Resolución temporal: Es la frecuencia de obtención de imágenes de un mismo sitio. 
+ 
+Resolución radiométrica: Sensibilidad de un detector a diferencias en la intensidad de la 
+señal entre los objetos físicos y su entorno. 
+ 
+
+56 
+ 
+Tabla 7. Resolución de algunos sistemas de percepción remota (Campbell et al., 2011). 
+Satélite 
+Fecha de 
+lanzamiento 
+Sensor 
+Resolución 
+espacial 
+[m] 
+Resolución  
+espectral  
+[μm] 
+Resolución 
+temporal 
+[días] 
+Resolución 
+radiométrica 
+[bits] 
+Landsat 1 
+23/07/1972 
+RBV 
+80 
+B1 (verde) 0.475-0.575 
+B2 (rojo) 0.850-0.680 
+B3 (IR cercano) 0.690-0.830 
+18 
+6 
+MSS 
+80 
+B4 (verde) 0.5-0.6 
+B5 (rojo) 0.6-0.7 
+B6(IR cercano) 0.7-0.8 
+B7 (IR cercano) 0.8-0.11 
+18 
+6 
+Landsat 5 
+01/03/1984 
+MSS 
+MSS 
+MSS 
+MSS 
+75 
+B1 (verde) 0.5-0.6 
+B2 (rojo) 0.6-0.7 
+B3(IR cercano) 0.7-0.8 
+B4 (IR cercano) 0.8-0.11 
+16 
+8 
+TM 
+TM 
+TM 
+TM 
+TM 
+TM 
+TM 
+30 
+(120 para B6) 
+B1 (azul) 0.45-0.52 
+B2 (verde) 0.52-0.60 
+B3 (rojo) 0.63- 0.69 
+B4 (IR cercano) 0.76-0.90 
+B5 (IR medio) 1.55-1.75 
+B6 (IR lejano) 10.4-12.5 
+B7 (IR medio) 2.08-2.35 
+16 
+8 
+Landsat 7 
+15/04/1999 
+ETM+ 
+30 
+(60 para B6 y 
+15 para B8) 
+B1 (azul) 0.45-0.52 
+B2 (verde) 0.52-0.6 
+B3 (rojo) 0.63-0.69 
+B4 (IR cercano) 0.76-0.9 
+B5 (IR medio) 1.55-1.75 
+B6 (IR térmico) 10.4-12.5 
+B7 (IR cercano) 2.08-2.35 
+B8 (Pancromática) 0.5-0.9 
+16 
+9 
+Landsat 8 
+11/02/2013 
+OLI 
+30 
+(15 para B8) 
+B1 (Coastal) 0.433-0.453 
+B2 (azul) 0.45-0.515 
+B3 (verde) 0.525-0.60 
+B4 (rojo) 0.63-0.68 
+B5 (IR cercano) 0.845-0.885 
+B6 (SW IR) 1.56-1.66 
+B7 (SW IR) 2.1-2.3 
+B8 (Pancromática) 0.5-0.68 
+B9 (Cirrus) 1.36-1.39 
+16 
+12 
+TIRS 
+100 
+B10 (LWIR) 10.6-11.2 
+B11 (LWIR) 11.5-12.5 
+16 
+12 
+ 
+ 
+
+57 
+ 
+Continuación de la Tabla 7. 
+SPOT-4 
+23/03/1998 
+HRVIR 
+20 
+(10 para la 
+pancromática) 
+(Verde) 0.5-0.59 
+(Rojo) 0.61-0.68 
+(IR cercano) 0.79-0.89 
+(IR medio) 1.58-1.75 
+(Pancromática) 0.49-0.73 
+26 
+8 
+Vegetation 
+Instrument 
+1000 
+(Azul) 0.43-0.47 
+(Rojo) 0.61-0.68 
+(IR cercano) 0.79-0.89 
+(IR medio) 1.58-1.75 
+26 
+8 
+SPOT-5 
+04/05/2002 
+HRG 
+10 
+(5 para la 
+pancromática) 
+(Verde) 0.50-0.59 
+(Rojo) 0.61-0.68 
+(IR cercano) 0.79-0.89 
+(IR medio) 1.58-1.75 
+(Pancromática) 0.49-0.73 
+26 
+8 
+WorldVie
+w2 
+08/10/2009 
+Multiespec
+tral 
+1.85 
+B1 (coastal) 0.40-0.45 
+B2 (Azul) 0.45-0.51 
+B3 (Amarillo) 0.58-0.62 
+B4 (Verde) 0.51-0.58 
+B5 (Rojo) 0.63-0.69 
+B6 (Rojo edge) 0.705-0.745 
+B7 (IR cercano) 0.770-0.895 
+B8 (IR cercano) 0.86-0.104 
+B9 (Pancromática) 0.45-0.80 
+1.1 
+12 
+NOAA-18 
+20/05/2005 
+AVHRR 
+1100 
+B1 0.58-0.68 
+B2 0.72-1.1 
+B3A 1.58-1.64 
+B3B 3.55-3.93 
+B4 10.5-11.3 
+B5 11.5-12.5 
+12 horas 
+10 
+GeoEye-1 
+06/09/2008 
+Multiespec
+tral 
+0.5 
+(Pancromática) 0.450-0.800 
+(Azul) 0.450-0.510 
+(Verde) 0.510-0.580 
+(Rojo) 0.655-0.690 
+(IR cercano) 0.780-0.920 
+ 
+8 
+ 
+ 
+
+58 
+ 
+4.2 
+Técnicas de procesamiento 
+ 
+ 
+La percepción remota se utiliza como herramienta para recopilar datos y transformarlos en 
+información 
+distribuida 
+espacialmente, 
+utilizando 
+técnicas 
+de 
+procesamiento 
+e 
+interpretación de imágenes y los métodos apropiados para conseguirlo. El procesamiento 
+de imágenes de satélite busca mejorar la apariencia de éstas para su posterior análisis e 
+interpretación (Jensen, 1996). 
+ 
+En este trabajo se llevó a cabo un estudio preliminar de exploración geotérmica a escala 
+regional en el occidente del volcán Ceboruco, Nayarit, utilizando procesamiento y análisis 
+de datos digitales mediante realce espacial, y espectral como cociente de bandas y 
+análisis de componentes principales con algoritmos de procesamiento de imágenes de 
+satélite. El análisis se basó en las características multiesprectrales de los materiales 
+(vegetación y mineralogía de alteración hidrotermal) en forma de tono y color. 
+ 
+4.2.1 
+Materiales 
+ 
+4.2.1.1 
+Imagen multiespectral 
+ 
+El procesamiento de la matriz de datos de percepción remota fue limitado a una 
+subimagen (Ceboruco_NW) de 1,347,872 píxeles (1,154 columnas y 1,168 filas) tomada 
+del satélite Landsat 5 columna 30 y renglón 45 con el sensor TM adquiridas el 20 de 
+Febrero del 2011, se descargaron por cortesía de U. S. Geological Survey, siguiendo un 
+flujo de trabajo para el procesamiento digital como lo muestra la Figura 4.15. 
+ 
+De acuerdo a los objetivos del estudio sólo se utilizaron seis bandas del sensor TM, 
+banda uno a cinco y banda siete. La banda seis no se utilizó porque pertenece a la parte 
+del infrarrojo térmico, el cual no es útil para los procesos a realizar en este trabajo. 
+ 
+
+59 
+ 
+ 
+Figura 4.15 – Flujo de trabajo de la metodología. Las abreviaturas son: Sustracción del Píxel 
+Oscuro (SPO); Modelo Digital de Elevaciones (MDE); Análisis de Componentes Principales (ACP); 
+Composición en Falso Color (CFC); Rojo, Verde, Azul (RVA) 
+ 
+
+60 
+ 
+4.2.1.1 
+Software y hardware 
+ 
+La imagen Ceboruco_NW fue procesada en una computadora personal con procesador 
+Intel Core TM i3, 4.00 GB de memoria RAM, 287 GB de disco duro y un sistema operativo 
+de 64 bits. El software usado para el procesamiento digital de imágenes fue IDRISI Selva 
+Versión 17.00 desarrollado por la “Graduate School of Geography” de la Universidad de 
+Clark y ArcMap 10.2 de ArcGIS como herramienta para el mapeo de lineamientos y para 
+la visualización de los resultados. 
+ 
+4.2.2 
+Pre-procesamiento 
+ 
+La aplicación del pre-procesamiento se justifica debido a la existencia de varios errores 
+inherentes y accidentales en las mediciones que deben ser corregidos previos a su 
+manipulación digital. 
+ 
+4.2.1.1 
+Análisis estadístico 
+ 
+El análisis estadístico de la imagen Ceboruco_NW se realizó primero a partir del cálculo 
+de la estadística univariada de las diferentes bandas contenidas en la imagen, para 
+conocer la distribución de la información como paso previo al despliegue de las diferentes 
+bandas de la imagen. Se emplearon métodos estadísticos multivariados para detectar la 
+interdependencia entre variables, tales como el análisis de correlación y el análisis por 
+componentes principales. 
+ 
+Se obtuvo el rango de valores de brillo a partir de los valores máximos y mínimos del 
+conjunto de datos. Se calculó la media para tener una estimación de la tendencia central 
+de las observaciones, la varianza para obtener el grado de dispersión de los datos 
+alrededor de la media, saber que tan separados se ven los valores de su valor medio, y la 
+desviación estándar para conocer que tanto se alejan las mediciones de la muestra. 
+ 
+4.2.1.2 
+Pre-procesamiento radiométrico 
+ 
+Los valores de brillo en una imagen pueden ser influenciados por diversos factores como 
+la respuesta del instrumento, la iluminación del objeto o la escena que está siendo 
+
+61 
+ 
+escaneada, un mal funcionamiento en el instrumento y las condiciones atmosféricas. El 
+objetivo de aplicar este proceso es lograr que la imagen restaurada se asemeje a la 
+escena en el terreno. 
+ 
+Corrección por dispersión atmosférica 
+ 
+Toda la radiación alcanzada por los instrumentos de percepción remota pasa a través de 
+una porción de la atmósfera de la Tierra. Al hacerlo, la energía del sol es alterada en 
+intensidad y longitud de onda por las partículas y gases suspendidos en la atmósfera 
+terrestre. Bajo estas condiciones, los efectos atmosféricos pueden tener un impacto 
+sustancial sobre los datos medidos por los sensores (Campbell et al., 2011). Por lo que 
+una serie de operaciones son llevadas a cabo para separar la información recibida del 
+sensor de todas aquellas perturbaciones que no sean debidas a la propia naturaleza del 
+objeto o escena escaneada, las más comúnmente aplicadas son: 
+ 
+a) Código de Transferencia Radiativo 
+ 
+Conocido por sus siglas en inglés RTC (Radiative Transfer Code). El cual cuenta con un 
+modelo físico de comportamiento de la radiación, así como de su paso a través de la 
+atmósfera, el cual permite ajustar los valores reales, como si se observaran bajo una 
+atmósfera limpia mejorando de ese modo la calidad de la imagen. Sin embargo este 
+método requiere una medición in situ de la radiación proveniente de la zona que se está 
+registrando con el sensor y simultáneamente con la adquisición de la imagen (Campbell et 
+al., 2011). 
+ 
+b) Sustracción del cuerpo oscuro 
+ 
+Conocido por sus siglas en inglés como DOS (Dark Object Subtraction). Propuesta por 
+Chávez (1975) como una herramienta práctica, simple y directa que sirve como base para 
+la normalización de imágenes multiespectrales mediante el ajuste de las variaciones en 
+los valores digitales causado por atenuación atmosférica, ya que trabaja con la 
+información presente dentro de la propia imagen. Esta técnica asume que se conoce el 
+espectro de algún objeto de estudio como un cuerpo oscuro en ausencia de la dispersión 
+atmosférica, por lo que se utiliza como referencia estándar, por ejemplo la sombra de una 
+
+62 
+ 
+nube o un cuerpo de agua (debido a que el agua limpia absorbe fuertemente en el 
+infrarrojo cercano y porque muy poca radiación en esta región es dispersada hacia el 
+sensor de píxeles sombreados). Esta técnica se lleva a cabo mediante el análisis del 
+histograma de los valores digitales de la escena, en él se puede observar que los valores 
+más bajos no son cero, sino que tienen un valor mayor a cero, dicho incremento 
+representa el valor aportado por la dispersión atmosférica para cada banda. Este 
+incremento luego es sustraído, de tal forma que cada histograma comenzará en cero 
+(Campbell et al., 2011). 
+ 
+Hay gran variedad de estrategias, técnicas y herramientas más avanzadas para realizar 
+está corrección, sin embargo algunas tratan de modelos complejos que requieren el uso 
+de programas informáticos complicados. Además, requieren información meteorológica 
+detallada relacionada con la humedad y la concentración de los gases atmosféricos y 
+partículas. Estas informaciones varían con el tiempo y la altitud, por lo tanto es difícil 
+obtener dichas informaciones con tal detalle. 
+ 
+Otras técnicas requieren conocer la configuración geográfica local y el comportamiento 
+espectral del objeto de estudio en el momento en que la imagen fue adquirida, lo cual no 
+es tan común. Por lo tanto el uso de alguna de estas técnicas dependerá de los objetivos 
+de la investigación, las mejoras en las imágenes que se deseen realizar y los recursos 
+económicos y computacionales con los que se cuente (Campbell et al., 2011; Chandra & 
+Ghosh, 2006). 
+ 
+4.2.1.3 
+Pre-procesamiento geométrico 
+ 
+Todas las imágenes de percepción remota son inherentemente sujetas a distorciones 
+geométricas debido a su adquisición aunque muchas de ellas pueden ser corregidas 
+utilizando fórmulas matemáticas. Estas distorsiones se deben a varios factores tales 
+como: la perspectiva de los sensores ópticos, el movimiento del sistema de escaneo, el 
+movimiento de la plataforma, su altitud y velocidad, el relieve del terreno, y la curvatura y 
+rotación de la Tierra. 
+ 
+Muchas de estas variaciones son sistemáticas o predecibles en la naturaleza, se corrigen 
+por medio del modelado preciso del movimiento del sensor y la plataforma, y la relación 
+
+63 
+ 
+geométrica de la plataforma con la Tierra, aunque no lo es así para los errores no 
+sistemáticos o aleatorios. Sin embargo, ambos errores se pueden corregir mediante el uso 
+de un número adecuado de puntos de control en la tierra, conocidos por sus siglas en 
+inglés como GCP (ground control points), que son los puntos de la superficie terrestre con 
+coordenadas dentro de la imagen (medidos en fila y número de pixeles) que pueden ser 
+localizados con precisión en la tierra sobre un mapa (medidos en latitud y longitud o 
+cualquier sistema de coordenadas). La localización de estos puntos permite realizar el 
+registro geométrico de las imágenes a una superficie con sistema coordenado conocido, 
+empleando una regresión lineal de mínimos cuadrados y determinar las ecuaciones que 
+logran la transformación de coordenadas (Campbell et al., 2011). 
+ 
+Una vez adquiridas las imágenes para esta investigación, se observó la información del 
+archivo de metadatos de cada una de ellas para conocer sus características (número de 
+filas y columnas, coordenadas máximas y mínimas, sistema de referencia, resolución, 
+etc.). Para corregir los errores generalmente presentes en las imágenes de percepción 
+remota, se analizaron visualmente las imágenes de cada una de las bandas mediante un 
+despliegue inicial de ellas. Éste análisis mostró que no es necesaria la aplicación de 
+procesos de corrección radiométrica ni geométrica a las imágenes de cada banda, 
+excepto la atmosférica, debido a que no se presentó errores por bandeamiento o pérdida 
+de información. Además, para conocer la distribución de la información se emplearon los 
+resultados obtenidos del análisis estadístico, la información de los metadatos y el 
+histograma. 
+ 
+En cuanto a la corrección de los errores causado por la dispersión atmosférica, se 
+corrigieron las imágenes por el método de sustracción del pixel oscuro (en adelante SPO) 
+restando el valor mínimo a cada banda, garantizando que los nuevos valores mínimos 
+para cada una de las bandas comiencen en cero. 
+ 
+4.2.3 
+Realce digital 
+ 
+El realce de imágenes digitales se entiende como la modificación y mejoramiento del 
+aspecto visual de la imagen para realzar o destacar información dentro de la misma 
+imagen y revelar rasgos que de otra manera no serían fácilmente visibles (Campbell, 
+2002). Implica técnicas para aumentar las diferencias visuales entre las características, 
+
+64 
+ 
+mediante la mejora de la distinción tonal entre varias características en una escena 
+utilizando patrones espaciales específicos de una imagen. 
+ 
+Se emplearon métodos como deformación lineal del histograma, realce de bordes y 
+análisis de componentes principales para efectuar realce de contraste, espacial y 
+espectral de las imágenes respectivamente, para mejorar y destacar información dentro 
+de las mismas, con el fin de distinguir el patrón de distribución de la alteración hidrotermal 
+para localizar los principales flujos ascendentes del sistema geotérmico que deban ser 
+estudiadas con trabajo de campo a detalle. 
+ 
+4.2.2.1 
+Realce de contraste 
+ 
+El contraste se refiere al rango de los valores de brillantes presentes en una imagen 
+(Campbell, 2002). Este tipo de contraste es aplicado a los componentes individuales de la 
+imagen, como un máximo estiramiento posible del histograma para destacar las 
+diferencias sutiles en valor de brillo por modificación del contraste. El rango tratado es 
+caracterizado por la cualidad común de que sólo se genera a partir de su valor existente 
+un nuevo valor de brillo para un píxel. Se aplica sobre cada pixel en forma individual, sin 
+considerar los pixeles vecinos, y se realiza a cada banda en forma independiente. 
+ 
+Deformación lineal del histograma 
+ 
+Convierte los valores digitales originales en una nueva distribución, utilizando nuevos 
+valores máximos y mínimos específicos. El nuevo máximo coincide con el antiguo máximo 
+y de igual manera con el mínimo. Todos los viejos valores intermedios se escalan 
+proporcionalmente entre los nuevos valores mínimos y máximos. Los nuevos y los viejos 
+valores de brillo de los píxeles de una imagen están relacionados de manera lineal 
+(Campbell, 2002). 
+ 
+Deformación lineal con saturación 
+ 
+Se satura cierto porcentaje de los pixeles extremos (valor mínimo y máximo) del 
+histograma mientras se aplica el realce de contraste lineal (Richards, 2013). 
+ 
+
+65 
+ 
+4.2.4 
+Transformación de imágenes 
+ 
+Estas son operaciones similares en concepto al realce de imagen. Generalmente, la 
+operación de mejora de imagen se lleva a cabo en una sola banda, mientras que las 
+transformaciones de imagen se realizan por lo general en múltiples bandas. Las 
+operaciones aritméticas como la resta, suma, multiplicación y división, se llevan a cabo 
+para combinar y transformar las bandas originales en nuevas imágenes que mejoran o 
+resaltan espectralmente ciertas características en la escena. Además, en el conjunto de 
+datos multibanda, cuando el rango espectral de las bandas se encuentra muy cerca uno 
+del otro, información repetitiva conduce a disposición de la redundancia de los datos.  
+ 
+Se emplearon las técnicas de cociente de bandas, análisis de componentes principales, 
+componentes principales dirigidas y composición en falso color, como técnicas de realce 
+espectral para diferenciar las zonas que contienen minerales típicos de alteración 
+hidrotermal de zonas cubiertas con vegetación. 
+ 
+4.2.3.1 
+Cocientes de bandas 
+ 
+Es para realzar información espectral. Se aplica para identificar cierto material pero 
+espectralmente. En el numerador se encuentra la banda con el rasgo de alta reflectancia y 
+en el denominador el de alta absorbancia. 
+ 
+Se utilizaron las imágenes corregidas atmosféricamente y se aplicaron los cocientes de 
+bandas espectrales de la imagen Ceboruco_NW para mejorar las diferencias en las 
+características de reflectancia espectral de la vegetación, óxidos e hidroxilos y poder 
+identificarlos. El proceso para realizar este tipo de realce espectral se describe a 
+continuación: 
+ 
+1. Con base en las características de la firma espectral de la vegetación, óxidos e 
+hidroxilos, se realizó el cociente de las bandas CEB TM 4/3, CEB TM 3/1 y CEB 
+TM 5/7 respectivamente, porque de este modo en el numerador se encuentra la 
+banda con el rasgo de alta reflectancia y en el denominador el de alta absorbancia 
+(Tabla 6). 
+ 
+
+66 
+ 
+2. Puesto que es un cociente, es necesario considerar que el valor del denominador 
+no puede ser cero, porque el resultado de la operación sería un valor 
+indeterminado, por ello se hace una reclasificación de valores digitales, en la cual 
+se le asigna un nuevo valor de uno, para todos los valores de cero hasta justo 
+antes de uno de la banda colocada en el denominador. 
+ 
+3. Finalmente se realizaron los cocientes CEB TM 4/3,CEB TM 3/1 y CEB TM 5/7 a 
+los cuales se les aplicó una deformación lineal del histograma con saturación del 1 
+% para desplegar y mejorar la visualización de la información generada de los 
+cocientes. 
+ 
+Una vez obtenidos los cocientes de bandas para la identificación de óxidos e hidroxilos se 
+realiza un realce de contraste a la suma de las imágenes obtenidas de los cocientes CEB 
+TM 3/1 y CEB TM 5/7, con el fin de resaltar en la misma imagen ambos grupos minerales. 
+ 
+4.2.3.2 
+Análisis de componentes principales 
+ 
+Técnica estadística multivariada reconocida en ingles como Principal Components 
+Analysis (PCA). Selecciona sucesivamente combinaciones lineales no correlacionadas 
+(matriz de carga de los vectores característicos) de las variables en orden decreciente de 
+varianza (Mutua & Mibei, 2011), esto implica que disminuye la distribución espacial de la 
+abundancia de la respuesta espectral de ciertos materiales en superficie, por lo que ayuda 
+a reducir el número de bandas para el análisis y por lo tanto la redundancia (Loughlin, 
+1991). A continuación se explica la función de los resultados del análisis estadístico 
+multivariado: 
+ 
+ 
+Matriz de varianza-covarianza: expresa la dispersión de los datos alrededor de la 
+media. 
+ 
+Matriz de correlación: útil para conocer cuáles bandas son diferentes entre sí. 
+ 
+Matriz de valores y vectores característicos: el vocablo original de raíz anglosajona 
+es “eigen” y, por eso, se la ha traducido también como “eigen valores” o “eigen 
+vectores”. Los “eigenvalores” indican el tamaño de cada una de las componentes y 
+los “eigenvectores” dan la nueva dirección de cada una de las componentes. 
+
+67 
+ 
+ 
+Porcentaje de varianza: informa acerca del grado de dispersión de los datos 
+alrededor de la estimación de la tendencia central de las observaciones o media. 
+De tener poca varianza en los datos indica que hay poca información, es decir 
+pocos materiales. El mayor porcentaje de varianza indica que en esa componente 
+está contenida la mayor parte de la información. 
+ 
+Las componentes principales transforman una nueva coordenada espectral de los datos 
+de la imagen de percepción remota mediante el establecimiento de la forma diagonal de la 
+matriz de covarianza. Las nuevas coordenadas son combinaciones lineales de las bandas 
+espectrales originales (Richards, 2013). De este modo es posible representar los píxeles 
+en un espacio vectorial con tantos ejes o dimensiones dependiendo de la resolución 
+espectral de la imagen, lo cual genera nuevas variables o componentes independientes 
+que contienen información espectral específica para cada píxel. 
+ 
+A partir de las imágenes corregidas por SPO, se aplicó el análisis de componentes 
+principales (en adelante ACP) de la imagen Ceboruco_NW para mejorar las diferencias en 
+las características de reflectancia espectral de la vegetación, óxidos e hidroxilos y poder 
+identificarlos. El proceso para realizar este análisis se describe a continuación: 
+ 
+1. Se 
+utilizaron 
+como 
+datos 
+de 
+entrada 
+las 
+seis 
+imágenes 
+corregidas 
+atmosféricamente de la imagen Ceboruco_NW, que generan seis nuevas 
+componentes. 
+ 
+2. Para seleccionar las nuevas variables o componentes principales que aporten 
+mayor información para el realce de la vegetación, óxidos e hidroxilos, se analizó 
+el conjunto de datos multivariados: matriz de varianza-covarianza, correlación, 
+vectores característicos y matriz de carga. 
+ 
+3. Se aplicó una deformación lineal del histograma con saturación del 1% para 
+desplegar y mejorar la visualización de las tres componentes elegidas. 
+ 
+ 
+
+68 
+ 
+4.2.3.3 
+Técnica de Crosta 
+ 
+Crosta & Moore (1989) describen una metodología llamada Feature Oriented Principal 
+Componets (FPCS), informalmente llamada técnica de Crosta. Se fundamenta en el 
+análisis de componentes principales. Se examina la matriz de carga de los eigenvectores 
+de una selección específica de seis o cuatro bandas, para decidir cuál de las 
+componentes principales de la imagen concentra información directamente relacionada 
+con la firma espectral teórica de los objetivos específicos. 
+ 
+A partir de las imágenes corregidas por SPO, se aplicó la técnica de Crosta de la imagen 
+Ceboruco_NW para mejorar las diferencias en las características de reflectancia espectral 
+de óxidos e hidroxilos y poder identificarlos, útiles para el reconocimiento y localización de 
+posibles zonas mineralizadas (Crosta & Moore, 1989; Fraser, S. J., 1991; Loughlin, 1991; 
+Ruiz-Armenta & Prol-Ledesma., 1998; Fernández et al., 2001). El proceso para realizar 
+este análisis, es el siguiente: 
+ 
+1. Se utilizaron como datos de entrada las bandas CEB TM 1, CEB TM 4, CEB TM 5 
+y CEB TM 7 para identificar hidroxilos y las bandas CEB TM 1, 3, 4, 5 para 
+identificar óxidos de hierro. Por lo tanto se obtuvieron ocho nuevas componentes, 
+cuatro para hidroxilos y cuatro para óxidos. 
+ 
+2. Para seleccionar las dos nuevas variables o componentes principales que aporten 
+mayor información para el realce de óxidos e hidroxilos, se analizó el conjunto de 
+datos multivariados: matriz de correlación y matriz de carga. 
+ 
+3. Se aplicó una deformación lineal del histograma con saturación del 1% para 
+desplegar y mejorar la visualización de las dos componentes elegidas. 
+ 
+Una vez obtenidas las dos componentes principales para la identificación de óxidos e 
+hidroxilos se realizó un realce de contraste a la suma de las imágenes obtenidas de la 
+técnica de Crosta, con el fin de resaltar en la misma imagen ambos grupos minerales 
+(Loughlin, 1991). 
+ 
+
+69 
+ 
+4.2.3.4 
+Composición en falso color 
+ 
+En ingles False Color Composite (FCC) elige tres de las bandas de la imagen y las 
+muestra usando los colores primarios aditivos rojo, verde y azul (RGB, Red, Green, Blue), 
+para dar una mejor discriminación visual entre los tipos de cobertura de interés (Richards, 
+2013). Lo que se busca con este tipo de realce es asociar los colores observados con las 
+características de reflectancia espectral, es decir, realzar la respuesta espectral de los 
+materiales que se busca identificar, que sean obvios con la composición a color, en la cual 
+se asignan diferentes colores para diferentes brillos. 
+ 
+Con una composición en falso color es posible extraer información combinando bandas 
+que tengan diferencias en reflectancia para diferentes materiales (vegetación, minerales 
+de alteración como óxidos e hidroxilos. 
+ 
+Se realizaron diferentes composiciones en falso color de los resultados obtenidos de las 
+técnicas de cociente de bandas, ACP y técnica de Crosta, como realce espectral para 
+asociar los colores observados con las características de reflectancia espectral y 
+diferenciar las zonas que contienen minerales típicos de alteración hidrotermal de zonas 
+cubiertas con vegetación. El proceso para realizar estas composiciones se describe a 
+continuación: 
+ 
+ 
+Composición en falso color para los cocientes de bandas 
+ 
+Con los colores primarios rojo, verde y azul (en adelante RVA) se realizó una composición 
+en falso para resaltar óxidos, vegetación e hidroxilos, en la cual en la banda del color rojo, 
+está el cociente CEB TM 3/1, en la banda del color verde, está el cociente CEB TM 4/3 y 
+en la banda del color azul, el cociente CEB TM 5/7. 
+ 
+Por medio de los colores primarios RVA se realizó una composición en falso para resaltar 
+óxidos, hidroxilos y la suma de óxidos más hidroxilos, en la cual en la banda del color rojo, 
+está el cociente CEB TM 3/1, en la banda del color verde, está el cociente CEB TM 5/7 y 
+en la banda del color azul, la suma de los cocientes CEB TM 3/1 y CEB TM 5/7. 
+ 
+ 
+Composición en falso color del análisis de componentes principales 
+
+70 
+ 
+Mediante los colores primarios RVA se realizó una composición en falso con las 
+componentes principales para resaltar óxidos, vegetación e hidroxilos, en la cual en la 
+banda del color rojo, está la componente que muestra óxidos, en la banda del color verde, 
+está la componente que señala vegetación y en la banda del color azul, está la 
+componente que indica hidroxilos. 
+ 
+Con los colores primarios RVA se realizó una composición en falso para resaltar óxidos, 
+hidroxilos y la suma de óxidos más hidroxilos, en la cual en la banda del color rojo, está la 
+componente que muestra óxidos, en la banda del color verde, está la componente que 
+señala hidroxilos y en la banda del color azul, la suma de las componentes que indican 
+óxidos e hidroxilos. 
+ 
+4.2.2.1 
+Realce espacial 
+ 
+Es una técnica que incrementa el contraste de los pixeles dentro de una imagen. 
+Considera la frecuencia espacial, que es la cantidad de cambios de brillo por unidad de 
+distancia, de acuerdo a las diferencias entre los valores de mayor a menor brillo para un 
+conjunto continuo de pixeles (Campbell et al., 2011). 
+ 
+El realce de bordes se emplea para identificar patrones y lineamientos, que en las 
+imágenes de satélite se expresan como variaciones abruptas de brillantez. Estas 
+variaciones no siempre son evidentes en las imágenes, para compensarlo se aplican 
+operaciones de convolución mediante filtros digitales espaciales que modifican el valor de 
+un pixel teniendo en cuenta los pixeles que lo rodean. 
+  
+Un “kernel” es la colección de vecindarios cuadrados definidos por una plantilla o ventana 
+que se coloca sobre la imagen, aunque ésta pueda ser de cualquier forma y tamaño, de 
+modo que tenga un centro natural para colocarlo sobre el píxel de la imagen que se está 
+procesando (Richards, 2013). 
+ 
+La convolución es una operación en la cual se utiliza un “kernel” que se mueve 
+sistemáticamente centrado sucesivamente en cada píxel a través de la imagen, 
+comúnmente comienza en el borde superior izquierdo de la imagen, desplazando el 
+“kernel” un pixel a la derecha cada vez, al finalizar una fila se desplaza a la posición inicial 
+
+71 
+ 
+para desplazarse una posición hacia abajo y seguir el proceso hasta el final de la imagen. 
+(Sabins, 1997). En cada posición se calcula una media local de los valores dentro de la 
+ventana, el valor central se compara con los promedios de los píxeles adyacentes. El 
+valor de salida es la diferencia entre el doble del valor de entrada y la media local. De este 
+modo aumenta el brillo de los píxeles que ya son más brillantes que la media local y 
+disminuye el brillo de los píxeles que son más oscuros que la media local. 
+ 
+Los filtros digitales espaciales se clasifican según la dirección en la que actúan como 
+direccionales y no direccionales. 
+ 
+ 
+Filtros direccionales 
+ 
+Se utilizan para realzar los lineamientos que se encuentran orientados a una dirección 
+preferencial, los más comunes son en las direcciones Norte, Sur, Este y Oeste. Este tipo 
+de filtros de convolución ocupan un “kernel” de nueve pixeles, en un arreglo de 3 filas y 3 
+columnas (3x3). Se diseña con base en la dirección del lineamiento que se pretende 
+realzar. 
+ 
+ 
+Filtros no direccionales 
+ 
+Llamados también filtros Laplacianos, no varían con la dirección, es decir realza 
+lineamientos igualmente en todas las direcciones, aunque cuando los lineamientos se 
+encuentran orientados paralelamente a la dirección de desplazamiento del filtro, éste no 
+consigue realzarlos. Este tipo de filtros de convolución ocupan un “kernel” de nueve 
+pixeles, en un arreglo de 3 filas y 3 columnas (3x3). 
+ 
+A partir de la primera componente principal (C1) del ACP se aplicó primero el realce 
+espacial de lineamientos mediante filtros digitales espaciales de acuerdo a la metodología 
+propuesta por Moore y Waltz (1983), para reforzar los límites visuales entre las regiones 
+de contraste de brillo, con el fin de hacer más visibles e identificar las estructuras 
+geológicas principales. Segundo, con este mismo objetivo, se efectúo una comparación 
+de las estructuras identificadas con los filtros espaciales en la imagen y un análisis del 
+modelo digital del terreno con iluminación artificial. 
+ 
+
+72 
+ 
+El método desarrollado por Moore & Waltz (1983) se realizó de la siguiente manera: 
+ 
+1. Se aplicó un filtro pasa-bajas a la imagen de entrada (C1) para remover las altas 
+frecuencias espaciales (ruido). La Figura 4.16 muestra este filtro. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Figura 4.16 – Filtro pasa-bajas 3x3 
+(tomado de Campbell, 2002). 
+ 
+2. A la imagen resultante del paso anterior, se le aplicaron individualmente los filtros 
+direccionales N, S, E, W, NE, NW, SE y SW, para resaltar los lineamientos en las 
+direcciones principales. La Figura 4.17 muestra estos filtros. 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+  
+  
+   
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+  
+   
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+  
+  
+    
+ 
+ 
+ 
+  
+  
+ 
+  
+  
+ 
+  
+    
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+    
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+    
+ 
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+  
+Figura 4.17 – Filtros direccionales 3x3 (tomado de Campbell, 2002). 
+ 
+3. Se sumaron las imágenes resultantes del paso anterior para obtener un filtro 
+direccional total. 
+ 
+4. Se aplicó el filtro pasa-bajas de la Figura 4.16, a la imagen con el filtro direccional 
+total, para eliminar otros elementos distintos a los bordes. 
+ 
+5. Se aplicó una deformación lineal del histograma con 1% de saturación a la imagen 
+resultante del paso cuatro, para visualizar con mayor detalle los lineamientos. 
+ 
+
+73 
+ 
+6. Se realizó una suma de imágenes: la imagen de entrada (C1) más la imagen 
+resultante del paso 5. Para mejorar su visualización e identificar los lineamientos, 
+se le aplicó una deformación lineal del histograma con 1% de saturación.  
+ 
+La herramienta de sombreado (hillshade) obtiene la iluminación hipotética de una 
+superficie mediante la determinación de valores de iluminación para cada celda en un 
+raster. Lo hace mediante el establecimiento de una posición de una fuente de luz 
+hipotética y el cálculo de los valores de iluminación de cada celda en relación con las 
+celdas vecinas. El azimuth es la dirección angular del sol, se mide del norte 0° en sentido 
+horario. La altitud es la pendiente o ángulo de la fuente de iluminación sobre el horizonte 
+de 0 (sobre el horizonte) y 90 (cenit) (Burrough & McDonell, 1998). 
+ 
+La metodología para hacer el realce espacial sobre un modelo digital se describe de la 
+siguiente manera: 
+ 
+Como datos de entrada se utilizó el Continuo de Elevaciones Mexicano (CEM) 3.0 del 
+Estado de Nayarit, descargado de INEGI con una resolución de 15 m. 
+ 
+La metodología utilizada para el procesamiento del CEM fue la siguiente: 
+ 
+A. El CEM fue reproyectado a coordenadas UTM. 
+ 
+B. Se recortó la zona de estudio del CEM reproyectado. 
+ 
+C. Se aplicó el filtro hill-shade con altitud de 90° y con azimut de 0° a 360° cada 45°, 
+para las direcciones E-W, NW-SE, N-S, NW-SW, E-W, NW-SE, N-S, NE-SW y E-
+W, respectivamente. 
+ 
+D. Los lineamientos fueron definidos manualmente a diferentes escalas: 1:500000, 
+1:250000, 1:100000, 1:80000 y 1:50000 con el fin de cubrir la mayor cantidad de 
+lineamientos a diferentes escalas. 
+ 
+
+74 
+ 
+Por último se hizo una comparación de las estructuras identificadas con los filtros 
+espaciales en la imagen y un análisis del modelo digital del terreno con iluminación 
+artificial. 
+ 
+4.2.5 
+Sistema de Información Geográfica 
+ 
+Es una integración organizada de hardware, software y datos geográficos (objetivos) 
+diseñado para capturar, almacenar, manipular, analizar y desplegar en todas sus formas 
+la información geográficamente referenciada con el fin de resolver problemas complejos 
+de planificación y de gestión, el producto principal son mapas. Un Sistema de Información 
+Geográfica (en adelante SIG) es un sistema de gestión de datos espaciales que recolecta 
+un gran volumen de datos que no pueden ser analizados individualmente de forma 
+efectiva (Burrough, 1986). 
+ 
+El análisis espacial de la información generada en los estudios geocientíficos consiste en 
+la superposición de los datos digitales recopilados en forma de mapas para realizar un 
+posterior análisis visual para generar nuevos documentos cartográficos de interés en la 
+aplicación en curso. 
+ 
+El estudio de fenómenos naturales complejos como la búsqueda de recursos geotérmicos 
+requiere de la manipulación, no sólo de las capas individuales de información, sino 
+también del análisis de las relaciones, especialmente las espaciales, que existen entre 
+ellas, para poder llegar así a obtener los resultados deseados (Bonham-Carter, 1994). 
+ 
+Los resultados del realce espacial y espectral se integraron espacialmente en el contexto 
+de un SIG para identificar y definir las zonas de exploración con actividad hidrotermal 
+relacionada a los lineamientos. La forma en que se integró la información espacial se 
+describe a continuación: 
+ 
+Cocientes de bandas 
+ 
+ 
+Mapas integrados con el realce espectral obtenido a partir de los cocientes de 
+bandas y los lineamientos. 
+ 
+
+75 
+ 
+Análisis de Componentes Principales 
+ 
+ 
+Mapas integrados con el realce espectral obtenido a partir del análisis de 
+componentes principales y los lineamientos. 
+ 
+Composición en Falso Color 
+ 
+ 
+Mapas integrados con el realce espectral obtenido a partir de la composición en 
+falso color de cocientes y los lineamientos. 
+ 
+ 
+Mapas integrados con el realce espectral obtenido a partir de la composición a 
+color del análisis de componentes principales y los lineamientos. 
+ 
+
+76 
+ 
+5. RESULTADOS 
+ 
+5.1 
+Análisis estadístico 
+ 
+La estadística inicial de la imagen Ceboruco_NW proporciona una visión de los datos 
+originales recibidos del satélite Landsat 5 TM. Los resultados del cálculo de las 
+estadísticas univariadas y multivariadas de las bandas CEB TM 1, CEB TM 2, CEB TM 3, 
+CEB TM 4, CEB TM 5 y CEB TM 7 se muestran en la Tabla 8. 
+ 
+Tabla 8. Estadísticas univariadas y multivariadas de las seis bandas no térmicas de la imagen 
+Ceboruco_NW. 
+Medidas de tendencia y variabilidad 
+N° de banda 
+CEB TM 1 
+CEB TM 2 
+CEB TM 3 
+CEB TM 4 
+CEB TM 5 
+CEB TM 7 
+Media 
+61,49 
+29,56 
+34,75 
+54,84 
+88,11 
+38,83 
+Varianza 
+52,19 
+32,14 
+110,00 
+134,95 
+678,65 
+186,24 
+Des. estándar 
+7,22 
+5,67 
+10,49 
+11,62 
+26,05 
+13,65 
+Mínimo 
+40 
+15 
+12 
+8 
+4 
+2 
+Máximo 
+183 
+96 
+131 
+133 
+255 
+255 
+ 
+Matriz de Varianza-Covarianza 
+ 
+CEB TM 1 
+52,18 
+__ 
+__ 
+__ 
+__ 
+__ 
+CEB TM 2 
+39,07 
+32,13 
+__ 
+__ 
+__ 
+__ 
+CEB TM 3 
+71,64 
+57,88 
+109,99 
+__ 
+__ 
+__ 
+CEB TM 4 
+45,59 
+43,79 
+75,58 
+134,96 
+__ 
+__ 
+CEB TM 5 
+144,41 
+116,81 
+231,67 
+197,39 
+678,67 
+__ 
+CEB TM 7 
+84,77 
+65,49 
+128,78 
+78,09 
+332,17 
+186,24 
+ 
+Matriz de Correlación 
+ 
+CEB TM 1 
+__ 
+ 
+ 
+ 
+ 
+ 
+CEB TM 2 
+0,95 
+__ 
+ 
+ 
+ 
+ 
+CEB TM 3 
+0,95 
+0,97 
+__ 
+ 
+ 
+ 
+CEB TM 4 
+0,54 
+0,67 
+0,62 
+__ 
+ 
+ 
+CEB TM 5 
+0,77 
+0,79 
+0,85 
+0,65 
+__ 
+ 
+CEB TM 7 
+0,86 
+0,85 
+0,90 
+0,49 
+0,93 
+__ 
+
+77 
+ 
+Los valores más pequeños de varianza y covarianza se obtuvieron para la banda CEB TM 
+2 y la covarianza CEB TM 1 y CEB TM 2. Esta banda es significativamente más baja en 
+contraste que las bandas adyacentes CEB TM 1 y TM 3. La banda CEB TM 5 presenta la 
+varianza más alta causada por las diferencias en la respuesta espectral entre los 
+diferentes materiales que componen la escena. 
+ 
+La matriz de correlación señala más del 90% de correlación entre las bandas CEB TM 1, 
+2 y 3, y CEB TM 5 y 7, lo que indica que estas bandas contienen información redundante. 
+La banda CEB TM 4 muestra una correlación media con las bandas CEB TM 5 y CEB TM 
+7, lo que hace suponer la existencia de información no redundante entre ellas. La 
+correlación más baja se presentan entre la banda CEB TM 4 y CEB TM 7 (49%), debido a 
+que la banda CEB TM 4 es característica de la vegetación, en tanto que la banda CEB TM 
+7 es más apropiada para la diferenciación de materiales geológicos. Por lo que se puede 
+argumentar el uso de estas bandas para diferenciar áreas que contienen minerales 
+hidrotermales de aquellos que sólo contienen vegetación (Ruiz-Armenta & Prol-Ledesma, 
+1998). 
+ 
+5.2 
+Resultados del pre-procesamiento 
+ 
+Con la técnica SPO, se corrigieron los errores causados por la dispersión atmosférica, 
+restando el valor mínimo a cada banda, garantizando que los nuevos valores mínimos 
+para cada una de las bandas comiencen en cero. Los valores máximos y mínimos de las 
+imágenes originales y corregidas se muestran en la Tabla 9. 
+ 
+Tabla 9. Valores máximos y mínimos de las bandas originales y corregidas por dispersión 
+atmosférica de la imagen Ceboruco_NW. 
+Bandas originales 
+Máximo 
+Mínimo 
+Bandas corregidas 
+Máximo 
+Mínimo 
+CEB TM 1 
+183 
+40 
+CEB TM 1 
+143 
+0 
+CEB TM 2 
+96 
+15 
+CEB TM 2 
+81 
+0 
+CEB TM 3 
+131 
+12 
+CEB TM 3 
+119 
+0 
+CEB TM 4 
+133 
+8 
+CEB TM 4 
+125 
+0 
+CEB TM 5 
+255 
+4 
+CEB TM 5 
+251 
+0 
+CEB TM 7 
+255 
+2 
+CEB TM 7 
+253 
+0 
+
+78 
+ 
+5.3 
+Realce espectral 
+ 
+5.3.1 
+Cociente de bandas 
+ 
+A continuación se muestran las imágenes obtenidas a partir del realce espectral mediante 
+cociente de bandas. 
+ 
+La Figura 5.1 muestra el resultado del cociente CEB TM 4 / CEB TM 3 en donde en 
+colores blancos se observa la contribución de la vegetación y en colores obscuros 
+aquellos materiales que no son vegetación. En esta misma figura se observan pixeles 
+brillantes en abundancia, la mayoría se concentra en el centro de la escena con tendencia 
+NW-SE y cubre cerca de la mitad del área de estudio. 
+ 
+
+79 
+ 
+ 
+Figura 5.1 – En la imagen se muestra el realce de la respuesta espectral de la vegetación a partir 
+del cociente de las bandas CEB TM 4 / CEB TM 3, con deformación lineal del histograma y 1% 
+de saturación. Los píxeles más brillantes representan las zonas con predominio de cubierta 
+vegetal. 
+ 
+ 
+
+80 
+ 
+La Figura 5.2 muestra el resultado del cociente CEB TM 3 / CEB TM 1 en donde en 
+colores blancos se observan las zonas donde la contribución de los óxidos es más 
+importante y en colores obscuros aquellos pixeles donde predominan materiales que no 
+son óxidos. En esta misma figura se observan píxeles brillantes en la esquina superior 
+derecha e inferior izquierda, la mayoría se concentra en la segunda esquina mencionada. 
+Cubre cerca de un cuarto del área de estudio.  
+ 
+ 
+Figura 5.2 – En la imagen se muestra el realce de la respuesta espectral de óxidos a partir del 
+cociente de las bandas CEB TM 3 /1, con deformación lineal del histograma y 1% de saturación. 
+Las zonas más brillantes muestran las áreas donde se tiene la presencia de óxidos. 
+ 
+ 
+
+81 
+ 
+La Figura 5.3 muestra el resultado del cociente CEB TM 5 / CEB TM 7 en donde en 
+colores blancos se observan las zonas donde la contribución de los hidroxilos es más 
+importante y en colores obscuros aquellos pixeles donde predominan materiales que no 
+son hidroxilos. En esta misma figura se observan pixeles brillantes en abundancia, la 
+mayoría se concentra en el centro de la escena con tendencia NW-SE y cubre cerca de la 
+mitad del área de estudio. 
+ 
+ 
+Figura 5.3 – En la imagen se muestra el realce de la respuesta espectral de hidroxilos a partir del 
+cociente de las bandas CEB TM 5 /7, con deformación lineal del histograma y 1% de saturación. 
+Las zonas más brillantes muestran las áreas donde se tiene la presencia de hidroxilos. 
+ 
+ 
+
+82 
+ 
+La Figura 5.4 muestra la distribución espacial de los óxidos e hidroxilos a partir de la suma 
+del cociente CEB TM 3/1 y 5/7. Esta suma de cocientes permite destacar ambos grupos 
+minerales en colores blancos y disminuir la alta reflectancia de la vegetación para esta 
+zona, los cuales se muestran en colores oscuros. Se observan pixeles brillantes en 
+abundancia, la mayoría se concentra en el centro de la escena con tendencia NW-SE y 
+cubre cerca de la mitad del área de estudio. 
+ 
+ 
+Figura 5.4 – En la imagen se muestra el realce de la respuesta espectral de óxidos e hidroxilos a 
+partir de la suma de los cocientes de las banda CEB TM 3 /1 y 5/7, con 1% de saturación. Las 
+zonas más brillantes muestran las áreas donde se tiene la presencia de ambos minerales. 
+ 
+ 
+
+83 
+ 
+5.3.2 
+Análisis de componentes principales 
+ 
+La Tabla 10 describe la transformación de las imágenes de las bandas originales no 
+térmicas contenidas en la imagen Ceboruco_NW, a nuevas imágenes (componentes) que 
+no están correlacionadas unas con otras y que muestran una proporción de la variabilidad 
+total, utilizando la matriz de covarianza (Ruiz-Armenta & Prol-Ledesma, 1998). 
+ 
+Tabla 10. Transformación de Componentes Principales de seis bandas Landsat TM de la imagen 
+Ceboruco_NW para el mapeo de óxidos e hidroxilos. 
+ 
+Componente 
+ 
+C1 
+C2 
+C3 
+C4 
+C5 
+C6 
+% Varianza 
+87,93 
+6,92 
+4,35 
+0,48 
+0,27 
+0,06 
+Valor característico 
+1049,99 
+82,61 
+51,95 
+5,77 
+3,17 
+0,69 
+Vector característico 1 
+0,187620 
+-0,050919 
+-0,497262 
+-0,080153 
+0,811676 
+-0,222923 
+Vector característico 2 
+0,151704 
+0,052018 
+-0,369468 
+-0,120012 
+-0,020857 
+0,907158 
+Vector característico 3 
+0,294569 
+-0,017172 
+-0,569810 
+-0,402857 
+-0,553163 
+-0,346363 
+Vector característico 4 
+0,246801 
+0,923562 
+-0,039214 
+0,280994 
+-0,015542 
+-0,073386 
+Vector característico 5 
+0,795299 
+-0,094103 
+0,505228 
+-0,302567 
+0,101018 
+0,040463 
+Vector característico 6 
+0,401997 
+-0,364121 
+-0,186406 
+0,803974 
+-0,155924 
+-0,019490 
+ 
+Carga 
+ 
+C1 
+C2 
+C3 
+C4 
+C5 
+C6 
+CEB TM 1 
+0,841621 
+-0,064066 
+-0,496187 
+-0,026655 
+0,200001 
+-0,025632 
+CEB TM 2 
+0,867196 
+0,083405 
+-0,469806 
+-0,050858 
+-0,006549 
+0,132919 
+CEB TM 3 
+0,910127 
+-0,014882 
+-0,391621 
+-0,092274 
+-0,093881 
+-0,027430 
+CEB TM 4 
+0,688404 
+0,722564 
+-0,024331 
+0,058104 
+-0,002381 
+-0,005247 
+CEB TM 5 
+0,989219 
+-0,032831 
+0,139788 
+-0,027900 
+0,006902 
+0,001290 
+CEB TM 7 
+0,954494 
+-0,242499 
+-0,098453 
+0,141516 
+-0,020336 
+-0,001186 
+ 
+Del análisis de signo y magnitud de los vectores característicos de las componentes 
+resultantes de las seis bandas de entrada, se tiene que la componente principal uno (C1) 
+no revela rasgos espectrales significativos, dado que está compuesta por una mezcla 
+positiva de todas las bandas, en este caso con una contribución mayor de la banda CEB 
+TM 5 (0,795299). Además sintetiza la máxima variabilidad con el 87,93% de la varianza. 
+Por lo tanto representa únicamente información debido a la topografía y al albedo 
+(Loughlin, 1991). 
+ 
+
+84 
+ 
+La componente principal dos (C2) está dominada por la contribución de la banda CEB TM 
+4 (0,722564) y la CEB TM 3 (-0,014882). Dado que la vegetación presenta una 
+reflectancia alta en la banda CEB TM 4, los pixeles con información acerca de la 
+vegetación se presentan en tonos brillantes en esta componente (Figura 5.5). 
+ 
+ 
+Figura 5.5 – Componente principal (C2) dominada por la contribución de la banda CEB TM 4 con 
+deformación lineal del histograma y 1% de saturación. Los píxeles más brillantes representan las 
+zonas con predominio de cubierta vegetal. 
+ 
+ 
+
+85 
+ 
+La componente principal tres (C3) está dominada por la contribución de la banda CEB TM  
+5 (0,139788) y la banda CEB TM 7 (-0,098453). Dado que los hidroxilos presentan una 
+reflectancia alta en la banda CEB TM 5, los pixeles con información acerca de hidroxilos 
+se presentan en tonos brillantes en esta componente (Figura 5.6). Los hidroxilos son 
+mapeados también en tonos oscuros en la componente principal cuatro (C4) debido a la 
+contribución positiva de la banda CEB TM 7 de (0,141516) y a la contribución negativa de 
+la banda CEB TM 5 (-0,027900) (Ruiz-Armenta & Prol-Ledesma, 1998). 
+ 
+ 
+Figura 5.6 – Componente principal tres (C3) dominada por la contribución de la banda CEB TM 5. 
+Se despliega con deformación lineal del histograma y 1% de saturación. Las zonas más brillantes 
+muestran las áreas donde se tiene la presencia de hidroxilos. 
+ 
+
+86 
+ 
+En la componente principal cinco (C5) se observa que las cargas con una magnitud 
+mayor, corresponden a la banda CEB TM 1 con el (0,200001) seguido por el (-0,093881) 
+correspondiente a la banda CEB TM 3. De acuerdo a las características espectrales de 
+los óxidos de hierro (Tabla 6), estos serán mapeados en tonos oscuros en C5. Para 
+representar estos minerales en tonos brillantes se obtuvo la imagen inversa de C5 (Figura 
+5.7). 
+ 
+ 
+Figura 5.7 – Para representar los óxidos de hierro en tonos brillantes se obtuvo la imagen inversa 
+de C5. Se despliega con deformación lineal del histograma y 1% de saturación. Las zonas más 
+brillantes muestran las áreas donde se tiene la presencia de óxidos. 
+ 
+ 
+
+87 
+ 
+Una vez obtenidas las dos componentes principales para la identificación de óxidos e 
+hidroxilos se realizó un realce de contraste a la suma de las imágenes obtenidas del 
+análisis de componentes principales, con el fin de resaltar en la misma imagen ambos 
+grupos minerales (Loughlin, 1991). La Figura 5.8 muestra en tonos brillantes las zonas 
+con alteración hidrotermal. 
+ 
+ 
+Figura 5.8 – Suma de las componentes de óxidos más hidroxilos y con deformación lineal del 
+histograma y 1% de saturación. Las zonas más brillantes muestran las áreas donde se tiene la 
+presencia de ambos minerales. 
+ 
+ 
+
+88 
+ 
+Las cargas para la componente principal seis (C6) son (0,132919) para la banda CEB TM 
+2, (-0,027430) para la banda CEB TM 3, por lo tanto esta componente representa los 
+óxidos (hematita) en tonos oscuros, con base en los rasgos espectrales característicos de 
+este mineral en la Tabla 6 (Ruiz-Armenta & Prol-Ledesma, 1998). 
+ 
+5.3.3 
+Técnica de Crosta 
+ 
+5.3.3.1 
+Hidroxilos 
+ 
+Para el mapeo de hidroxilos se eligieron las bandas CEB TM 1, CEB TM 4 y CEB TM 5 y 
+CEB TM 7 de acuerdo a las características de reflectancia enunciadas en la Tabla 6. 
+ 
+La Tabla 11 describe la transformación de componentes principales de la bandas 1, 4, 5 y 
+7 de la imagen Ceboruco_NW. De la magnitud y signo (positivo o negativo) de los 
+vectores característicos se tiene que la componente principal uno (CP1) representa 
+vectores característicos positivos en todas las bandas. El valor característico (937,93) de 
+la CP1 representa el 89,15% de la varianza de los datos por lo que puede ser interpretada 
+como el efecto topográfico y el albedo de las imágenes originales. 
+ 
+Tabla 11. Análisis de componentes principales para identificar hidroxilos. 
+ 
+Componente 
+ 
+CP1 
+CP2 
+CP3 
+CP4 
+% Varianza 
+89,15 
+7,83 
+2,57 
+0,45 
+Valor característico 
+937,93 
+82,37 
+27,07 
+4,68 
+Vector característico 1 
+0,191881 
+-0,055706 
+0,758912 
+0,619783 
+Vector característico 2 
+0,260124 
+0,924680 
+0,177126 
+-0,214310 
+Vector característico 3 
+0,846622 
+-0,088678 
+-0,446162 
+0,276237 
+Vector característico 4 
+0,422787 
+-0,366060 
+0,440021 
+-0,702590 
+ 
+Carga 
+ 
+CP1 
+CP2 
+CP3 
+CP4 
+CEB TM 1 
+0,813512 
+-0,069988 
+0,546648 
+0,185679 
+CEB TM 4 
+0,685756 
+0,722393 
+0,079334 
+-0,039923 
+CEB TM 5 
+0,995278 
+-0,030893 
+-0,089111 
+0,022947 
+CEB TM 7 
+0,948778 
+-0,243437 
+0,167765 
+-0,111413 
+ 
+ 
+
+89 
+ 
+Las cargas de la componente principal dos (CP2) indican que dicha componente está 
+dominada por la vegetación debido al valor de 0,722393 del vector característico de la 
+banda CEB TM 4. El signo positivo indica que los pixeles influenciados por la vegetación 
+aparecerán brillantes. 
+ 
+De los valores de las cargas de las bandas CEB TM 5 y CEB TM 7 en la componente 
+principal tres (CP3) se tiene que los pixeles influenciados por la presencia de hidroxilos se 
+presentan en tonos oscuros debido al valor negativo y magnitud de la carga del vector 
+característico en CEB TM 5 (-0,089111) y a la magnitud positiva de la banda CEB TM 7 
+(0,167765). En la componente principal cuatro (CP4) algunas de las bandas contribuyen 
+en proporciones balanceadas como en CP1. 
+ 
+En los rangos de longitud de onda de las bandas CEB TM 5 y CEB TM 7, se encuentra el 
+rasgo de reflectancia máxima y mínimo de la alunita respectivamente (Ruiz-Armenta & 
+Prol-Ledesma, 1998). Esta diferencia se muestra en la CP3 con base en el signo negativo 
+y positivo de la matriz de carga de los eigenvectores. Para representar los hidroxilos 
+(como la alunita) en tonos brillantes se obtuvo la inversa de la CP3 (Fig. 5.9). 
+ 
+
+90 
+ 
+ 
+Figura 5.9 – En la imagen se muestra la componente que contienen hidroxilos con deformación 
+lineal del histograma y 1% de saturación. Las zonas más brillantes muestran las áreas donde se 
+tienen hidroxilos como la alunita. 
+ 
+5.3.3.2 
+Óxidos 
+ 
+Para el mapeo de óxidos de hierro se eligieron las bandas CEB TM 1, CEB TM 3 y CEB 
+TM 5 de acuerdo a las características de reflectancia enunciadas en la Tabla 6, además 
+de la banda CEB TM 4, porque esta es representativa de la vegetación. 
+ 
+La Tabla 12 describe la transformación de componentes principales de la bandas 1, 3, 4 y 
+5 de la imagen Ceboruco_NW. De la magnitud y signo (positivo o negativo) de los 
+
+91 
+ 
+vectores característicos se tiene que la componente principal uno (CP1) representa 
+vectores característicos positivos en todas las bandas. El valor característico (860,05) de 
+la CP1 representa el 88,14% de la varianza de los datos por lo que puede ser interpretada 
+como el efecto topográfico y el albedo de las imágenes originales. 
+ 
+Tabla 12. Análisis de componentes principales para identificar óxidos. 
+ 
+Componente 
+ 
+CP1 
+CP2 
+CP3 
+CP4 
+% Varianza 
+88,14 
+7,26 
+4,26 
+0,33 
+Valor característico 
+860,05 
+70,88 
+41,61 
+3,26 
+Vector característico 1 
+0,201885 
+-0,024018 
+0,603404 
+0,771083 
+Vector característico 2 
+0,320021 
+-0,001564 
+0,703611 
+-0,634441 
+Vector característico 3 
+0,285726 
+0,952660 
+-0,098812 
+0,032190 
+Vector característico 4 
+0,880449 
+-0,303084 
+-0,362038 
+0,043349 
+ 
+Carga 
+ 
+CP1 
+CP2 
+CP3 
+CP4 
+CEB TM 1 
+0,819622 
+-0,027994 
+0,538818 
+0,192644 
+CEB TM 3 
+0,894876 
+-0,001256 
+0,432755 
+-0,109175 
+CEB TM 4 
+0,721300 
+0,690429 
+-0,054866 
+0,005001 
+CEB TM 5 
+0,991141 
+-0,097951 
+-0,089642 
+0,003003 
+ 
+Las cargas de los vectores característicos de la componente principal dos (CP2) indican 
+que dicha componente está dominada por la vegetación debido al valor de 0,690429 del 
+vector característico de la banda CEB TM 4. El signo positivo indica que los pixeles 
+influenciados por la vegetación aparecerán brillantes. 
+ 
+La componente principal tres (CP3) describe las diferencias entre las bandas del visible 
+(CEB TM 1 y CEB TM 3) y las bandas del infrarrojo (CEB TM 4 y CEB TM 5). Los 
+materiales con una alta reflectancia en la región del visible aparecerán en tonos brillantes 
+en CP3 debido al signo positivo de los vectores característicos en CEB TM 1 y CEB TM 3 
+y aquellos que presentan una alta reflectancia en la región del infrarrojo aparecerán en 
+tonos oscuros debido al signo negativo de los vectores característicos de las bandas CEB 
+TM 4 y CEB TM 5 (Ruiz-Armenta & Prol-Ledesma, 1998). 
+ 
+
+92 
+ 
+De los vectores característicos de la cuarta componente (CP4) se tiene que la 
+contribución de CEB TM 4 y CEB TM 5 es mínima en comparación con las cargas de los 
+vectores característicos de las bandas CEB TM 1 y CEB TM 3 de 0,192644 y -0,109175 
+respectivamente. Las magnitudes de CEB TM 1 y CEB TM 3 son opuestas en signo por lo 
+que se infiere que los óxidos con una alta reflectancia en CEB TM 3 y absorción en CEB 
+TM 1 estarán representados en tonos oscuros debido al signo negativo en CEB TM 3 y al 
+signo positivo en CEB TM 1 (Ruiz-Armenta & Prol-Ledesma, 1998). Para representar los 
+óxidos de hierro en tonos brillantes se obtuvo la inversa de la CP4 (Fig. 5.10). 
+  
+ 
+Figura 5.10 – En la imagen se muestra la componente que contiene óxidos con 1% de 
+saturación. Las zonas más brillantes muestran las áreas donde se tienen óxidos. 
+ 
+
+93 
+ 
+Para el mapeo de alteración se sumaron las imágenes de las componentes principales 
+que contienen óxidos e hidroxilos de la técnica de Crosta para producir la imagen O+OH 
+en la que los pixeles con concentraciones anómalas de ambos grupos de minerales están 
+representadas por tonos brillantes en la Figura 5.11 
+ 
+ 
+Figura 5.11 – En la imagen se muestra la suma de componentes dirigidas para resaltar óxidos e 
+hidroxilos con deformación lineal del histograma y 1% de saturación. Las zonas más brillantes 
+muestran las áreas donde se tiene la presencia de ambos minerales. 
+ 
+ 
+
+94 
+ 
+5.3.4 
+Composiciones en falso color 
+ 
+Se resalta en el color primario rojo el material a identificar, por lo tanto en el cañón del rojo 
+se colocaron las bandas con el rasgo característico de alta reflectancia. Además tienen un 
+realce de contraste del 1% únicamente para mejorar la visualización. 
+ 
+La Figura 5.12 muestra la composición en falso color para resaltar óxidos, vegetación e 
+hidroxilos a partir de los cocientes de bandas CEB TM 3/1, CEB TM 4/3 y CEB TM 5/7, 
+que se despliegan en el color rojo, verde y azul, respectivamente. 
+ 
+La contribución de los cocientes CEB TM 3/1 y CEB TM 5/7 se observa en color magenta 
+(rojo y azul) para resaltar óxidos e hidroxilos. En color cian (verde y azul) se observa la 
+contribución de la vegetación junto con la de los hidroxilos. 
+ 
+
+95 
+ 
+ 
+Figura 5.12 – En la imagen se muestra la composición en falso color del cociente de bandas. Se 
+despliega en el cañón del rojo los óxidos (CEB TM 3/1), en el verde la vegetación (CEB TM 4/3) y 
+en el azul los hidroxilos (CEB TM 5/7). La composición se hizo aplicando un ajuste lineal con 
+saturación de 1%. 
+ 
+ 
+
+96 
+ 
+La Figura 5.13 muestra la composición en falso color para resaltar óxidos e hidroxilos a 
+partir de los cocientes de bandas CEB TM 3/1, CEB TM 5/7 y de la suma de ambos, se 
+despliegan en el rojo, verde y azul, respectivamente. 
+ 
+ 
+Figura 5.13 – En la imagen se muestra la composición en falso color de la suma de los cocientes 
+de banda con el siguiente arreglo, rojo: CEB TM 3/1 (Óxidos), verde: CEB TM 5/7 (Hidroxilos) y 
+azul: CEB TM 3/1 + CEB TM 5/7 (O+OH). La composición se hizo aplicando un ajuste lineal con 
+saturación de 1%. 
+ 
+Las zonas que contienen óxidos e hidroxilos se observan en color magenta. En cian se 
+observa la contribución del cociente CEB TM 5/7 para resaltar hidroxilos y la suma de 
+ambos grupos minerales. 
+
+97 
+ 
+ 
+La Figura 5.14 muestra la composición en falso color para resaltar hidroxilos, vegetación, 
+y óxidos, a partir de las componentes principales C3, C2 y la inversa de C5, que se 
+despliegan en el azul, verde y rojo respectivamente. 
+ 
+ 
+Figura 5.14 – En la imagen se muestra la composición en falso color del ACP con el siguiente 
+arreglo, rojo: -C5 (Óxidos), verde: C2 (Vegetación) y azul: C3 (Hidroxilos). La composición se hizo 
+aplicando un ajuste lineal con saturación de 1%. 
+ 
+Se observa en color magenta (rojo y azul) la contribución de las componentes principales 
+C2 e inversa de C5 para resaltar óxidos e hidroxilos, respectivamente. En cian se observa 
+la contribución de la vegetación junto con la de los hidroxilos. 
+
+98 
+ 
+ 
+La imagen resultante de la composición en falso color para resaltar óxidos e hidroxilos a 
+partir de las componentes principales C3 e inversa de C5 y la suma de ambas es similar 
+al de la técnica de Crosta, por ello sólo se muestra la imagen resultante de este segundo 
+análisis. 
+ 
+A partir de la técnica de Crosta, los óxidos e hidroxilos son mapeados en la inversa de las 
+componentes principales C4 y C3 respectivamente. La composición en falso color de la 
+Figura 5.15 de estas dos componentes principales muestra la contribución de óxidos de 
+hierro en tonos rojos, hidroxilos en tonos verdes y la contribución de ambos grupos de 
+minerales se muestra en tonos magenta (rojo y azul). En tonos claros y grises se observa 
+la contribución similar de ambos grupos minerales  
+ 
+
+99 
+ 
+ 
+Figura 5.15 – En la imagen se muestra la composición en falso color de la suma de la 
+técnica de Crosta con el siguiente arreglo, rojo: -CP4 (Óxidos), verde: -CP3 (Hidroxilos) y 
+azul: -CP4 + (-CP3) (O+H). La composición se hizo aplicando un ajuste lineal con 
+saturación de 1%. 
+ 
+ 
+
+100 
+ 
+5.4 
+Realce espacial 
+ 
+A partir de la metodología de realce espacial propuesta por Moore & Waltz (1983) 
+aplicada sobre la componente principal C1, se hicieron más visibles las estructuras en el 
+área de estudio, como se observa en la Figura 5.16. 
+ 
+ 
+Figura 5.16 – En la imagen se muestra el realce espacial sobre la componente principal C1 (albedo) 
+siguiendo la metodología propuesta por Moore & Waltz (1983), presenta además un ajuste lineal con 
+saturación de 1%. Se observan estructuras volcánicas como el volcán Ceboruco (inferior derecha), el 
+domo San Pedro (inferior izquierda) y el volcán Tepetiltic (mitad del lado izquierdo). 
+ 
+
+101 
+ 
+Una vez aplicado el realce espacial de lineamientos mediante filtros digitales espaciales 
+de acuerdo a la metodología propuesta por Moore y Waltz (1983) sobre la C1, se 
+compararon con los resultados obtenidos del análisis del modelo digital del terreno con 
+iluminación artificial y fue posible identificar patrones y lineamientos en ciertas 
+direcciones. La Figura 5.17 muestra los lineamientos con dirección Norte-Sur, como 
+ejemplo de este proceso de realce espacial. 
+ 
+ 
+Figura 5.17 – En la imagen se muestran solo los lineamientos con dirección Norte-Sur en 
+color rojo usando la componente uno (C1). 
+ 
+ 
+
+102 
+ 
+La Figura 5.18 muestra algunas de las fracturas y fallas cartografiadas por el Servicio 
+Geológico Mexicano (SGM) en el área de estudio y los lineamientos definidos 
+manualmente en las direcciones Norte-Sur, NE-SW, Este-Oeste y NW-SE a diferentes 
+escalas de la imagen Ceboruco_NW. 
+ 
+ 
+Figura 5.18 – En la imagen se muestran los lineamientos en las distintas direcciones en color rojo 
+usando la C1 y estructuras cartografiadas por el SGM como fracturas, fallas normales, bordes de 
+caldera y aparatos volcánicos. 
+ 
+ 
+
+103 
+ 
+5.5 
+Integración de la información espacial 
+ 
+Los mapas integrados se muestran en las Figuras 5.19 a 5.22 en ellos se hizo la 
+integración de los lineamientos, las estructuras del SGM y las composiciones en falso 
+color descritas anteriormente. Además en la Figura 5.22 se señalan en recuadros color 
+amarillo las zonas en las que se ha identificado la presencia de minerales típicos de 
+alteración hidrotermal y el conjunto de la demás información espacial. 
+ 
+ 
+Figura 5.19 – En la imagen se muestra la integración de los lineamientos en color 
+negro, las estructuras del SGM en azul, la imagen del realce espacial de la 
+componente uno y la composición en falso color del cociente de bandas de acuerdo al 
+
+104 
+ 
+siguiente arreglo, rojo: CEB TM 3/1 (Óxidos), verde: CEB TM 4/3 (Vegetación) y azul: 
+CEB TM 5/7 (Hidroxilos). La composición se hizo aplicando un ajuste lineal con 
+saturación de 1%. 
+ 
+ 
+Figura 5.20 – En la imagen se muestra la integración de los lineamientos en color 
+negro, las fracturas del SGM en color azul, la imagen del realce espacial de la 
+componente uno y la composición en falso color de la suma de los cocientes de 
+banda con el siguiente arreglo, rojo: CEB TM 3/1 (Óxidos), verde: CEB TM 5/7 
+(Hidroxilos) y azul: CEB TM 3/1+CEB TM 5/7 (O+OH). La composición se hizo 
+aplicando un ajuste lineal con saturación de 1%. 
+ 
+ 
+
+105 
+ 
+ 
+Figura 5.21 – En la imagen se muestra la integración de los lineamientos en color 
+negro, las fracturas del SGM en azul, la imagen del realce espacial de la 
+componente uno y la composición en falso color del ACP con el siguiente arreglo, 
+rojo: -C5 (Óxidos), verde: C2 (Vegetación) y azul: C3 (Hidroxilos). La composición 
+se hizo aplicando un ajuste lineal con saturación de 1%. 
+ 
+
+106 
+ 
+ 
+Figura 5.22 – La imagen muestra la integración de los lineamientos en color negro, las 
+fracturas del SGM en color azul, la imagen del realce espacial de la componente uno y 
+la composición en falso color de la suma del Método de Crosta de acuerdo al siguiente 
+arreglo, rojo: -CP4 (Óxidos), verde: -CP3 (Hidroxilos) y azul: Óxidos más Hidroxilos 
+(O+OH). La composición se hizo aplicando un ajuste lineal con saturación de 1%. 
+ 
+ 
+
+107 
+ 
+6. DISCUSIÓN 
+ 
+Se realizó el cociente de las bandas CEB TM 4 / CEB TM 3 para destacar la vegetación 
+en tonos blancos porque la banda CEB TM 4 corresponde al infrarrojo cercano y contiene 
+la información de alta reflectancia de la vegetación. Este resultado es importante porque 
+permite conocer cuánto afectará la reflectancia de la vegetación en las demás técnicas 
+(Fig. 5.1). 
+ 
+Se efectuó el cociente de las bandas CEB TM 3 / CEB TM 1 para destacar los óxidos de 
+hierro en tonos brillantes porque la banda CEB TM 3 corresponde al rojo y contiene la 
+información de alta reflectancia de los óxidos. Este resultado es importante ya que permite 
+aislar algunas zonas de interés (Fig. 5.2). 
+ 
+Se generó el cociente de las bandas CEB TM 5 / CEB TM 7 para destacar los hidroxilos 
+en tonos brillantes porque la banda CEB TM 5 corresponde al infrarrojo medio y contiene 
+la información de alta reflectancia de hidroxilos. La distribución espacial de este material 
+es parecida a la vegetación, es posible que el rasgo de alta reflectancia de la vegetación 
+en ambas bandas esté afectando la identificación de los hidroxilos (Fig. 5.3). 
+ 
+Se ejecutó la suma de los cocientes CEB TM 3/1 y CEB TM 5/7 para resaltar óxidos de 
+hierro e hidroxilos en colores blancos y disminuir la alta reflectancia de la vegetación para 
+esta zona que se mostró en colores oscuros (Fig. 5.4). Es posible que en esta suma, el 
+cociente CEB TM 5/7 contribuya más, ya que no se observan los pixeles brillantes 
+identificados en la Figura 5.2 para óxidos, aunque se notan algunos pixeles brillantes en la 
+esquina superior derecha de la Figura 5.4. 
+ 
+Las imágenes monocromáticas que muestran contribución de óxidos de hierro e hidroxilos 
+generadas con el ACP y la técnica de Crosta son fáciles de interpretar porque en estas 
+imágenes dichas contribución están representadas por pixeles brillantes (Fig. 5.5 a Fig. 
+5.11). Sin embargo, las imágenes a color son más útiles para discriminar los materiales 
+presentes en el terreno (Loughlin, 1991). 
+ 
+El muestreo de múltiples longitudes de onda es muy importante para la identificación de 
+características y diferentes tipos de cobertura del suelo. A pesar del ancho de banda del 
+
+108 
+ 
+sensor TM, el instrumento resulta útil en el mapeo de minerales. Una composición a color 
+de las bandas multiesprectrales separadas con colores RVA, es la forma más común de 
+mostrarlo (Mutua et al. 2011). Se resaltó en color rojo el material a identificar, por lo tanto 
+en el cañón de este color se colocaron las bandas con el rasgo característico de alta 
+reflectancia, porque es el que interesa identificar. 
+ 
+Se realizó la composición RVA de los cocientes de bandas CEB TM 3/1, 4/3 y 5/7 para 
+resaltar en colores rojos y azules los óxidos e hidroxilos ya que estos materiales 
+presentan características de reflectancia espectral en los cocientes colocados con este 
+arreglo, aunque la vegetación con bajo vigor presenta también este rasgo espectral en el 
+azul, de acuerdo a la Tabla 6. En esta imagen es complicado diferenciar las zonas que 
+contienen minerales típicos de alteración hidrotermal de zonas cubiertas con vegetación, 
+porque no se observan pixeles en color verde, sino en color cian y magenta, por tanto es 
+posible que la vegetación influya en el cociente para resaltar los óxidos e hidroxilos, 
+porque esta composición muestra una amplia distribución en color magenta en dos 
+esquinas opuestas de la imagen (inferior izquierda y superior derecha) y también una 
+distribución en dirección NW-SE en color cian (Fig. 5.12). Es posible que el rasgo 
+espectral del suelo desnudo esté afectando la respuesta de los hidroxilos, porque la 
+imagen se adquirió en una fecha de escasez de lluvias. 
+ 
+Se efectuó la composición RVA de los cocientes de bandas CEB TM 3/1, 5/7 y 3/1+5/7 
+para resaltar óxidos en color rojo, hidroxilos en verde y una contribución de ambos en 
+tonos blancos (Fig. 5.13). En esta figura se observa una distribución similar a la Figura 
+5.12, aunque se logran diferenciar mejor los colores de los pixeles que resaltan los 
+minerales secundarios. Esta segunda composición en falso color es mejor que la anterior 
+para resaltar óxidos e hidroxilos porque permite realzar aún más la respuesta espectral de 
+estos materiales con la suma de los cocientes CEB TM 3/1 y 5/7 y diferenciarlos de la 
+cobertura de vegetación. 
+ 
+Se generó la composición en falso color RVA con las componentes principales para 
+resaltar óxidos, vegetación e hidroxilos respectivamente (Fig. 5.14). Se observa una 
+amplia distribución de tonos azules y magenta, es posible que el vigor de la vegetación 
+sea bajo y aparezca como suelo desnudo e influya en esta componente, aunque se 
+observan pixeles verdes que señalan vegetación con un vigor alto. En esta composición 
+
+109 
+ 
+también se observa, en colores naranjas y amarillos la influencia de la componente que 
+señala vegetación de óxidos. Esta composición y la generada con las componentes de la 
+técnica de Crosta, mostró un resultado similar, por ello sólo se discute la primera. 
+ 
+Se ejecutó la composición RVA de las componentes obtenidas de aplicar la técnica de 
+Crosta para conocer la contribución de los minerales típicos de alteración hidrotermal en 
+pixeles con colores blancos, ya que tienen la misma contribución y tonos claros de 
+magenta por la contribución de la componente que señala óxidos y la suma de ambas 
+componentes que señalan minerales secundarios, y cian por la contribución de esta suma 
+junto con la componente que señala hidroxilos. Ésta última composición resalta de mejor 
+manera la respuesta de ambos minerales y permite diferenciarlos de la vegetación, por lo 
+que se tomó esta imagen para discutir la integración de la información espacial (Fig. 5.15). 
+ 
+Se utilizaron diferentes filtros espaciales para identificar y marcar lineamientos en las 
+direcciones Norte-Sur, NE-SW, Este-Oeste y NW-SE a diferentes escalas. En el caso de 
+la 1:500000 y 1:250000 permitieron marcar lineamientos más largos, los cuales son más 
+propensos a indicar estructuras regionales importantes. Se aprovechó la escala 1:250000 
+y 1:50000 para digitalizar las estructuras geológicas cartografiadas por el Servicio 
+Geológico Mexicano (SGM) en el área de estudio (Fig. 5.18). Algunos de los lineamientos 
+aquí definidos coinciden con fallas extensionales identificadas por Ferrari et al (2003), 
+principalmente los bordes Este y Oeste de la caldera San Pedro y una falla normal 
+paralela al borde del Bloque Jalisco. 
+ 
+Se integraron los resultados del realce espectral, espacial y las estructuras geológicas del 
+SGM en el contexto de un SIG para manipular, superponer, analizar y desplegar dicha 
+información con el fin de crear un mapa que señale las zonas a estudiar con interés 
+geotérmico. Por lo tanto en el mapa integrado de la Figura 5.22 se observan varias zonas 
+señaladas con recuadros color amarillo, nombradas como lo muestra la Tabla 13, en las 
+que se ha identificado la presencia de minerales típicos de alteración hidrotermal, la 
+ocurrencia de lineamientos, afloramientos de rocas volcánicas recientes y estructuras 
+geológicas. Estas características podrían indicar la posible presencia de actividad 
+hidrotermal. 
+ 
+
+110 
+ 
+Tabla 13. Zonas identificadas con posible actividad hidrotermal. 
+Zona 
+Nombre 
+1 
+Ceboruco 
+2 
+Ocotes altos 
+3 
+Santa María 
+4 
+Tepetiltic 
+5 
+San Pedro 
+ 
+Las primeras zonas se localizan en la esquina inferior derecha, se les nombró como 
+Ceboruco y se eligen porque se encuentran una serie de aparatos volcánicos (volcán 
+Ceboruco, domos de ceniza), afloramientos de Riolitas del Terciario, Basaltos y Andesitas 
+del Cuaternario (Fig. 3.2) y lineamientos. El mapa integrado de la Figura 5.22 permite 
+identificar de mejor manera la respuesta de ambos minerales en pixeles brillantes con 
+colores blancos, magentas y cian. En la zona donde se encuentra la caldera exterior del 
+Ceboruco, se identifica la contribución de óxidos de hierro como lo reporta el trabajo de 
+Nelson (1986). Las otras tres zonas al norte del Ceboruco son interesantes porque 
+contienen conos cineríticos cerca, la zona más alejada está sobre el lineamiento 
+identificado por Ferrari et al (2003) como falla extensional. 
+ 
+Las siguientes zonas se localizan al Este de la parte media del área de estudio y se les 
+dominó como Ocotes altos, se eligen porque en ellas se marcaron lineamientos y se 
+encuentran afloramientos fracturados de Pumicita, Basalto, Riolita, Ignimbrita y un Pórfido 
+Diorítico como cuerpo intrusivo (Fig. 3.2). En el mapa de la Figura 5.20 se observan 
+pixeles brillantes color blanco y rojo que señalan óxidos e hidroxilos. En algunas de estas 
+zonas el SGM tiene identificada una serie de zonas de alteración, principalmente 
+caolinización y en menor medida oxidación y silicificación. 
+ 
+En la esquina superior derecha del área de estudio se muestran más zonas denominadas 
+como Santa María, ya que en ellas se marcaron lineamientos, hay una estructura de 
+caldera, conos cineríticos, fallas inversas y fracturas, también se presentan varios 
+contactos litológicos entre Pumicita del Cuaternario, Basaltos y Riolitas del Neógeno, 
+Riolitas-Ignimbritas y Andesitas del Paleógeno, además de dos intrusivos (Granodiorita y 
+Pórfido Diorítico) (Fig. 3.2). Estas zonas y dos más que contienen conos cineríticos 
+también coinciden con las zonas de alteración señaladas por el SGM y se muestran en 
+
+111 
+ 
+pixeles brillantes color cian, magenta y blanco en la Figura 5.22 que identifican minerales 
+de alteración hidrotermal. 
+ 
+Solo una zona se seleccionó en la esquina superior izquierda del área de estudio, ésta 
+resulta interesante porque está en los límites del volcán Sanganguey, hay fracturas, 
+lineamientos y alforamientos del Cuaternario y Terciario de Basaltos que podrían 
+presentar óxidos de hierro, aunque se identificó una amplia cobertura de vegetación en la 
+Fig. 5.21 como pixeles brillantez color verde y rojo que podrían encubrir la posible 
+alteración. 
+ 
+En la periferia del volcán Tepetiltic se eligieron algunas zonas denominadas con el 
+nombre de este volcán, presentan pixeles brillantes de color blanco y cian en la Figura 
+5.22 que identifican alteración hidrotermal y se encuentran también lineamientos y 
+fracturas. Las zonas del Oeste y Noroeste posiblemente se deban a los contactos 
+litológicos entre Riolitas y Basaltos del Terciario, hacia el Este y Sureste posiblemente al 
+contacto entre Andesitas y Basaltos del Cuaternario con Riolitas del Terciario, algunas del 
+lado Este coinciden con las zonas de alteración señaladas por el SGM como 
+caolinización. 
+ 
+Las últimas zonas se localizan en la esquina inferior izquierda del área de estudio, se 
+nombraron como San Pedro. Éstas están en las cercanías del domo de San Pedro, entre 
+contactos litológicos de Andesitas (Cuaternario y Terciario) y Basaltos (Terciario) que 
+presentan óxidos de hierro en pixeles brillantes magentas y blancos, además hay 
+aparatos volcánicos, se marcaron lineamientos y hay pocas fracturas y zonas de 
+alteración cartografiadas por el SGM. (Fig. 5.20). Estos resultados y el estudio detallado 
+que presentan Ferrari y colaboradores (2003) de la geología del domo de San Pedro y el 
+volcán Ceboruco sería útil para elaborar planos geológicos que sirvan de apoyo a las 
+siguientes etapas de exploración sobre el terreno que permitan tomar decisiones respecto 
+a la ubicación de zonas para barrenación de pozos de prueba como una etapa de 
+exploración geotérmica a mayor detalle. 
+ 
+Estas últimas zonas junto con las de la parte baja de la periferia del volcán Tepetiltic son 
+las de mayor interés de exploración porque se ha identificado la presencia de minerales 
+
+112 
+ 
+típicos de alteración hidrotermal, la ocurrencia de lineamientos, afloramientos de rocas 
+volcánicas recientes y estructuras geológicas. 
+ 
+El análisis de imágenes de satélite con técnicas de percepción remota constituye una 
+herramienta potente y barata para la exploración geotérmica, pues se obtiene (a) 
+información de la superficie del terreno como la cartografía de lineamientos estructurales, 
+fallas, fracturas y la identificación de zonas mineralizadas para elaborar (b) planos 
+geológicos preliminares del subsuelo que sirvan de guía en las subsecuentes etapas de 
+exploración para localizar los sistemas hidrotermales. 
+ 
+ 
+
+113 
+ 
+7. CONCLUSIONES 
+ 
+Son tres los sitios propuestos para exploración a mayor detalle definidos con base en los 
+resultados obtenidos de aplicar el análisis de imágenes de satélite, el primer sitio se ubica 
+en los alrededores del volcán Santa María, el segundo en la periferia del volcán Tepetiltic 
+y el último en las cercanías del domo San Pedro, nombrados como zona 3, 4 y 5 en la 
+Tabla 13, respectivamente. Se eligieron porque se identificó la presencia de minerales 
+típicos de alteración hidrotermal, la ocurrencia de lineamientos, afloramientos de rocas 
+volcánicas recientes y estructuras geológicas. 
+ 
+Aplicación de diferentes métodos de procesamiento de imágenes sobre los datos de la 
+imagen Ceboruco_NW, tales como composición en falso color, cociente de bandas, y 
+análisis de componentes principales fueron llevados a cabo para la identificación de 
+minerales de alteración hidrotermal como guía de exploración geotérmica y para hacer un 
+reconocimiento de estructuras de origen vulcano-tectónico. Durante el estudio, el análisis 
+de datos fue llevado a cabo usando el software IDRISI Selva 17.0. 
+ 
+El trabajo futuro de exploración geológica incluirá la validación de estos métodos con 
+trabajo de campo en el área de estudio. Las estructuras previamente identificadas con 
+imágenes de satélite serán delimitadas con mayor precisión y detalle en el terreno y 
+correlacionar con las condiciones geológicas: indicar si hay estructuras de fallas, 
+intersección de fallas, manifestaciones termales grandes en la intersección de dos fallas.  
+ 
+En este estudio la detección y delineación de zonas de alteración y actividad hidrotermal 
+fue hecha para los minerales de alteración clave en el occidente del volcán Ceboruco. El 
+rango espectral de las bandas TM 1, 3, 4, 5 y 7 fue seleccionado para detectar las zonas 
+de alteración hidrotermal. 
+ 
+Los materiales de alteración identificados con estas técnicas son evidencias de la 
+existencia de fluidos hidrotermales. En zonas con vegetación abundante y con climas 
+húmedos, las manifestaciones pueden quedar enmascaradas y ser difíciles de identificar, 
+sin embargo, si la actividad hidrotermal es muy intensa, pueden crear claros en la 
+vegetación. 
+ 
+
+114 
+ 
+Algunos yacimientos geotérmicos no tienen manifestaciones o expresiones termales 
+visibles en superficie, es decir están ocultos, mediante el adecuado uso de métodos de 
+percepción remota es posible detectarlos, ya que estos permiten ver la respuesta 
+espectral de algunos materiales en un rango más amplio de longitudes de onda mayores 
+al visible. 
+ 
+La percepción remota es especialmente útil en grandes áreas alejadas, donde la 
+expresión o manifestación en superficie de la actividad geotérmica, no ha sido localizada 
+por medio de métodos convencionales. Además ha demostrado ser una valiosa 
+herramienta de ayuda en la búsqueda de recursos minerales y energéticos. 
+ 
+Los resultados obtenidos de este trabajo sirven para crear rutas y puntos de muestreo in 
+situ de rocas y gases para su estudio geoquímico con el fin de hallar evidencia que 
+muestre que hay actividad geotérmica en esa superficie (suelos humeantes, depósitos de 
+sílice, zonas de alteración, etc). 
+ 
+
+115 
+ 
+8. LÍNEAS DE INVESTIGACIÓN A SEGUIR 
+ 
+Se recomienda realizar una verificación en campo de las zonas identificadas en la imagen 
+como favorable para la presencia de mineralización y comparar los resultados obtenidos 
+en el campo tanto para el mapeo de alteración e identificación de estructuras principales 
+con los obtenidos a partir del procesamiento de las imágenes de satélite para comprobar 
+la existencia de una correlación entre ambos conjuntos de resultados (Ruiz-Armenta & 
+Prol-Ledesma, 1995). 
+ 
+Con la presentación de este trabajo se indica el camino a seguir para recomendar una 
+serie de zonas con buen potencial a investigar, ya sea desarrollado por CFE, sector 
+privado o un productor independiente de energía, con el fin de desarrollar un proyecto 
+geotérmico en el estado de Nayarit, México. En los sitios aquí recomendados podrían 
+aplicarse una serie de métodos de exploración, por ejemplo: 
+ 
+ 
+geoquímicos de muestreo de agua y gases para caracterizar los fluidos 
+hidrotermales y dar una idea del origen y dirección de los fluidos, 
+ 
+ 
+estudios electromagnéticos y gravimétricos para localizar y caracterizar las 
+estructuras profundas, 
+ 
+ 
+estudios de microsismicidad para localizar fallas activas por donde circulen los 
+fluidos geotérmicos. 
+ 
+ 
+estudios hidrogeológicos para correlacionar las manifestaciones hidrotermales con 
+fallas, fracturas y otras características tectónicas para identificar la distribución de 
+los acuíferos confinados y no confinados que permitan reconstruir el patrón de 
+circulación del agua subterránea, 
+ 
+ 
+posiblemente estudios de espectroscopia de reflexión IR para identificar la 
+mineralogía de alteración, 
+ 
+ 
+así como para crear los permisos con los propietarios de la tierra dentro de las 
+áreas de exploración de campo. 
+ 
+
+116 
+ 
+REFERENCIAS BIBLIOGRÁFICAS 
+ 
+Barbier, E. (2002). Geothermal energy technology and current status: an overview. 
+Renewable and Sustainable Energy Reviews, 6(1), 3 – 65. 
+ 
+Bonham-Carter, G. F. (1994). Geographic Information Systems for geoscientists-
+modeling with GIS. Computer methods in the geoscientists, 13, 398. 
+ 
+Burrough, P. A. (1986). Principles of geographical information systems for land resources 
+assessment.  
+ 
+Burrough, P. A., & McDonell, R. A. (1998). Principles of GIS. Oxford University Press, 
+London, 190 pp. 
+ 
+Campbell, J. B. (2002). Introduction to Remote Sensing. (3rd Ed). The Guilford Press. 
+New York, USA. 
+ 
+Campbell, J. B., & Wynne, R. H. (2011). Introduction to Remote Sensing. (5th Ed). The 
+Guilford Press. New York, USA. 
+ 
+Carranza, E. J., Wibowo, H., Barritt, S. D., & Sumintadireja, P. (2008). Spatial data 
+analysis and integration for regional-scale geothermal potential mapping, West 
+Java, Indonesia .Geothermics 37(3), 267-299. 
+ 
+Castillo, D., & De la Cruz, V. (1992). Reconocimiento estructural y volcanológico en la 
+zona termal del Domo San Pedro Lagunillas, Nayarit, México. Geofísica 
+Internacional 31(4), 407-415. 
+ 
+Chandra, A. M., & Ghosh, S. K. (2006). Remote Sensing and Geographical Information 
+System. (1st Ed). Editorial Alpha Science International Ltd. Oxford, U.K. 
+ 
+Chavez, P. S. (1975). Atmospheric, Solar, and M.T.F. Corrections for ERTS Digital 
+Imagery. Proceedings, American Society of Photogrammetry. Bethesda, MD: 
+American Society for Photogrammetry and Remote Sensing, 69-69a. 
+
+117 
+ 
+ 
+Crosta, A. P., & Moore, J. (1989). Enhancement of Landsat Thematic Mapper Imagery for 
+Residual Soil Mapping in SW Minas Gerais State, Brazil: A Prospecting Case 
+History in Greenstone Belt Terrain. Proceedings of the Seventh Thematic 
+Conference of Remote Sensing for Exploration Geology, Calgary, Alberta, Canada, 
+Oct. 2-6, pp. ERIM, 1173-1187. 
+ 
+De investigaciones Eléctricas, I. I. E. (1999). Electricidad y conservación del medio 
+ambiente. 
+ 
+Demant, A. (1978). Características del Eje Neovolcánico Transmexicano y sus problemas 
+de interpretación. Revista mexicana de ciencias geológicas, 2(2), 172-187. 
+ 
+Demant, A. (1981). Interpretación geodinámica del volcanismo del Eje Neovolcánico 
+Transmexicano. Revista mexicana de ciencias geológicas, 5(2), 217-222. 
+ 
+Del Valle, J. L. (2015). Perspectivas de desarrollo privado con la nueva Ley de Energía 
+Geotérmica. Presentation in the 22nd Annual Congress of the Mexican Geothermal 
+Association (AGM), Cuernavaca, Mor. México, 10-11, March 2015. 
+ 
+Dickson, M. H., & Fanelli, M. (2003). Istituto di Geoscienze e Georisorse.CNR, Pisa, 
+Italia.“¿Qué es la energía geotérmica?”. 
+ 
+Drury, S. A., & Drury, S. A. (2001). Image interpretation in geology. 3th ed. Blackwell 
+Science. USA.  
+ 
+Fernández De la Vega-Márquez, T., Prol-Ledesma, R. M., & Orozco, G. (2001). 
+Hydrothermal alteration and main structures mapping using TM images in La 
+Primavera geothermal field (Mexico). Geofísica Internacional, 40(3), 147-162. 
+ 
+Ferrari, L., Conticelli, S., Vaggelli, G., Petrone, C.H., & Manetti, P. (2000). Late Miocene 
+volcanism and intra-arc tectonics during the early development of the Trans-
+Mexican Volcanic Belt. Tectonophysics, 318(1), 161-185. 
+ 
+
+118 
+ 
+Ferrari, L., Pasquaré, G., Venegas, S., Castillo, D., & Romero, F. (1994). Regional 
+tectonics of western Mexico and its implications for the northern boundary of 
+Jalisco Block. Geofísica Internacional, 33(1), 139-151. 
+ 
+Ferrari, L., Petrone, C., Francalanci, L., Tagami, T., Eguchi, M., Conticelli, S., Manetti. P., 
+& Venegas-Salgado, S. (2003). Geology of the San Pedro – Ceboruco Graben, 
+western Trans-Mexican Volcanic Belt. Revista Mexicana de Ciencias Geológicas, 
+20(3), 165-181. 
+ 
+Ferrer, H. P., Bate, E. S., Guerrero, D. R., & Ferrer, A. P. (1986). LANDSAT Assisted 
+Geostructural Analysis of the Bacon-Manito Geothermal Field. Southeastern 
+Luzon, Philippines. Geothermal Resources Council, Bulletin 1-13. 
+ 
+Fraser, S. J. (1991). Discrimination and identification of ferric oxides using satellite 
+Thematic Mapper data: A Newman case study. International Journal of Remote 
+Sensing, 12(3), 635-641. 
+ 
+García-Estrada, G., & López-Hernández, A. (2003). The Use of a GIS for the Study of 
+Geothermal Fields. Results at Los Azufres, Mexico. Geothermal Resources Council 
+Transactions, 27, 609-613. 
+ 
+Gutiérrez-Negrín, L.C., Maya-González, R., & Quijano-León, J.L. (2015). Present 
+Situation and Perspectives of Geothermal in Mexico. Proceedings World 
+Geothermal Congress 2015 (pp. 19-24).  
+ 
+Henley, R. W., & Ellis, A. J. (1983). Geothermal systems ancient and modern: a 
+geochemical review. Earth-science reviews, 19(1), 1-50. 
+ 
+Huenges, E. (2010). Geothermal Energy Systems. Exploration, Development, and 
+Utilization. WILEY-VCH Verlag GmbH & Co. KGaA. Weinheim. Germany. 
+ 
+Hunt, G. R. (1977). Spectral signatures of particulate minerals in the Visible and Near 
+Infrared. Geophysics, 42(3), 501-513. 
+ 
+
+119 
+ 
+Hunt, G. R. (1979). Near-infrared (1.3 – 2.4 μm) spectra of alteration minerals-Potential for 
+use in remote sensing. Geophysics, 44(12), 1974-1986. 
+ 
+Hunt, G. R. & Ashley, R. P. (1979). Spectra of altered rocks in the visible and near 
+infrared. Economic Geology, 74(7), 1613-1629. 
+ 
+IRENA, International Renewable Energy Agency. (2015). Renewable Power Generation 
+Costs in 2014. 
+ 
+Jensen, J. R. (1996). Introductory Digital Image Processing: A Remote Sensing 
+Perspective. (2nd Ed). Prentice Hall Series in Geographic Information Science. 
+USA. 
+ 
+Kauffmann, H. (1988). Mineral exploration along the aqaba-levant structure by use of TM-
+data: Concepts, processing and results. International Journal of Remote Sensing, 
+9(10-11), 1639-1658. 
+ 
+Littlefield, E., & Calvin, W. (2009). Remote Sensing for Geothermal Exploration Over 
+Buffalo Valley, NV. Geothermal Resources Council Transactions, 33, 495-499. 
+ 
+Loughlin, W. P. (1991). Principal Component Analysis for Alteration Mapping. 
+Photogrammetric Engineering & Remote Sensing, 57(9), 1163-1169. 
+ 
+Luhr, J. F., Nelson, S. A., Allan, J. F., & Carmichael, I, S. (1985). Active rifting in South-
+western Mexico: Manifestations on an incipient eastward spreading-ridge jump. 
+Geology, 13(1), 54-57. 
+ 
+Lund, J. W., Freeston, D. H., & Boyd, T. L. (2010). Direct utilization of geothermal energy 
+2010 worldwide review. Geothermics, 40 (3), 159-240. 
+ 
+Mboin, I. (2011). Application of Landsat TM Satellite Imagery to Map Geothermal 
+Resources and Land Cover: Case Study of Silali Prospect. Geothermal Prospect 
+Using Landsat TM. Geothermal Resources Council Transactions, 35, 911-916. 
+ 
+
+120 
+ 
+Meneses III, F. (2013). Use of remote sensing in EDC: Opportunities and challenges. 
+Proceedings of the 10th Asian Geothermal Symposium, 22-24 September 2013. 
+ 
+Moghaddam, M. K., Samadzadegan, F., Noorollahi, Y., Sharifi, M. A., & Itoi, R. (2014). 
+Spatial analysis and multi-criteria decision making for regional-scale geothermal 
+favorability map. Geothermics, 50, 189-201. 
+ 
+Moore, G. K. & Waltz, F. A. (1983). Objective Procedures for Lineament Enhancement 
+and Extraction. A five-step digital convolution procedure extracts edge and line 
+segments 
+or 
+produces 
+directionally 
+enhanced 
+images. 
+Photogrammetric 
+Engineering and Remote Sensing, 49(5), 641-647. 
+ 
+Mutua, J., & Mibei, G. (2011). Remote Sensing Application in Geothermal Exploration: 
+Case Study of Barrier Volcanic Complex, Kenya. Geothermal Resources Council 
+Transactions, 35, 943-948. 
+ 
+Nash, G. D., Murphy, E., & Umbriaco, J. (2004). Remote Sensing for Geothermal 
+Resource Exploration and Characterization: A Summary of Results 2000 – 2004. 
+Geothermal Resources Council Transactions, 28, 31-36. 
+ 
+Nash, G. D., & Adams, M. C. (2001). Cost Effective use of GIS for Tracer Test Mapping 
+and Visualization. Geothermal Resources Council Transactions, 25. 
+ 
+Nelson, S. A. (1986). Geología del Volcán Ceboruco, Nayarit, con una estimación de 
+riesgos de erupciones futuras. Revista del Instituto de Geología UNAM, 2(6), 243-
+258. 
+ 
+Noorollahi, Y., Itoi, R., Fujii, H., & Tanaka, T. (2008). GIS integration model for 
+geothermal exploration and well sitting. Geothermics, 37, 107-131. 
+ 
+Noorollahi, Y., Itoi, R., Fujii, H., & Tanaka, T. (2007). GIS model for geothermal resource 
+exploration in Akita and Iwate prefectures, northern Japan. Computers & 
+Geosciences, 33, 1008-1021. 
+ 
+
+121 
+ 
+Noorollahi, Y., & Itoi, R. (2008). GM-GRE: An integration method for Geothermal Potential 
+site selection. Geothermal Training Programme. 30th Anniversary Workshop, 1-12. 
+ 
+Prol-Ledesma, R. M., Alcántara, A., & Chávez, M. (1993). Exploración geotérmica 
+utilizando imágenes de satélite en Los Humeros, Puebla, México. Geofísica 
+Internacional, 32(1), 99-109. 
+ 
+Prol-Ledesma, R. M. (2000). Evaluation of the reconnaissance results in geothermal 
+exploration using GIS. Geothermics, 29, 83-103. 
+ 
+Prol-Ledesma, R. M., & Nieva, D. (2013). El futuro de la Geotermia en el siglo XXI. Foro 
+Internacional sobre Energía Geotérmica. 28 y 29 de Octubre de 2013 Salón José 
+María Morelos y Pavón, de la Secretaría de Relaciones Exteriores, México, D.F. 
+ 
+Richards, J. A. (2013). Remote Sensing Digital Image Analysis. An Introduction. 5th ed. 
+Springer. Australia. 
+ 
+Rosas-Elguera, J., Ferrari, L., Garduño-Monroy, V., & Urrutia-Fucugauchi, J. (1996). 
+Continental boundaries of the Jalisco Block in the Pliocene-quaternary kinematics 
+of western Mexico. Geology, 24(10), 921-924. 
+ 
+Ruiz-Armenta, J. R., & Prol-Ledesma, R. M. (1995). Técnicas de procesamiento de 
+imágenes en la exploración de yacimientos minerales de origen hidrotermal. 
+Universidad Complutense. Física de la Tierra 7, 105-137. 
+ 
+Ruiz-Armenta, J. R., & Prol-Ledesma, R. M. (1998). Techniques for enhancing the 
+spectral response of hydrothermal alteration minerals in Thematic Mapper images 
+of Central Mexico. International Journal Remote Sensing, 19, 10, 1981-2000. 
+ 
+Sabins, F. (1997). Remote Sensing. Principles and interpretation. JR, W. H. Freeman and 
+Company, Segunda edición. U.S.A. 
+ 
+Sabins, F. (1999). Remote sensing for mineral exploration. Ore Geology Reviews, 14(3), 
+157-183. 
+
+122 
+ 
+Saraf, A., & Choudhury, P. (1998). Integrated remote sensing and GIS for groundwater 
+exploration and identification of artificial recharge sites. International Journal of 
+Remote Sensing, 19(10), 1825-1841. 
+ 
+Secretaría de Energía (SENER). Capacidad efectiva de generación, Megawatts. 
+ 
+Servicio Geológico Mexicano (SGM). Carta geológica-minera Tepic F13-8, Nayarit y 
+Jalisco, escala 1 a 250,000, segunda edición 1998. Autores: Cedillo, R., Saldaña, 
+G., Hernández-Noriega, L., & Munguía, P. 
+ 
+Seung-Gyun, B., Hyoung-Chan, K., & Jeongmin, P. (2010). Geothermal potential mapping 
+in Korea using GIS data integration. Proceedings World Geothermal Congress. 
+ 
+Suárez, G., & Singh, S.K. (1986). Tectonic interpretation of the transmexican Volcanic 
+Belt-Discussion. Tectonophysics, 127, 155-160. 
+ 
+Tarbuck, E., & Lutgens, F. (2005). Ciencias de la Tierra. Una introducción a la geología 
+física. Pearson Education. 
+ 
+Tüfekςi, N., Lütfi-Süzen, M., Güleς, N. (2010). GIS based geothermal potential 
+assessment: A case study from Western Anatolia, Turkey, Energy, 35, 246-261. 
+ 
+Urai, M., Muraoka, H., & Nasution, A. (2000). Remote Sensing Study for Geothermal 
+Development in the Ngada District, Central Flores, Indonesia. Proceedings of the 
+World Geothermal Congress, 1905-1908. 
+ 
+Velador, J .M., Omenda, P. A., & Anthony, E. Y. (2003). An Integrated Mapping and 
+Remote Sensing Investigation of the Structural Control for Fumarole Location in the 
+Eburru 
+Volcanic 
+Complex, 
+Kenya 
+Rift. 
+Geothermal 
+Resources 
+Council 
+Transactions, 27, 639-642. 
+ 
+Wannamaker, P. E., Ross, H. P., & Arellano, J. F. (1994). Geophysical Studies: Ceboruco 
+Geothermal Reconnaissance Area. U.S. Department of Energy, 13-14. 
+ 
+
+123 
+ 
+Williams, H., & McBirney, A. R. (1979). Volcanology: San Francisco, Freeman and 
+Cooper, 397. 
+ 
+Wright, P. M., Lira, H., & Ramsey, D. R. (1990). Interpretation of Landsat Thematic 
+Mapper Satellite Imagery at Los Azufres Geothermal Field, Michoacan, Mexico. 
+Geothermal Resources Council Transactions, 14, 1553-1559. 
+ 

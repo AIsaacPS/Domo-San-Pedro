@@ -1,0 +1,48 @@
+================================================================================
+RESUMEN TÉCNICO-LEGAL: CONCESIÓN DEL CAMPO GEOTÉRMICO DOMO SAN PEDRO, NAYARIT
+IMPLICACIONES PARA EL OBJETIVO GENERAL Y EXPANSIÓN DEL CAMPO (TESINA UNAM)
+================================================================================
+
+1. DATOS GENERALES DEL TÍTULO DE CONCESIÓN
+--------------------------------------------------------------------------------
+• Titular / Concesionario: Geotérmica para el Desarrollo, S.A.P.I. de C.V. (Grupo Dragón).
+• Autoridad Emisora: Secretaría de Energía (SENER), Dirección General de Energías Limpias.
+• Fecha de Otorgamiento: 30 de octubre de 2015.
+• Vigencia: 30 años (prorrogables conforme a la Ley de Energía Geotérmica).
+• Objeto: Concesión para la explotación de recursos geotérmicos para la generación de energía eléctrica y usos diversos en el área denominada "Domo de San Pedro".
+• Ubicación Administrativa: Paraje conocido como Domo de San Pedro, Municipio de San Pedro Lagunillas, Estado de Nayarit, México.
+
+2. DELIMITACIÓN ESPACIAL Y COORDENADAS DEL ÁREA CONCESIONADA
+--------------------------------------------------------------------------------
+• Superficie Total Concesionada: 129.18 km² (12,918 hectáreas).
+• Referencia Geográfica: Región Hidrológica 13 "Río Huicicila", Eje Neovolcánico Transversal, a 17.5 km al NW del Volcán Ceboruco.
+
+Vértices y Coordenadas Oficiales (Anexo I del Título de Concesión):
+
++---------+--------------------+--------------------+--------------------+---------------------+
+| Vértice | Coordenada UTM X   | Coordenada UTM Y   | Latitud Norte (N)  | Longitud Oeste (W)  |
+|         | (Zona 13N, m)      | (Zona 13N, m)      | (Sexagesimal)      | (Sexagesimal)       |
++---------+--------------------+--------------------+--------------------+---------------------+
+| 1 (P.P) | 528,815.00         | 2,346,693.00       | 21° 13' 07.58720"  | 104° 43' 20.39484"  |
+| 2       | 534,695.00         | 2,346,778.00       | 21° 13' 19.98000"  | 104° 39' 56.42000"  |
+| 3       | 536,557.00         | 2,341,933.00       | 21° 10' 42.26000"  | 104° 38' 52.19000"  |
+| 4       | 536,736.00         | 2,335,981.00       | 21° 07' 28.64316"  | 104° 38' 46.37472"  |
+| 5       | 522,796.00         | 2,335,906.00       | 21° 07' 27.02136"  | 104° 46' 49.64376"  |
+| 6       | 522,936.00         | 2,344,192.00       | 21° 11' 56.53788"  | 104° 46' 44.45976"  |
+| 7       | 528,610.00         | 2,344,310.00       | 21° 12' 00.07524"  | 104° 43' 20.71308"  |
++---------+--------------------+--------------------+--------------------+---------------------+
+*(P.P. = Punto de Partida del Polígono)*
+
+3. RELEVANCIA Y APLICACIÓN DIRECTA EN LA TESINA DE POSGRADO
+--------------------------------------------------------------------------------
+Título de la Tesina: "Determinación de zonas favorables para la expansión del Campo Geotérmico Domo San Pedro, Nayarit"
+
+a) Máscara de Delimitación Spatial en SIG:
+   El polígono de 129.18 km² definido por los 7 vértices constituye la frontera legal y el área de estudio principal (Domain / Clipping Mask) dentro del Sistema de Información Geográfica (SIG). Todas las capas de información (geología, densidad de fallas, geofísica MT 3D, microsismicidad inducida) serán recortadas y analizadas prioritariamente dentro de este polígono.
+
+b) Justificación del Potencial de Expansión (Anexo II del Título):
+   El documento de concesión (Anexo II) señala que el yacimiento geotérmico hidrotermal estimado abarca un volumen aproximado de 1,809 km³ con un potencial total estimado de hasta 200 MW. Dado que la capacidad actualmente instalada es de 35.5 MW, existe un margen técnico y legal considerable para sustentar la expansión mediante la identificación de nuevas micro-zonas de perforación profunda.
+
+c) Conectividad e Infraestructura Existente:
+   El título ampara el derecho exclusivo de aprovechamiento del yacimiento. Ubicar zonas prospectivas dentro o contiguas a esta concesión optimiza la viabilidad económica del proyecto de expansión al aprovechar la infraestructura ya desarrollada (red de caminos, subestación eléctrica a 10 km en Chapalilla y derechos de agua subterránea otorgados por CONAGUA).
+================================================================================

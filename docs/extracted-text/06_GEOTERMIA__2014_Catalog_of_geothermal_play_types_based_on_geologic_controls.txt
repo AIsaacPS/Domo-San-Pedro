@@ -1,0 +1,1924 @@
+Catalog of geothermal play types based on geologic controls
+Inga S. Moeck n
+Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada T6G 2E3
+a r t i c l e i n f o
+Article history:
+Received 11 July 2013
+Received in revised form
+21 April 2014
+Accepted 10 May 2014
+Available online 12 June 2014
+Keywords:
+Geothermal systems
+Classiﬁcation scheme
+Convection dominated geothermal plays
+Conduction dominated geothermal plays
+Geological controls
+a b s t r a c t
+The key element in the characterization, assessment and development of geothermal energy systems is
+the resource type. Throughout the past 30 years many resource type schemes and deﬁnitions were
+published, based on temperature and thermodynamic properties. An alternative possibility to cataloging
+geothermal energy systems is by their geologic characteristics, referred to as geothermal plays. Applied
+to worldwide case studies, a new catalog is developed based on the effects of geological controls and
+structural plate tectonic positions on thermal regime and heat ﬂow, hydrogeologic regime, ﬂuid
+dynamics, ﬂuid chemistry, faults and fractures, stress regime, and lithological sequence. Understanding
+geologic controls, especially of geothermal plays without surface expression, allows the comparison with
+hydrocarbon reservoirs through their ratio of porosity and permeability. This analog has implications on
+site-speciﬁc, ﬁrst class exploration strategies and reservoir improvement through technologies speciﬁ-
+cally suitable for unconventional sustainable energy reservoirs. This article aims to introduce geothermal
+plays to a wide geoscientiﬁc community and to initiate a geologically based cataloging of geothermal
+resources. With this new catalog of geothermal plays, it will be ultimately possible to transfer lessons
+learned not only within one speciﬁc catalog type, but also technology from geothermal plays to
+unconventional hydrocarbon plays and vice versa.
+& 2014 The Author. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/3.0/).
+Contents
+1.
+Introduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 867
+2.
+Geologic perspective on geothermal play systems. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 869
+3.
+Geothermal plays in relation to plate tectonic setting. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 869
+4.
+Geologic controls on geothermal plays. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 871
+4.1.
+Convection-dominated geothermal plays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 871
+4.1.1.
+Magmatic geothermal plays–volcanic ﬁeld and plutonic type. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 871
+4.1.2.
+Non-magmatic geothermal plays – extensional domains . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 873
+4.2.
+Conduction dominated geothermal plays. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 874
+4.2.1.
+Igneous geothermal plays– basement type . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 875
+4.2.2.
+Non-magmatic geothermal plays – intracratonic basins and orogenic belts. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 875
+5.
+Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 878
+6.
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 879
+Acknowledgments. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 880
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 880
+1. Introduction
+Geothermal energy provides commercial base-load electricity
+from conventional hydrothermal resources for more than 100 years,
+with a global installed electricity generation of 10,751 MWel [1]
+and direct use of 50,583 MWth [2]. Whereas these prime geothermal
+systems are limited to tectonically active areas or regions with active
+Contents lists available at ScienceDirect
+journal homepage: www.elsevier.com/locate/rser
+Renewable and Sustainable Energy Reviews
+http://dx.doi.org/10.1016/j.rser.2014.05.032
+1364-0321/& 2014 The Author. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/3.0/).
+Abbreviations:
+MWel,
+Megawatt
+electric;
+MWth,
+Megawatt
+thermal;
+EGS,
+Enhanced Geothermal Systems; MPa, Megapascal; HDR, Hot Dry Rock; GHG,
+Greenhouse gas; CV, Convection dominated heat transfer regime; CD, Conduction
+dominated heat transfer regime
+n Tel.: þ1 7804923265; fax: þ1 7804922030.
+E-mail address: moeck@ualberta.ca
+Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+
+volcanism, the concept of Enhanced or Engineered Geothermal
+Systems (EGS) has signiﬁcantly increased the world-wide geothermal
+potential by technology reservoirs where the stored thermal energy
+can be extracted from subsurface even in areas of low or moderate
+heat ﬂow. Tester et al. [3] claim that EGS resources could technically
+provide 100,000 MWel cost-competitive electric energy in the USA by
+2050. However, more effort in research and development is needed
+to realize this goal. Successful reservoir production from geothermal
+systems depends mainly on the appropriate selection of exploration
+methods. The decision for these appropriate exploration methods
+might depend on the type of geothermal energy system foreseen for
+heat and power production and necessitates a classiﬁcation system
+for geothermal system types. A geothermal system is generally
+classiﬁed by its geological, hydrogeological and heat transfer char-
+acteristics, while a geothermal resource is formed by an economically
+sufﬁcient amount of heat concentration in drillable depth of Earth's
+crust [4]. The term sufﬁcient may dependent on technology devel-
+opment resulting in modern viable geothermal reserves that were
+not economic in the past. When it comes to geothermal prospects,
+resources and reserves, it is obvious that clear terms and deﬁnitions
+are required to provide reliable and comparable reserve estimation
+analogous to the classiﬁcation schemes developed for petroleum
+resources. According to the Petroleum Resources Management Sys-
+tem [5], reserves are classiﬁed as commercially recoverable resources
+and contingent resources are less certain because of some commer-
+cial or technical hurdle resulting in a lower conﬁdence level for
+eventual production. The lowest level in this classiﬁcation scheme is
+represented by prospective resources, which are estimated but
+undiscovered accumulation of potentially recoverable heat (i.e. prior
+to drilling). Unrecoverable resources are classiﬁed as not being
+commercially producible at the present point in time. While one
+portion the unrecoverables may become recoverable in the future
+with changing commercial and evolving technological circumstances,
+another portion may never be recovered due to physical or chemical
+constraints in the reservoir [5]. From this classiﬁcation perspective,
+the lowest unit in a bottom up approach is the geologically based so-
+called “play type”, which leads to prospects and ultimately to
+reserves. A play type in petroleum geology represents a particular
+stratigraphic or structural geological setting, deﬁned by source rock,
+reservoir rock and trap [6]. Translated to geothermal systems, a play
+type might be deﬁned by the heat source, the geological controls on
+the heat migration pathway, heat/ﬂuid storage capacity and the
+potential for economic recovery of the heat. Ultimately the geological
+habitat does not only control the play type but also the decision for
+applied heat recovery technology.
+The new interest in geothermal energy resources is tied to the
+question of economic risks and the production potential of
+individual geothermal resource types. Quantifying the chance of
+development and ﬁeld production involves feasibility studies and
+utilization concepts for the economic development of speciﬁc
+geothermal systems. From this perspective, it is important to note
+that a geothermal resource is part of a geologic system where
+geologic factors such as lithology, faults, fractures, stress ﬁeld,
+diagenesis, rock mechanics, ﬂuid chemistry and geochemistry
+control key parameters, such as high porosity and high perme-
+ability domains, ﬂuid ﬂow, lateral and vertical temperature dis-
+tribution and overall reservoir behavior during injection and
+production. A site speciﬁc appropriate ﬁeld development should
+therefore be based on a profound understanding of the geologic
+controls of a geothermal play involving a suite of modern site
+speciﬁc exploration techniques. A clear and widely understandable
+new catalog of geothermal plays is required to fulﬁll the aims of
+exploration in reducing the risk of non-productive wells and
+guiding best choice reservoir technology to ultimately produce
+thermal energy on an economically sustainable level. The need for
+a new catalog may also emerge for two major reasons: (I) The recent
+development in Enhanced Geothermal System (EGS) technologies
+produces tangible pilot projects for heat and power generation from
+low-enthalpy resources, thereby extending the worldwide geother-
+mal potential, and (II) the growing political-social request for renew-
+able energy to reduce climate gas emission.
+Throughout the past 30 years many catalog schemes and
+deﬁnitions for geothermal resources have been published, mainly
+based on temperature and thermodynamic properties. Tempera-
+ture has been the essential measure of the quality of the resource,
+and geothermal play systems have been divided into three
+different temperature (or enthalpy) play types: low-temperature,
+moderate-temperature and high-temperature [7–13]. There are,
+however, no uniform temperature ranges for these types (Table 1).
+Lee [14] pointed out that temperature and enthalpy alone are
+inconsistent and insufﬁcient to catalog geothermal plays and
+suggests a catalog scheme by the speciﬁc exergy of a geothermal
+ﬂuid as a measure of its ability to do a work. The term exergy is
+used in thermodynamics to deﬁne the amount of energy that is
+available to be used during a process that brings the system into
+equilibrium [15]. Lee [14] developed a speciﬁc exergy index as the
+ratio of the speciﬁc exergy of a given geothermal play to the
+speciﬁc exergy in the saturated steam at a pressure of 9 MPa. Lee's
+geothermal play catalog has some advantages, as it directly relates
+to relevant properties of the produced thermal ﬂuid at the well-
+head. However, it does not consider geological–hydrogeological
+aspects such as geological setting, controls on ﬂuid ﬂow, ﬂuid
+chemistry and possible mineral precipitation in reservoir rock or in
+technical installations below and above the ground surface. All of
+these factors can impair the energy production and overall economic
+utilization of a geothermal resource. Moreover, Lee's [14] concept
+requires access to both temperature and pressure estimates for actual
+conditions at the wellhead; thus his catalog scheme can only be
+applied after drilling the ﬁrst well. A geothermal play catalog and
+assessment scheme should, however, also be applicable before
+drilling for assessment and site speciﬁc ﬁeld development.
+Williams et al. [16] point out that it is still a substantial
+requirement that a resource assessment provides a logical and
+consistent framework that is simpliﬁed enough to communicate
+important aspects of geothermal energy potential to both non-
+experts and the general public. One possible solution may be to
+Table 1
+Catalog scheme of geothermal resources by temperature according to different authors (compilation modiﬁed from Lee [14]).
+Mufﬂer [8] (1C)
+Hochstein [9] (1C)
+Benderitter and Cormy [12] (1C)
+Haenel et al. [10] (1C)
+Low enthalpy
+o90
+o125
+o100
+o150
+Moderate enthalpy
+90–150
+125–225
+100–200
+–
+High enthalpy
+4150
+4225
+4200
+4150
+Sanyal [13]
+Non-electrical (1C)
+Very low (1C)
+Low (1C)
+Moderate (1C)
+High (1C)
+Ultra high (1C)
+o50–100
+100–150
+150–180
+180–230
+230–300
+4300
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+868
+
+avoid cataloging geothermal plays by temperature and simply
+state the range of temperatures at the individual site.
+Due to technological development, in particular in EGS tech-
+nology, currently there are more geothermal systems that are
+potentially economical than there were 30 years ago. Therefore, a
+new cataloging scheme for geothermal play systems should
+characterize geologic controls on geothermal resources, recogniz-
+ing that future technological developments may alter quantitative
+boundaries and deﬁnitions based on temperature. A catalog of
+geothermal system plays should not be mistaken with a geother-
+mal system classiﬁcation, which is preferably used for ﬁnancial
+reporting
+schemes
+aiming
+to
+distinguish
+between
+different
+degrees of certainty and project maturity (G. Beardsmore, 2013,
+personal communication).
+2. Geologic perspective on geothermal play systems
+In contrast to the straightforward deﬁnition of hydrocarbon
+play systems, which are clearly deﬁned by their source rock,
+reservoir and trap, geothermal play systems are lacking such a
+clear set of geological features. Instead, geothermal play systems
+appear in diverse geologic environments and theoretically all over
+the world. For geothermal resource utilization, important factors
+are how much heat is stored at a drillable depth and if this heat is
+producible at an economic rate for a speciﬁc project. Pioneering
+work in describing and cataloging geothermal systems was done
+by Manfred Hochstein in the late 1980s. After 30 years of devel-
+opment in geothermal technology, however, it is time, to extend
+Hochstein's catalog to incorporate EGS.
+The American Geosciences Institute deﬁnes a geothermal
+system generally as [17]:
+“Any regionally localized geological settings where naturally
+occurring portions of the earth's internal heat ﬂow are transported
+close enough to the earth's surface by circulating steam or hot
+water to be readily harnessed for use”.
+Since this deﬁnition refers only to convective geothermal
+resources, Williams et al. [16] broadened this deﬁnition to include
+also conductive geothermal resources:
+“A geothermal system is any localized geologic setting where
+portions of the Earth's thermal energy may be extracted from a
+circulating ﬂuid and transported to a point of use”.
+This deﬁnition still excludes the concept of EGS, where the
+geothermal play system conditions are enhanced from previous
+non-economic to economic conditions. The key point for EGS is
+that the ratio of the temperature to the ﬂow rate (or production
+and injection rate) must be given for an economic use. Although
+the quantitative meaning of economic might change through time,
+the terms ﬂow rate, temperature and economics must be linked
+for a modern geothermal system deﬁnition. The deﬁnition of
+Williams et al. [16] should therefore be extended as follows:
+“A geothermal system is any localized geologic setting where
+portions of the Earth's thermal energy may be extracted from
+natural or artiﬁcially induced circulating ﬂuids transported to a
+point of use. Enhanced Geothermal Systems are portions of the
+Earth crust where the ratio of ﬂow rate and ﬂuid temperature is
+naturally too low for economic use, and therefore the ﬂow rate must
+be increased to a sufﬁcient ﬂow rate/temperature ratio by enhancing
+the natural permeability through technological solutions”.
+In EGS the circulating ﬂuid can be the natural ﬂuid if a
+hydrothermal system is hosted by a low permeability formation,
+or it can be an artiﬁcial (i.e. injected) ﬂuid if the formation of the
+geothermal system does not contain enough ﬂuid volume for heat
+extraction (referred to as Hot Dry Rock or petrothermal system).
+Referring to the revised deﬁnition of a geothermal system
+above, an alternative possibility is classifying geothermal play
+systems by their geologic setting. Recent attempts in categorizing
+geothermal plays are the play fairway analyses of hydrothermal
+systems in the United States, where the geographic extent of
+favorable settings is deﬁned [18], or the play concept of rift zones
+where repeating sets of prospects with common characteristics
+deﬁne a play group [19]. From a structural geology perspective, a
+catalog theme can be guided by the plate tectonic setting, for
+example, whether the play system is related to convection or
+conduction dominated heat transfer and if the geothermal play
+system is magmatic or non-magmatic. Understanding and char-
+acterizing the geologic controls on geothermal plays has been an
+ongoing focus on different scales, from plate tectonics (e.g. [20,21])
+to local tectonics/structural geology [22]. In fact, the geologic
+setting has a fundamental inﬂuence on the potential temperature,
+on the ﬂuid composition, the reservoir characteristics and whether
+the geothermal play is a convective or conductive system.
+In particular, a structural geological understanding helps to
+better interpret geophysical data and to identify favorable settings
+for drilling [23]. Essential parameters are the stress ﬁeld and
+reservoir geomechanics, since the orientation of the current stress
+ﬁeld has an impact on ﬂuid ﬂow along faults and ultimately on the
+permeability anisotropy in fractured reservoirs [24]. The stress ﬁeld is
+also crucial for EGS development because technology reservoirs,
+particularly the technology of reservoir stimulation, aim to increase
+the permeability by generating additional fractures [25]. Orientation
+and growth of these artiﬁcial fractures are strongly controlled by the
+stress ﬁeld and geomechanical rock properties, which need to be
+understood prior to stimulation and deﬁning injection rates. A more
+important factor than generating fractures through stimulation might
+be keeping the induced fractures open during production and
+subsequent formation pressure drop. The analysis of the fault
+reactivation potential by the slip and dilation tendency technique
+helps in risk assessment during injection in general, which also
+includes re-injection [26]. A quantitative structural geology evalua-
+tion involving 3D structural geological modeling, stress ﬁeld analysis
+and fault stress modeling is therefore a fundamental part in
+geothermal ﬁeld development from exploration to drilling to reser-
+voir engineering [27].
+This work will review these aspects along with a newly
+developed catalog scheme based on the author's work experience
+in different geologic-geothermal settings. This catalog involves
+both convective and conductive dominated geothermal plays.
+Special emphasis is given to geothermal exploration that provides
+site-speciﬁc guidelines for geothermal systems, especially EGS.
+3. Geothermal plays in relation to plate tectonic setting
+Plate tectonic settings have a fundamental inﬂuence on the
+characteristics of a geothermal play. The thermal regime and heat
+ﬂow, hydrogeologic regime, ﬂuid dynamics, ﬂuid chemistry, faults
+and fractures, stress regime and lithological sequence are all
+controlled by the plate tectonic framework and are critical for
+understanding the geothermal play system. The thermal state of
+the crust at active plate boundaries is distinct from that in other
+large-scale geological provinces, such as tectonically quiescent
+settings (e.g. cratons), major fault zones (active or inactive), or
+deep, sedimentary basins (intracontinental or in front of orogenic
+zones).
+In general, geothermal plays are dominated either by a con-
+vection or conduction heat transfer regime. Convection-dominated
+geothermal plays – often referred to as viable or active geothermal
+play systems due to their ﬂuid dynamics [28] – host high enthalpy
+resources and occur at plate tectonic margins, or settings of active
+tectonism or volcanism (Fig. 1). Convection of thermal ﬂuids
+induced by a heat source or elevated heat ﬂow transports heat
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+869
+
+from deeper levels to the surface. Structural controls have a major
+effect on ﬂuid ﬂow pathways in convection-dominated systems.
+In high temperature play systems, ﬂuid ﬂow velocities are faster
+than in low temperature resources [29]. Several factors and
+processes inﬂuence convection within a geothermal play. Besides
+a high temperature gradient, high permeability (41014 m2;
+10 mD) is necessary to allow signiﬁcant convection, whereas in
+low permeability layers (o1015 m2; 1 mD) only minor or no
+convection occurs [9]. Generally, a high geothermal gradient,
+natural ﬂuid ﬂow and ﬂuid dynamics characterize convection-
+dominated geothermal plays.
+In contrast, conduction-dominated geothermal plays host low
+to medium enthalpy resources, which can also be called passive
+geothermal play systems due to the absence of fast convective
+ﬂow of ﬂuids and less short-term ﬂuid dynamics. These systems
+are located predominately at passive tectonic plate settings where
+no signiﬁcant recent tectonism or volcanism occurs. Here, the
+geothermal gradient is average, thus this type of geothermal play
+is located at greater depth than convection-dominated geothermal
+systems. Conduction-dominated geothermal plays in low perme-
+ability domains such as tight sandstones, carbonates or crystalline
+rock require EGS technology to be utilized on an economic level.
+Faults can still play an important role in these systems as a ﬂuid
+conduit or barrier during production and may induce compart-
+mentalization of the system into separate fault blocks. Lithofacies,
+diagenesis, dissolution processes including karstiﬁcation and frac-
+tures play a major role for reservoir quality evaluation comparable
+to oil and gas plays.
+An important factor in understanding the occurrence of con-
+vection and conduction-dominated play systems is distinguishing
+between igneous and non-magmatic geothermal plays. These
+terms refer to the heat source and tectonic activity. Igneous play
+systems can induce both conduction and convection-dominated
+geothermal plays. The difference is that conduction-dominated
+systems in or close to igneous rocks are related to high radiogenic
+heat production (typically high heat producing element rich
+granites), but no active volcanism and minor or no active tecton-
+ism occurs. Alternatively, convection-dominated magmatic plays
+require a magma chamber as the heat source in volcanic and
+tectonically active areas. In conduction-dominated igneous plays,
+large volumes of natural ﬂuids are absent. These “dry” systems
+require EGS technology for hydraulic fracturing and injection
+induced circulation of ﬂuids to transfer heat from depth to surface.
+Fluids play an important role in geothermal system utilization,
+since they are necessary for transporting heat from the reservoir to
+the surface. The volume of produced ﬂuids determines whether a
+geothermal play system is economic. The appropriate balance
+between production and injection of thermal ﬂuids inﬂuences
+the economic life-time of a geothermal reservoir. Moreover, the
+ﬂuid chemistry has major effects on the efﬁciency and life-time of
+a reservoir and the material selection of technical installations to
+minimize phenamona such as corrosion and mineral precipitation
+(i.e. scaling). It is, therefore, important to understand the reservoir
+ﬂuids' origin, chemistry, recharge characteristics, and meteoric
+water content. Hochstein [9] points to the inﬂuence of steep
+topography
+in
+geothermal
+play
+systems,
+which
+cause
+large
+volumes of meteoric water recharge into convective geothermal
+plays via high inﬁltration rates. The inﬂuence of steep terrain on
+the hydraulic head is not only signiﬁcant in volcanic ﬁeld settings
+as in Hochstein's concept but also in sedimentary basin settings
+Fig. 1. Geothermal ﬁelds installed worldwide in a plate tectonic setting. Geothermal play types with example ﬁelds: CV – Convection dominated heat transfer,
+CD – conduction dominated heat transfer. (List of geothermal ﬁelds from http://geothermal-powerplant.blogspot.com; www.thinkgeoenergy.com; Zheng and Dong, 2008 [30]; plate
+tectonic map based on Frisch and Löschke, [31]).
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+870
+
+adjacent to mountain belts. The hydrogeologic model for the
+Alberta Basin incorporates the effects of topographic relief on
+inﬁltration of ﬂuids into the basin [32], that hosts low enthalpy
+conduction-dominated systems in different carbonates and tight
+(i.e. low permeability) sandstones [33]. Thus, the effects of steep
+terrain can be important for inﬁltration in both high and low
+enthalpy systems.
+The majority of the world's operating geothermal power plants
+produce electricity in settings where faults transect much of the
+lithosphere, or where magma chambers occur (Fig. 1). Deep
+reaching faults and active volcanism characterize active plate
+tectonic margins. Understanding the processes of active tectonism
+at different scales may be crucial for characterizing convection-
+dominated, high enthalpy geothermal resources. In conduction-
+dominated, low enthalpy geothermal plays, it is crucial to under-
+stand the entire geodynamic evolution, particularly the role of
+faults and fractures in the present-day stress ﬁeld. Therefore, it
+may be prudent to catalog geothermal play systems according to
+their plate tectonic setting, heat source (magmatic/intrusive or
+non-magmatic), and geologic controls on heat transport mechan-
+ism, storage system and permeability structure.
+The
+following
+sections
+incorporate
+the
+existing
+catalog
+schemes for geothermal resources and place them into a plate
+tectonic and structural geological context. Each new catalog class
+of geothermal play is documented by a well-known or studied
+type locality.
+4. Geologic controls on geothermal plays
+4.1. Convection-dominated geothermal plays
+Active plate tectonic processes are dominated by the dynamic
+interplay between lithosphere and asthenosphere, which is driven
+by mantle convection. Active tectonism and volcanism are pre-
+dominantly found at active plate margins and represent favorable
+settings for high enthalpy, convection-dominated geothermal play
+systems. Favorable tectonic settings include: (I) magmatic arcs
+above subduction zones in convergent plate margins (e.g. the
+Sunda arc or the Philippine-Japan arc); (II) divergent margins
+located within oceanic settings (e.g. the mid-Atlantic ridge), or
+intracontinental settings (e.g. East African rift); (III) transform
+plate margins with strike-slip faults (e.g. the San Andreas or
+Alpine faults) and (IV) intraplate ocean islands formed by hot spot
+magmatism (e.g. Hawaii). Major fault zones can transect much of
+the lithosphere and can act as major ﬂuid conduits that connect to
+crustal regions of elevated heat ﬂow caused by upwelling astheno-
+sphere (e.g. asthenospheric wedge at subduction zones, astheno-
+spheric bulge beneath rifts) and tectonic denudation of warm
+middle to lower crust (metamorphic core complex in extensional
+terrains) [31].
+In convection-dominated geothermal plays, upward circulation
+of ﬂuids transports heat from depth to shallower reservoirs, or to
+the surface. These play systems occur in areas of active tectonism
+[34], active volcanism [35], young plutonism (o3 Ma) and ele-
+vated heat ﬂow caused by extensional tectonics [36,22]. Hochstein
+et al. [37] use a similar catalog scheme for comparable geologic
+settings and describe advective geothermal systems in tectonically
+active regions. These authors emphasize the impact of the terrain
+topography, which they describe as a moderate to mountainous
+terrain combined with a hydrogeological setting that forces con-
+vection [37]. Convection-dominated plays are controlled by either
+an igneous activity like a magma chamber in volcanic areas, or
+faults in extensional terrains, or both, such as intrusive bodies at
+fault zones (Fig. 2). The ﬂuids originate commonly from inﬁltration
+of meteoric water from high elevation and may also involve partial
+mixing with magmatic ﬂuids [35]. A cataloging scheme for
+convection-dominated play systems is illustrated in Fig. 2 with
+magmatic play types in volcanic and plutonic ﬁelds on the one side
+and fault controlled geothermal plays in domains with extensional
+local or regional deformation on the other side.
+4.1.1. Magmatic geothermal plays–volcanic ﬁeld and plutonic type
+Magmatic play systems can be found in regions with active
+basaltic volcanism at divergent plate margins as on Iceland,
+basaltic to andesitic volcanism along island arcs as on Java [35],
+recent andesitic to dacitic volcanism as along the south American
+Andeans or Taiwan and along continent-continent convergent
+margins with recent plutonism, as in the southern periphery of
+the Alpine orogeny [38]. Magma chambers in volcanic ﬁelds, with
+their parental melts, recharge of basalt and crystallized melts,
+control ﬂuid chemistry, ﬂuid ﬂow and the overall geothermal play
+system. These systems can be separated into an upﬂow zone and
+an outﬂow zone [9] (Figs. 2 and 3). In contrast, a pluton crystal-
+lized from magma and slowly cooling below the surface, can be
+several hundreds of meters to some kilometers in dimension and
+include batholiths, stocks, dikes, sills, laccoliths and lopoliths. The
+presence and scale of a heat source in these play types may be
+controlled by the age of magmatism: Active and recent magma-
+tism commonly indicates a viable underlying heat source [39],
+while inactive or extinct magmatism may be reﬂected by large-
+scale igneous intrusions at greater depth (45 km depth), with
+remnant heat and heating by radioactive decay in granitic rock.
+The terms active, recent and inactive magmatism used in this
+article follow the deﬁnitions of McCoy-West et al. [39], with active
+magmatism related to volcanism o500 years old, recent magma-
+tism related to volcanism 500–50,000 years old, and inactive or
+extinct magmatism related to volcanism 450,000 years old.
+The primary reservoir and target for large-scale power produc-
+tion in a magmatic geothermal play along island arcs is the high
+temperature upﬂow zone. In contrast, the outﬂow zone is
+Fig. 2. Catalog scheme for convection dominated geothermal play systems based on the geologic controls of igneous activity as magmatism (volcanic type with typus locality
+Java, Indonesia), recent plutonism (intrusion type with typus locality Laderello Italy in the periphery of the Alpine orogeny), and absent igneous activity but signiﬁcant active
+extension (extensional domain type with typus locality Basin and Range, western USA.). 1 – Play type, 2 – Typus locality, 3 – Plate tectonic setting, 4 – Geologic habitate of
+potential geothermal reservoirs, 5 – Heat transfer type, 6 – Geologic controls.
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+871
+
+generally referred to as a secondary reservoir (of medium to low
+temperature) and can be utilized for small power plants if ﬂow
+rate is sufﬁcient [9]. The temperature gradient at the outﬂow zone
+typically increases at shallow depth and declines below the out-
+ﬂow layer (Fig. 3). Typical outﬂow springs spread out at the toe of
+the outﬂow are accompanied by travertine and temperatures
+between 40–100 1C [16]. However, outﬂow springs do not reﬂect
+a high temperature geothermal play system below the spring.
+Geothermal manifestations in the upﬂow zone are acidic springs
+associated with thermo-chemically altered rock forming alteration
+clays that indicate high temperature plays below the spring. The
+upﬂow zone commonly consists of a vapor-dominated part above
+a liquid-dominated part. Condensate layers in steep terrain, such
+as volcanoes, can conceal high temperature play systems. Con-
+densate layers are generated by upwelling ﬂuids condensed at a
+certain depth above heat source (Fig. 3). Such layers can neutralize
+initially acidic ﬂuids [40]. The outﬂow from such condensate layers
+acquires the cation content of the condensate layer, and its
+geochemistry is modiﬁed from the original vapor in the geother-
+mal system [9]. The necessary condition for the formation of
+condensate layers is a low permeability domain of o0.04 mD at
+the depth of the steam-water boundary in vapor-dominated
+systems [40]. The most famous geothermal plays with condensate
+layers exist at Laderello (Italy), with other examples at Kamojang
+hot springs and Tangkubanprahu warm springs (both West Java/
+Indonesia). Whereas island arc volcanism with associated basaltic
+to andesitic extrusions forms the typical upﬂow zone – outﬂow
+zone assembly, continental arc volcanism involves andesitic to
+dacitic magma. If the magma chamber is not recharged with
+basaltic melts, continental arc related geothermal plays may
+exhibit characteristics of outﬂow zones. Effectively, maximum
+temperatures ofo240 1C are lower [41,42] in continental than in
+island arc related geothermal play systems, which can have
+maximum temperatures of 4300 1C [43].
+The difference between the Laderello-type (i.e. plutonic play
+type) and the Java-type (i.e. volcanic ﬁeld play type) in this catalog
+scheme (Fig. 2) is that Laderello is associated with recent pluton-
+ism (Fig. 4) and extension [38], and Java is associated with active
+volcanism (Fig. 3) typical for magmatic arcs along convergent
+margins or mid-oceanic ridge settings. Other examples for the
+Java-type are geothermal play systems in Iceland, which are
+related to a mid-oceanic ridge environment at a divergent plate
+margin. Plutonism controlled geothermal systems are typically
+located along continent-continent convergent or transform mar-
+gins with recent magmatism and with (e.g. Larderello) or without
+(e.g.
+the
+Geysers)
+recent
+recharge
+of
+meteoric
+water
+[44].
+In Laderello, 1.3–3.8 Ma granite intrusions are associated with
+young (0.3–0.2 Ma) magmatism. This magmatism generates a
+Fig. 3. Geothermal play type related to an active volcanic ﬁeld typical for a magmatic arc setting above a subduction zone (compiled and modiﬁed from [9,16]).
+Fig. 4. Geothermal play type related to recent plutonic ﬁelds typically found at intrusions along continent-continent or continent-oceanic convergent or transform margins.
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+872
+
+ﬂuid-dominated (K-horizon) layer above the granite and a vapor-
+dominated (H-horizon) layer above the ﬂuid-dominated layer.
+Pliocene extension associated with the emplacement of magmatic
+rocks generates low-angle normal faults that control the recharge
+of meteoric water into the high temperature system [38]. The
+Geysers ﬁeld is another example of this play type, where a large
+felsic pluton provides the heat source for a vapor dominated ﬂuid
+in porous meta-sedimentary reservoir capped by a low perme-
+ability serpentinite, mélange and meta-greywacke [44] (Fig. 4).
+The lack of natural recharge requires injection of treated sewage to
+keep the recovery at a high level [45].
+Indications and exploration methods for magmatic (both volcanic
+ﬁeld and plutonic) geothermal play systems are the following:
+4.1.1.1. Typical reservoir rock types. Various types of volcanic rocks
+(various types of basalt, intermediate to felsic lava ﬂows, ash-ﬂow
+tuffs)
+and sedimentary
+rock. Indicative rocks are travertine
+deposits at the end of outﬂow zones.
+4.1.1.2. Typical ﬂuid types. Upﬂow zone: acid sulfate waters, gas
+from magma chamber: SO2, HCl, HF, CO2, H2S, low pH from 0–3 [9].
+Outﬂow zone: Sodium chloride, neutral to alkaline pH, mixing
+with meteoric water, Ca-rich, low-Mg, Gas: CO2 and H2S.
+4.1.1.3. Typical exploration methods
+ Detailed study of geothermal surface manifestations, hydro-
+geological regimes and geological settings, as well as geochem-
+ical analysis of streams, diluted thermal ﬂuids, hot springs and
+groundwater wells.
+ Resistivity surveys (Magnetotelluric) to identify the high resis-
+tivity anomaly of upﬂow zone.
+ The concept of minimum power potential is based on observed
+natural heat loss over a thermal reservoir [46], from which it
+is assumed that thermal ﬂuids causing observed positive
+temperature anomalies at the surface can be produced by an
+unspeciﬁed number of wells. This method requires an exten-
+sive
+program
+of
+shallow
+temperature
+measurements.
+Assessments of heat loss in these systems are often under-
+estimated and inaccurate. The method was developed 30 years
+ago when computer power and software was not available to
+calculate ﬂuid volumes from 3D geological models at certain
+depths. Today, remote sensing and software solutions deliver
+much more accurate results.
+ Only at upﬂow zones: empirical geothermometers (Na–K–Ca) [47].
+ At upﬂow and outﬂow zones: thermodynamic geothermometers
+[48], if not contaminated with Mg-bearing surface water.
+4.1.1.4. Typical targets. In magmatic settings, such as volcanic arc
+regions along convergent plate boundaries, the upﬂow region is
+typically the target, rather than the outﬂow region, because of
+higher temperatures.
+4.1.2. Non-magmatic geothermal plays – extensional domains
+Non-magmatic convection-dominated geothermal play systems
+are either fault controlled or fault-leakage controlled. In purely fault
+controlled play systems, convection occurs along the fault and is
+commonly combined with inﬁltration of meteoric water along the
+fault [49]. In fault-leakage controlled play systems, the ﬂuid leaks from
+the fault into a permeable concealed layer. In turn, ﬂuids can move
+from a permeable layer into the fault zone and from there to the
+surface (Fig. 5). As thermal ﬂuids move away from the upwelling zone
+along a fault zone, they mix with cooler groundwater or meteoric
+water, as indicated by an increase of bicarbonate and magnesium and
+decrease of boron, sulfate and chloride [50,51].
+The Great Basin in the western U.S. is an example of a region
+that
+hosts
+predominately
+fault
+controlled
+geothermal
+plays
+[22,52–54]. The Great Basin, as part of the northern Basin and
+Range Province, has experienced large-magnitude extension crus-
+tal thinning and emplacement of metamorphic core complexes
+throughout the Cenozoic [55]. All of these factors cause elevated
+heat ﬂow. Late Cenozoic intrusions and volcanism coincided with
+extension, but generally ceased by the late Miocene. Although several
+small Cenozoic volcanic centers still exist in the Lake Lahontan Basin,
+most of the geothermal play systems appear to be associated with
+Fig. 5. Non-magmatic active geothermal play system in active extensional terrains with different types of reservoirs (1, 2a and 2b) (compiled from [9,16,22,49]). Type 1 is a
+convection cell from inﬁltration to discharge along one fault. Temperature gradient is gradually increasing at well site 1. Type 2a and 2B are fault leakage controlled plays. The
+temperature gradient of a well drilled into such an area rises up to the permeable layer and drops below the layer (well 2a and 2b).
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+873
+
+Quaternary normal faulting and are clearly non-magmatic [56,57].
+Ongoing geodetic measurements indicate continued trends of rapid
+extension, suggesting that the crust is even thinner beneath the Lake
+Lahontan Basin than in the surrounding areas [58].
+New seismic data indicate that crustal thickness ranges between
+24–44 km and even thinner crust along the NW-SE trending Walker
+Lane belt [59]. These zones of thinner crust correspond to regions of
+upwelling asthenosphere and higher heat ﬂow where the Moho has
+moved closer to the surface. Fluids circulate deep within the crust and
+transport heat to near the surface along permeable faults [60]. The age
+and origin of thermal ﬂuids is still controversial but seem to be of
+meteoric origin [61] and of Pleistocene age (10–30 ka), when the area
+was covered by the large Lahontan Lake system. Most of the data from
+Dixie Valley indicate ages of thermal ﬂuids between 12–14 ka,
+whereas the recharge age is between 900a and 5 ka [62]. Only some
+of these geothermal plays have surface expression; most of the
+resources are concealed. Another example of extensional terrain
+geothermal plays is Western Turkey [36] or tectonically active intra-
+continental rift grabens, such as the East African rift or the Upper
+Rhine graben in Central Europe.
+Fluid ﬂow along faults is controlled by the state of stress in the
+crust. Fault stress modeling could help to identify favorable faults
+for geothermal energy production from a complex fault pattern
+[53,63]. Dilational or shear dilation faults seem to be most the
+favorable structures [54,64]. Due to the presence of fossil geother-
+mal ﬂuids, proper re-injection and maintenance of reservoir
+pressures are crucial to the management of reservoirs in the Great
+Basin. Re-injection into fault controlled geothermal plays requires
+a careful selection of well sites to avoid thermal breakthrough of
+injected cooled water along permeable faults to the production
+wells. Injection and production wells should not be placed along
+the same fault in the same fault block.
+Characteristic for non-magmatic convection-dominated geother-
+mal plays are as compiled in the following section:
+4.1.2.1. Typical reservoir rock types. Various from volcanic, plutonic
+or to sedimentary rock; travertine and silica at hot springs are
+indicative for reservoirs at depth.
+4.1.2.2. Typical ﬂuid types. High-Cl and high-HCO3, low-(Ca, Mg).
+4.1.2.3. Typical exploration methods
+ MT (magnetotelluric) is the standard method for reservoirs
+4500 m depth combined with surface mapping and shallow
+temperature drilling [65].
+ Other resistivity methods are used, such as AMT (audiomagneto-
+tellurics) and CSAMT (controlled source audiomagnetotellurics) for
+shallow reservoirs o500 m depth on a case-by-case basis [65].
+ Density methods, such as gravity and recently microgravity, are
+used to identify lithology, dense alteration (siliciﬁcation), and
+volcano or basin geometry. Active seismics are used to develop
+seismic velocity models.
+ Reﬂection seismic in volcanic areas often gives poor results and
+cannot identify hot ﬂuids, but in a graben and basin setting it is
+useful to deﬁne structural settings.
+ (Airborne) magnetic surveys are employed to map near-surface
+alteration and iron-rich volcanic rocks.
+ Geochemistry combined with geologic mapping and resistivity
+surveys to map clay cap alteration and leaking points.
+ Self-potential methods (natural surface voltages) are used for
+mapping hydrology in areas of low relief.
+ All methods combined with differential Global Positioning
+System contribute to geothermal potential maps [66], and
+regional geothermal Geographic Information System (GIS) can
+be developed [67].
+ Satellite Interferometric Synthetic Aperture Radar (InSAR) has
+been recently applied to image structures with lateral outﬂow
+of thermal ﬂuids by showing areas of subsidence associated with
+ﬂuid production and areas of uplift related to injection [68].
+ Analysis of fault evolution to identify the fault blocks and
+settings with higher fracture density [52].
+4.1.2.4. Typical
+targets. Dilational
+and
+shear-dilational
+faulting
+regimes
+[22];
+fault
+intersections;
+and
+extensional
+domains
+in
+convergent settings, especially when linked with high topographic
+relief. Mountain ranges nearby where meteoric water inﬁltrates to
+deep hot regions might represent favorable targets in fault controlled
+non-magmatic geothermal systems. Convergent settings contain a
+variety of extensional domains including back-arc basins, pull-apart
+basins or graben structures. Hydraulic gradients and potential ﬂuid
+pathways along faults need to be identiﬁed to utilize the geothermal
+potential of these sites. Combined with new geothermal plant
+technologies, these fault controlled geothermal systems of medium
+temperature
+(1501730 1C)
+could
+be
+developed
+to
+small-scale
+geothermal programs providing energy for small communities even
+in remote areas. Such concepts would increase the geothermal
+potential of convergent plate settings.
+4.2. Conduction dominated geothermal plays
+Geothermal plays in passive plate tectonic settings where no
+asthenospheric anomalies occur (e.g. passive continental margins
+and intracontinental tectonically inactive areas) are mainly con-
+duction-dominated, as exempliﬁed by the conductive settings of
+sedimentary basins. In conduction-dominated hydrothermal play
+systems, deep aquifers are heated by a near normal heat ﬂow. In
+Fig. 6. Conduction dominated geothermal play types, ranging from intracratonic basins to foreland basins of orogenic belts with its characteristic foredeep to basement
+(igneous or metamorphic) provinces. Geologic controls in conduction dominated plays are either litho- or biofacies of sedimentary rock and faults and fractures. Typically
+these play types are lacking active faulting and seismicity. Labels are as in Fig. 2.
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+874
+
+basement or crystalline igneous rocks, referred to as petrothermal
+systems, locally elevated heat production originates from granites
+and can lead to a signiﬁcant positive temperature anomaly, such as
+at the EGS reservoir in granitic rock in Soultz-sous-Forêt [69].
+Petrothermal EGS resources lack producible formation ﬂuids and
+require that ﬂuids are injected through an artiﬁcial fracture
+network.
+Conduction-dominated geothermal play systems came into
+focus due to new developments in EGS technologies. The reason
+for this focus is that the naturally non-commercial conditions
+associated with conductive geothermal play systems can be
+improved by reservoir creation in crystalline rock or reservoir
+enhancement in tight i.e. low permeability aquifer rocks. These
+systems
+can
+be
+classiﬁed
+into
+hydrothermal
+and
+non-
+hydrothermal (or petrothermal, i.e. hot dry rock systems) with a
+permeability anisotropy predominantly being fault controlled and/
+or litho- or biofacies controlled (Fig. 6). Applying advanced
+reservoir technology and engineering to developing man-made
+geothermal technology reservoirs and improving their efﬁciency is
+more important in conduction dominated play systems than in
+convection-dominated play systems. Therefore, classifying and
+understanding potential EGS settings in conduction-dominated
+play systems is essential. This classiﬁcation contains three differ-
+ent settings: (I) the intracratonic basin type, (II) the orogenic belt
+type and (III) the basement/crystalline rock type. These types are
+further considered with respect to the porosity-permeability ratio
+of the reservoir rock and the absence or presence of producible
+ﬂuids in the reservoir (Fig. 6).
+4.2.1. Igneous geothermal plays– basement type
+Crystalline (e.g. granitic) rocks host vast resources of heat
+energy in igneous provinces, which often underlie large areas of
+continents. These low porosity-low permeability rocks require
+reservoir development by stimulation techniques to allow circula-
+tion between injector and producer wells, with the rock mass
+acting as the heat exchanger. This concept is referred to as Hot Dry
+Rock (HDR). The engineering of an augmented permeability
+structure between the wells constitutes a primary challenge of
+EGS development in crystalline rock. The most important factor for
+reservoir engineering in these plays is the stress ﬁeld. The
+magnitude of the intermediate principal stress is of particular
+importance, because this controls the in situ stress regime.
+Geomechanical parameters and failure models of the reservoir
+rock
+under
+stimulation
+conditions
+need
+to
+be
+considered.
+To produce electricity reasonably efﬁciently requires water tem-
+peratures exceeding 180 1C [70]. The generally accepted perfor-
+mance target for a well doublet is a production rate of 50 l/s and
+minimum rock temperature of 200 1C (e.g. [71,3]). However, the
+speciﬁc end-user needs must be considered, and perhaps crystal-
+line rocks can be used for direct heat as well as electricity in areas
+where there are low-temperatures. In Alberta, for example, lower
+temperature in the basement from the Alberta Basin would help to
+augment the efﬁciency of oil sand production by replacing
+volumes of natural gas with geothermal energy [72]. In Central
+Europe, the population density and infrastructure justify district
+heating as prime use of geothermal energy. In the following
+chapter, geological environments of EGS types are reviewed. The
+most important HDR sites are summarized in Table 2.
+Characteristic for igneous basement geothermal plays are:
+4.2.1.1. Typical rock types. Rocks with elevated heat production
+containing radiogenic heat producing elements as Thorium or
+Uranium as found crystalline rocks and intrusive rocks.
+4.2.1.2. Typical ﬂuid types. Need to be injected.
+4.2.1.3. Typical exploration methods
+ Depending
+on
+the
+temperature,
+depth
+and
+lithological
+sequence, several geophysical methods are used, such as
+magnetotelluric and gravity to detect the granitic body and
+reﬂection seismic to identify facture zones.
+ Geosystem analysis is necessary to estimate stress ﬁeld and
+hydromechanical conditions. Relatively early the ﬁrst exploration
+well is drilled to obtain petrophysical and mineralogical para-
+meters and to verify the stress ﬁeld for stimulation concepts.
+4.2.1.4. Typical targets. Crystalline rock and fracture zones therein.
+4.2.2. Non-magmatic geothermal plays – intracratonic basins
+and orogenic belts
+Conduction dominated geothermal play systems without active
+igneous activity cover the different types of geologic settings
+located within intracratonic basins (i.e. within the stable conti-
+nental crust) and within orogenic belts and associated foreland
+basins. The tectonic activity in these settings is commonly low to
+absent. Advective heat transport may play a role in mountainous
+areas of the orogenic belt type, where high permeability domains
+and deep rooted faults allow deep circulation of meteoric water.
+This type of circulation is often associated with the subsequent
+formation of hot springs [77]. Geothermal play systems in moun-
+tain belts are rarely associated with hydrothermal reservoirs, but
+are rather the result of deep circulation systems associated with
+complex major crustal scale faults. These areas typically contain
+low to moderate heat ﬂow [78]. In sedimentary basin settings,
+conduction-dominated hydrothermal plays are located in deep
+aquifers heated by a near normal heat ﬂow. Effectively, sedimen-
+tary basins host prime aquifer systems from where the thermal
+water can be produced and utilized. The exploration target is to
+identify high porosity/high permeability or high porosity/low
+Table 2
+Selection of key sites for HDR activities in different tectonic regimes and with different major lessons learned during development or operation. HPHT-High Pressure High
+Temperature conditions.
+Project
+Activity time
+Tectonic regime
+Depth
+(km)
+Temperature
+(1C)
+Lessons learned
+Fenton hill new
+Mexico/USA
+1972–1996
+(research)
+Magma chamber under a young caldera normal
+faulting [73]
+2.8
+320
+No signiﬁcant temperature drop after
+11 months water loop 43 wells are necessary
+for efﬁciency
+3.6
+4.2
+Rosemanowes/UK
+1978–1991
+Batholith normal faulting [74]
+2.5
+85
+Stimulation and proppant techniques,
+multi-cell reservoir design [74]
+Soultz/France
+1987-present
+(research)
+Horst at upper hine graben normal to
+strike-slip regime [75]
+3.3
+200
+Stimulation techniques Induced seismicity
+5
+Cooper Basin/
+Australia
+2003-present
+(commercial)
+Inverted basin reverse faulting regime [76]
+4.2
+240
+Borehole and reservoir stability
+under HPHT conditions
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+875
+
+permeability domains at different temperature levels. Commonly,
+these hydrothermal systems occur at great depth (43 km). Low
+permeability domains in sedimentary basins may represent EGS
+resources where the permeability (and hence the productivity)
+need to be enhanced by a variety of reservoir stimulation techni-
+ques [79,80]. However, it is debatable if reservoir stimulation in
+tight sedimentary rock provides sustainable and sufﬁcient ﬂow
+rates when substantial natural fracture permeability is lacking [3].
+The success of EGS in tight, hot sedimentary aquifers may be
+strongly affected by the storage capacity expressed by porosity of
+the host rock [4]. The heat content of the ﬂuid in the porous layer
+setting is strongly affected by the basin geometry, an artifact of the
+basin type and evolution (Fig. 7).
+Two different basin types have been distinguished for hydro-
+thermal sedimentary energy systems: (I) Extensional or litho-
+spheric subsidence basins, such as the Central European Basin
+System, and (II) foreland basins within orogenic belts, such as the
+Molasse Basin of the Alps or the Western Canada Sedimentary
+Basin associated with the Rocky Mountains. The sedimentary
+sequences in foreland basins are inﬂuenced by signiﬁcant crustal
+subsidence (up to several kilometers) towards the orogen due to
+the weight of the thickened crust of the orogenic belt and loading
+of erosional products from the mountain belt on the non-
+thickened crust. The result of this process is lithospheric bending
+that forms areas of local extension and normal faulting in compres-
+sional plate tectonic settings (Fig. 8) [23]. The wedge shape of
+foreland basins with the down-bending of aquifer rock may cause
+local positive geothermal gradients, especially when faults or highly
+permeable layers allow advective heat transport from the deeper to
+the shallower parts of a foreland basin. Faults and reef complexes are
+prime reservoir targets in the carbonate rock of the Bavarian Molasse
+Basin, Germany [23]. Highly permeable, porous sandstone in the
+Williston Basin of Saskatchewan, Canada and North Dakota, U.S.A.
+host potential geothermal resources [81].
+In the adjacent mountain belt, groundwater ﬂow and thermal
+gradient are strongly inﬂuenced by large hydraulic heads resulting
+from the pronounced topographic relief [82,83]. The great depth
+and small width of mountain belt valleys result in relatively
+shallow penetration of recharged water, which then discharge on
+valley ﬂoors or shallow valley slopes [81]. Thermal highs occur
+underneath high mountains and thermal lows beneath the valleys
+(Fig. 8), resulting in varying local thermal gradients due to
+meteoric water circulation. Beneath high mountains at about
+15–20 1C and beneath deep valleys 30–50 1C [83,77]. The near
+surface geothermal gradient can be disturbed in recharge areas of
+the mountain ranges where inﬁltrating water cools the rock mass.
+Similarly, the heat ﬂow ranging from low to moderate to high in
+mountain belts [77] needs to be corrected by the amount of heat
+loss during the ice-age and other paleoclimatic effects [84]. The
+formation of geothermal plays in mountain chains is dominated by
+the bulk-rock permeability of the host rock. The permeability
+allows the inﬁltration of meteoric water, especially in the high
+relief areas. Highly permeable faults act as ﬂuid ﬂow pathways to
+discharge spring locations. Grasby and Hutcheon [77] point out
+that high permeability of fractured rock, groundwater ﬂux and
+deep circulating ﬂuids, combined with advective heat transport
+Fig. 7. Schematic cross section of an intracratonic sedimentary basin and various geothermal play types at different depth and temperature ranges. Temperature is an
+average assuming a geothermal gradient of 32 1C/km. A – Geothermal plays above 3 km depth with temperature suitable for district heating, B – Deep geothermal plays
+below 3 km depth suitable for heating and electricity, C – Very deep geothermal plays below 4 km depth as potential HDR systems.
+Fig. 8. Geothermal play types in orogenic belt and adjacent foreland basins. Red lines – Schematic isotherm distribution, recharge locations, fault geometry and basin
+geometry after Craw et al., [83]. Blue lines – Water ﬂow lines result from heat advection and topography controlled hydraulic head, blue arrows – Discharge temperatures [86]. (For
+interpretation of the references to color in this ﬁgure legend, the reader is referred to the web version of this article).
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+876
+
+are most critical for the formation of hot springs in mountain
+belts. Hot springs temperatures depend on the transit time of the
+inﬁltration water, the circulation depth of the ﬂuid, the rock
+permeability, geometry of major thrust faults, lateral ramps and
+bedding planes (Fig. 8). This type of geothermal play might be
+vulnerable to thermal water production if the production rate is
+not adjusted to the recharge volume over time. The transit time
+for meteoric water in mountainous areas ranges from several
+decades to over 5,000 years depending on the rock's effective
+porosity [62]. The transient time is the time that the ﬂuid requires
+to migrate from the recharge area to the spring. Mountain belts
+and adjacent foreland basins are referred to as Cordillera-cum-
+foreland basins in the classiﬁcation scheme for groundwater ﬂow
+systems after Toth [82]. Mountain belts and their associated
+foreland basins are hydraulically disconnected by the frontal fault
+of the foothills due to the fact that most of the water recharged in
+the mountains discharge in valley ﬂoors at about the same
+elevation as the average foreland basin elevation. Effectively,
+circulating meteoric water in mountain belts has a shallow
+penetration depth, with not much water left for deeper circulation
+towards the foreland basin [82].
+In contrast to foreland basins, intracratonic basins that origi-
+nate from lithospheric subsidence are commonly divided into
+several sub-basins [85]. The long history of intracratonic basins
+produce several kilometer thick sediment ﬁlls that span a wide
+range of deposits, including ﬂuvial siliciclastics, marine carbo-
+nates, muds and evaporites. Basin evolution and subsidence rates
+have a major effect on faulting and fault pattern characteristics,
+diagenetic processes and the resulting increase or decrease of
+porosity. High and low porosity domains are controlled by
+lithology, faulting, and diagenesis [86,87]. Permeability anisotropy
+is controlled by either lithology or faults or both. Recently, new
+concepts for complex coupled process modeling have been
+developed for geothermal systems. These models incorporate
+geomechanical facies at various scales [88], which require the
+examination of facies-dependent geomechanical parameters [88].
+Application oriented basin analysis and sequence stratigraphy
+is the key to successfully developing conduction dominated
+geothermal plays in sedimentary basins. As schematically illu-
+strated in Fig. 7, geothermal reservoirs are located in different
+basin portions depending on the internal present-day structure of
+the basin. Crustal regions above salt formations might be suitable
+geothermal reservoirs for district heating, because the high
+thermal conductivity of salt rock causes local positive thermal
+anomalies in the overburden of salt accumulations [89–91].
+In deeper parts of the basin (below 3 km depth), geothermal
+systems might be suitable for power and heat production,
+provided EGS technology is applied to enhance productivity up
+to the required ﬂow rate of 50–70 l/s [92,3,93]. A critical para-
+meter for EGS technology is the in-situ stress ﬁeld, because large
+scale
+injection
+and
+successful
+hydraulic
+stimulation
+require
+knowledge of stress direction and magnitudes (e.g. [94,26]). The
+slip tendency method is an appropriate technique for estimating
+the fault reactivation potential prior to stimulation. This is an
+essential measure for minimizing induced seismicity during large
+scale injection [25].
+The geological environment of sedimentary basins is generally
+well studied through hydrocarbon exploration, and substantial
+databases from seismic surveys and drilling can be re-evaluated
+for geothermal assessment and ﬁeld development [27]. Explora-
+tion methods for geothermal targets might differ slightly from
+hydrocarbon exploration, since temperature needs to be mapped
+in addition to reservoir quality. Recent advances in the combined
+use of neural networks and subsequent joint interpretation of
+magnetotelluric data, seismic tomography and lithostratigraphy
+might lead to new exploration strategies for these geothermal
+Table 3
+Catalog of geothermal play types applying the scheme from Figs. 2 and 5. Examples represent typical geologic systems in which geothermal reservoirs are already discovered and developed. These examples might act as typus
+localities for respective geothermal play types. Reservoir characteristics host rock, ﬂuid type and temperature range refer to the examples and do not reﬂect necessarily general characteristics. Categories of ﬂuid types: Basinal ﬂuids
+are saline brines and NaCl-dominated, inﬁltration ﬂuids are carbonate waters and HCO3-dominated, crustal ﬂuids are acidic and H2S/HCl-dominated (modiﬁed from [80]).
+Heat transfer
+Geologic controls
+Geologic system plate tectonic
+setting
+Geothermal play type
+Index Examples
+Characteristics
+Host rock
+Fluid
+Temperature
+in (1C)
+Convection
+Dominated
+(CV)
+Magma chambers in active
+volcanic ﬁelds
+Volcanic arc regions at subduction
+zone
+Volcanic type
+CV1
+Java - Kamojang (Indonesia)
+[99]
+Andesites
+Crustal ﬂuids mixed with inﬁltration
+ﬂuids (meteoric, seawater)
+70–320
+Rhyolithes
+Taupo – NZ [100]
+Mid oceanic Ridges (MOR)
+Reykjanes – Iceland [101]
+Basalt
+Mantle plumes (hot spots)
+Hawai (USA) [102]
+Crystallizing magma,
+intrusionsþactive faulting
+Decrescent volcanism in steep
+terrain at young orogenic belts
+Plutonic type
+CV2
+Larderello (Italy) [103]
+Sediments Granite, Grabbo
+Inﬁltration and crustal ﬂuids
+100–350
+The Geysers (USA)
+Active faulting (natural
+seismicity)
+Metamorphic core complexes
+Extensional domain type CV3
+Great Basin (Basin and
+Range) – USA [22]
+Volcanic sedimentary rock
+variable
+150–240
+Pull-apart basins
+Western Turkey Soultz-
+sous-Forêt (France) [71]
+Back-arc basins Intracontinental
+rifts (grabens)
+Conduction
+Dominated
+(CD)
+Lithofacies (grain size,
+mineralogy)
+Intracontinental rift basins
+Intracratonic Basin Type
+(hydrothermal)
+CD1
+North German Basin [27]
+High–low permeability
+ﬂuvial sediments
+Basinal ﬂuids
+o150
+Biofacies (fossil content)
+Passive margin basins
+Litho-/biofaciesþfaults/
+fractures
+Fold-and-Thrust-belts
+Orogenic belt type
+(hydrothermal)
+CD2
+Molasse Basin (South
+Germany) [23]
+High–low permeability
+marine sediments
+Inﬁltration ﬂuids (basinal ﬂuids
+possible)
+o160
+Foreland basins
+Faults/fractures
+Intracontinental intrusion in ﬂat
+terrain
+Basement type
+(petrothermal hot dry
+rock)
+CD3
+Cooper Basin (Australia)
+Granite rock with high
+radiogenic heat production
+–
+150–320
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+877
+
+plays [95,96]. Target zones, their characteristics and exploration
+methods are:
+4.2.2.1. Typical reservoir rock types. Terrestrial sedimentary rocks
+such as eolian and ﬂuvial siliciclastic sequences and shallow to
+deep marine sediments from carbonates sequences to shale and
+pelagic clays; deltaic and pelagic sediments can be source rock for
+H2S.
+4.2.2.2. Typical ﬂuid types. High-Cl brines.
+Inﬁltration water, rich in HCO3
+.
+4.2.2.3. Typical exploration methods
+ D/3D seismic surveys.
+ Re-processing of existing seismic reﬂection as often available
+(but not always accessible) from hydrocarbon exploration.
+ Reconnaissance from existing well and seismic data.
+ Joint
+interpretation
+of
+magnetotelluric
+and
+reﬂection
+seismic data.
+ Appraisal wells including well log and core data. Often, apprai-
+sal wells are planned as future operating well why it is drilled
+in larger diameters compared to gas exploration wells.
+4.2.2.4. Typical targets. High porosity/high permeability domains
+or high porosity/low permeability domains in sedimentary rock;
+fault and fracture zones, damage zones of faults, and karst zones in
+carbonate rock.
+5. Discussion
+The new catalog for geothermal play types based on geological
+controls outlined here allows a better evaluation of site-speciﬁc
+exploration, ﬁeld development and overall selection of geothermal
+applications. Table 3 demonstrates the application of the catalog to
+existing discovered geothermal ﬁelds worldwide by ordering
+geothermal play types according to their geologic habitat and
+dominant geologic controls. Moreover, the catalog allows compar-
+ison with hydrocarbon play systems, which, in turn, facilitates
+selection of appropriate technology transfer from hydrocarbon to
+geothermal reservoirs. The comparison with hydrocarbon reser-
+voirs applies especially to conduction dominated geothermal play
+systems and the related basin types. Hitherto, only hydrothermal
+sedimentary play systems are developed for commercial use, with
+a focus on foreland basins. This fact is exempliﬁed by the growing
+geothermal industry in the Molasse Basin in Germany, Switzerland
+and Austria (e.g. [87,97,98]).
+One approach for evaluating conduction-dominated geother-
+mal play systems is by their ratio of porosity to permeability.
+In Table 4, different discovered geothermal reservoirs of both basin
+and basement play type are compiled along with their depths and
+reservoir rock type. The depth of geothermal plays might be an
+important factor for successful long-term reservoir production.
+Typically, the depth of a reservoir correlates with a reduction in
+permeability and porosity due to high in situ stress and diagenetic
+effects, both of which promote cementation. As shown at the EGS
+research site Soultz-sous-Forêt, the most productive depth range is
+between 1.7 and 3.5 km. However fault and fracture zones can
+have positive effects on permeability at greater depths [104].
+In Fig. 9, the geothermal play systems from Table 4 are
+illustrated in a porosity-versus-permeability diagram with regard
+to reservoir rock type. A similar reservoir classiﬁcation scheme has
+been
+developed
+by
+Salley
+[85]
+for
+hydrocarbon
+resources.
+Table 4
+Compilation of different geothermal reservoirs, their host rock formation, depth, porosity and permeability. CD1-Intracratonic basin play type, CD2-Foreland basin play type, CD3-Basement play type. The type indices refer to
+indices in Table 3. Porosity and permeability data from: (1)Personal comment Blöcher and Hassanzadegan (GFZ) and references indicated by square brackets.
+Type
+Geological system
+Formation/rock type
+Depth range
+Porosity in %
+Permeability in mD
+CD1a
+North German Basin
+Lower permian Rotliegend formation/red bed sandstone [106,107]
+4.0–4.2 km
+∅10
+∅1–10
+(8–12)
+(0.01–120)
+CD1b
+North German Basin
+Upper Triassic stuttgart formation/ﬂuvial weakly cemented sandstone [108]
+630–710 m
+∅26
+∅100
+(5–35)
+(0.02–5000)
+CD1c
+North German Basin
+Upper Triassic exter formation/ﬂuvial sandstone [87]
+0.8–2.6 km
+17–31
+500–1000
+CD1d
+Alberta Basin, central part
+Cambrian Basal sandstone [33,105]
+2.5–5 km
+10–19
+0.4; 20-500
+CD2a
+Bavarian Molasse Basin
+Upper Jurassic Bankkalk formation/massive carbonate rock, partly dolomitized [23,98,109]
+3.2–3.6 km
+(1)18.1
+(1)2.5–0.003
+CD2b
+Alberta Basin, central part
+Devonian Wabamun; Nisku; Cooking Lake formations/carbonate rock [33]
+1.2–1.7 km
+5.2,10.4, 8.3
+4.8; 21.4; 27.7;
+CD2c
+Bavarian Molasse Basin, Western Part
+Upper Jurassic/Tuberoidic limestone [23,104]
+3.2–3.6 km
+(1) ∅4.9
+(1) 0.1–0.001
+CD2d
+Bavarian Molasse Basin
+Upper Jurassic/Massenkalk facies, reef limestone [87,97,109,110]
+3.2–3.6
+2 to 2.5
+2563; 6x103;
+CD2e
+Alberta Basin, central part
+Devonian Leduc formation/reef complex [33]
+7.3
+141.7 (0.01–4700)
+CD3
+Basement rock Rhine graben shoulder (Soultz)
+Crystalline rock/Granitic rock [104,111]
+1–1.4 km
+15
+1–10
+3.7–5 km
+1
+0.001
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+878
+
+Carbonate rock with partly dissolved biogenic content and ﬁlled
+pore space due to secondary dolomitization has a high porosity
+versus a low permeability (type CD2a and b in Fig. 9), whereas
+karstic and highly fractured carbonate rock, such as reef forma-
+tions, have a low porosity versus high permeability (type CD2e and
+2d in Fig. 9). The commercial geothermal prospects in Germany are
+mostly in this latter reservoir type in a foreland basin play system
+and can be considered as hydrothermal systems that do not
+require EGS technology [87]. Sandstone formations are character-
+ized by a proportional ratio of porosity to permeability, and this
+ratio is obviously controlled by depth (CD1a–d in Fig. 9). The
+deeper the sandstone formation, the less porosity and permeabil-
+ity, although subsidence of sandstone can have positive effects on
+porosity due to dissolved feldspar, carbonate and sulfate minerals
+in diagenetic zones at 4140 1C [86]. However, quartz cement,
+illite and chlorite form as products from feldspar dissolution and
+can decrease porosity [105]. As a result, sandstones shallower than
+1 km have a high porosity/permeability ratio and can be classiﬁed
+as hydrothermal systems, whereas deeper sandstone formations
+have a lower permeability and can be classiﬁed as EGS hydro-
+thermal systems, which require technology to increase reservoir
+productivity. Crystalline rock, as found in Soultz-sous-Forêt, can be
+classiﬁed as an EGS hydrothermal play if porosity and permeability
+is high enough as in the upper portions of the Soultz-sous-Forêt
+geothermal ﬁeld, or EGS petrothermal if porosity is so reduced
+that producible ﬂuids are absent (CD3 in Fig. 9). In this latter case,
+ﬂuids have to be added to the systems, as described above under
+the Hot Dry Rock site in Table 2.
+Comparable with hydrocarbon reservoirs, most geothermal
+plays have a similar porosity/permeability ratio as tight sand-
+stones (Fig. 9) [86]. This opens the possibility of technology
+transfer from unconventional hydrocarbon resources to geother-
+mal resources. Experience from reservoir quality evaluation,
+stimulation, system optimization, risk management and induced
+seismicity can be adapted from unconventional hydrocarbon
+technology to EGS resources and vice versa. In contrast to unconven-
+tional hydrocarbon resources, the environmental beneﬁts of geother-
+mal resources are near zero greenhouse gas (GHG) emissions, along
+with renewable energy production. Consequently, the technology
+used in unconventional hydrocarbon resource development can be
+employed for green energy production. Considering the impact of
+GHG production on climate change and the growing public demand
+for sustainability and environmental protection, an increased use of
+geothermal energy can gradually lower GHG emissions. Depleted
+hydrocarbon brown ﬁelds could be re-used as geothermal resources
+and therefore renewable energy systems. Given the fact that geother-
+mal energy will become increasingly economically competitive with
+oil and gas [2], geothermal energy systems as unconventional reser-
+voirs are both environmentally and eventually economically attractive.
+6. Conclusion
+Research on the geological characteristics of natural geother-
+mal resources is essential to adapting stimulation and drilling
+techniques that drives down the costs of EGS development. The
+ability to create man-made geothermal reservoirs consistently is
+mostly limited by a lack of understanding of how geothermal
+reservoir formation occurs in nature. A geological-based geother-
+mal play type catalog helps in understanding the nature of a
+resource and deﬁning appropriate exploration strategies, reservoir
+evaluation and quantiﬁcation of the geothermal potential.
+There are two primary geothermal play types, the convection-
+dominated play systems, which include the vast majority of operat-
+ing geothermal power plants world-wide, and the conduction-
+dominated geothermal play systems, which include hydrothermal
+and petrothermal systems in sedimentary basins or crystalline rock.
+Conduction-dominated play systems can be described by the ratio of
+porosity versus permeability and with regards to the application as
+EGS petrothermal, EGS hydrothermal or pure hydrothermal.
+The advantage of a geologically based catalog scheme is the
+adaptation of site-speciﬁc exploration and technology strategies
+for ﬁeld development. This scheme is in contrast to catalog
+schemes based on temperature, which say nothing speciﬁc about
+the reservoir itself or best development practices. Targets for
+geothermal resources are often coincident with other energy
+resources including coal bed methane and unconventional gas
+and oil. The knowledge of other factors such as energy storage,
+Fig. 9. Porosity and permeability relation of different geothermal reservoirs with data points from Table 4. Porosity/permeability domains are characteristic for different
+reservoir rock types. Numbers refer to type indices in Table 4. Reservoir performance as enhanced geothermal system (EGS) in petrothermal or hydrothermal setting is
+similar to tight oil reservoirs in the Alberta Basin. Data points from references in Table 4, tight oil reservoir ratio from Hartmann and Beaumont [86].
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+879
+
+groundwater systems, coal mining, and carbon geo-sequestration
+need to be considered in evaluating the geothermal potential of a
+region. The relationship between these competing geological
+resource potentials needs to be understood for the best decision
+at site and depth. Trans-national projects, such as the EU-funded
+GeoMol project, www.geomol.eu, which is aimed at collecting and
+evaluating data from the Alpine foreland basins in Europe, are a
+step in the right direction towards a sustainable utilization of
+limited subsurface geo-resources, especially in highly populated
+areas as Central Europe.
+The geological system based catalog of geothermal reservoirs
+might also be important for optimal economic and environmental
+conﬁgurations of geothermal energy conversion. Understanding a
+geothermal reservoir as part of a geologic system helps to quantify
+the geological uncertainty that needs to be included into economic
+optimization concepts.
+Geothermal energy from EGS and hydrothermal resources is
+still in the technology development stage. As a result, there is a
+high degree of uncertainty in cost estimates for producing heat
+and electricity from deep geothermal resources. Worldwide,
+though, there is a signiﬁcant ramp up in research and develop-
+ment around these resources, so that their potential can be
+realized. It is likely that costs will reduce with more efforts on
+improving geothermal technology, along with the growing interest
+in geothermal energy utilization.
+Remarkably, the technology used for unconventional oil pro-
+duction from sandstones and carbonates is similar to geothermal
+EGS technology. If reservoirs are categorized as a function of their
+porosity to permeability ratio, it becomes clear that most EGS
+geothermal resources and unconventional tight sandstones belong
+to one reservoir type. Cataloging geothermal resources by their
+geologic controls helps to adopt site-speciﬁc exploration, ﬁeld
+development
+and
+energy
+production.
+Successfully
+developed
+methods in exploration and geothermal energy deployment can
+be adopted within one geothermal system type. Speciﬁcally, stress
+ﬁeld analysis, quantitative structural geology, reservoir geomecha-
+nics and reservoir engineering are key topics in both geothermal
+and unconventional tight reservoirs. In contrast to unconventional
+hydrocarbon
+resources,
+geothermal
+energy
+production
+emits
+nearly no greenhouse gases (GHG). There is enormous potential
+for technology transfer; extraction technologies used for uncon-
+ventional hydrocarbon reservoir extraction could be employed for
+a green energy resource. The classiﬁcation scheme of petroleum
+resources may encourage the geothermal community to classify
+geothermal
+resources by their chance
+of
+commercialization,
+including categorization based on technological improvements.
+Recognition and understanding of a geologic environment, with its
+characteristic controls, are the fundamental ﬁrst step towards a
+classiﬁcation scheme for geothermal resources.
+This introduction to a new catalog may not be a complete
+picture of geothermal play systems, but it might provide a logical
+framework for a new scheme for typifying geothermal plays.
+Hybrid play types may exist, for example in the East African rift
+system, where crustal extension causes thinning of the crust and
+the subsequent formation of magmatic intrusions and volcanism.
+Effectively volcanic (CV1 in Table 3) and fault-controlled exten-
+sional domain play types (CV3 in Table 3) may co-exist in the same
+geologic system. Generally spoken, each play type lies within a
+geological continuum, and it is possible for speciﬁc geothermal
+systems to have geological characteristics of more than one play
+type. This play type catalog, however, shall help to accelerate
+technology and knowledge transfer within one appropriate play
+type. As such, this new catalog is oriented towards successfully
+developing geothermal resources worldwide. It is now possible to
+better compare geothermal plays with hydrocarbon plays by
+contrasting their geological environment and geologic controls.
+It might be a feasible vision to transfer technology already
+developed for unconventional hydrocarbons to the green sustain-
+able energy of geothermal resources.
+Acknowledgments
+The author gratefully acknowledges the thorough review of
+three anonymous reviewers, Larry Heaman and Jonathan Banks.
+The review of the board of the International Geothermal Associa-
+tion (IGA) substantially improved this article. Discussions with Jim
+Faulds, Berry Goldstein, Graeme Beardsmore and Colin Harvey on
+the general concept and requirements on geothermal play catalog
+schemes are greatly appreciated. This research is funded by the
+Campus Alberta Innovation Program on Enhanced Geothermal
+Energy Systems, Alberta Innovates (project ID RES0010033).
+References
+[1] Bertani R. Geothermal power production in the world 2005–2010 update
+report. In: Proceedings of WGC. Bali, Indonesia: 2010. paper 8: 41 p.
+[2] Lund JW, Freeston DH, Boyd TL. Direct utilization of geothermal energy
+worldwide review. In: Proceedings of the WGC. Bali, Indonesia: 2010. paper
+7: 23 p.
+[3] Tester JW, Anderson BJ, Batchelor AS, Blackwell DD, DiPippo R, Drake EM,
+et al. Impact of enhanced geothermal systems on US energy supply in the
+twenty-ﬁrst century. Philos Trans RSoc A Math, Phys Eng Sci 2007;365
+(1853):1057–94.
+[4] Rybach L. Geothermal systems, conductive heat ﬂow, geothermal anomalies.
+In: Rybach L, Mufﬂer LJP, editors. Geothermal systems: Principles and case
+histories. ChichesterUK: John Wiley & Sons; 1981. p. 3–31.
+[5] Society of Petroleum Geologist (SPE). Petroleum Resources Management
+System Guide for non-technical users. SPE – PRMS; 2007. 4 p.[cited 2013
+June 13]. Available from: 〈http://www.spe.org/industry/docs/PRMS_guide_
+non_tech.pdf〉.
+[6] Allen PA, Allen JR. The Petroleum Play. In: Allen PA, Allen JR, editors. Basin
+Analysis – Principles and Applications. 2nd ed.. Oxford UK: Wiley-Blackwell
+Science Ltd.; 2005. p. 309–96.
+[7] White DE, Williams DL. Assessment of geothermal resources in the United
+States – 1975. USGS; 1975. Circular 726: 155 p.
+[8] Mufﬂer LPJ. Assessment of geothermal resources of the United States – 1978.
+USGS; 1979. Circular 790: 163 p.
+[9] Hochstein MP. Assessment and modelling of geothermal reservoirs (small
+utilization schemes). Geothermics 1988;17(1):15–49.
+[10] Haenel R, Rybach L, Stegena L. Fundamentals of geothermics. In: Haenel R,
+Rybach L, Stegena LA, editors. Handbook of Terrestial Heat Flow Density
+Determination. Dordrecht NL: Kluwer Academic; 1988. p. 9–57.
+[11] Nicholson K. Geothermal Fluids. Berlin: Springer Verlag; 1993.
+[12] Benderitter Y, Cormy G. Possible approach to the geothermal research and
+relative cost estimate. In: Dickson MH, Fanelli M, editors. Small Geothermal
+Resources. Rome, Italy: UNITAR/UNDP Centre for Small Energy Resources;
+1990. p. 61–71.
+[13] Sanyal SK. Classiﬁcation of Geothermal systems – a possible scheme. In:
+Proceedings 30th Workshop on geothermal reservoir engineering. Stanford,
+CA: Stanford University; January 31–February 2, 2005. SGP-TR-176.
+[14] Lee KC. Classiﬁcation of geothermal resources by exergy. Geothermics
+2001;30:431–42.
+[15] Kestin J. Available work in geothermal energy. In: Kestin J, DiPippo R, Khalifa HE,
+Ryley DJ, editors. Source book on the production of electricity from geothermal
+energy. Washington DC: US Government Printing Ofﬁce; 1980. p. 227–75.
+[16] Williams CF, Reed MJ, Anderson AF. Updating the classiﬁcation of geothermal
+resources. In: Proceedings 36th workshop on geothermal reservoir engineering.
+Stanford, CA: Stanford University; January 31–February 2, 2011. SGP-TR-191.
+[17] Neuendorf KE, Mehl Jr. JP, Jackson JA. Glossary of Geology. 5th ed.. Alexandria
+VA: American Geosciences Institute; 2005.
+[18] Phillips BR, Ziagos J, Thorsteinsson H, Hass E. A roadmap for strategic
+development of geothermal exploration technologies. In: Proceedings of
+38th workshop on geothermal reservoir engineering. Stanford, CA: Stanford
+University; Feburary 11–13, 2013. SGP-TR-198.
+[19] King D, Metcalfe E. Rift Zones as a Case Study for Advancing Geothermal
+Occurrence Models. Proceedings, 38th Workshop on Geothermal Reservoir
+Engineering. Stanford University, Stanford, CA: Feb 11–13, 2013; SGP-TR-198.
+[20] Mufﬂer LJP. Tectonic and hydrologic control of the nature and distribution of
+geothermal resources. In: Proceedings of the 2nd U.N. Symposium of the
+development and use of geothermal resources. 1976. 1 p. 499–507.
+[21] Heicken G. Geology of geothermal systems. In: Edwards LM, Chilingar GV,
+Rieke HH, Fertl WH, editors. Handbook of Geothermal Energy. Houston: Gulf
+Publishing Company; 1982. p. 177–217.
+[22] Faulds JE, Coolbaugh M, Bouchot V, Moeck I, Oguz K. Characterizing
+structural controls of geothermal reservoirs in the basin and range, USA,
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+880
+
+and
+western
+Turkey:
+developing
+successful
+exploration
+strategies
+in
+extended terranes. In: Proceedings of the WGC. Bali, Indonesia; 2010. April
+25–30; paper 1163: 11 p.
+[23] Cacace M, Blöcher G, Watanabe N, Moeck I, Börsing N, Kolditz O, et al.
+Modelling of fractured carbonate reservoirs: Outline of a novel technique via
+a case study from the Molasse Basin, southern Bavaria (Germany). Environ
+Earth Sci Epub 2013;21:18.
+[24] Barton CA, Zoback MD, Moos D. Fluid ﬂow along potentially active faults in
+crystalline rock. Geology 1995;23(8):683–6.
+[25] Moeck I, Kwiatek G, Zimmermann G. Slip tendency, fault reactivation
+potential and induced seismicity in a deep geothermal reservoir. J Struc
+Geol 2009;31:1174–82.
+[26] Moeck I, Backers T. Fault reactivation potential as critical factor during
+reservoir stimulation. First Break 2011;29:67–74.
+[27] Moeck I, Schandelmeier H, Holl HG. The stress regime in Rotliegend
+reservoir of the Northeast German Basin. Int J Earth Sci 2009;98(7):
+1643–54.
+[28] Gianelli G, Grassi S. Water-rock interaction in the active geothermal system
+of Panetelleria, Italy. Chem Geol 2001;181(1–4):113–30.
+[29] Pruess K, Bodvarsson GS. Thermal effects of reinjection in geothermal
+reservoirs with majors vertical fractures. In: Proceedings of the SPE 58th
+annual technical conference. San Francisco, CA; 1983.
+[30] Zheng K, Dong Y. The possible role of geothermal energy to the Chinese
+energy development. In: Proceedings of the 8th Asian geothermal sympo-
+sium. Hanoi, Vietnam: Vietnam Institute of Geosciences and Mineral
+Resources; 2008, December 9–10.
+[31] Frisch W, Loeschke J, editors. Plattentektonik. Darmstadt: Wissenschaftliche
+Buchgesellschaft; 2003 p. 190.
+[32] Bachu S. Synthesis and model of formation-water ﬂow, Alberta Basin,
+Canada. AAPG Bull. 1995;79(8):1159–78.
+[33] Weides S, Moeck I, Majorowicz J, Grobe M, Palomi D. Geothermal exploration of
+Paleozoic formations in Central Alberta. Can J Earth Sci 2012;50(5):519–34.
+[34] Nukman M, Moeck I. Structural controls of a geothermal system in the Tarutung
+Basin, north central Sumatra. J Asian Earth Sci 2013;74:86–96.
+[35] Deon F, Moeck I, Jaya M, Wiegand B, Scheytt T, Putriatni DJ. Preliminary
+assessment of the geothermal system in the Tiris volcanic area, East Java,
+Indonesia. In: Proceedings of the 74th EAGE conference and exhibition.
+Copenhagen, Denmark: EarthDoc EAGE Publications; 2012. June 4–7.
+[36] Faulds JE, Bouchot V, Moeck I, Oguz K. Structural controls of geothermal
+systems in western Turkey: a preliminary report. Geotherm Resou Counc
+Trans 2009;33:375–83.
+[37] Hochstein MP, Zheng K, Pasvanoglu S, Vivian-Neal P. Advective (heat sweep)
+geothermal systems. In: Proceedings of the 38th workshop on geothermal
+reservoir engineering. Stanford, California; Stanford University: 2013Febru-
+ary 11–13:SGP-TR-198.
+[38] Bertini G, Casini M, Gianelli G, Pandelli E. Geological structure of a long-
+living geothermal system, Larderello, Italy. Terra Nova 2006;18:163–9.
+[39] McCoy-West A, Milicich S, Robinson T, Bignall G, Harvey CC. Geothermal
+resources in the Paciﬁc Islands: The potential of power generation to beneﬁt
+indigenous communities. In: Proceedings of the 36th workshop on geother-
+mal reservoir engineering. Stanford, California; Stanford University: 2011
+January 31–February 2:SGP-TR-191.
+[40] Schubert G, Straus JM, Grant MA. A problem posed by vapour-dominated
+geothermal systems. Nature 1980;287:423–5.
+[41] Tong LT, Ouyang S, Guo TR, Lee CR, Hu KH, Lee CL, et al.
+Insight into the
+geothermal structure in Chingshui, Ilan, Taiwan. Terr Atmos Ocean Sci
+2008;19(4):413–24.
+[42] Haraldsson IG. 2013 Geothermal activity in south America: Bolivia, Chile,
+Colombia, Ecuador, and Peru. In: Proceedings of the Short course on
+conceptual modeling of geothermal systems. Santa Tecla, El Salvador; United
+Nations Univeristy Training Programme, UNU-GTP and Lageo: 2013. Febru-
+ary 24–March 02. 18 p.
+[43] Hochstein MP, Sudarman S. History of geothermal exploration in Indonesia
+from 1970 to 2000. Geothermics 2008;37(3):220–6.
+[44] Ingebritsen SE, Sorey ML. Vapor-dominated zones within hydrothermal
+systems; evolution and natural state. J Geophys Res 1988;93:12635–3655.
+[45] Majer EL, Peterson JE. The impact of injection on seismicity at the Geysers,
+California geothermal ﬁeld. Int J Rock Mech Min Sci 2007;44:1079–90.
+[46] Mufﬂer LJP. Geothermal reservoir assessment. In: Rybach L, Mufﬂer LJP,
+editors. Geothermal systems: Principles and case histories. Chichester UK:
+John Wiley & Sons; 1981. p. 181–9 (1981).
+[47] Fournier RO, Truesdell AH. An empirical Na–K–Cageothermometer for
+natural waters. Geochim Cosmochim Acta 1973;37:1255–75.
+[48] Giggenbach WF, Gonﬁantini R, Jangi BL, Truesnell AH. Isotopic and chemical
+composition of Partibati Valley geothermal discharges NW Himalaya, India.
+Geothermics 1983;12:199–222.
+[49] Reed MJ. Assessment of low-temperature geothermal resources of the United
+States-1982. USGS Circular 1983;892:73.
+[50] Flynn G, Ghusn Jr. G. Geologic and hydrogeologic research in the Moana
+geothermal system, Washoe County, Nevada. Geotherm Resou Counc Trans
+1983;7:417–21.
+[51] Nicholson K. Geothermal ﬂuids: Chemistry and exploration techniques.
+Berlin-Heidelberg: Springer; 1993; 263.
+[52] Faulds JE, Moeck I, Drakos P, Zemach E. Structural assessment and 3D
+geological modeling of the Brady's Geothermal Area, Churchill County,
+(Nevada, USA). In: Proceedings of the 35th Workshop on geothermal
+reservoir engineering. Stanford, California; Stanford University: 2010. Feb-
+ruary 1–3:SGP-TR-188.
+[53] Faulds JE, Coolbaugh MF, Benoit D, Oppliger G, Perkins M, Moeck I, et al.
+Structural controls of geothermal activity in the Northern Hot Springs Moun-
+tains, Western Nevada: The Tale of three geothermal systems (Brady's, Desert
+Peak, and Desert Queen). Geothermal Res Council Trans 2010;34:675–84.
+[54] Jolie E, Faulds J, Moeck I. The development of a 3D structural geological
+model a spart of the geothermal exploration strategy – A case study from the
+Brady's geothermal system, Nevada, USA. In: Proceedings of the 37th
+Workshop on geothermal reservoir engineering. Stanford, CA; Stanford
+University: 2012 January 30–February 1:SGP-TR-194.
+[55] Sullivan WA, Snoke AW. Comparative anatomy of core-complex develop-
+ment in the northeastern Great Basin, USA. Rocky Mt Geol 2007;42(1):1–29.
+[56] McKenna JR, Blackwell D. Numerical modeling of transient Basin and range
+extensional geothermal systems. Geothermics 2004;33:457–76.
+[57] Faulds JE, Coolbaugh M, Blewitt G, Henry CD. Why is Nevada in hot water?
+Structural controls and tectonic model of geothermal systems in the north-
+western Great Basin Geothrm Resour Counc Trans 2004;28:649–54.
+[58] Blewitt G, Coolbaugh M, Sawatzky D, Holt W, Davis J, Bennett R. Targeting of
+potential geothermal resources in the Great Basin from regional to basin-
+scale relationships between geodetic strain and geological structures.
+Geothrm Resour Counc Trans 2003;27:3–7.
+[59] Louie JN. Crustal thickness and seismic velocity in the Great Basin. Presentation
+at the Great Basin Geothermal Workshop. Reno: University of Nevada; 2004; 5.
+[60] Richards M, Blackwell D. A difﬁcult search, Why Basin and Range systems are
+hard to ﬁnd. Geother Resour Counc Bull 2002;31(4):143–6.
+[61] Lutz SJ, Moore JN, Blamey NJF, Norman DI. Fluid-inclusion gas chemistry of
+the Dixie Valley (NV) geothermal system. In: Proceedings of the 27th
+Workshop on geothermal reservoir engineering. Stanford, CA; Stanford
+University: 2002 January 28–30.
+[62] Nimz G, Janik C, Goff F, Dunlap C, Huebner M, Counce D. Regional hydrology
+of the Dixie Valley geothermal ﬁeld, Nevada; Preliminary interpretations of
+chemical and isotopic data. Lawrence Livermore National Laboratory, Tech
+Inf Dep Digital Library; 1999. [cited 2012 Dec][11 p]. Available from: 〈http://
+www.llnl.gov./tid/Library.html〉.
+[63] Moeck I, Hinz N, Faulds J, Bell J, Kell-Hills A, Louie J. 3D geological mapping as
+new method in geothermal exploration: a case study from Central Nevada.
+Geothem Resour Counc Trans 2010;34:807–12.
+[64] Bruhn D, Manzella A, Vuataz F, Faulds J, Moeck I, Erbas K. Exploration
+methods. In: Huenges E, editor. Geothermal Energy Systems, 2010. Wein-
+heim, Germany: Wiley-VCH publisher; 2010. p. 37–111.
+[65] Cumming W. Geothermal resource conceptual models using surface exploration
+data. In: Proceedings of the 34th Workshop on geothermal reservoir engineering.
+Stanford, CA; Stanford University: 2009. February 9–11:SGP-TR-187.
+[66] Zehner R, Coolbaugh M, Shevenell L. Preliminary geothermal potential map
+and exploration activity in Nevada. Nevada Bureau of Mines and Geology.
+Reno NV; 2010: Open File Report 09–10.
+[67] Coolbaugh M, Taranik JV, Raines GL, Shevenell LA, Sawatzky D, Bedell R, et al.
+A geothermal GIS for Nevada: deﬁning regional controls and favorable
+exploration terrains for extensional geothermal systems. Geotherm Resou
+Counc Trans 2002;26:485–90.
+[68] Opplinger G, Coolbaugh M, Shevenell L. Improved visualization of satellite
+radar InSAR observed structural controls at producing geothermal ﬁelds
+using modeled horizontal surface displacements. Geotherm Resou Counc
+Trans 2006;30:927–30.
+[69] Genter A, Traineau H, Bourgine B, Ledesert B, Genter, S. 2000. Over 10 years
+of geological investigations within the European Soultz HDR project, France.
+In: Iglesias E, Blackwell D, Hunt T, Lund J, Tamanyu S, Kimbara K. editors.
+Proceedings of the WGC. Kyushu Tohoku, Japan; 2000. p. 3703–12.
+[70] Kohl T, Speck R. Electricity production by geothermal hybrid-plants in low-
+enthalpy areas. In: Proceedings of the 29th workshop on geothermal
+reservoir engineering. Stanford, CA; Stanford University: 2004. January 26–
+28:SGP-TR-175.
+[71] Genter A, Cuenot N, Goerke X, Melchert B, Sanjuan B, Scheiber J. Status of the
+Soultz geothermal project during exploitation between 2010 and 2012. In:
+Proceedings of the 37th workshop on geothermal reservoir engineering.
+Stanford, California; Stanford University: 2012 January 30–February 2:SGP-
+TR-194, 12 p.
+[72] Majorowicz J, Unsworth M, Babadagli T, Chako T, Gray A, Grobe M., et al.
+Feasibility of using engineered geothermal systems for heat production in oil
+sands processing in Northern Alberta. In: Proceedings of the AAPG/SPE/SEG
+hedberg research conference enhanced geothermal systems. Napa, USA:
+2011 14–18 March.
+[73] Barton CA, Zoback MD, Burns KL. In-situ stress orientation and magnitude at
+the Fenton Hill geothermal site, New Mexico, determined from wellbore
+breakouts. Geophys Res Lett 1988;15(5):467–70.
+[74] Parker R. The Rosemanowes HDR project 1983-1991. Geothermics 1999;28
+(4–5):603–15.
+[75] Valley B, Evans KF.. Stress heterogeneity in the granite of the Soultz EGS
+reservoir inferred form analysis of wellbore failure. In: Proceedings of the
+WGC. Bali, Indonesia: 2010. April 25–29.
+[76] Wyborn D. Update of development of the geothermal ﬁeld in the granite at
+Innamincka, South Australia. In: Proceedings of the WGC. Bali, Indonesia:
+2010. April 25–29.
+[77] Grasby SE, Hutcheon I. Controls on the distribution of thermal springs in the
+southern Canadian Cordillera. Can J Earth Sci 2001;38:427–40.
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+881
+
+[78] Allen DM, Grasby SE, Voormeij DA. Determining the circulation depth of
+thermal springs in the southern Rocky Mountain Trench, south-eastern
+British Columbia, Canada using geothermometry and borehole temperature
+logs. Hydrogeol J 2006;14:159–72.
+[79] Zimmermann G, Reinicke A, Blöcher G, Milsch H, Gehrke D, Holl HG., et al.
+Well path design and stimulation treatments at the geothermal research
+well GtGrSk4/05 in Groß Schönebeck. In: Proceedings of the 32nd workshop
+on geothermal reservoir engineering. Stanford, CA; Stanford University:
+2007. January 22–24:SGP-TR-183.
+[80] Zimmermann G, Reinicke A, Brandt W, Blöcher G, Milsch H, Holl HG, et al.
+Results of stimulation treatments at the geothermal research wells in
+GroßSchönebeck/Germany. In:
+Proceedings of
+the 33rd workshop
+on
+geothermal reservoir engineering. Stanford, CA; Stanford University: 2008
+January 28–30:SGP-TR-185.
+[81] Majorowicz JA, Garven G, Jessop A, Jessop C. Present heat ﬂow along a proﬁle
+across the Western Canada Sedimentary Basin: the extent of hydrodynamic
+inﬂuence. In: Förster A, Merriam DF, editors. Geothermics in Basin Analysis.
+Springer; 1999. p. 61–79.
+[82] Toth J. Gravitational systems of groundwater ﬂow – Theory, evaluation,
+utilization. Cambridge, UK: Cambridge University Press; 2009; 297.
+[83] Craw D, Koons PO, Zeitler PK, Kidd SF. Fluid evolution and thermal structure
+in the rapidly exhuming gneiss complex of Namche Barwa-GyalaPeri, eastern
+Himalayan syntaxis. J Methamorph Geol 2005;23:829–45.
+[84] Majorowicz J, Wybraniec S. New terrestrial heat ﬂow map of Europe after
+regional paleoclimatic correction application. Int J Earth Sci (GeolRundsch)
+2011;100:881–7.
+[85] Salley RC. Applied sedimentology. 2nd ed.. San Diego (CA), London (UK),
+Burlington (MA): Academic Press; 2000; 523.
+[86] Hartmann DJ, Beaumont EA. Predicting reservoir system quality and perfor-
+mance. In: Beaumont EA, Foster NH, editors. Exploring for oil and gas traps,
+Treatise of petroleum geology, handbook of petroleum geology. Tusla: AAPG
+publishing; 2000. p. 1150.
+[87] Wolfgramm M, Obst K, Brandes J, Koch R, Raubbach K, Thorwart K..
+Produktivitaetsprognosen geothermischer Aquifere in Deutschland. In: Pro-
+ceedings of the Der Geothermiekongress Conference. Bochum Germany;
+2009. 17–19.
+[88] Tenzer H, Park CH, Kolditz O, McDermott CI. Application of the geomecha-
+nicalfacies approach and comparison of exploration and evaluation methods
+used at Soultz-sous-Forets (France) and Spa Urach (Germany) geothermal
+sites. Environ Earth Sci 2010;61(4):853–80.
+[89] Klapperer S, Moeck I, Norden B. Regional 3D geological modeling and stress
+ﬁeld analysis at the CO2 storage site of Ketzin, Germany. Geotherm Resou
+Counc Trans 2011;35:419–23.
+[90] Noack V, Cherubini Y, Scheck-Wenderoth M, Lewerenz B, Höding T, Simon
+A, et al. Assessment of the present-day thermal ﬁeld (NE German Basin) –
+Inferences from 3D modeling. Chemie der Erde – Geochemistry 2010;70
+(Suppl. 3):S47–62.
+[91] Norden B, Förster A. Thermal conductivity and radiogenic heat production of
+sedimentary and magmatic rocks in the Northeast German Basin. AAPG Bull
+2006;90(6):939–62.
+[92] Cuenot N, Faucher JP, Fritsch D, Genter A, Szablinski D. The European EGS
+project at Soultz-sous-Forets: from extensive exploration to power produc-
+tion. In: Proceedings of the IEEE power and energy society general meeting.
+Pittsburg: 2008 Jul 20–24: PES, paper 4596680.
+[93] Haring M. Deep heat mining: Development of cogeneration power plant
+from an enhanced geothermal system in Basel. Geotherm Resou Counc Trans
+2004;2004(28):219–22.
+[94] Moeck I. Iterative development of stress models for deep geothermal
+reservoirs. In: Proceedings of the 74th EGAE conference and exhibition –
+Conference. EarthDoc EAGE Publications: Copenhagen, Denmark; 2012 June
+4–7; 2012. 5 p.
+[95] Bauer K, Munoz G, Moeck I. Pattern recognition and lithological interpreta-
+tion of collocated seismic and magnetotelluric models using self-organized
+maps. Geophys J Int 2012;189(2):984–98.
+[96] Munoz
+G,
+Bauer
+K,
+Moeck
+I,
+Schulze
+A,
+Ritter
+O.
+Exploring
+the
+Großschönebeck (Germany) geothermal site using statistical joint interpre-
+tation of magnetotelluric and seismic tomography models. Geothermics
+2010;39(1):35–45.
+[97] Fritzer T. Bayerischer Geothermieatlas - hydrothermale Energiegewinnung:
+Technik, wirtschaftliche Aspekte, Risiken, hydrothermale Grundwasserleiter
+in Bayern, Untergrundtemperaturen in Bayern. Munich: Bayer. Staatsminister-
+ium fuer Wirtschaft Infrastruktur Verkehr und Technologie; 2010 January 1. 96
+p. German.
+[98] Schellschmidt R, Sanner B, Pester S, Schulz R. Geothermal energy use in Germany.
+In: Proceedings of the WGC. Bali, Indonesia; 2010 April 25–29:paper 0152, 19 p.
+[99] Suryadarma, Dwikorianto T, Zuhro A. Lessons learned from Kamojang
+geothermal steam ﬁeld management: from beginning until now. In: Pro-
+ceedings of the WGC. Antalya/Turkey; 2005. April 24–29: paper 0509, 6 p.
+[100] Bignall G, Rae A, Rosenberg M. Rationale for targeting fault versus formation-
+hosted permeability in high-temperature geothermal systems of the Taupo
+volcanic zone, New Zealand. In: Proceedings of the WGC. Bali, Indonesia;
+2010 April 25–29: paper 1148, 7 p.
+[101] Sigrudsson O. The Reykjanes Seawater geothermal system – Its exploitation
+under regulatory constraints. In: Proceedings WGC. Bali, Indonesia; 2010
+April 25–29:paper 2413, 7 p.
+[102] Harvey C, Harvey M. The prospectivity of hotspot volcanic islands for
+geothermal exploration. In: Proceedings WGC. Bali, Indonesia; 2010 April
+25–29:paper 1182, 6 p.
+[103] Bertani R, Bertini G, Cappetti G, Fiordelisi A, Marocco BM. An update of the
+larderello-travale/radicondoli deep geothermal system. In: Proceedings WGC.
+Antalya/Turkey; 2005 April 24–29:paper 0936, 6 p.
+[104 Guillou-Frottier L, Carre C, Bourgine B, Bouchot V, Genter A. Hydrothermal
+convection beneath an inclined basement-sediment interface: application to
+the Rhine graben and its Soultz-sous-Forets temperature anomaly. In:
+Proceedings of the AGU conference. San Francisco, CA; 2012 December 3–5.
+Poster V12C-2856.
+[105] Surdam RC, Dunn TL, MacGowan DB, Heasler HP. In: Coalson EB, Kaplan SS,
+Keighin CW, Oglesby LA, Robinson JW, editors. Conceptual models for
+prediction of porosity evolution with an example from the Frontier Sand-
+stone, Big-Horn basin, Wyoming. Sandstone Reservoirs: Rocky Mountain
+Association of Geologists; 1989. p. 7–21.
+[106] Trautwein U, Huenges E. Poroelastic behavior of physical properties in
+Rotliegend sandstones under uniaxial strain. Int J Rock Mech Min Sci
+2005;42:924–32.
+[107] Zimmermann G, Moeck I, Bloecher G. Cyclic waterfrac stimulation to develop
+an Enhanced Geothermal System (EGS) – Conceptual design and experi-
+mental results. Geothermics 2010;39(1):59–69.
+[108] Norden B, Foerster A, Vu-Hoang D, Marcelis F, Springer N, le Nir I. Lithological
+and petrophysical core-log interpretation in CO2SINK, the European CO2
+onshore research storage and veriﬁcation project. SPE Reserv. Eval Eng
+2010;13(2):179–92.
+[109] Birner J, Fritzer T, Jodocy M, Schneider M, Stober I. Aufbau eines geother-
+mischen informationssystems fuer Deutschland. Hannover: LIAG report;
+2009. Archive no. 0128452, [Chapter Molassebecken]. German.
+[110] Hänel R, Kleefeldt M, Koppe I. Geothermisches Energiepotenzial. Pilotstudie:
+Abschätzung der geothermischen Energievorräte an ausgewählten Beispielen
+in der Bundesrepublik Deutschland (Abschlussbericht). Hannover: Ber-
+ichtNLfB; 1984. Archiv-nr. 96 276, Band I–IV, Hannover. German.
+[111] Kosack C, Vogt C, Marquart G, Clauser C, Rath V. Stochastic permeability
+estimation for the Soultz-Sous-Forets EGS reservoir. In: Prodceedings of the
+36th workshop on geothermal reservoir engineering. Stanford, CA; Stanford
+University: 2011 January 31 – February 2.
+I.S. Moeck / Renewable and Sustainable Energy Reviews 37 (2014) 867–882
+882

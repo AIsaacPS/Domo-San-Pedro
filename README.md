@@ -1,10 +1,12 @@
-# Determinación de Zonas Favorables de Perforación Geotérmica — Domo San Pedro
+# Determinación de Nuevas Zonas Favorables para la Expansión del Campo Geotérmico Domo San Pedro, Nayarit
+
+> Repositorio técnico de la tesina de posgrado (Especialidad en Exploración y Aprovechamiento de Recursos Geotérmicos, UNAM).
 
 ## 1. Objetivo del Proyecto
 
-Identificar y delimitar las zonas con mayor favorabilidad para la perforación de pozos geotérmicos exploratorios en el área del **Domo San Pedro**, mediante la integración de datos geocientíficos en un Sistema de Información Geográfica (SIG) utilizando el método **Index Overlay con mapas multi-clase**.
+Identificar y delimitar **nuevas zonas favorables para la expansión** del Campo Geotérmico **Domo San Pedro** —actualmente en producción (35.5 MW instalados de un potencial estimado de hasta ~200 MW)— mediante la integración de evidencia geocientífica en un Sistema de Información Geográfica (SIG) con el método **Index Overlay multi-clase**.
 
-El enfoque se basa en la metodología propuesta por Prol-Ledesma (2000), adaptada al contexto geológico y geotérmico del Domo San Pedro. Se busca generar un mapa de favorabilidad (escala 0–1) que permita tomar decisiones informadas sobre la ubicación óptima de pozos exploratorios, minimizando el riesgo de perforación fallida.
+El enfoque se basa en la metodología de Prol-Ledesma (2000), adaptada al contexto geológico y geotérmico del Domo San Pedro. Se busca generar un mapa de favorabilidad (escala 0–1) que permita priorizar la ubicación de nuevos pozos dentro o de forma contigua a la concesión, aprovechando la infraestructura existente y minimizando el riesgo de perforación fallida. Al tratarse de un campo activo (no un prospecto virgen), el análisis se enfoca en la **expansión** apoyada en el conocimiento de subsuelo ya disponible (pozos, MT 3D, geoquímica).
 
 ---
 
@@ -101,7 +103,8 @@ El umbral de **0.6** ha demostrado capturar la mayoría de los pozos productores
 
   FASE 3: RECLASIFICACIÓN
   ├── Asignar scores (0, 8, 10) a cada capa según umbrales de distancia
-  ├── Reclasificar mapa de resistividad según umbrales (≤10, 10-20, >20 Ω·m)
+  ├── Reclasificar resistividad como VENTANA del reservorio (ver §2.3):
+  │     20–50 Ω·m → 10 | 15–20 y 50–55 Ω·m → 8 | <15 o >55 Ω·m → 0
   └── Verificar que todas las capas tengan la misma extensión y resolución
 
          │
@@ -216,8 +219,10 @@ Para aplicar el modelo Index Overlay al Domo San Pedro se requieren las siguient
 | **Qué se necesita**  | Mapa de fallas activas y/o recientes del área del Domo San Pedro                                                                    |
 | **Formato**           | Líneas vectoriales (shapefile, GeoJSON, o similar)                                                                                  |
 | **Detalle requerido** | Ubicación, orientación (rumbo/echado), longitud, y si es posible: edad relativa y evidencia de actividad reciente                  |
-| **Fuentes posibles**  | Cartografía geológica del SGM, estudios estructurales locales, interpretación de imágenes satelitales, publicaciones académicas |
+| **Fuentes posibles**  | Cartografía geológica del SGM, estudios estructurales locales, interpretación de imágenes satelitales, publicaciones académicas (Ferrari 2003, Corbo 2026, Muñoz 2024) |
 | **Justificación**    | En sistemas con permeabilidad secundaria, las fallas controlan el flujo de fluidos geotérmicos hacia la superficie                  |
+
+> **Tratamiento aplicado:** las trazas provienen de tres fuentes (Ferrari 2003, Corbo 2026, Muñoz 2024). Se **excluye del análisis el borde de caldera inferido** (catalogado como tal en la tabla de atributos), por no constituir una falla con permeabilidad demostrada. La zona de daño se representa con un buffer de **alta favorabilidad ≤ 100 m** y transición **100–200 m** (ver `scripts/05_visualizacion.py`).
 
 ### 5.2 Manifestaciones Termales Superficiales
 
@@ -290,8 +295,11 @@ Para aplicar el modelo Index Overlay al Domo San Pedro se requieren las siguient
 | Unidades             | Metros                                  |
 | Resolución raster   | 30 m × 30 m                            |
 
-### 6.0 Área de Estudio
+### 6.0 Área de Estudio y Área Concesionada
 
+El proyecto maneja **dos dominios espaciales distintos** que no deben confundirse:
+
+**Área de estudio** (rectángulo de análisis / marco de cómputo del SIG):
 
 | Parámetro | Valor |
 | ---------- | ----- |
@@ -302,6 +310,17 @@ Para aplicar el modelo Index Overlay al Domo San Pedro se requieren las siguient
 | Ancho | 15 km |
 | Alto | 20 km |
 | Área | 300 km² |
+
+**Área concesionada** (frontera legal y dominio prioritario / *clipping mask*):
+
+| Parámetro | Valor |
+| ---------- | ----- |
+| Titular | Geotérmica para el Desarrollo, S.A.P.I. de C.V. (Grupo Dragón) |
+| Otorgamiento | SENER, 30 de octubre de 2015 (vigencia 30 años) |
+| Superficie | **129.18 km² (12,918 ha)** — polígono de 7 vértices UTM 13N |
+| Rol en el SIG | Máscara de recorte; las nuevas zonas favorables deben caer dentro o ser contiguas |
+
+> Las nuevas zonas favorables se evalúan **dentro o de forma contigua** a la concesión para aprovechar la infraestructura existente (caminos, subestación en Chapalilla a ~10 km, derechos de agua CONAGUA). Detalle de vértices en `BIBLIOGRAFIA/resumen_concesion_domo_san_pedro.txt`.
 
 ### 6.1 Justificación
 
@@ -325,10 +344,12 @@ Para aplicar el modelo Index Overlay al Domo San Pedro se requieren las siguient
 
 | Herramienta                         | Uso                                                                                  |
 | ----------------------------------- | ------------------------------------------------------------------------------------ |
-| **QGIS**                            | Digitalización, análisis espacial, cálculo de distancias, overlay, visualización |
-| Python (Rasterio, NumPy, GeoPandas) | Automatización del pipeline, cálculo del Index Overlay                             |
+| **QGIS** (PyQGIS)                   | Digitalización, carga/recorte de capas, análisis espacial, visualización            |
+| Python: NumPy, SciPy, Rasterio      | Pipeline fuera de QGIS, rasterización, distancia euclidiana, cálculo del Index Overlay |
+| Python: pyshp (`shapefile`)         | Lectura de shapefiles de fallas sin dependencias binarias pesadas                    |
+| Python: Matplotlib                  | Generación de los mapas (fallas, resistividad, favorabilidad, booleano)              |
+| Python: PyMuPDF, python-docx        | Extracción de texto de bibliografía (PDF) y generación de documentos Word            |
 | Google Earth Engine                 | Obtención de imágenes satelitales y DEM                                            |
-| GMT / Surfer                        | Visualización de mapas de contorno (opcional)                                       |
 
 ---
 
@@ -338,61 +359,73 @@ Para aplicar el modelo Index Overlay al Domo San Pedro se requieren las siguient
 DOMO SAN PEDRO/
 ├── README.md                          ← Este archivo
 ├── CONTRIBUTING.md                    ← Guía de configuración y contribución
-├── INVENTARIO.md                      ← Estado de cada capa de datos
 ├── .gitignore                         ← Excluye binarios pesados de Git
 ├── requirements.txt                   ← Dependencias Python
-├── PROYECTO - GIS.qgz                ← Proyecto QGIS principal (NO en Git)
+├── PROYECTO - GIS.qgz                 ← Proyecto QGIS principal (NO en Git)
 │
-├── DATA INPUT/                        ← Datos fuente organizados por tema
-│   ├── README_GENERAL.txt             ← Guía general de datos de entrada
-│   ├── 01_FALLAS_PRINCIPALES/
+├── .kiro/
+│   ├── steering/
+│   │   └── contexto-tesina.md         ← Contexto común (título, zona, concesión, reglas)
+│   └── agents/                        ← Panel de 7 auditores especializados (solo lectura + web)
+│       ├── 01-geologia-mexico.json
+│       ├── 02-geotermia-mexico.json
+│       ├── 03-geoquimica-geotermia.json
+│       ├── 04-geofisica-geotermia.json
+│       ├── 05-sig-geotermia.json
+│       ├── 06-vulcanologia-neotectonica.json
+│       └── 07-estructural-jalisco-nayarit.json
+│
+├── DATA INPUT/                        ← Datos fuente para el modelo, organizados por tema
+│   ├── 01_FALLAS_PRINCIPALES/         ← Fallas: Ferrari 2003, Corbo 2026, Muñoz 2024
 │   ├── 02_MANIFESTACIONES_TERMALES/
-│   ├── 03_GEOLOGIA_FUENTE_CALOR/     ← Litología SGM + Ferrari 2003
+│   ├── 03_GEOLOGIA_FUENTE_CALOR/      ← Litología SGM + Ferrari 2003
 │   ├── 04_FRACTURAMIENTO/
-│   ├── 05_RESISTIVIDAD/              ← Mapas MT de Corbo 2026 (JPG + clean)
-│   ├── 06_DEM_TOPOGRAFIA/            ← CEM INEGI 15m
-│   ├── 07_ANOMALIAS_TERMICAS/
-│   ├── 08_GEOQUIMICA/
-│   ├── 09_GRADIENTE_GEOTERMICO/
-│   └── 10_GRAVIMETRIA_MAGNETOMETRIA/
+│   ├── 05_RESISTIVIDAD/               ← Mapas MT de Corbo 2026
+│   ├── 06_DEM_TOPOGRAFIA/            ← CEM INEGI
+│   ├── 07_ANOMALIAS_TERMICAS/  08_GEOQUIMICA/
+│   └── 09_GRADIENTE_GEOTERMICO/  10_GRAVIMETRIA_MAGNETOMETRIA/
 │
 ├── data/
 │   └── processed/                     ← Datos procesados listos para el modelo
-│       ├── area_estudio_UTM13N.*      ← Polígono del área de estudio
+│       ├── area_estudio_UTM13N.*      ← Polígono del área de estudio (300 km²)
 │       ├── DEM_area_estudio_UTM13N.tif
 │       ├── geologia_area_estudio_UTM13N.*
-│       └── resistividad_350mbsl_UTM13N.tif  ← Extraída desde mapa MT
+│       └── resistividad_350mbsl_UTM13N.tif  ← Extraída desde mapa MT (corte somero)
 │
 ├── scripts/
 │   ├── README.md
-│   ├── config.py                          ← Configuración centralizada (rutas, CRS, pesos)
+│   ├── config.py                          ← Configuración centralizada (rutas, CRS, pesos, umbrales)
 │   ├── 01_cargar_datos_y_area_estudio.py  ← PyQGIS: carga y preprocesamiento
-│   ├── extraer_resistividad_de_mapa.py    ← Python: color→resistividad (Ω·m)
-│   ├── convertir_pdf_a_png.py             ← Utilidad: PDF → PNG para georreferenciar
-│   ├── generar_bibliografia.py            ← Genera .docx de bibliografía comentada
-│   ├── 02_calculo_distancias.py           ← (PENDIENTE) Mapas de distancia euclidiana
-│   ├── 03_reclasificacion.py              ← (PENDIENTE) Asignación de scores
-│   ├── 04_index_overlay.py               ← (PENDIENTE) Cálculo del modelo
-│   └── 05_visualizacion.py               ← (PENDIENTE) Mapas finales
+│   ├── extraer_resistividad_de_mapa.py    ← color→resistividad (Ω·m) desde mapa MT
+│   ├── 05_visualizacion.py                ← Genera los 4 mapas (fallas, resistividad, index overlay, booleano)
+│   ├── extraer_texto_bibliografia.py      ← PDF/DOCX → texto plano (auto-descubre BIBLIOGRAFIA/)
+│   ├── generar_borrador_metodologia.py    ← Borrador de metodología (Word + Markdown)
+│   ├── generar_capitulo2_corregido.py     ← Capítulo II con correcciones del panel (Word + Markdown)
+│   ├── generar_bibliografia.py            ← .docx de bibliografía comentada
+│   ├── generar_propuesta_sig.py           ← .docx de propuesta de proyecto
+│   └── convertir_pdf_a_png.py             ← Utilidad: PDF → PNG para georreferenciar
 │
 ├── outputs/                           ← Resultados generados (NO en Git)
-│   ├── mapa_favorabilidad.tif
-│   ├── mapa_favorabilidad_umbrales.png
-│   └── reporte_final.pdf
+│   ├── fallas_zona_dano_UTM13N.png
+│   ├── resistividad_MT_350mbsl_UTM13N.png
+│   ├── index_overlay_gradiente_UTM13N.png
+│   ├── modelo_booleano_UTM13N.png
+│   ├── Borrador_Metodologia_Domo_San_Pedro.docx / .md
+│   └── Capitulo2_Descripcion_Zona_Estudio_CORREGIDO.docx / .md
 │
-├── BIBLIOGRAFIA COMPLEMENTARIA/       ← PDFs de artículos por tema + .docx generado
-│   ├── 01_GEOQUIMICA/
-│   ├── 02_GEOLOGIA_ESTRUCTURAL/
-│   ├── 03_SISMICIDAD/
+├── BIBLIOGRAFIA/                      ← PDFs por tema + capítulos de tesina + resumen de concesión
+│   ├── 01_GEOLOGIA_VULCANOLOGIA_TECTONICA/
+│   ├── 02_GEOQUIMICA/
+│   ├── 03_GEOFISICA/
 │   ├── 04_HIDROGEOLOGIA/
-│   ├── 05_ANOMALIAS_TERMICAS/
-│   ├── 06_GEOCRONOLOGIA/
-│   ├── 06_GEOFISICA/
-│   └── Otros/
+│   ├── 05_SIG_GEOTERMIA/
+│   ├── 06_GEOTERMIA/
+│   ├── capitulo_2_descripcion_zona_estudio-v4.*
+│   └── resumen_concesion_domo_san_pedro.txt
 │
 └── docs/
-    ├── references/                    ← Notas y metadatos de referencias
-    └── extracted-text/                ← Texto extraído de artículos (en Git)
+    ├── extracted-text/                ← Texto extraído de toda la bibliografía (en Git)
+    └── revisiones/                    ← Informes del panel de auditores
 ```
 
 > **Nota sobre Git**: Los archivos binarios (`.tif`, `.shp`, `.pdf`, `.png`) están excluidos
@@ -400,40 +433,59 @@ DOMO SAN PEDRO/
 
 ---
 
-## 9. Estado Actual del Proyecto (Agosto 2026)
+## 9. Estado Actual del Proyecto (Septiembre 2026)
 
 ### Completado ✓
 
 | Fase | Tarea | Script/Archivo |
 |------|-------|----------------|
-| 1 | Área de estudio definida (15×20 km, UTM 13N) | `01_cargar_datos_y_area_estudio.py` |
+| 1 | Área de estudio definida (15×20 km, 300 km², UTM 13N) | `01_cargar_datos_y_area_estudio.py` |
 | 1 | DEM reproyectado y recortado (30 m) | `01_cargar_datos_y_area_estudio.py` |
 | 1 | Geología (SGM) recortada | `01_cargar_datos_y_area_estudio.py` |
-| 2 | Resistividad extraída de modelo MT (350 mbsl) | `extraer_resistividad_de_mapa.py` |
-| — | Bibliografía compilada (24 refs, 6 temas) | `generar_bibliografia.py` |
-| — | Utilidad PDF→PNG | `convertir_pdf_a_png.py` |
+| 2 | Resistividad extraída de modelo MT (350 mbsl, corte somero) | `extraer_resistividad_de_mapa.py` |
+| 2 | Criterio de resistividad corregido a ventana 20–50 Ω·m | `config.py` (reunión Prol-Ledesma) |
+| 3 | Fallas rasterizadas + zona de daño (buffer 100 m); exclusión del borde de caldera | `05_visualizacion.py` |
+| 5–6 | Index Overlay continuo (fuzzy) + 4 mapas (fallas, resistividad, gradiente, booleano) | `05_visualizacion.py` |
+| — | Bibliografía extraída a texto (22 fuentes, 6 temas) | `extraer_texto_bibliografia.py` |
+| — | Borrador de metodología (Word + Markdown) | `generar_borrador_metodologia.py` |
+| — | Capítulo II corregido por panel de auditores (Word + Markdown) | `generar_capitulo2_corregido.py` |
+| — | Panel de 7 auditores especializados (revisión + investigación web) | `.kiro/agents/` |
 
 ### Pendiente
 
 | Fase | Tarea | Prioridad |
 |------|-------|-----------|
+| 2 | Re-extraer resistividad al corte del reservorio (1,000–2,000 m) | Alta |
 | 1 | Digitalizar manifestaciones termales | Alta |
 | 1 | Obtener/digitalizar fracturamiento | Media |
-| 2 | Calcular distancias euclidianas (fallas, manif., domos, fract.) | Alta |
-| 3 | Reclasificar capas (scores 0, 8, 10) | Alta |
 | 4 | Definir pesos finales (con Dra. Prol-Ledesma) | Alta |
-| 5 | Calcular Index Overlay | Alta |
-| 6 | Generar mapas de favorabilidad | Media |
+| — | Aplicar puntos `[VERIFICAR]` del Capítulo II corregido | Alta |
+| 5 | Integrar todas las capas al Index Overlay (hoy: fallas + resistividad) | Alta |
 | 7 | Validar contra pozos existentes | Media |
+
+---
+
+## 9.1 Sistema de Revisión por Auditores (agentes de Kiro)
+
+El proyecto incluye un **panel de 7 auditores especializados** (en `.kiro/agents/`) que revisan la redacción de la tesina contra la bibliografía real y pueden proponer referencias verificables mediante búsqueda web:
+
+1. Geología de México · 2. Geotermia en México · 3. Geoquímica · 4. Geofísica · 5. SIG · 6. Vulcanología y neotectónica · 7. Geología estructural (Bloque de Jalisco / Nayarit).
+
+Comparten el contexto en `.kiro/steering/contexto-tesina.md` (título, objetivo de expansión, zona de estudio vs. concesión, bibliografía y reglas). Son de **solo lectura** (no modifican archivos) y entregan hallazgos por severidad. Sus informes se guardan en `docs/revisiones/`.
 
 ---
 
 ## 10. Referencias Principales
 
 - Prol-Ledesma, R.M. (2000). Evaluation of the reconnaissance results in geothermal exploration using GIS. *Geothermics*, 29, 83–103.
-- Corbo-Camargo, F. et al. (2026). Magnetotelluric imaging of the Domo San Pedro geothermal system. *GSA Books* (en prensa).
 - Bonham-Carter, G.F. (1994). *Geographical Information Systems for Geoscientists: Modelling with GIS*. Pergamon, 398 pp.
-- Saaty, T.L. (1977). A scaling method for priorities in hierarchical structures. *J. Math. Psychology*, 15, 234–281.
+- Moeck, I.S. (2014). Catalog of geothermal play types based on geologic controls. *Renewable and Sustainable Energy Reviews*, 37, 867–882.
+- Corbo-Camargo, F. et al. (2026). The geothermal system of the San Pedro Dome constrained by magnetotelluric and lithological information. *GSA Special Paper* 566, 53–67. https://doi.org/10.1130/2026.2566(04)
+- Ferrari, L. et al. (2003). Geology of the San Pedro–Ceboruco graben, western Trans-Mexican Volcanic Belt. *Rev. Mex. Cienc. Geol.*, 20(3), 165–181.
+- Caine, J.S., Evans, J.P. & Forster, C.B. (1996). Fault zone architecture and permeability structure. *Geology*, 24(11), 1025–1028.
+- Reyes-Orozco, A. et al. (2019). Preliminary Conceptual Model of the Domo San Pedro Geothermal Field. *44th Stanford Geothermal Workshop*.
+
+> La bibliografía completa (22 fuentes) está en `BIBLIOGRAFIA/` y su texto extraído en `docs/extracted-text/`.
 
 ---
 
@@ -441,8 +493,8 @@ DOMO SAN PEDRO/
 
 Proyecto desarrollado por: A. Isaac P.S.
 
-para la evaluación del potencial geotérmico del Domo San Pedro.
+Tesina de posgrado para la Especialidad en Exploración y Aprovechamiento de Recursos Geotérmicos (UNAM), sobre la expansión del Campo Geotérmico Domo San Pedro, Nayarit.
 
 ---
 
-*Última actualización: Agosto 2026*
+*Última actualización: Septiembre 2026*

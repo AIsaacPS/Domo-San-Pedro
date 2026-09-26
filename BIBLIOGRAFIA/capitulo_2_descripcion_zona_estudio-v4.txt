@@ -1,0 +1,204 @@
+======================================================================== 
+CAPÍTULO II: DESCRIPCIÓN DE LA ZONA DE ESTUDIO 
+======================================================================== 
+ 
+2.1 MARCO TECTÓNICO 
+ 
+El Campo Geotérmico Domo San Pedro (DSP) se localiza en el suroeste del estado de Nayarit, 
+dentro del municipio de San Pedro Lagunillas, aproximadamente a 40 km al sureste de la 
+ciudad de Tepic y a 10 km al suroeste del volcán Ceboruco. Fisiográficamente, el área de 
+estudio se sitúa en una zona de transición neotectónica sumamente compleja donde convergen 
+tres provincias geológicas y fisiográficas mayores de México: el Cinturón Volcánico 
+Transmexicano (CVTM) al este y sur, la Provincia Volcánica de la Sierra Madre Occidental 
+(SMO) al norte, y el Bloque de Jalisco al suroeste (Ferrari et al., 2003; Reyes-Orozco et al., 
+2019). 
+El CVTM es un arco volcánico neógeno-cuaternario continental continentalmente amplio 
+asociado a la subducción oblicua de las placas de Cocos y Rivera debajo de la Placa 
+Norteamericana. El DSP se emplaza específicamente en el segmento más occidental de este 
+arco, donde la dinámica tectónica está fuertemente influenciada por la discontinuidad de la 
+placa en subducción (brecha o rasgadura de la losa / "slab window") y la divergencia del Bloque 
+de Jalisco respecto al continente (Petrone et al., 2001; Ferrari et al., 2003). 
+ 
+2.1.1 Estructuras Geológicas Regionales y Locales 
+El campo geotérmico DSP se ubica en el sector noroccidental del Graben de Compostela 
+(también denominado graben de San Pedro-Ceboruco), el cual constituye la fosa extensional 
+terminal en el extremo WNW del Rift Tepic-Zacoalco (RTZ). El RTZ es uno de los tres sistemas 
+de grabens mayores que delimitan el Bloque de Jalisco respecto al resto del continente (Ferrari 
+et al., 1994; Ruiz Mendoza, 2022). 
+ 
+El Graben de Compostela sobrepone directamente el contacto geológico entre el basamento 
+plutónico cristalino del Bloque de Jalisco al sur —formado por granodioritas y dioritas del 
+Cretácico Tardío al Paleoceno (75–56 Ma) e intrusivos mayores de más de 85 Ma— y la 
+secuencia ignimbrítica de la SMO al norte.  
+ 
+A nivel local, la subsidencia tectónica acumulada en el basamento del Graben de Compostela 
+supera los 1,100 m en el sector caldérico central y más de 2,000 m a escala regional (Ferrari et 
+al., 2003; Ruiz Mendoza, 2022). La arquitectura estructural se organiza en tres familias 
+principales de fallas: 
+ 
+- Sistema NW-SE a WNW-ESE: Fallas normales regionales subverticales (60°–80°) paralelas al 
+RTZ (e.g., Falla Milpillas-Cerro Grande, Falla Compostela, Falla Pedernales). Acomodan el 
+mayor desplazamiento vertical del basamento; no obstante, sus trazas principales pueden 
+presentar alteración argílica en el núcleo ("fault core"), actuando localmente como barreras 
+impermeables (Corbo-Camargo et al., 2026). 
+
+- Sistema Transversal Secundario E-W: Fallas profundas (e.g., Ocotes, Ávalos, Guásimas) que 
+se extienden hasta 2.5 km en el granito basamental, actuando como los canales de mayor 
+conductividad hidráulica vertical (Corbo-Camargo et al., 2026; Reyes-Orozco et al., 2019). 
+ 
+- Sistema Ortogonal N-S a NE-SW: Fallas secundarias que actúan predominantemente como 
+barreras estructurales y límites laterales del reservorio (Reyes-Orozco et al., 2019). 
+ 
+2.1.2 Estado de Esfuerzos Neotectónicos y Tectónica Activa 
+El análisis cinemático y microtectónico en el sector occidental del RTZ indica que la 
+deformación neotectónica activa está regida por un tensor de esfuerzos extensional puro, con 
+una dirección del eje de extensión principal (sigma_3) orientada NNE-SSW a NE-SW 
+(Muñoz-Burbano et al., 2024; Ruiz Mendoza, 2022).  
+ 
+Bajo este campo de esfuerzos, las estructuras de rumbo E-W y WNW-ESE experimentan la 
+mayor dilatación y apertura mecánica. La tectónica activa y la preservación de la permeabilidad 
+secundaria dentro del basamento cristalino denso se comprueban mediante la sismicidad 
+inducida por operaciones geotérmicas, la cual reactiva mecánicamente la red de fracturas 
+secundarias en las zonas de daño de las fallas entre 0.5 y 2.5 km de profundidad 
+(Muñoz-Burbano et al., 2024; Caine et al., 1996; Guillou-Frottier et al., 2024). 
+ 
+ 
+2.2 MARCO GEOLÓGICO 
+ 
+La historia geológica local abarca la evolución del Complejo Volcánico San Pedro-Cerro Grande 
+(SCVC), estructurada en tres etapas eruptivas e hidrodinámicas principales (Ferrari et al., 2003; 
+Petrone et al., 2001; Ruiz Mendoza, 2022): 
+ 
+1. Etapa Pre-Caldera (>1.1 Ma): Emplazamiento de flujos de lava andesíticos y dacíticos del 
+Mioceno (13–8 Ma) y Plioceno (4.9–3.8 Ma) que constituyen el edificio ancestral y las 
+secuencias alteradas que albergan la capa sello actual. 
+ 
+2. Etapa de Colapso Caldérico (~1.1 Ma): Formación de la estructura caldérica de San Pedro 
+(7–10 km de diámetro), acompañada del depósito de tobas e ignimbritas de colapso. 
+ 
+3. Etapa Post-Caldera Silícica y Máfica (<1.1 Ma al Holoceno): Efusión de domos 
+dacíticos-riolíticos y coladas asociadas dentro de la caldera. Destacan el Cerro Las Tetillas 
+(~2.3 Ma), el domo riolítico Los Ocotes (~0.1 Ma / 100 ka) y el complejo de tres domos dacíticos 
+de Cerro San Pedro (Domo San Pedro s.s.), fechado en apenas 0.041 Ma (41 ka) (Petrone et 
+al., 2001; Ruiz Mendoza, 2022). Simultáneamente se registran emisiones basálticas de 
+intraplaca (e.g., cono Amado Nervo, ~0.22 Ma). La presencia de vulcanismo silícico tan reciente 
+(<100 ka) sostiene la existencia de una fuente de calor magmática somera y activa en el 
+subsuelo. 
+ 
+
+2.2.1 Descripción Litológica y Estratigráfica de Muestras de Perforación en Pozos 
+La caracterización mineralógica, petrográfica y el análisis de recortes de perforación ("cuttings") 
+y núcleos en los pozos profundos del campo (e.g., SP01, SP02 [3,405 m], SP04 [3,760 m], 
+SP05 [1,560 m], SP06, SP07, SP08) permiten definir la columna litológica tipo del yacimiento 
+(Gómez-Cruz, 2019; Corbo-Camargo et al., 2026): 
+ 
+a) Depósitos Volcánicos Recientes (0 a ~700 m de profundidad): Lavas dacíticas y riolíticas, 
+tobas piroclásticas, pumicita, vidrio volcánico y coluvión dacítico del Pleistoceno-Holoceno (0.6 
+a 0.1 Ma). 
+b) Secuencia Volcánica Pliocénica (~700 a ~850 m): Intercalaciones de lavas andesíticas y 
+dacíticas con alteración hidrotermal moderada (4.9 a 3.8 Ma). 
+c) Secuencia Volcánica Miocénica (~850 a ~1,300 m) — Capa Sello ("Clay Cap"): Andesitas y 
+basaltos intensamente alterados hidrotermalmente a una ensamble argílica (esmectita e 
+interestratificados illita/esmectita). Esta franja impermeable de ~500 m de espesor sella 
+hidráulicamente el reservorio a presión. 
+d) Basamento Cristalino del Bloque de Jalisco (>1,300 m a >3.7 km) — Roca Almacén: 
+Intrusivos plutónicos de granodiorita y diorita con diques asociados del Cretácico 
+Tardío-Paleoceno (75–56 Ma). Presenta porosidad primaria nula y permeabilidad secundaria 
+por fracturamiento. Muestra una intensa alteración propilítica profunda caracterizada por 
+cuarzo, plagioclasa, feldespato potásico, clorita, epidota abundante, calcita, anfíbol, pirita y 
+wairakita (zeolita indicadora de ebullición y alta temperatura, >240 °C–300 °C) (Gómez-Cruz, 
+2019). 
+ 
+ 
+2.3 MODELOS CONCEPTUALES DEL CAMPO GEOTÉRMICO DOMO SAN PEDRO 
+ 
+2.3.1 Tipo de Play Geotérmico 
+Con base en el catálogo geotérmico global guiado por controles geológicos (Moeck, 2014), el 
+campo Domo San Pedro se clasifica formalmente como un PLAY HÍBRIDO dominado por 
+convección ("Convection-dominated hybrid play"), combinando mecánicamente dos dominios: 
+ 
+1. Play Volcánico / Magmático (CV1 - Volcanic Field Play): Definido por la presencia de un 
+motor térmico magmático somero y joven (<100 ka; domos de San Pedro y Los Ocotes), 
+responsable del elevado flujo de calor (>150–200 mW/m²) y fluidos hidrotermales de alta 
+entalpía. 
+ 
+2. Play de Dominio Extensional / Rift (CV3 - Extensional Domain Play): Regido por el hecho de 
+que el yacimiento no se aloja en un acuífero poroso volcánico tradicional, sino en el basamento 
+plutónico granítico denso del Bloque de Jalisco. El almacenamiento, trampa y vías de 
+circulación del fluido están gobernados por la permeabilidad secundaria generada en zonas de 
+daño de fallas extensionales activas dentro del Graben de Compostela. 
+ 
+ 
+
+2.3.2 Modelo Geoquímico e Hidrogeoquímico 
+El modelo hidrogeoquímico (Reyes-Orozco et al., 2019) demuestra que el fluido geotérmico es 
+de origen meteórico, con recarga regional desde las zonas de mayor elevación al noroeste, 
+oeste y suroeste (Valle de Compostela/Sierra de San Juan). La interacción fluido-roca a alta 
+temperatura produce un agua de tipo clorurada sódica (Na-Cl) madura, con pH neutro a 
+ligeramente ácido y salinidades de 850 a 1,200 ppm de Cl. 
+ 
+El sistema termodinámico se estructura en dos yacimientos interconectados: 
+- Yacimiento Profundo: Dominado por líquido a temperaturas de ~330 °C a 340 °C en el 
+basamento granítico. 
+- Yacimiento Somero: Bifásico (agua-vapor) a ~280 °C generado por ebullición ascendente. 
+Se ha interpretado que la zona principal de ascensión de fluidos ("upflow") se sitúa cerca de los 
+pozos SP05 y SP06, mientras que los flujos de salida lateral ("outflow") se dirigen hacia el este 
+y sureste a través de fallas E-W y NW-SE, alimentando manantiales termales periféricos (e.g., 
+Agua Caliente, Agua Tibia) (Reyes-Orozco et al., 2019). 
+ 
+2.3.3 Modelos Geofísico y Geomecánico 
+El modelo de resistividad eléctrica tridimensional obtenido por magnetotelúrica 3D (MT 3D) e 
+integrado con datos de pozos (Corbo-Camargo et al., 2026) define con precisión la geometría 
+del sistema: 
+- Capa Sello (Clay Cap): Conductora de baja resistividad (<10 Ohm-m) ubicada cerca del nivel 
+del mar (0 msnm), con ~500 m de espesor (alteración argílica). 
+- Reservorio Geotérmico: Resistividad intermedia (30 a 100 Ohm-m) dentro del basamento 
+granítico, reflejando matriz cristalina fracturada y saturada con salmuera caliente. 
+- Basamento Denso e Impermeable: Bloques graníticos no fracturados con alta resistividad 
+(>1,000 Ohm-m). 
+ 
+El modelo MT 3D evidencia que la zona conductora del reservorio se extiende 
+significativamente hacia el centro y sureste del Graben de Compostela, sustentando la 
+factibilidad técnica para la expansión del campo (Corbo-Camargo et al., 2026). 
+ 
+Geomecánicamente, las operaciones de extracción e inyección inducen cambios en la presión 
+de poros, activando microsismicidad en forma de enjambres entre 0.5 y 2.5 km de profundidad 
+(Muñoz-Burbano et al., 2024). La interferometría de ruido sísmico (dv/v) revela caídas de 
+velocidad sísmica asociadas a los picos de reinyección, confirmando la apertura transitoria de 
+fracturas en las zonas de daño y la alta sensibilidad dinámica del reservorio. 
+ 
+ 
+REFERENCIAS BIBLIOGRÁFICAS (FORMATO APA 7ª EDICIÓN) 
+ 
+Caine, J. S., Evans, J. P., & Forster, C. B. (1996). Fault zone architecture and permeability 
+structure. Geology, 24(11), 1025-1028. 
+Corbo-Camargo, F., et al. (2026). Three-dimensional magnetotelluric imaging of the San Pedro 
+
+Dome geothermal field, Nayarit, Mexico. Geological Society of America Special Papers (Book 
+Chapter DSP). 
+Ferrari, L., Pasquarè, G., Venegas, S., Castillo, D., & Romero, F. (1994). Regional tectonics of 
+western Mexico and its implications for the northern boundary of the Jalisco block. Geofísica 
+Internacional, 33(1), 139-151. 
+Ferrari, L., Petrone, C. M., & Francalanci, L. (2003). Generation of slab-window related 
+magmatism in the western Trans-Mexican Volcanic Belt. Journal of Volcanology and 
+Geothermal Research, 126(1-2), 1-23. 
+Gómez-Cruz, A. (2019). Caracterización mineralógica y geotermométrica de muestras de pozo 
+del campo geotérmico Domo San Pedro, Nayarit [Tesis de Licenciatura / Posgrado]. 
+Universidad Nacional Autónoma de México (UNAM). 
+Guillou-Frottier, L., et al. (2024). On the hydro-thermal conditions required for spontaneous 
+convection in fault damage zones. Comptes Rendus Géoscience / Geothermal Energy. 
+Moeck, I. S. (2014). Catalog of geothermal play types based on geologic controls. Renewable 
+Energy, 67, 225-235. 
+Muñoz-Burbano, F., et al. (2024). Using time-lapse seismic velocity changes to monitor the 
+Domo de San Pedro Geothermal Field. Geothermics / Geophysical Journal International. 
+Petrone, C. M., Francalanci, L., Ferrari, L., & Schaaf, P. (2001). Volcanic systems in the San 
+Pedro-Ceboruco graben (western Trans-Mexican Volcanic Belt). Journal of Volcanology and 
+Geothermal Research, 110(1-2), 35-64. 
+Reyes-Orozco, A., et al. (2019). Preliminary Conceptual Model of the Domo San Pedro 
+Geothermal Field, Nayarit, Mexico. Geothermal Resources Council Transactions / Technical 
+Report. 
+Ruiz Mendoza, V. (2022). Geología, geoquímica y geocronología del área de Compostela, 
+Nayarit: Implicaciones en la evolución del Rift Tepic-Zacoalco [Tesis Doctoral]. Universidad 
+Nacional Autónoma de México (UNAM). 
+======================================================================== 
+ 

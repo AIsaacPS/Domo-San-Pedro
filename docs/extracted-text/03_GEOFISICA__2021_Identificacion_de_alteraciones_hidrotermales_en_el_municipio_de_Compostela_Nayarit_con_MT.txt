@@ -1,0 +1,1825 @@
+Benemérita Universidad Autónoma de Puebla 
+Facultad de Ingeniería 
+Colegio de Geofísica 
+ 
+Identificación de alteraciones hidrotermales en el 
+municipio de Compostela, Nayarit, utilizando el 
+método Magnetotelúrico, como propuesta para ex-
+plotación geotérmica en el área. 
+ 
+TESIS 
+Para obtener el grado de 
+INGENIERO GEOFÍSICO 
+ 
+Presenta 
+ALFREDO YAEL COBA BÁEZ 
+ 
+Director de tesis: 
+M.C. Julio Cesar González Hernández 
+Director externo: 
+Dr. Fernando Corbo Camargo 
+Codirector de tesis: 
+M.I. José Luis González Guevara 
+ 
+ 
+ 
+México, Puebla, Pue. 
+Diciembre, 2021 
+
+
+M’JCGH/BARV 
+C.c.p. Interesado 
+C.c.p. Archivo 
+ 
+ 
+ 
+ 
+M. I. Angel Cecilio Guerrero Zamora 
+Director de la Facultad de Ingeniería 
+Benemérita Universidad Autónoma de Puebla 
+P r e s e n t e. 
+ 
+ 
+El que suscribe: Mtro. Julio César González Hernández, asesor del tema de tesis: 
+ 
+ 
+“IDENTIFICACIÓN DE ALTERACIONES HIDROTERMALES EN EL MUNICIPIO DE COMPOSTELA, 
+NAYARIT, UTILIZANDO EL MÉTODO MAGNETOTELÚRICO, COMO PROPUESTA PARA LA 
+EXPLOTACIÓN GEOTÉRMICA EN EL ÁREA.” 
+ 
+Presentada por el C. Alfredo Yael Coba Báez, pasante del Colegio de Ingeniería Geofísica, y en atención al oficio 
+No. SAC/1597/2021 con fecha de emisión 01 de septiembre de 2021, me permito informar a Usted que después 
+de haber revisado cuidadosamente el contenido temático, metodología, redacción y ortografía de la tesis 
+correspondiente, no tengo inconveniente en autorizar la impresión del mismo. 
+ 
+Sin otro particular, le reitero la seguridad de mi más atenta y distinguida consideración. 
+ 
+ 
+ 
+ 
+A t e n t a m e n t e 
+“Pensar bien, para vivir mejor” 
+H. Puebla de Z. a 02 de septiembre de 2021 
+ 
+ 
+ 
+Mtro. Julio César González Hernández 
+Asesor de Tema 
+ 
+ 
+
+ 
+II 
+Dedicatoria 
+ 
+ 
+ A mis padres, por su respaldo incondicional y por ensañarme a nunca darme por vencido. 
+A mis hermanos, por su compañía y paciencia en este largo periodo. 
+A Isa, por siempre estar ahí cuando lo he necesitado. 
+A Nadx, porque aún en mis peores momentos, nunca dejó de creer en mí. 
+A mis abuelos, por su sabiduría y experiencia transmitida en todo este tiempo, especialmente a 
+mi abuela Laura, quien ya no tuvo la oportunidad de ver la conclusión de esta etapa. 
+A toda mi familia, porque nunca dudaron en mostrarme su apoyo y cariño incondicional, 
+gracias a todos ustedes hoy soy quien soy. 
+Gracias por todo. 
+ 
+ 
+
+ 
+III 
+Agradecimientos 
+ 
+Al Dr. Fernando Corbo por proporcionar los datos con los que se realizó esta 
+tesis y especialmente por su paciencia e invaluable ayuda a lo largo de su desarro-
+llo.  
+Al Programa de Apoyo a Proyectos de Investigación e Innovación tecnológica 
+(PAPIIT) por la beca otorgada para el desarrollo de esta tesis, a través del proyecto 
+IA103221: Evaluación geotérmica y determinación de la fuente magmática en el 
+graben San Pedro – Ceboruco. 
+A mis maestros y en especial a mis directores internos, por transmitirme sus 
+consejos y experiencia durante toda la carrera y su ayuda en los trámites necesarios 
+para la aprobación de este trabajo. 
+Al comité y jurado, por darse el tiempo de realizar los comentarios que ayu-
+daron a mejorar este trabajo. 
+A los mejores amigos que me pudo dar la carrera, Perla, Julia y Oscar, en 
+especial a este último, quien me mostró que se puede querer a un amigo como a un 
+hermano y estuvo conmigo siempre. Oscar, gracias por tu invaluable ayuda para 
+este trabajo. 
+Por las clases, los proyectos, los exámenes, los días sin dormir, los enojos, 
+las alegrías, el estrés; y a todas las personas con las que coincidí, muchas gracias… 
+Hoy sé que todo eso ha valido la pena. 
+ 
+ 
+
+ 
+IV 
+ÍNDICE 
+RESUMEN. __________________________________________________ 1 
+ABSTRACT __________________________________________________ 2 
+CAPÍTULO 1. INTRODUCCIÓN. __________________________________ 3 
+1.1. Planteamiento del Problema.________________________________ 4 
+1.2. Justificación. ____________________________________________ 4 
+1.3. Objetivo General. _________________________________________ 5 
+1.3.1. Objetivos Específicos. __________________________________ 5 
+1.4. Alcances. _______________________________________________ 5 
+1.5. Limitaciones. ____________________________________________ 5 
+CAPÍTULO 2. ANTECEDENTES GEOTÉRMICOS ___________________ 6 
+2.1. Geotermia ______________________________________________ 6 
+2.2. Contexto Geotérmico en México _____________________________ 7 
+2.3. Estudios previos en la zona _________________________________ 9 
+CAPITULO 3. MARCO GEOLOGICO. ____________________________ 11 
+3.1. Ubicación de la Zona de Estudio ____________________________ 11 
+3.2. Faja Volcánica Trans-Mexicana ____________________________ 12 
+3.3. Sierra Madre Occidental __________________________________ 14 
+3.4. Geología Regional y Local_________________________________ 17 
+3.4.1. Geología Estructural del Área de Estudio __________________ 17 
+3.4.2. Estratigrafía del Área de Estudio ________________________ 20 
+3.5. Campo Geotérmico Domo San Pedro ________________________ 23 
+3.6. Hidrogeología del Área de Estudio __________________________ 25 
+CAPÍTULO 4. MARCO TEÓRICO. _______________________________ 27 
+4.1. Teoría Electromagnética __________________________________ 27 
+4.2. Ecuaciones de Maxwell ___________________________________ 28 
+4.2.1. Relaciones Constitutivas _______________________________ 30 
+4.3. Método Magnetotelúrico __________________________________ 30 
+4.4. Fuente del método _______________________________________ 32 
+
+ 
+V 
+4.5. Profundidad de Investigación ______________________________ 33 
+4.6. Tensor de impedancias ___________________________________ 34 
+4.7. Dimensionalidad ________________________________________ 35 
+4.8. Modos de polarización ____________________________________ 37 
+4.8.1. Modo Invariante _____________________________________ 38 
+4.9. Distorsión Galvánica _____________________________________ 38 
+CAPÍTULO 5. ADQUISICIÓN Y PROCESAMIENTO DE DATOS. _______ 39 
+5.1. Adquisición de Datos. ____________________________________ 39 
+5.2. Metodología ____________________________________________ 41 
+5.3. Procesamiento de Datos. _________________________________ 42 
+5.3.1. Corrección de Distorsión Galvánica ______________________ 43 
+5.4. Inversión 1D ____________________________________________ 44 
+5.5. Inversión 2D ____________________________________________ 45 
+CAPÍTULO 6. RESULTADOS E INTERPRETACIÓN. ________________ 47 
+6.1. Discusión de Resultados __________________________________ 47 
+6.2. Interpretación de resultados _______________________________ 49 
+CAPÍTULO 7. CONCLUSIONES Y RECOMENDACIONES. ___________ 52 
+REFERENCIAS. _____________________________________________ 54 
+ANEXOS ___________________________________________________ 58 
+I. 
+Datos filtrados previo a realizar la inversión 1D ________________ 58 
+II. Curvas de ajuste para los modelos 1D. _______________________ 60 
+III. Ajuste de curvas para Modelo 2D. __________________________ 63 
+ 
+ 
+ 
+ 
+
+ 
+1 
+RESUMEN. 
+Dentro de los métodos de exploración en la rama de geofísica de fuente na-
+tural se encuentra el Magnetotelúrico (MT), el cual se basa en la medición de los 
+campos electromagnéticos que circulan naturalmente en el subsuelo, permitiendo 
+medir las variaciones de resistividad que existe en el medio. 
+Debido a la profundidad que alcanza este método es que se vuelve relevante, 
+ya que se pueden realizar desde estudios someros hasta de cientos de kilómetros, 
+por ejemplo, para yacimientos petroleros, de CO2 o geotérmicos, e incluso análisis 
+del mismo manto terrestre. Especialmente para yacimientos geotérmicos es que ha 
+presentado grandes resultados, debido a que los contrastes de resistividades son 
+evidentes entre los cuerpos ígneos y el material o estrato alterado por soluciones 
+hidrotermales, ya que, la gran cantidad de iones que contienen estos fluidos, mis-
+mos que usualmente quedan como remanentes al cristalizar la roca, causan que se 
+eleven los valores de conductividad eléctrica del medio. Es en esta zona donde 
+también tienden a estar presentes sistemas de fisuras y fracturas por donde circuló 
+el flujo de agua que causó las alteraciones, estas fallas poseen especial importan-
+cia, ya que influyen en la cantidad de calor que pueda proveer el medio para hacer 
+circular el agua. 
+Dentro de la presente tesis se estudiará a profundidad el método mencionado 
+y su aplicación para la exploración geotérmica, realizando un análisis de datos en 
+dos zonas del municipio de Compostela, en el estado de Nayarit. Esta área es ca-
+racterística por poseer una gran red de volcanes pertenecientes al Cinturón Volcá-
+nico Trans-Mexicano, siendo en teoría, una zona con potencial para la explotación 
+geotérmica, hipótesis que se buscará apoyar o refutar con los resultados obtenidos 
+en este trabajo. 
+ 
+
+ 
+2 
+ABSTRACT 
+ 
+Among the methods of exploration in the geophysics, there is one of natural 
+source named Magnetotelluric (MT), which is based on the measurement of the elec-
+tromagnetic fields which circulates naturally in the subsoil, allowing to measure the 
+resistivity variations that exist on the field. 
+ 
+Due to the depth that this method reaches it becomes relevant, because it 
+can be carried out from shallow studies up to hundreds of kilometers, i.e., for oil, CO2 
+or geothermal fields, and even analysis of the Earth’s mantle itself. Making emphasis 
+on the feasibility of exploration for geothermal reservoirs is that this method has pre-
+sented great results, because the resistivity contrasts are evident between igneous 
+bodies and the material or stratum altered by hydrothermal solutions, due to the huge 
+quantity of ions that these fluids contain, which usually stay as remnants when the 
+rock crystallizes, causing the electrical conductivity values of the medium to rise. It 
+is in this area where systems of fissures and fractures also tend to be present where 
+the flow of the fluids circulated and caused the alterations, these fouls have a special 
+importance since they influence the amount of heat that the medium can provide to 
+circulate the fluids. 
+ 
+Within this thesis, the method and its application for geothermal exploration 
+will be deeply studied, performing a data analysis in two areas of the municipality of 
+Compostela, in the state of Nayarit. This area is characterized by the large network 
+of volcanoes belonging to the Trans-Mexican Volcanic Belt, being in theory, an area 
+with potential for geothermal exploitation, a hypothesis that will be sought to support 
+or refute with the results obtained in this work. 
+ 
+ 
+
+ 
+3 
+CAPÍTULO 1. INTRODUCCIÓN. 
+Desde el descubrimiento de la energía eléctrica, y su inclusión en la vida dia-
+ria del ser humano, este recurso ha sido de gran ayuda para el desarrollo de la 
+humanidad, por tal motivo es que constantemente se buscan nuevas fuentes de 
+energía. Originalmente se obtenía de recursos fósiles como petróleo y carbón, sin 
+embargo, la situación del planeta en la actualidad ha propiciado que se desarrollen 
+fuentes de energía que causen un menor impacto al medio ambiente. Algunas de 
+estas son la energía solar, eólica, nuclear, entre otras, no obstante, una fuente de 
+energía que se ha desarrollado y explotado en menor medida es la geotermia, la 
+cual aprovecha el calor interno de la tierra para convertirlo en electricidad. 
+Una de las principales causas de la poca importancia que se le da a la ener-
+gía geotérmica es a causa de los altos costos que conlleva la planeación y estable-
+cimiento de una central eléctrica con esta fuente, especialmente porque la fuente 
+para aprovechar usualmente se encuentra a varios kilómetros bajo la superficie te-
+rrestre, elevando en gran manera los costes de producción, lo que causa que el 
+capital se distribuya a otro tipo de producción más económico, a pesar de que los 
+resultados que ha mostrado con centrales ya establecidas reflejan que la producción 
+es más que rentable (SEMARNAT, 2015). 
+Para el caso de México, la presencia del Cinturón Volcánico Trans-Mexicano 
+(CVTM) ha permitido la formación de lugares idóneos para reservorios geotérmicos 
+a lo largo del territorio nacional, dado que la presencia volcánica implica una alta 
+temperatura en el subsuelo, provocando que se puedan dar movimientos de fluidos 
+hidrotermales y se formen estos yacimientos. Algunos de los casos ya explotados 
+son Los Humeros, Cerro Prieto, Los Azufres, entre otros. 
+Para este estudio fueron obtenidos 7 sondeos de MT con el equipo Phoenix, 
+mismo que permite medir en todas las frecuencias de este método (10-4 - 104 Hz). 
+Estas mediciones fueron hechas en puntos cercanos al poblado de Compostela, 
+Nayarit, área que se encuentra dentro del Bloque de Jalisco, y es característica por 
+su complejidad geológica causada por los diversos eventos volcánicos que se han 
+dado a lo largo de la evolución del planeta. 
+
+ 
+4 
+Los sondeos tienen el objetivo de permitir observar zonas donde puedan pre-
+sentarse alteraciones hidrotermales, mismas que pudieran servir para determinar si 
+existen o no áreas, o puntos, de interés en la zona que pudieran dar pie a explora-
+ciones más completas y detalladas en búsqueda de zonas explotables. 
+1.1. 
+Planteamiento del Problema. 
+Diversos estudios realizados en zonas cercanas al municipio de Compostela, 
+entre los que destacan los de la Secretaría de Energía (SENER, 2016), muestran 
+que la geología del lugar posee características idóneas para la formación de yaci-
+mientos geotérmicos, sin embargo, no se le ha dado la relevancia necesaria para 
+continuar con las investigaciones de exploración. Para incentivar la exploración en 
+dicha zona se propone utilizar el método magnetotelúrico, buscando determinar al-
+teraciones hidrotermales en el lugar de estudio. 
+1.2. 
+Justificación. 
+La energía geotérmica es considerada una de las fuentes de energía las más 
+limpias y ecológicas dada su poca o nula emisión de elementos dañinos al ambiente, 
+línea que, por las circunstancias globales, es muy importante que se priorice en los 
+gobiernos de cada nación. A pesar de su poca explotación, se han realizado 
+estimaciones del potencial geotémico del graven de Compostela, y en el artículo 
+Update of the Geothermal Electric Potential in Mexico (Gutierrez-Negrin, 2012) 
+destaca que se pueden tener temperaturas alrededor de 180°C, y una generación 
+de energía aproximada de 110MW. 
+Con este trabajo se busca determinar principalmente si las dos zonas de las 
+que se poseen datos cuentan con características de sitios geotérmicos, esto me-
+diante el procesamiento y comparación de la información que se posee, siendo un 
+estudio complementario para los objetivos de la exploración geotérmica en el área 
+del bloque de Jalisco. 
+
+ 
+5 
+1.3. 
+Objetivo General. 
+Realizar un análisis de la resistividad del subsuelo a partir del procesamiento 
+de datos magnetotelúricos (MT) en la zona al norte del Bloque de Jalisco, municipio 
+de Compostela, Nayarit, para identificar áreas con potencial geotérmico. 
+1.3.1. Objetivos Específicos. 
+ Procesar y filtrar datos de MT obtenidos en el municipio de Compostela, me-
+diante el programa WinGLink®, para su posterior interpretación y análisis. 
+ Generar modelos e inversiones 1D y 2D (en caso de ser posible) utilizando 
+software especializado e información referente a la geología de la zona, para 
+obtener resultados más precisos. 
+ Identificar la posible presencia de alteraciones hidrotermales en el medio 
+prospectado con base en la interpretación de los modelos finales, para de-
+terminar si existen zonas con potencial geotérmico. 
+1.4. 
+Alcances. 
+Se proponen dos principales líneas como alcances de la presente tesis. La 
+primera refiere a reafirmar el método magnetotelúrico como principal herramienta 
+para identificar alteraciones o yacimientos hidrotermales, especialmente por la pro-
+fundidad de investigación que se obtiene. Por otra parte, se busca determinar si es 
+posible la existencia de más zonas con potencial de explotación geotérmica en la 
+zona de Compostela, mediante la comparación de los resultados entre los sondeos 
+en el campo geotérmico “Domo de San Pedro” y los del área de investigación. 
+1.5. 
+Limitaciones. 
+Existe la posibilidad de que los resultados pudieran verse limitados por la baja 
+densidad de datos obtenidos en campo, lo que podría conducir a que se generen 
+vacíos de información entre algunos puntos de los sondeos y no se presente una 
+correcta correlación en algunas zonas de los modelos finales. 
+
+ 
+6 
+CAPÍTULO 2. ANTECEDENTES GEOTÉRMICOS 
+2.1. 
+Geotermia 
+ 
+De acuerdo con el Servicio Geológico Mexicano (2017), la energía geotér-
+mica proviene del calor interno de la Tierra, principalmente de dos fuentes, la pri-
+mera causada por el calor remanente de la formación de la tierra, especialmente 
+asociado a volcanes, aguas termales y géiseres. Por otro lado, el calor generado 
+por el decaimiento de isótopos radiactivos que se almacena esencialmente en rocas 
+de la litósfera. En otras palabras, la geotermia o energía geotérmica es la energía 
+calorífica que la Tierra transmite desde sus capas internas hacia la parte más su-
+perficial de la corteza terrestre. 
+ 
+Las fuentes geotérmicas se pueden clasificar en sistemas hidrotermales, sis-
+temas conductivos y acuíferos profundos. Los sistemas hidrotermales suelen tener 
+fuentes principalmente de vapor o de líquidos. Los sistemas conductivos abarcan 
+las rocas calientes y cuerpos magmáticos en un amplio rango de temperaturas. Por 
+último, los acuíferos profundos contienen fluidos circulando en medios porosos o en 
+zonas de fracturas a profundidades generalmente mayores de 3 Km (CeMIGeo, 
+2019). 
+ 
+Cuando el agua de un acuífero profundo se mezcla con los fluidos magmáti-
+cos y se calienta, forma un yacimiento geotérmico de tipo hidrotermal, el cual se 
+compone fundamentalmente de: 
+ Una fuente de calor, la cual puede ser una cámara magmática o intrusiones 
+de roca fundida relativamente cercanas a la superficie (usualmente en los 
+bordes de las placas tectónicas). 
+ Un acuífero, el cual debe poseer la capacidad de almacenar y recuperar el 
+volumen de líquido perdido, ya sea de agua infiltrada o de otros acuíferos. 
+ Una capa sello, usualmente causada por alguna formación con menor per-
+meabilidad que la del acuífero y limite su flujo a la superficie. 
+La alteración hidrotermal es un tipo de metamorfismo que produce cambios en 
+las propiedades de las rocas alterando su densidad, porosidad, permeabilidad, 
+
+ 
+7 
+susceptibilidad magnética y resistividad. Simultáneamente con esos cambios físicos 
+pueden ocurrir eventos relacionados o sin relación como fallamientos y formaciones 
+de diaclasas o fracturas que afectan el proceso de alteración. 
+Este tipo de cambios se ven causados por grandes volúmenes de fluidos calien-
+tes que atraviesan las áreas “débiles”, es decir, rocas permeables por fisuras o po-
+ros interconectados. A causa de las altas temperaturas respecto a las rocas adya-
+centes en las que circulan estos fluidos es que se generan las modificaciones geo-
+lógicas que se presentan en el medio descrito (Rodríguez R., 2001). 
+ 
+Figura 2.1: Diagrama simplificado de un yacimiento geotérmico. Tomado de Pesce A., 1998. 
+2.2. 
+Contexto Geotérmico en México 
+La mayor parte del territorio mexicano (excepto la Península de Yucatán) está 
+caracterizado por una gran actividad tectónica y volcánica que ha tenido lugar desde 
+hace varias decenas de millones de años hasta el presente. Esta actividad invaria-
+blemente ha dejado su huella a lo largo de todo el país en forma de sistemas volcá-
+nicos y sistemas hidrotermales, tanto fósiles como activos. 
+La actividad tectono-volcánica, aunque tiene resultados catastróficos en mu-
+chos de los fenómenos que genera, como sismos y erupciones volcánicas, también 
+ha sido la fuente de una gran riqueza como lo son los recursos minerales y geotér-
+micos. (Prol-Ledesma, 1988).  
+
+ 
+8 
+En la actualidad existe una gran cantidad de manifestaciones geotérmicas y 
+termales dentro del país, y aunque existen más de mil puntos en los que se tiene 
+potencial geotérmico no todos poseen la capacidad de generar energía eléctrica, 
+pero pueden aprovecharse como balnearios termales. Además de los balnearios 
+también es importante destacar la contribución mineral que genera la actividad hi-
+drotermal dentro del país, pues a lo largo de todo el Eje Neovolcánico se extraen 
+toneladas y toneladas de minerales metálicos y no metálicos producto del hidroter-
+malismo que abunda en toda la República Mexicana con excepción de la Península 
+de Yucatán.  
+México es uno de los países que tiene un gran potencial geotérmico desapro-
+vechado, según Peláez Zapata: 
+México cuenta con los recursos geotérmicos suficientes para producir 
+toda la energía eléctrica del país; por ello resulta lamentable que no se le 
+haya dado la debida atención en el pasado, tal vez por intereses políticos, la 
+relativa “abundancia” de petróleo “barato” en su momento o, aún más impor-
+tante, la falta de visión para invertir en energías limpias. La geotermia es 
+prácticamente una fuente “inagotable” de energía y México es un país bene-
+ficiado con muchas manifestaciones térmicas a lo largo y ancho del territorio 
+nacional. (2017) 
+Los campos geotérmicos en explotación en México son: Cerro Prieto con 570 
+megavatios (MW) de capacidad instalada; Los Azufres con 247.8 MW; Los Humeros 
+con 120.4 MW; Las Tres Vírgenes con 10 MW y el Domo de San Pedro con 35.5 
+MW. La capacidad total de producción instalada de energía eléctrica basada en 
+fuentes geotérmicas en nuestro país es de 983.7 MW (SENER, 2016). 
+
+ 
+9 
+ 
+Figura 2.2: Distribución de los principales campos geotérmicos activos en México. Tomado 
+de LCAGN, 2017. 
+México ocupa el 13º lugar en aprovechamiento de usos directos de la energía 
+geotérmica, los primeros lugares los tienen China, EU y Suecia; sin embargo, el 
+potencial teórico que hay en nuestro país para producir energía eléctrica basado en 
+fuentes geotérmicas, es de casi 13 mil millones MW (Peláez Z., 2017). 
+Aunque el aprovechamiento aún es muy poco, en la actualidad se están 
+desarrollando nuevas tecnologías para la exploración de yacimientos geotérmicos, 
+por ejemplo, los Sistemas de Información Geográfica ayudan al análisis de imáge-
+nes satelitales mediante infrarrojo, que permite encontrar fuentes de calor en la su-
+perficie terrestre, por lo que se espera que en próximos años la geotermia tome 
+auge en nuestro país y se convierta en una de las principales fuentes de energía y, 
+que además, su uso se amplíe a distintos sectores industriales, generando así em-
+pleos abundantes y costos menores de producción de energía que fortifiquen la 
+economía nacional. 
+2.3. 
+Estudios previos en la zona 
+Entre 1986 y 1988 Castillo y De la Cruz realizaron un estudio geológico del 
+Domo San Pedro, para evaluar y relacionar las estructuras y el vulcanismo con la 
+presencia de fuentes hidrotermales en la zona. La motivación de estos estudios se 
+
+ 
+10 
+debió a la presencia de una gran cantidad de manantiales termales con fines de 
+evaluación geotérmica. 
+El estudio estructural se llevó a cabo en el sector E-SE del Domo San Pedro 
+por considerarse que era la zona más atractiva geotérmicamente, dada la concen-
+tración del termalismo de mayor temperatura y el control estructural limitante. En 
+esta zona se realizaron 30 estaciones estructurales, 29 de ellas en la zona estudiada 
+y la restante fuera de ella, en rocas propias de la Sierra Madre Occidental. En total 
+se midieron 405 y solamente una falla la cual presenta un rumbo NW40°SE con 
+buzamiento de 66° al SW, que afecta a piroclásticos cuaternarios del Domo San 
+Pedro (Castillo & De La Cruz, 1989). 
+En cuanto a la secuencia volcánica, los autores antes mencionados, descri-
+ben que se compone de una gran cantidad de rocas ácidas a intermedias que co-
+rresponden a muchos eventos volcánicos que se han desarrollado a lo largo de la 
+historia y han provocado la formación de otras estructuras volcánicas más pequeñas 
+alrededor del Domo San Pedro. A partir de esto, concluyen que la presencia de 
+manantiales termales, un gradiente de temperatura considerable y la gran cantidad 
+de rocas ácidas antiguas y recientes, son indicios de que en la zona existe una 
+cámara magmática con el calor necesario para generar un fuerte termalismo. 
+En el 2003 Ferrari et al., realizaron un trabajo para determinar la geología del 
+Graben San Pedro-Ceboruco. Según los autores, dicho Graben es una estructura 
+muy singular en términos geodinámicos pues se encuentra entre el Bloque de Ja-
+lisco y la Sierra Madre Occidental, donde se produjo un tectonismo extensional com-
+plejo asociado con el vulcanismo tanto alcalino como calco alcalino desde finales 
+del Mioceno. 
+También detallan que en esta zona se han encontrado flujos de lava máficos 
+que corresponden al vulcanismo más antiguo asociado al Cinturón Volcánico Mexi-
+cano, que son encontrados solamente en zonas cercanas al volcán Ceboruco me-
+diante perforaciones. Así mismo, mencionan la formación de otras estructuras como 
+conos cineríticos y domos alrededor del Graben San Pedro-Ceboruco, y de la cal-
+dera San Pedro en la cual se encuentra el Domo San Pedro. 
+
+ 
+11 
+El origen de estas estructuras se debe a flujos de magma riolítica, que gene-
+ran hidrotermalismo. El volcanismo más reciente está representado por domos silí-
+cicos intra-caldera, un alineamiento WNW–ESE de volcanes monogenéticos, y el 
+estratovolcán activo Ceboruco. Del Mioceno tardío al presente, la extensión acumu-
+lativa en el área es de un modesto 10%. Un periodo de muy baja actividad volcánica 
+en el Plioceno tardío coincide con una baja tasa de convergencia entre las placas 
+de Rivera y Norteamérica, confirmando una fuerte relación entre el régimen de sub-
+ducción y el volcanismo en la placa sobre yaciente (Ferrari et al., 2003).  
+CAPITULO 3. MARCO GEOLOGICO. 
+3.1. 
+Ubicación de la Zona de Estudio 
+Nayarit presenta en la mayor parte de su territorio terrenos con relieve muy 
+accidentado de origen volcánico en etapa geomorfológica juvenil, como la Sierra 
+Madre Occidental y Eje Neovolcánico; y madura, como la Sierra Madre del Sur; sin 
+embargo, a diferencia de estos grandes rasgos topográficos, en la porción oeste del 
+estado se localiza parte de la provincia Llanura Costera del Pacífico (Conagua, 
+2020).  
+Los datos para este trabajo fueron obtenidos dentro de los municipios de 
+Compostela y San Pedro Lagunillas, en el estado de Nayarit, México; donde fueron 
+realizados 7 sondeos magnetotelúricos que se muestran en la Figura 3.1. Dicha 
+zona se caracteriza por su complejidad geológica, en la que se pueden destacar 
+dos unidades geológicas de gran importancia, como lo son el Cinturón Volcánico 
+Trans-Mexicano (CVTM) y la Sierra Madre Occidental. 
+
+ 
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cercano al sondeo A10 se encuentra la central geotérmica “Domo de San 
+Pedro”, que comenzó sus operaciones a partir del 2016, por lo que se espera en-
+contrar información relevante en esa área con respecto a los objetivos planteados. 
+3.2. 
+Faja Volcánica Trans-Mexicana 
+El CVTM, también conocido como Eje Neovolcánico Transversal, o Faja Vol-
+cánica Trans-Mexicana (FVTM), es el arco volcánico que se desarrolla sobre el mar-
+gen sudoccidental de la Placa de Norteamérica como resultado de la subducción de 
+las Placas Rivera y Cocos a lo largo de la trinchera de Acapulco (Ferrari, 2000).   
+De acuerdo con Ruíz Martínez (2004), El Eje Neovolcánico Transversal tiene 
+alrededor de 1,000 km de longitud, y se encuentra activo desde el Mioceno Superior 
+(~10 Ma) debido a la subducción de las placas de Rivera y Cocos. Está caracteri-
+zado por varias erupciones volcánicas históricas, fallas tectónicas y un elevado flujo 
+térmico, que para nuestro caso de estudio es el principal responsable de los mayo-
+res campos geotérmicos dentro del país. 
+La Sierra Volcánica atraviesa los estados de Veracruz, Puebla, Tlaxcala, Hi-
+dalgo, México, Morelos, Querétaro, Guanajuato, Michoacán, Guerrero, Jalisco, 
+Figura 3.1: Delimitación del área de estudio. Elaboración propia. 
+
+ 
+13 
+Colima, Nayarit, y CDMX; mismos en los que se encuentran los edificios volcánicos 
+más elevados y activos del país, como se muestra en la Figura 3.3. 
+ 
+Figura 3.2: Entorno tectónico y principales estructuras del CVTM. Tomado de Ferrari (2000). 
+Ferrari (2000) menciona que, el CVTM es uno de los arcos volcánicos con mayor 
+complejidad y variación de la región circum-pacífica y presenta características muy 
+peculiares, tales como: 
+a) La gran variabilidad del estilo volcánico y composición química. 
+b) La presencia de un volcanismo alcalino de tipo intraplaca (espacialmente 
+asociado al volcanismo dominante relacionado con la subducción). 
+c) La oblicuidad de su parte central y oriental con la trinchera. 
+d) La notable variación del ancho del arco. 
+En el primer punto de las peculiaridades del Eje Volcánico, Luca Ferrari men-
+ciona que existe una variación muy considerable en el vulcanismo a lo largo del 
+arco, y posteriormente ahonda en este tema explicando que:  
+La FVTM se suele dividir en tres sectores: occidental, central y oriental, que 
+presentan diferencias significativas en lo que respecta al tipo de volcanismo 
+y su composición química. En el sector occidental, limitado al este por el rift 
+
+ 
+14 
+de Colima, el arco volcánico se sobrepone a la parte norte del Bloque Jalisco 
+(BJ) y al límite meridional de la Sierra Madre Occidental (SMO). 
+El volcanismo emplazado en el límite sur de la SMO es claramente bimodal, 
+formado tanto por estratovolcanes y complejos de domos dacíticos-riolíticos como 
+por centros monogenéticos basálticos. En cambio, el volcanismo emplazado dentro 
+del BJ es casi exclusivamente monogenético y de composición basáltico-andesítica 
+(Ferrari, 2000). Esto es de gran interés para el presente trabajo pues la zona de 
+estudio se encuentra dentro de la parte occidental de la FVTM, y también limita con 
+el bloque de Jalisco por lo que se podrían encontrar ambos tipos de vulcanismo que 
+podrían asociarse a la presencia de actividad geotérmica.  
+3.3. 
+Sierra Madre Occidental 
+La Sierra Madre Occidental (SMO) es una gran meseta volcánica silícica que 
+se extiende por más de 2,000 km desde la frontera entre Estados Unidos y México 
+hasta la parte occidental (Ferrari et al, 2003).  
+De acuerdo con los reportes del INEGI (2000), debido a su magnitud es una 
+de las provincias de mayor relevancia del país. Está formada principalmente por 
+rocas ígneas extrusivas y tiene una superficie aproximada de 250 000 km2 con una 
+orientación es NO-SE. Predominan en las partes más elevadas rocas como tobas, 
+ignimbritas, vulcanoclásticas y algunos derrames riolíticos, cuya actitud es pseudo-
+horizontal, lo cual le confiere a esta Sierra la apariencia de una gran meseta y se le 
+denomina también plateau. 
+Esta sierra, cuyas elevaciones llegan hasta los 3000 m.s.n.m., tiene un ancho 
+promedio de 250 km. Sus límites son: 
+ Al Norte: La frontera con los Estados Unidos de América. 
+ Al Sur: La provincia Eje Neovolcánico. 
+ Al Oriente: Las provincias Sierras y Llanuras del Norte y Mesa del Centro.  
+ Al Occidente: Las provincias Llanura Sonorense y Llanura Costera del Pací-
+fico. 
+
+ 
+15 
+ 
+Figura 3.3: Mapa donde se puede observar el territorio ocupado por la SMO y la FVTM. To-
+mado de Ferrari (2003). 
+La sucesión SMO, expuesta en el área de Santa Fe, a unos 10 km al norte 
+del volcán Ceboruco, está compuesta por aproximadamente 800 m de flujos de ce-
+niza riolítica y lavas menores basálticas a andesíticas, que cubren stocks subvolcá-
+nicos y plutones con composiciones de diorita a granito. Toda la sucesión tiene eda-
+des comprendidas entre el Oligoceno y el Mioceno temprano y las rocas subvolcá-
+nicas afloran a 500 m.s.n.m. como máximo. Esto implica que el Bloque Jalisco se 
+ha elevado considerablemente con respecto a la SMO y que están separados por 
+una gran discontinuidad tectónica, ahora cubierta por el vulcanismo de la FVTM 
+(Ferrari et al., 2003). 
+Este gran sistema consta en su base de sedimentos y meta sedimentos, en 
+algunos sitios muy plegados y de expresión morfológica abrupta. Dichos materiales 
+geológicos están cubiertos en gran medida por las dos secuencias volcánicas que 
+
+ 
+16 
+conforman el complejo montañoso de la Sierra Madre Occidental. La primera, de 
+composición intermedia, consiste en lomeríos y cerros escarpados, que están ex-
+puestos en la zona de transición entre la propia Sierra Madre Occidental y la provin-
+cia Llanura Costera del Pacífico. En la segunda, de composición ácida predomi-
+nante, el relieve es de cadenas montañosas de formas volcánicas escarpadas, va-
+lles inter montañosos y cañones, producto de fuertes emisiones piroclásticas prove-
+nientes de numerosas calderas; esta secuencia volcánica en algunos sitios alcanza 
+espesores superiores a los 1000 m (INEGI, 2000).  
+Estos aspectos son de gran importancia para el trabajo pues nos presentan 
+características geológicas de la zona de estudio y de sus alrededores. Complemen-
+tario a esto, Ferrari et al., mencionan que: 
+La geología de la SMO está dominada por conjuntos de rocas ígneas 
+asociados a diferentes episodios magmáticos, que resultaron de la subduc-
+ción de la placa Farallón debajo de la placa de Norteamérica: 1) rocas plutó-
+nicas y volcánicas del Cretácico Superior-Paleoceno; 2) rocas volcánicas an-
+desíticas y, en menor medida, dacítico-riolíticas del Eoceno; 3) ignimbritas 
+silícicas emplazadas en dos pulsos principales en el Oligoceno temprano y el 
+Mioceno temprano; 4) coladas basáltico-andesíticas extravasadas después 
+de cada pulso ignimbrítico; 5) coladas de basaltos e ignimbritas alcalinos em-
+plazados generalmente en la periferia de la SMO en diferentes episodios del 
+Mioceno tardío, Plioceno y Cuaternario. Los conjuntos 1 y 2, y el conjunto 3, 
+han sido definidos como el Complejo Volcánico Inferior (CVI) y el Supergrupo 
+Volcánico Superior (SVS), respectivamente. El conjunto 4, en la parte norte 
+de la SMO, ha sido definido como una extensión del cinturón de “Basalto-
+Andesitas del Sur de la Cordillera”. Finalmente, los basaltos del conjunto 5 
+han sido interpretados como testigos de varios episodios de extensión rela-
+cionados con la apertura del Golfo de California. Los productos de todos es-
+tos episodios magmáticos, parcialmente superpuestos entre sí, cubren a su 
+vez un basamento heterogéneo pobremente expuesto del Precámbrico, Pa-
+leozoico y Mesozoico. (2005) 
+
+ 
+17 
+ 
+Figura 3.4: Extensión geográfica de los conjuntos ígneos que conforman la SMO. Tomado 
+de Ferrari et al., 2005. 
+3.4. 
+Geología Regional y Local 
+Una vez abordadas las dos provincias fisiográficas más importantes que tie-
+nen presencia en el área de interés, es importante analizar la geología regional y 
+local para tener un panorama más específico con respecto a las propiedades geo-
+lógicas de la zona de estudio.  
+3.4.1. Geología Estructural del Área de Estudio 
+Regionalmente el área de estudio queda definida por estructuras geológicas 
+pertenecientes a los estados de Nayarit y Jalisco, las cuales, como se mencionó 
+anteriormente, quedan influenciadas por la SMO y la FVTM. Sin embargo, también 
+es importante tomar en cuenta la influencia del Bloque Jalisco.  
+De acuerdo con Stock (1993), el Bloque Jalisco representa lo que se conoce 
+como un bloque tectónico, o microplaca, más o menos rígido. Se sabe que se mueve 
+de manera independiente con respecto a las placas circundantes (Rivera y Norte 
+América), así como a través de dos zonas de deformación continental (el rift o gra-
+ben de Tepic-Zacoalco y el rift o graben de Colima) y a lo largo de una zona de 
+subducción en su límite costero con la placa oceánica de Rivera. Los rifts de Tepic-
+Zacoalco y de Colima se unen con el rift de Chapala en el límite NE del bloque 
+Jalisco, dando lugar a lo que es esencialmente un punto triple continental, cerca de 
+
+ 
+18 
+Guadalajara, formado por la unión del Bloque Jalisco, el Bloque Michoacán y la 
+placa de Norte América. 
+ 
+Figura 3.5: Esquema regional tectónico donde se puede observar el Bloque de Jalisco y los 
+rifts antes mencionados. Tomado de Stock (1993). 
+El rift de Tepic es una estructura de extrema importancia, pues su ubicación 
+es bastante cercana a la del área de estudio. Se encuentra a una altitud media de 
+1300 m.s.n.m. y posee una orientación NW-SE, sus fronteras son discontinuas y 
+poco precisas, particularmente para el área de Jalisco. Constituye un conjunto de 
+fosas y semi fosas asimétricas de diferentes edades, en las cuales se elevan las 
+estructuras volcánicas del Ceboruco y Tequila, además de otros complejos volcáni-
+cos más jóvenes (UDG, 2001). 
+En el documento titulado Síntesis de información geográfica del estado de 
+Nayarit el INEGI (2000) menciona los rasgos geológicos estructurales, separando 
+la región en las provincias geológicas antes mencionadas, como se enuncia a con-
+tinuación:  
+
+ 
+19 
+En la provincia “Eje Neovolcánico”, ampliamente expuesta en el estado, se 
+desarrolló vulcanismo calco alcalino a finales del Plioceno y durante el Cuaternario; 
+dicho volcanismo originó rocas de composición basáltica y andesítica, así como pi-
+roclásticos. El eje se encuentra fragmentado en tres sistemas de fosas tectónicas, 
+las cuales convergen en el estado de Jalisco y cuyas direcciones son: N-S, O-E y 
+NO-SE; la última dirección corresponde a la fosa de Tepic denominada también rift 
+de Tepic, localizada parcialmente dentro de Nayarit. En este se sitúan tres centros 
+eruptivos principales (Estratovolcanes): San Juan, Sangangüey y Ceboruco, con 
+numerosas asociaciones de conos cineríticos.  
+En cuanto a la Sierra Madre Occidental, estructuralmente se desarrollaron 
+dos secuencias volcánicas durante el Terciario, con amplia representación dentro 
+del estado de Nayarit. La primera formada por rocas de composición intermedia del 
+Terciario Inferior, que muestra fracturas y fallas normales, así como deformación y 
+alteración hidrotermal, producto de intrusiones diabásicas y ácidas, lo que provocó 
+la formación de yacimientos minerales. En la segunda secuencia, de edad Terciario 
+Oligoceno-Mioceno, el volcanismo se manifiesta con una composición ácida, de ca-
+rácter ignimbrítico, causando un sistema de fallas y fracturas, que originaron mese-
+tas escalonadas. El contacto con la secuencia del Terciario Inferior es de tipo dis-
+cordante, lo que marca un lapso de calma volcánica.  
+Localmente la zona donde se encuentra Compostela y el Domo San Pedro 
+se ve altamente influenciada por dos estructuras con diferentes orientaciones, la 
+primera corresponde al rift de Tepic con orientación NW-SE, del cual ya se ha hecho 
+mención, y la segunda corresponde a una serie de fracturas corticales que se dirige 
+a los principales edificios volcánicos de la zona con orientación NE-SW. 
+Para analizar esto más a fondo e identificar las características estructurales 
+del Domo San Pedro, los investigadores Castillo y De La Cruz (1992) realizaron un 
+estudio abarcando el sector E-SE, ya que ellos consideraban que ahí se encontraba 
+una fuente de recursos geotérmicos con gran atractivo, para el cual establecieron 
+30 estaciones estructurales, de las cuales solo una estaba fuera de la zona estu-
+diada y correspondía a rocas de la Sierra Madre Occidental. En su trabajo lograron 
+
+ 
+20 
+medir 405 fracturas y una falla con rumbo NW40°SE y buzamiento de 66°SW, que 
+afecta al Domo San Pedro (mostrada en la Figura 3.6). A partir de ello lograron 
+establecer que “[…] el sistema NW-SE es el dominante; el sistema E-W le sigue en 
+importancia y finalmente el sistema NE-SW […]”. 
+ 
+Figura 3.6: Ubicación de la zona de estudio y de las estaciones estructurales analizadas por 
+Castillo y de la Cruz en 1987. Tomado de Castillo & de la Cruz (1992). 
+3.4.2. Estratigrafía del Área de Estudio 
+Regionalmente la estratigrafía abarca varias eras que cambian dependiendo 
+del autor que se cite. El INEGI (2000) establece que las distintas unidades estrati-
+gráficas quedan englobadas entre el Mesozoico y el Cenozoico de la siguiente ma-
+nera: 
+Las rocas de mayor antigüedad corresponden al Mesozoico, y quedan com-
+prendidas en el sistema Cretácico. Consisten en secuencias sedimentarias, volcá-
+nicas, vulcanosedimentarios y rocas ígneas intrusivas.  
+Al suroeste del estado se tienen rocas de origen volcánico reconocidas como 
+andesitas, con estructura masiva, vesicular y pequeños rastros de calcita y meta-
+morfismo, que se asocian a procesos vulcanoclásticas, del Cretácico inferior. Pos-
+terior a esto se tiene una secuencia vulcanosedimentarios, que consiste en 
+
+ 
+21 
+intercalaciones de lutitas, areniscas, tobas, calizas y derrames de composición dací-
+ticos, contienen fragmentos de andesitas, y se cree que corresponden al cinturón 
+volcánico desarrollado en el México occidental durante el Mesozoico; estas unida-
+des estratigráficas presentan una alteración por granito (INEGI, 2000). 
+Por encima de las unidades antes mencionadas se encuentran las rocas co-
+rrespondientes al Cenozoico, las cuales abundan sobre la superficie y son muy va-
+riadas, teniendo rocas ígneas extrusivas, sedimentarias, vulcanoclásticas y suelos 
+que se componen de estas rocas preexistentes. 
+En el Terciario Inferior tiene presencias de andesitas, andesitas porfídicas, 
+brechas volcánicas y horizontes tobáceos, que presentan fracturamientos intensos. 
+Algunos afloramientos de esta unidad poseen alteraciones hidrotermales que han 
+provocado mineralizaciones de metales como el oro y plata, así como sulfuros de 
+plomo y zinc. 
+En el Terciario Oligoceno-Mioceno se tiene una unidad conformada por tobas 
+de carácter ignimbrítico. Esta unidad es de gran importancia pues cubre el oriente 
+de la SMO y ha sido denominada “Faja Ignimbrítica Mexicana”. Durante este mismo 
+periodo se tiene otra secuencia de caliza con una base vulcanosedimentarios, hori-
+zontes de pedernal y una cima de arenisca calcárea, la cual posee un origen lacus-
+tre. 
+El Terciario Superior se conforma de tres unidades de carácter sedimentario. 
+La primera corresponde a areniscas de grano fino y fragmentos de roca volcánica, 
+tienen intercalaciones de conglomerados con fragmentos de granitos, andesitas, to-
+bas ácidas y basaltos. La segunda unidad está constituida por limolitas y areniscas. 
+Esta unidad presenta estratos con espesores muy variados que van desde los 20 
+cm hasta los 2 metros. La tercera unidad se compone únicamente de conglomera-
+dos que presentan estratificación gruesa y en algunos casos cruzada, sus clastos 
+son de andesita, ignimbrita y toba ácida en una matriz areno-arcillosa y cementada 
+con hematita y arcilla.  
+Por encima de estas rocas se hace presente el Plio-Cuaternario, el cual po-
+see afloramientos de dos unidades de rocas volcánicas extrusivas, principalmente 
+
+ 
+22 
+basaltos; esta unidad forma parte de la FVTM y su vulcanismo calco-alcalino. La 
+segunda unidad de este periodo consiste en rocas vulcanoclásticas formadas de 
+ceniza, lapilli y bloques volcánicos, que en ocasiones tienden a bombas, estas rocas 
+poseen una composición básica intermedia y afloran principalmente al sur de Naya-
+rit. 
+Finalmente, el Cuaternario está representado por conglomerados de ignim-
+brita, dacita y basaltos en una matriz areno-arcillosa; una secuencia vulcanosedi-
+mentaria integrada por fragmentos de pómez, toba, obsidiana y basalto; y suelos de 
+distinta composición y 4 tipos diferentes que son aluviales, residuales, litorales y 
+palustres (INEGI, 2000). 
+Localmente, y según lo indica la Conagua: 
+El marco geológico de la zona de Compostela está compuesto por 6 
+unidades litoestratigráficas. […] Las rocas ígneas extrusivas están represen-
+tadas por andesitas, las cuales únicamente afloran en el Cerro Grande de 
+San Pedro, que se localiza al sur de San Pedro Lagunillas; por su posición 
+estratigráfica se le considera del Eoceno (Paleógeno). Así como por rocas 
+riolíticas, las cuales se puede decir que ocupan el segundo lugar en extensión 
+de los afloramientos del área, se encuentran representadas por tobas e ig-
+nimbritas, su edad de acuerdo con su posición estratigráfica es del Mioceno 
+(Neógeno). (2020) 
+Por último, tenemos las rocas basálticas, siendo éstas las más abundantes 
+de la zona, las cuales se encuentran representadas por lavas, brechas, escorias y 
+tezontle. Dentro del área existen algunos lomeríos de topografía suave, los cuales 
+son afloramientos de conglomerados, que están formados por fragmentos andesíti-
+cos y riolíticos, los cuales se consideran del Plioceno (Conagua, 2020).  
+
+ 
+23 
+ 
+Figura 3.7: Mapa geológico del estado de Nayarit. Tomado de INEGI (2000). 
+3.5. 
+Campo Geotérmico Domo San Pedro 
+El Domo San Pedro también conocido como Complejo Volcánico San Pedro-
+Cerro Grande es una zona de gran importancia, pues dentro del área de estudio 
+analizada en este trabajo es el campo geotérmico con mayor cantidad de estudios 
+realizados y cuyo recurso está siendo explotado en la actualidad. 
+
+ 
+24 
+Como se mencionó en apartados anteriores, el sur del estado de Nayarit po-
+see una gran cantidad de edificios volcánicos pertenecientes al CVTM y entre ellos 
+se encuentra el Domo de San Pedro. Este se ubica a 20 km al oeste del Volcán 
+Ceboruco y es un edificio volcánico de composición ácida con 700 metros de altura, 
+cuya base se extiende por 4 Km con una ligera dirección preferencial NW-SE. Según 
+los estudios se encuentra desarrollado dentro de una caldera de edad Plio-Cuater-
+naria (Castillo & De La Cruz, 1992). 
+De la misma manera, mencionan que en esta región las rocas más antiguas 
+corresponden a una intercalación de rocas volcánicas con rocas sedimentarias in-
+trusionadas por plutones y batolitos de composición granítica y tonalitica, con una 
+edad que comprende entre el Cretácico Inferior y el Terciario inferior, las cuales 
+corresponden a las unidades estratigráficas más antiguas descritas por el INEGI. 
+Además de esto, complementan la información que ya se tenía mencionando que:  
+La actividad volcánica más intensa en la zona se manifestó durante el 
+Cuaternario, donde el Domo San Pedro es el aparato más representativo. […] 
+La emisión volcánica más reciente dentro de la zona estudiada constituye el 
+Domo de riolita vítrea ‘Los Ocotes’ con 200m de altura, 5 km de la largo y 4 
+km de ancho, ubicado a 4 km al NE del Domo San Pedro, cuyo emplaza-
+miento obturó el drenaje natural del pequeño Valle de San Pedro Lagunillas 
+y dio lugar a la Laguna de San Pedro. (2000) 
+Dentro de la zona de estudio hay una gran cantidad de manantiales termales 
+que, según detallan Castillo y De la Cruz (1992), se creía provenían del flujo termal 
+del Ceboruco, sin embargo, después de varios estudios geológicos, esta idea fue 
+descartada, dando como resultado la definición de que el Domo San Pedro repre-
+senta un campo geotérmico independiente. Durante los estudios realizados en este 
+campo geotérmico fueron identificadas algunas zonas termales cuyas temperaturas 
+para uso geotérmico son frías (25-26°C), mientras que otras se encontraban entre 
+los 28 y 48 °C. A partir de esto concluyeron que dichos manantiales termales junto 
+con su carácter químico, el gradiente de temperatura registrada y la existencia de 
+rocas con composición ácida, constituyen argumentos para suponer una fuente de 
+
+ 
+25 
+calor en el subsuelo representada por una cámara magmática aún caliente, que es 
+generadora del calor necesario para la existencia de una fuente geotermal en la 
+zona. 
+ 
+Figura 3.8: Distribución del termalismo en la zona de Domo San Pedro. Tomado de Castillo & 
+De la Cruz (1992). 
+3.6. 
+Hidrogeología del Área de Estudio 
+Debido a las características topográficas y climáticas de la zona de estudio, 
+se tiene un enorme potencial hidrológico de carácter superficial y subterráneo. En 
+el apartado superficial podemos hablar de la gran cantidad de ríos y arroyos que se 
+forman dentro de los estados de Nayarit y Jalisco debido a la escorrentía de las 
+estructuras de gran altura que ya han sido mencionadas en apartados anteriores y 
+que desembocan hacia el océano Pacífico. La zona de estudio superficialmente se 
+encuentra en una de las cuatro regiones hidrológicas del estado de Nayarit, deno-
+minada como la región hidrológica Huicicila, y subterráneamente pertenece al acuí-
+fero de Compostela. 
+Según el INEGI (2000) la región Hidrológica de Huicicila se encuentra ubi-
+cada al suroeste del estado de Nayarit y noroeste del estado de Jalisco, se dividen 
+
+ 
+26 
+en dos cuencas, la de Río Huicicila-San Blas y la del Río Cuale-Pitillal, la cual abarca 
+la mayor extensión de la bahía de Banderas. 
+Para el caso de la zona de estudio, esta se encuentra dentro de la cuenca 
+Río Huicicila-San Blas. En ella escurren una serie de ríos secundarios que desem-
+bocan al Pacífico, al norte se encuentra una zona de esteros y marismas. Esta 
+cuenca es de vital importancia puesto que en ella se encuentra el lago San Pedro, 
+así como todos los manantiales termales que afloran a superficie debido a la geo-
+termia de la zona. 
+Subterráneamente la región queda enmarcada por el acuífero de Compos-
+tela, el cual corresponde a un acuífero de tipo libre que se encuentra conformado 
+por brechas volcánicas, tobas y basaltos de permeabilidad media-alta por fractura-
+mientos, igualmente por aluviones y conglomerados que forman horizontes interca-
+lados con materiales volcánicos (INEGI, 2000). 
+
+ 
+27 
+ 
+Figura 3.9: Geología general del acuífero de Compostela. Tomado de Conagua (2020). 
+De acuerdo con la Conagua, la profundidad del nivel estático varía entre 10 
+y 35 metros, un dato importante para este trabajo es que las mayores profundidades 
+se encuentran en torno a la Laguna de San Pedro. 
+CAPÍTULO 4. MARCO TEÓRICO. 
+4.1. 
+Teoría Electromagnética 
+Los métodos geofísicos electromagnéticos son un grupo de técnicas en las 
+que se analizan los campos eléctricos o magnéticos, ya sean naturales o artificiales, 
+en la superficie terrestre, con el objetivo de mapear las variaciones de las propieda-
+des eléctricas del subsuelo, es decir, la resistividad eléctrica, permeabilidad magné-
+tica o permitividad eléctrica (Schlumberger, 2021). 
+
+ 
+28 
+Estas técnicas se rigen por las leyes físicas de la Teoría Electromagnética, 
+en especial por las Leyes y Ecuaciones de Maxwell, las cuales describen el com-
+portamiento e interacción que tienen entre sí los campos eléctricos y magnéticos, 
+por lo que son indispensables para entender el funcionamiento de los métodos elec-
+tromagnéticos. 
+4.2. 
+Ecuaciones de Maxwell 
+Para mediados del siglo XIX, el científico James Clerk Maxwell realizó una 
+de sus publicaciones más famosas y que mayor impacto ha tenido en el mundo de 
+la física, en esta englobaba los estudios que había desarrollado en el campo de la 
+electricidad y magnetismo y en los que logró demostrar la unión de los campos 
+Eléctricos (E) y Magnéticos (H) como un solo fenómeno, así como describir cual-
+quier tipo de actividad electromagnética, casi sin excepciones (Fujimoto, 2007). 
+Maxwell se basó principalmente en 4 Leyes de la física clásica para desarro-
+llar sus ecuaciones, la Ley de Gauss para campo eléctrico y magnético, la Ley de 
+Ampere y la Ley de Inducción de Faraday; las cuales son comúnmente expresadas 
+como sistemas de ecuaciones diferenciales, como se presenta a continuación: 
+𝜵× 𝑬ሬ⃗= −𝝏𝑩ሬሬ⃗
+𝝏𝒕                                                           (𝟒. 𝟏) 
+𝛁× 𝑯ሬሬሬ⃗= 𝝏𝑫ሬሬ⃗
+𝝏𝒕+ 𝑱⃗                                                           (𝟒. 𝟐) 
+𝛁. 𝑩ሬሬ⃗= 𝟎                                                                  (𝟒. 𝟑) 
+𝛁. 𝑫ሬሬ⃗= 𝒒                                                                  (𝟒. 𝟒) 
+Siendo 𝑬 la Intensidad del campo Eléctrico (V/m), 𝑩 la Inducción Magnética 
+(T), 𝑯 la Intensidad del campo Magnético (A/m), 𝑫 el Desplazamiento Eléctrico 
+(C/m2), 𝑱 la Densidad de Corriente (A/m2) y 𝒒 la Densidad de la carga Eléctrica 
+(C/m3). 
+La ecuación 4.1 se basa en la Ley de Faraday, y establece que una fuente 
+rotacional de campo eléctrico produce una variación de densidad de flujo magnético 
+cambiante en el tiempo. 
+
+ 
+29 
+ 
+Figura 4.1: Representación de la circulación del campo eléctrico alrededor de la densidad de 
+flujo magnético (Ley de Faraday). Tomado de Ortiz, 2010. 
+Mientras que la ecuación 4.2 proviene de la Ley de Ampere, la cual señala 
+que una fuente rotacional de campo magnético produce una variación de densidad 
+de flujo eléctrico y de corriente.  
+ 
+Figura 4.2: Representación de la circulación del campo magnético alrededor de la corriente 
+de conducción (Ley de Ampere). Tomado de Ortiz, 2010. 
+Por otro lado, la ecuación 4.3 corresponde a la Ley de Gauss para H y men-
+ciona que no pueden existir monopolos magnéticos. 
+Por último, la ecuación 4.4 se basa igualmente en la Ley de Gauss, pero para 
+E, la cual estipula que las cargas eléctricas son la fuente de un campo Eléctrico. 
+Representa también que el número de líneas de densidad de flujo eléctrico es pro-
+porcional a la carga total encerrada por una superficie “S” 
+
+ 
+30 
+ 
+Figura 4.3: Relación de las líneas de flujo eléctrico que atraviesan la superficie (S) que encie-
+rra la carga (q) en el volumen (V). Tomado de Ortiz, 2010. 
+4.2.1. Relaciones Constitutivas 
+Maxwell logró desarrollar la teoría que permite describir los campos electro-
+magnéticos en el vacío, no obstante, si se desea desarrollarlos en otro tipo de en-
+torno es necesario considerar las propiedades físicas del medio en el que se propa-
+gan, para incluir estas características es que se incluyen las Relaciones Constituti-
+vas (Ortiz, 2010). 
+Estas Relaciones consideran las propiedades eléctricas y magnéticas del 
+medio físico que se desea describir, incluyendo variables como la Conductividad 
+Eléctrica (𝝈), la Permitividad Eléctrica (𝜺) y la Permeabilidad Magnética (𝝁). A con-
+tinuación, se presentan las ecuaciones que las describen. 
+𝑱⃗= 𝝈. 𝑬ሬሬ⃗                                                                  (𝟒. 𝟓) 
+𝑫ሬሬ⃗= 𝜺. 𝑬ሬሬ⃗                                                                  (𝟒. 𝟔) 
+𝑩ሬሬ⃗= 𝝁. 𝑯ሬሬሬ⃗                                                                  (𝟒. 𝟕) 
+4.3. 
+Método Magnetotelúrico 
+El método Magnetotelúrico (MT) es un estudio de fuente natural, es decir, 
+utiliza campos electromagnéticos no inducidos, para determinar la conductividad o 
+su inverso, la resistividad, de los grandes cuerpos rocosos que se encuentren a 
+
+ 
+31 
+grandes profundidades por debajo del suelo. Se centra en la relación que se da 
+entre los campos eléctricos y magnéticos, conocida como impedancia (Cagniard, 
+1953). 
+Ya que el planeta Tierra no es un medio isotrópico ni homogéneo, la propa-
+gación de los campos electromagnéticos se vuelve compleja. Por esto, se propusie-
+ron las siguientes condiciones buscando poder aplicar las ecuaciones de Maxwell y 
+las relaciones constitutivas como herramienta que describa el comportamiento de 
+los campos estudiados (Simpson y Bahr, 2005). 
+ Las ecuaciones para campos electromagnéticos propuestas por Maxwell son 
+siempre válidas. 
+ El planeta Tierra no es capaz de generar energía electromagnética, solo la 
+absorbe o la disipa. 
+ Todos los campos deben ser tratados como analíticos y conservativos 
+cuando se encuentren lejos de sus fuentes. 
+ Los campos electromagnéticos de fuente natural que se utilizan se generan 
+en extensos sistemas de corrientes ionosféricas relativamente lejos de la su-
+perficie terrestre, por lo que pueden ser tratadas como ondas electromagné-
+ticas polarizadas que inciden en la Tierra de forma casi vertical. Esta condi-
+ción se omite en los polos y el área ecuatorial. 
+ No se da la acumulación de cargas libres en las capas de la Tierra. Mientras 
+que, en una superficie multidimensional, las cargas se pueden acumular en 
+las discontinuidades, causando un fenómeno conocido como Corrimiento Es-
+tático. 
+ Las cargas se conservan y la Tierra funciona como un conductor óhmico, es 
+decir, obedece a la ley de Ohm. 
+ Los desplazamientos del campo eléctrico, así como la variación en los tiem-
+pos del periodo de las corrientes son prácticamente despreciables, por lo que 
+el procesado de la inducción electromagnética en el planeta se maneja neta-
+mente como un proceso de difusión. 
+
+ 
+32 
+ Cualquier variación en la permeabilidad magnética y la permitividad eléctrica 
+de la roca se asume despreciable considerando las variaciones conductivas 
+de la mayoría de las rocas. 
+Por lo que, con dichas consideraciones, las ecuaciones de Maxwell incorpo-
+rando las relaciones constitutivas se expresarían de acuerdo con lo que presenta 
+Zhdanov (2009): 
+𝜵× 𝑬ሬሬ⃗= −𝝁𝝏𝑯ሬሬሬ⃗
+𝝏𝒕                                                         (𝟒. 𝟖) 
+𝜵× 𝑯ሬሬሬ⃗= 𝝈𝑬ሬ⃗+ 𝜺𝝏𝑬ሬሬ⃗
+𝝏𝒕                                                        (𝟒. 𝟗) 
+𝜵. 𝑬ሬሬ⃗= 𝟎                                                              (𝟒. 𝟏𝟎) 
+𝜵. 𝑯ሬሬሬ⃗= 𝟎                                                              (𝟒. 𝟏𝟏) 
+4.4. 
+Fuente del método 
+Como su nombre lo indica, las principales mediciones del método provienen 
+de las corrientes telúricas (fuentes naturales) que se propagan por la Tierra con 
+diferentes rangos de frecuencias, lo que permite que el sondeo obtenga una gran 
+cantidad de información dependiendo del rango de frecuencias que se midan 
+(Chave y Jones, 2012). 
+ 
+Figura 4.4: Interacción del viento solar con la atmósfera terrestre. Tomado de Windows to 
+the Universe (2012). 
+
+ 
+33 
+Los rangos de frecuencias más bajos, que van de 10-4 a 1 Hz, se originan 
+principalmente en la interacción que tienen la magnetósfera y los vientos solares, 
+este rango de frecuencias pertenece al MT. 
+Por otro lado, las frecuencias más altas, de 1 a 104 Hz, que pueden tener su 
+origen en tormentas eléctricas, pertenecen a los sondeos Audio-Magnetotelúricos 
+(AMT), dado que en su rango de frecuencias se encuentra el espectro audible para 
+el ser humano (Avila, 2019). 
+4.5. 
+Profundidad de Investigación 
+La profundidad que logre penetrar una onda electromagnética en el subsuelo 
+está relacionada estrechamente con la frecuencia de la onda y con la propiedad de 
+resistividad de las rocas, puesto que, a menor frecuencia y resistividad del medio, 
+mayor profundidad alcanzará la onda, y viceversa. 
+Para esto, Cagniard (1935) da una primera postura acerca del potencial en 
+profundidad del MT, idea que posteriormente retoma Vozoff (1972), quien menciona 
+el concepto de Skin Depth (𝜹), el cual resulta ser la distancia que tarda una onda 
+electromagnética en decaer a razón de 𝒆ି𝟏 (~ 𝟑𝟕%) respecto al valor que poseía 
+en superficie. La distancia que tarde en decaer la onda a este factor será la capaci-
+dad de penetración que pueda alcanzar el método.  
+El Skin Depth se puede estimar a partir de las expresiones: 
+𝜹= ඨ𝟐
+𝝈𝝁𝝎≈𝟓𝟎𝟎ඨ
+𝝆
+𝒇   [𝐦]                                               (𝟒. 𝟏𝟐) 
+Siendo 𝝈 la Conductividad del medio, 𝝁 la Permeabilidad magnética del me-
+dio, 𝝎 la Frecuencia angular (2𝜋𝑓), 𝝆 la Resistividad del medio y 𝒇 la Frecuencia de 
+la onda. 
+Con estas fórmulas se ha determinado que los sondeos AMT y MT pueden 
+abarcar profundidades someras (de algunos metros) hasta muy profundas (cientos 
+de kilómetros) (Corbo,2006). Para ejemplificar, se presenta la siguiente Tabla 1 que 
+
+ 
+34 
+representa los cálculos teóricos para profundidades con diferentes valores de resis-
+tividades (ρ) y periodos (T). 
+Tabla 1: Profundidades de penetración en Km. Modificado de Cagniard, 1953. 
+ρ \ T
+1 seg.
+3 seg.
+10 seg.
+30 seg.
+1 min.
+2 min.
+5 min.
+10 min.
+30 min.
+0.2 
+0.225 
+0.39 
+0.712 
+1.23 
+1.74 
+2.47 
+3.9 
+5.5 
+9.54 
+1 
+0.503 
+0.872 
+1.59 
+2.76 
+3.9 
+5.51 
+8.72 
+12.3 
+21.4 
+5 
+1.13 
+1.95 
+3.56 
+6.16 
+8.72 
+12.3 
+19.5 
+27.6 
+47.7 
+10 
+1.59 
+2.76 
+5.03 
+8.72 
+12.3 
+17.4 
+27.6 
+39 
+67.5 
+50 
+3.56 
+3.16 
+11.3 
+19.5 
+27.6 
+39 
+61.6 
+87.2 
+151 
+250 
+7.95 
+13.8 
+25.2 
+43.6 
+61.6 
+87.2 
+138 
+195 
+338 
+1,000 
+15.9 
+27.6 
+50.3 
+87.2 
+123 
+174 
+276 
+390 
+675 
+5,000 
+35.6 
+61.6 
+113 
+195 
+276 
+390 
+616 
+872 
+1510 
+4.6. 
+Tensor de impedancias 
+En un sistema coordenado (X, Y) por el que fluye un campo electromagnético, 
+la Impedancia (Z) es la razón entre el campo Eléctrico en dirección X (Ex) y el campo 
+Magnético en dirección Y (Hy), esta razón se encuentra en función de la frecuencia 
+de ambos campos y resulta en una variable compleja (Avilés, 2016). 
+𝒁𝒙𝒚(𝝎) = 𝑬𝒙(𝝎)
+𝑯𝒚(𝝎)   [Ω]                                                     (𝟒. 𝟏𝟑) 
+Por otro lado, el tensor de impedancias representa matricialmente el compor-
+tamiento de los campos eléctricos y magnéticos horizontales en cada uno de sus 
+segmentos, por medio de la siguiente relación 
+൤𝑬𝒙
+𝑬𝒚൨= ൤
+𝒁𝒙𝒙
+𝒁𝒙𝒚
+𝒁𝒚𝒙
+𝒁𝒚𝒚൨൤𝑯𝒙
+𝑯𝒚൨                                                 (𝟒. 𝟏𝟒) 
+Dadas las propiedades de relaciones ortogonales entre los campos E y H, al 
+desarrollar el tensor de impedancias, este resulta con valores complejos, es decir, 
+con números reales e imaginarios, al igual que los valores de fase. Los valores de 
+resistividad aparente (𝝆𝒂) y fase (𝝓) para cada uno de los elementos del tensor se 
+pueden determinar por medio de las siguientes expresiones. (Vozoff, 1972)  
+𝝆𝒂 𝒊,𝒋= 𝟏
+𝝎𝝁ห𝒁𝒊,𝒋ห
+𝟐                                                       (𝟒. 𝟏𝟓) 
+
+ 
+35 
+𝝓 𝒊,𝒋= 𝒂𝒓𝒄𝒕𝒂𝒏ቆ
+𝑰𝒎൫𝒁𝒊,𝒋൯
+𝑹𝒆൫𝒁𝒊,𝒋൯ቇ                                                (𝟒. 𝟏𝟔) 
+Es importante destacar que la resistividad aparente no es la resistividad ab-
+soluta del medio, sino una representación de esta obtenida a partir del tensor de 
+impedancias. 
+4.7. 
+Dimensionalidad 
+Otro uso que se le da al tensor de impedancias es el cálculo de la dimensio-
+nalidad del medio prospectado, ya que, dependiendo de la complejidad que vaya 
+presentando este, también se podrá determinar la cantidad de direcciones en las 
+que varían los valores, es decir, la dimensionalidad del medio. 
+Un medio unidimensional es aquel que solo presenta variaciones de resisti-
+vidades en profundidad, sin embargo, horizontalmente permanece constante. Esto 
+permite que la diagonal principal del tensor sea nula, mientras que los valores de la 
+anti-diagonal tendrán la misma amplitud, pero serán opuestos entre sí (Uribe, 2015). 
+𝒁𝟏𝑫= ൤
+𝟎
+𝒁𝒙𝒚
+−𝒁𝒙𝒚
+𝟎൨                                                     (𝟒. 𝟏𝟕) 
+ 
+Figura 4.5: Diagrama de un medio unidimensional. Tomado de Uribe, 2015. 
+Los medios bidimensionales presentan cambios en resistividades a lo largo 
+de dos planos, uno en profundidad igual que el unidimensional, además de en una 
+de las componentes horizontales. La componente restante que se mantiene cons-
+tante se le denomina strike, y geográficamente se orienta hacia la dirección por la 
+que se presenta el mayor flujo electromagnético (Martí, 2006). 
+
+ 
+36 
+𝒁𝟐𝑫= ൤
+𝟎
+𝒁𝒙𝒚
+𝒁𝒚𝒙
+𝟎൨                                                          (𝟒. 𝟏𝟖) 
+Al orientar la componente constante hacia el strike, vemos que en la ecuación 
+4.18 se logra anular la diagonal principal. Para la anti diagonal se obtienen valores 
+de resistividades aparentes con magnitudes diferentes y valores opuestos, los cua-
+les, por su composición se les considera como datos en las componentes XY y YX. 
+ 
+Figura 4.6: Diagrama de un medio bidimensional orientado al strike. Tomado de Uribe, 2015. 
+Por último, en un medio que se tengan 3 dimensiones, implica que no existe 
+una sola componente que mantenga un valor constante, por lo que todas las com-
+ponentes del tensor de impedancias poseerán un valor diferente. La matriz de este 
+tipo de medios resulta de la siguiente forma: 
+𝒁𝟑𝑫= ൤
+𝒁𝒙𝒙
+𝒁𝒙𝒚
+𝒁𝒚𝒙
+𝒁𝒚𝒚൨                                                          (𝟒. 𝟏𝟗) 
+ 
+Figura 4.7: Diagrama de un medio tridimensional. Tomado de Uribe, 2015. 
+
+ 
+37 
+4.8. 
+Modos de polarización 
+Volviendo al strike, cuando se tienen los datos de un medio bidimensional 
+orientados hacia este, los cuadrantes XY y YX pasan a ser los modos TE (Trans-
+verso Eléctrico) y TM (Transverso Magnético) respectivamente. La orientación debe 
+ser de forma tal que el modo TE resulte en dirección paralela al strike y, por ende, 
+el modo TM resulte perpendicular al mismo, esto permite que el modo TE indique 
+los valores donde el flujo de corriente sea máximo y el TM donde sea mínimo 
+(Corbo, 2006).  
+La aplicación de estos modos de polarización permite, además de simplificar 
+la matriz del tensor de impedancias, reescribir la ecuación 4.18 como: 
+𝒁𝟐𝑫= ൤𝟎
+𝒁𝑻𝑬
+𝒁𝑻𝑴
+𝟎൨                                                         (𝟒. 𝟐𝟎) 
+Por lo general, cuando se realiza el estudio en campo no es posible identificar 
+tan fácilmente la orientación del strike, por lo que este usualmente se determina por 
+medio de otros métodos durante el procesamiento. 
+Para corregir la dirección en la que se tiene el strike, y obtener los modos de 
+polarización, es necesario realizar una rotación de los ejes, como se muestra en la 
+Figura 4.8. Para esta rotación se utilizan las ecuaciones 4.21 y 4.22. 
+ 
+Figura 4.8: Ejemplificación del concepto de “Rotación al Strike”. Tomado de Comeau, 2015. 
+
+ 
+38 
+𝒁𝟐𝑫= 𝑹𝜽𝒁𝒎𝑹𝜽
+𝑻                                                               (𝟒. 𝟐𝟏) 
+𝑹𝜽= ൤𝑪𝒐𝒔(𝜽)
+𝑺𝒆𝒏(𝜽)
+−𝑺𝒆𝒏(𝜽)
+𝑪𝒐𝒔(𝜽)൨                                                      (𝟒. 𝟐𝟐) 
+Siendo 𝜽 el Ángulo en el que se encuentra el Strike 𝑹𝜽 la Matriz de Rotación, 
+𝑹𝜽
+𝑻 la Transpuesta de la Matriz de Rotación y 𝒁𝒎 la Impedancia medida sin Rotación. 
+4.8.1. Modo Invariante 
+Para entornos más simples, en los que no se requiera un minucioso detalle 
+en los resultados o que por alguna razón no sea posible determinar el strike, es 
+posible utilizar el Modo Invariante (o Determinante), el cual es una relación, usual-
+mente aritmética, entre los modos TE y TM. 
+Esta relación se puede obtener de diferentes maneras, ya sea un promedio 
+entre los modos, una relación geoespacial, por raíz cuadrada de las diagonales prin-
+cipales, entre otros. El objetivo es poder obtener un valor promedio de la variación 
+de resistividades aparentes en todas las direcciones, lo que permite volverlo inde-
+pendiente del strike. Una de las formas de obtener el determinante por medio del 
+tensor de impedancias es: 
+𝒁𝑰𝒏𝒗= ට𝒁𝒙𝒙𝒁𝒚𝒚−𝒁𝒙𝒚𝒁𝒚𝒙                                              (𝟒. 𝟐𝟑) 
+4.9. 
+Distorsión Galvánica 
+Es causado principalmente por cargas acumuladas en los cuerpos más su-
+perficiales, mismas que ocasionan que uno o ambos modos del MT posean valores 
+de resistividades aparentes diferentes a los reales, siendo representado gráfica-
+mente como un desplazamiento en las curvas de o de los modos afectados, provo-
+cando un fenómeno conocido como Static Shift (S.S.). 
+Una de las formas para solucionarlo puede ser el uso de otros métodos 
+más superficiales que permitan ver las resistividades someras reales, esto 
+para ajustar las curvas TE y TM a los valores correctos. 
+
+ 
+39 
+ 
+Figura 4.9: Ejemplo del efecto S.S., en el que se observa el desfase en resistividad de las 
+curvas. Elaboración propia. 
+CAPÍTULO 5. ADQUISICIÓN Y PROCESAMIENTO DE DATOS. 
+5.1. 
+Adquisición de Datos. 
+Los datos fueron adquiridos en el año 2013 utilizando el equipo MTU-2000 
+de la marca PHOENIX, que cuenta con la unidad de adquisición, módulo de alma-
+cenamiento de información, batería, GPS, 3 sensores magnéticos y 5 electrodos, 
+fungiendo 4 como dipolos eléctricos y uno de tierra. 
+La instalación en campo se realiza primeramente identificando el área óptima 
+para realizar el levantamiento, usualmente mediante herramientas satelitales. Ya en 
+el área de interés, se debe establecer el punto central del sondeo, a partir del cual 
+se orientan e instalan los electrodos en dirección N-S (dipolo 𝑬𝒙) y E-W (dipolo 𝑬𝒚) 
+aproximadamente a unos 25 m de la consola central cada uno. Así mismo, es utili-
+zado un electrodo extra como conexión a tierra, el cual usualmente se instala cerca 
+de la consola central.  
+
+ 
+40 
+Para el caso de los sensores o bobinas magnéticas, su instalación se realiza 
+en los cuadrantes delimitados por los electrodos. Como el campo magnético posee 
+3 componentes, se realiza la instalación de las bobinas en 3 direcciones, las dos 
+primeras en dirección N-S y E-W (𝑯𝒙 y 𝑯𝒚 respectivamente), la tercera se instala de 
+forma vertical para medir la componente 𝑯𝒛. En la Figura 5.1 se observa un dia-
+grama de la instalación descrita anteriormente. 
+ 
+Figura 5.1: Diagrama de la instalación del equipo MT. Elaboración propia. 
+Como se mencionó en el apartado 2.1, se utilizaron 7 sondeos Magnetotelú-
+ricos para desarrollar el análisis en esta tesis, mismos que, por su distribución geo-
+gráfica, se agruparon en 2 zonas, la primera denominada como “Domo de San Pe-
+dro” y la segunda “Compostela”. La información espacial de dichos sondeos se des-
+glosa en la Tabla 2. 
+
+ 
+41 
+Tabla 2: Información Espacial de los Sondeos. 
+ 
+5.2. 
+Metodología 
+El procesado de los datos se realizó con base en las dos zonas propuestas, 
+esto a causa de la separación geográfica que existe entre ellas. Por esta razón, y 
+por requerimientos del programa utilizado para el procesado, se generó 1 perfil (P1) 
+que engloba los 7 sondeos realizados, como se muestra en la Figura 5.2. 
+ 
+Figura 5.2: Perfil utilizado para el procesado de datos, se observan los datos en la zona de 
+Compostela (Azul) y el Domo de San Pedro (Rojo). Elaboración propia. 
+El primer procesado para los datos consistió en realizar un modelo unidimen-
+sional. Al exceder los límites de este trabajo, no fue realizado un cálculo matemático 
+
+ 
+42 
+para realizar una rotación hacia el strike de los modos TE y TM, por lo que el proceso 
+de inversión se realizó mediante el Modo Invariante (Apartado 4.8.1). Con los resul-
+tados de estas inversiones se realizó una interpolación entre las estaciones de cada 
+uno de los perfiles. 
+Para simular un cálculo hacia el strike (Apartado 4.8), se hizo un análisis de 
+las principales fallas geológicas en el área y su dirección respecto al norte, la cual 
+se utilizó como valor para realizar una rotación de los datos, buscando tener datos 
+más cercanos a la realidad y, por ende, también modelos más exactos. 
+Posterior a la rotación, se realizó nuevamente la inversión de los datos 1D, 
+no obstante, principalmente se buscaba obtener los modos TE y TM para poder 
+realizar una inversión bidimensional de los datos sobre el mismo perfil propuesto. 
+El objetivo de realizar los modelos e interpolaciones es poder determinar el 
+método que presenta el mejor resultado respecto a la teoría, en otras palabras, si 
+los modelos unidimensionales y bidimensionales son diferentes, y cuál muestra más 
+información acorde a la geología local; así mismo, se compara el cambio entre los 
+modelos rotados y sin rotar. Toda vez que se determine qué método y modelo pre-
+senta los mejores resultados, este será el utilizado para realizar el análisis de los 
+resultados y conclusiones del trabajo. 
+5.3. 
+Procesamiento de Datos. 
+Para realizar la inversión de los datos fue utilizado el software WinGLink®, 
+sin embargo, previamente a utilizar estos datos, deben ser preprocesados utilizando 
+diferentes herramientas, especialmente para transformar series de tiempo en datos 
+de resistividad aparente. Para este proceso se utilizaron los softwares SSMT-2000 
+y MTedit, de la misma marca que el equipo de medición, sin embargo, este proceso 
+previo no será tocado profundamente debido a que no fue realizado a detalle en los 
+datos de este trabajo. 
+El resultado del preprocesado de los datos es un archivo de formato “.EDI”, 
+mismo que es utilizado para realizar el proceso de inversión y modelado 1D y 2D. 
+
+ 
+43 
+Los archivos EDI son lo que se cargan en WinGLink y mediante los cuales se realiza 
+la inversión de los datos para las diferentes dimensionalidades que presenten. 
+5.3.1. Corrección de Distorsión Galvánica 
+Como se mencionó en el Apartado 4.9, el fenómeno de distorsión galvánica 
+causa un corrimiento en los datos para una o ambas componentes, por lo que, antes 
+de realizar la inversión, es importante solucionar este problema. 
+Aunque el método más efectivo para solucionarlo es con ayuda de otro mé-
+todo que no se vea afectado por estas anomalías, en este caso no fue posible ob-
+tener información de sondeos auxiliares, razón por la cual se realizó un análisis para 
+correlacionar los sondeos con la información geológica somera que se tiene, permi-
+tiendo así ajustar la información de las curvas de resistividad aparente a valores 
+conocidos y eliminar lo más posible el Static Shift presente. 
+ 
+Figura 5.3: Sondeo antes de realizar la corrección de S.S. Elaboración propia. 
+
+ 
+44 
+ 
+Figura 5.4: Sondeo corregido por S.S. Elaboración propia.  
+5.4. 
+Inversión 1D 
+Para realizar la inversión unidimensional de los sondeos, es necesario elimi-
+nar los puntos anómalos de las curvas, es decir, algunos puntos que pudieran tener 
+lecturas que no corresponden con la realidad y que pudieran causar alteraciones en 
+los datos. Esto se realiza principalmente analizando las curvas de resistividad apa-
+rente y fase, debido a que, si alguna presenta un comportamiento fuera de la ten-
+dencia general, es probable que se trate de un dato anómalo y deba ser eliminado. 
+Para apoyar esto, se suele generar una línea de tendencia de los datos, misma que 
+posteriormente sirve para la inversión. 
+El software empleado para el procesado de los datos utiliza el método de 
+Occam para la inversión unidimensional. Este procesado, o algoritmo, de inversión 
+se basa en lograr el modelo más “suavizado” con respecto a los datos, esto me-
+diante el uso de curvas que simulan capas de diferentes resistividades conforme 
+varía la profundidad, es decir, se busca determinar qué valor de resistividad y a qué 
+profundidades se obtiene el mejor resultado para los datos de resistividades apa-
+rentes que se obtuvieron de las mediciones. 
+
+ 
+45 
+Como se mencionó en el Apartado 4.2, se utilizó el modo invariante para rea-
+lizar el ajustado de las curvas en una dimensión, por lo que se obtuvieron modelos 
+de resistividades como el que se presenta en la Figura 5.5. 
+ 
+Figura 5.5: Modelo 1D resultante del sondeo A10 (el resto de los sondeos se presentan en el 
+Anexo II). Elaboración propia. 
+ 
+Posterior a realizar la inversión de todos los modelos 1D, se generó una in-
+terpolación entre estos para lograr observar el medio a lo largo del perfil propuesto, 
+esto mediante el menú “X-Sections” del programa WinGLink. 
+5.5. 
+Inversión 2D 
+ 
+Previo a comenzar el proceso de inversión bidimensional, se analizaron las 
+gráficas de resistividades y la geología local para determinar si se contaban con las 
+características pertinentes de un medio 2D, situación que resultó positiva, por lo que 
+se procedió al proceso de rotación de los sondeos hacia el strike. 
+ 
+Como se mencionó, es necesario rotar los modos TE y TM rumbo al strike 
+para obtener los resultados más exactos posibles en los modelos, sin embargo, al 
+no realizarse un análisis matemático respecto a su direccionalidad real, se procedió 
+a examinar la geología estructural local para determinar una ubicación y dirección 
+de las principales fallas a lo largo del perfil analizado, para así poder rotar los son-
+deos en función de los que se considera la dirección preferencial del flujo eléctrico, 
+
+ 
+46 
+de este proceso de determinó un ángulo de rotación de 45° respecto al N. Poste-
+riormente se repite el proceso de inversión unidimensional, mencionado en el apar-
+tado anterior. 
+ 
+Para la inversión 2D, el software utiliza un algoritmo basado en el método 
+iterativo de los Gradientes Conjugados No Lineales (GCNL), en el cual se busca la 
+solución regularizada para el problema inverso, mediante la minimización de la fun-
+ción objetivo (Rodi y Mackie, 2001). La inversión fue realizada sobre un mallado 
+definido con aproximadamente 7 y 8 columnas entre cada sondeo, mientras que en 
+las filas varía la distancia entre estas conforme aumenta la profundidad. Por último, 
+la topografía fue obtenida a partir de un Modelo Digital de Elevación (DEM) descar-
+gado de la página del Servicio Geológico de los Estados Unidos (USGS). El modelo 
+inicial se propuso como una capa uniforme de resistividad igual a 111 Ohm*m, como 
+se observa en la Figura 5.6. 
+ 
+Figura 5.6: Mallado propuesto para la inversión 2D. Elaboración propia. 
+El algoritmo de inversión fue corrido con 60 iteraciones, cantidad que mostró 
+ser suficiente para el modelado, ya que no genera artificios por sobre iteración, así 
+mismo se determinó un valor de Tau de 3.00, finalmente, el modelo resultante de la 
+inversión tuvo un error final general (RMS) de 2.339. El ajuste y error de cada uno 
+de los sondeos se muestran en el Anexo III. 
+
+ 
+47 
+CAPÍTULO 6. RESULTADOS E INTERPRETACIÓN. 
+6.1. 
+Discusión de Resultados 
+ 
+Para este capítulo se presentan los resultados, tanto de la interpolación uni-
+dimensional, como de la inversión bidimensional, se compararán ambos resultados 
+para determinar qué procesado muestra los mejores resultados. Este será utilizado 
+para el proceso de interpretación del medio, así como para establecer las conclu-
+siones que resulten de este trabajo. 
+ 
+El resultado del procedimiento mencionado en el Apartado 4.4 se muestran 
+en la Figura 6.1. Por otra parte, el resultado de la inversión 2D, descrita en el Apar-
+tado 4.5, se muestra en la Figura 6.2. 
+ 
+Figura 6.1: Resultado de la interpolación de las inversiones unidimensionales (Modo INV). 
+Elaboración propia. 
+
+ 
+48 
+ 
+Figura 6.2: Resultado de la inversión bidimensional (Modos TE y TM). Elaboración propia. 
+ 
+De manera general, se podría decir que ambos modelos poseen un compor-
+tamiento un tanto similar para la parte más somera, debido a que en ambos se 
+muestran cuerpos con bajas resistividades. No obstante, en cuanto a información 
+en profundidad, claramente el modelo 2D muestra información mucho más conside-
+rable. 
+ 
+En cuanto a detalles, el modelo 1D muestra estructuras conductivas muy ais-
+ladas, especialmente en la zona del Domo de San Pedro, así como manchas de 
+cuerpos resistivos en profundidades cercanas a los -3,000 m, mismas que serían 
+muy complicadas de interpretar por la poca información que se posee, del mismo 
+modo, el área de Compostela se muestra casi por completo como un medio con 
+muy bajas resistividades (no mayor a 50 Ohm*m), situación que no se correlaciona 
+con la geología local. 
+ 
+Por otra parte, el comportamiento de la inversión 2D muestra cuerpos con-
+ductivos mejor definidos en la superficie, también se observa en profundidad cuer-
+pos resistivos, pero mucho mejor definidos. Por último, el medio en general correla-
+ciona de mejor manera con la teoría, y permite un mejor análisis del comportamiento 
+
+ 
+49 
+de los flujos hidrotermales en el subsuelo. Por estas razones es que este modelo 
+será utilizado para analizar los resultados en la zona de estudio. 
+ 
+Antes de continuar es importante señalar que, como se puede observar en el 
+medio interpolado, existe un área sin información entre ambas zonas de análisis, 
+esto evidentemente causado por la ausencia de información, por lo que, aunque en 
+el modelo bidimensional se observe dicha área con información, esta no debe ser 
+tomada como real, ya que es un artificio generado por el software al no tener datos 
+reales con los cuales trabajar. 
+6.2. 
+Interpretación de resultados 
+ 
+Para apoyar la interpretación y el análisis de los resultados, se realizó un 
+mapa basado en la información recopilada de las cartas del Servicio Geológico Me-
+xicano (Figura 6.3), en este se presenta la geología, así como las fallas estructurales 
+que se tienen contempladas y que son incluidas en el modelo a analizar. 
+ 
+Figura 6.3: Mapa geológico del área de estudio. Elaboración propia, modificado de SGM 
+2007. 
+ 
+En cuanto al análisis del modelo, la parte al E, es decir, en la zona del Domo 
+de San Pedro, se observa entre los 1,000 y 500 m.s.n.m. resalta un cuerpo bastante 
+resistivo y de gran longitud, para los sondeos A10 y A44 este cuerpo se observa 
+
+ 
+50 
+bajo la superficie, sin embargo, en el sondeo A42 aflora en la superficie debido a la 
+topografía. 
+ 
+Dadas sus características y posición, dicho cuerpo podría tratarse de un re-
+servorio geotérmico, acuíferos o rocas alteradas por los flujos hidrotermales. Esta 
+propuesta se apoya especialmente en las fallas que se presentan entre los sondeos 
+A10 y A44, las cuales forman parte del graben de Compostela. Aunado a esto, se 
+observa un fenómeno característico del hidrotermalismo, el cual se trata de las zo-
+nas por donde circulan los flujos y, en este caso, se perciben como forma de “chi-
+menea”. 
+ 
+Esta chimenea se aprecia claramente bajo el reservorio, entre los -500 y -
+1,000 m.s.n.m., ya que hay un claro contraste entre un cuerpo resistivo (~600 
+Ohm*m), que pudiera tratarse de un basamento levemente alterado, y la zona con 
+una gran alteración, la cual muestra resistividades cercanas a los 100 Ohm*m. 
+ 
+Se debe recordar que en esta zona ya existe el campo geotérmico “Domo de 
+San Pedro” (DSP), el cual se encuentra actualmente en funcionamiento, por lo que 
+se tiene la certeza de que el área mostrada se encuentra alterada por hidroterma-
+lismo. Dichas características lograron ser observadas de manera general en el mo-
+delo, por lo que servirán de guía para explicar el comportamiento en el área de 
+Compostela. 
+ 
+El área correspondiente a la orientación W pertenece a la zona de Compos-
+tela. En ésta se observan características similares al DSP, ya que cercano al sondeo 
+A40 también se tienen zonas con una alta conductividad, aunque de menor dimen-
+sión que las previamente analizadas. Así mismo, se observan pequeñas áreas alte-
+radas muy cercanas a la superficie. 
+ 
+Haciendo especial énfasis en el sondeo A71, se sabe que cerca de este se 
+encuentra otra falla, y el modelo muestra características poco resistivas y con un 
+abrupto cambio a causa de un pequeño cuerpo intrusivo cercano. Aunque está cer-
+cano a la zona de incertidumbre, si se tienen indicios de que pudiera existir un 
+cuerpo con valores de resistividad considerables, que posea mayores dimensiones 
+y se encuentre relativamente cerca del sondeo. Un caso similar ocurre cerca del 
+
+ 
+51 
+sondeo A70, donde igualmente se observa un cuerpo menos conductivo que su 
+entorno. 
+ 
+Sin embargo, el punto que más resalta de esta zona es que nuevamente se 
+observa la presencia de una “chimenea” con características similares a la del DSP, 
+enmarcada por cuerpos resistivos levemente alterados, con valores de resistividad 
+un tanto menores (~400 Ohm*m), y que permiten observar el comportamiento de 
+los fluidos hidrotermales. Aunado a esto, se tiene la presencia de las fallas reporta-
+das por el SGM, que correlacionan de buena manera con el modelo y la presencia 
+de esta chimenea. 
+ 
+Figura 6.4: Descripción del comportamiento de los flujos hidrotermales y las fallas reporta-
+das por el SGM (líneas punteadas). Elaboración propia. 
+ 
+Como se observa en la Figura 6.4, la cual muestra gráficamente los elemen-
+tos y fenómenos anteriormente redactados, en ambas zonas se tienen indicios de 
+posible hidrotermalismo, especialmente por las alteraciones en forma de chimeneas 
+comentadas, así como los cuerpos poco resistivos que se muestran cercanos a la 
+superficie. 
+ 
+Del mismo modo, y como también ya fue mencionado, las fallas mostradas 
+correlacionan de buena manera con el modelo, aunque es importante mencionar 
+
+ 
+52 
+que la dirección y profundidad de estas no está reportada por el SGM, por lo que 
+esa información fue estimada con base en el modelo presentado, y no deben darse 
+por definitivas. 
+Por último, y solo a modo de complemento para la interpretación, en la Figura 
+6.5 se presenta un modelo que muestra de manera un poco más gráfica las expli-
+caciones dadas en este apartado, basados en el modelo analizado. 
+ 
+Figura 6.5: Modelo geológico inferido de la zona de estudio. Elaboración propia. 
+CAPÍTULO 7. CONCLUSIONES Y RECOMENDACIONES. 
+La información proporcionada por este método, tanto vertical como horizon-
+talmente, permiten analizar grandes áreas de estudio con pocos sondeos, ya que 
+se obtienen modelos consistentes que permiten un análisis coherente respecto a 
+los parámetros conocidos del medio, como la geología y la topografía. 
+El determinar la dirección del strike para rotar los sondeos es vital para un 
+correcto procesado y análisis de los datos Magnetotelúricos, esto se puede corro-
+borar comparando la información obtenida entre el modelo interpolado y la inversión 
+bidimensional, el primero fue sin considerar el strike y el segundo con una 
+
+ 
+53 
+aproximación a este, obteniendo un resultado mucho más claro con el modelo 2D, 
+mismo que se puede mejorar aún más realizando un cálculo más preciso del ángulo 
+al cual se debe realizar la rotación. 
+ Como se propuso en los objetivos de esta tesis, fue posible obtener informa-
+ción muy útil de los sondeos analizados, a pesar de las correcciones y filtrado de 
+los mismos, se lograron obtener modelos 1D y 2D coherentes con la geología. 
+Del mismo modo, los modelos resultantes mostraron información contun-
+dente de flujos y alteraciones hidrotermales, por lo que, basados en los resultados 
+obtenidos y la geología estudiada, es posible determinar que en el área existen otras 
+zonas cercanas con potencial geotérmico además de la del DSP, especialmente 
+gracias a la presencia del CVTM. 
+Las formaciones tipo chimenea que presenta el área de Compostela presen-
+tan características similares a las de la zona del DSP, por lo que una nueva línea 
+de investigación podría consistir en determinar si provienen de la misma fuente de 
+calor y/o yacimiento geotérmico.  
+Por otra parte, como recomendaciones se sugiere intensificar la densidad de 
+sondeos para obtener un modelo mucho más detallado, así como considerar reali-
+zar perfiles en diferentes direcciones para complementar los resultados. 
+Así mismo, y debido a la gran cantidad de fallas y fracturas en diferentes 
+direcciones que se presentan en el área, se sugiere considerar un medio tridimen-
+sional para futuras investigaciones, esperando que este método refleje aún mejores 
+resultados que los presentados en este trabajo. 
+ 
+
+ 
+54 
+REFERENCIAS. 
+Aguilera Torres Guillermo. (2012). INVENTARIO FÍSICO DE LOS RECURSOS MI-
+NERALES CARTA XALISCO F13 – D31, MUNICIPIOS: XALISCO, TEPIC, 
+SANTA MARÍA DEL ORO, COMPOSTELA Y SAN PEDRO LAGUNILLAS, 
+ESTADO DE NAYARIT. México: Servicio Geológico Mexicano. 
+Avila Vargas O. (2019). MODELO DEL GRABEN DE JUCHIPILA A PARTIR DE 
+DATOS MAGNETOTELÚRICOS. Tesis de maestría, Posgrado en Ciencias 
+de la Tierra, UNAM. 
+Avilés Esquivel T. A. (2016). Estudio magnetotelúrico en el norte del Golfo de Cali-
+fornia. Ensenada, B.C., México: CICESE. 
+Cagniard, L. (1953). Basic theory of the magneto-telluric method of geophysical pro-
+specting. Geophysics, 18(3), 605-635. 
+Calkin, M. G. (1965). An invariance property of the free electromagnetic field. Ame-
+rican Journal of Physics, 33(11), 958-960. 
+Camacho Peñalosa, Carlos. (1987). ECUACIONES Y RELACIONES ENERGÉTI-
+CAS DE LA ELECTRODINÁMICA. Madrid, España: E.T.S. Ingenieros de Te-
+lecomunicación. 
+Castillo, H., & De la Cruz, M. (1992). Reconocimiento estructural y vulcanológico en 
+la zona termal del Domo San Pedro Lagunillas, Nayarit, México. Geofísica 
+Internacional. V. 31, pp. 407–415. 
+Centro Mexicano de Innovación en Energía Geotérmica. (2019). ¿Qué es la geoter-
+mia? 
+2021, 
+de 
+CeMIEGeo 
+Sitio 
+web: 
+http://www.cemiegeo.org/in-
+dex.php/que-es-la-geotermia 
+Chave, A. y Jones, A. 2012. The magnetotelluric method: theory and practice. Cam-
+bridege University Press. 
+Comeau, Matthew. (2015). Electrical Resistivity Structure of the Altiplano-Puna 
+Magma 
+Body 
+and 
+Volcan 
+Uturuncu 
+from 
+Magnetotelluric 
+Data. 
+10.13140/RG.2.2.10150.32329. 
+
+ 
+55 
+Conagua. (2020). ACTUALIZACIÓN DE LA DISPONIBILIDAD MEDIA ANUAL DE 
+AGUA EN EL ACUÍFERO VALLE DE COMPOSTELA (1805), ESTADO DE 
+NAYARIT. Ciudad de México.  
+Corbo-Camargo F. (2006). Modelo Geofísico del acuífero Guaraní: zona compren-
+dida entre Uruguay y Argentina. Tesis Maestría, Posgrado en ciencias de la 
+Tierra, UNAM. 
+INEGI. (2000). Síntesis de información geográfica del Estado de Nayarit. Aguasca-
+lientes, Ags: INEGI. 
+Ferrari et al. (2003). Geology of the San Pedro Ceboruco Graben, western Trans-
+Mexican Volcanic Belt. Revista Mexicana de Ciencias Geológicas. V.20, pp. 
+165–181. 
+Ferrari et al. (2005). Magmatismo y tectónica en la Sierra Madre Occidental y su 
+relación con la evolución de la margen occidental de Norteamérica. Boletín 
+de la Sociedad Geológica Mexicana. V.57, pp. 343–378. 
+Ferrari, L. (2000). Avances en el conocimiento de la Faja Volcánica Transmexicana 
+durante la última década. Boletín de la Sociedad Geológica Mexicana. V.53, 
+pp. 84–92. 
+Ferrari, Luca; Petrone, Chiara; Francalanci, Lorella; Tagami, T.; Eguchi, M.; Conti-
+celli, Sandro; Piero, Manetti & Venegas-Salgado, S. (2003). Geology of the 
+San Pedro - Ceboruco Graben, western Trans-Mexican Volcanic Belt. Revista 
+Mexicana de Ciencias Geologicas. 20. 165-181. 
+Ferrari, Luca & Rosas-Elguera, J. (2000). Late Miocene to Quaternary extension at 
+the northern boundary of the Jalisco block, western Mexico: the Tepic-
+Zacoalco rift revised. Cenozoic Tectonics and Volcanism of Mexico. 334. 42-
+64. 
+Fleisch, D. (2008). A student's guide to Maxwell's equations. Cambridge, UK New 
+York: Cambridge University Press. 
+Fujimoto, M. (2007). Physics of classical electromagnetism. New York: Springer. 
+
+ 
+56 
+Martí i Castells, A. (2006). Magnetotelluric invesstigation of geoelectrical dimension-
+ality ans study of the central Betic Crustal Structure, A. Tesis Doctoral. Uni-
+versitat de Barcelona. Department de Geodinamica i Geofisica. 
+Ortiz Fuentes J. A. (2010). ESTUDIO SOBRE LA INVARIANCIA ELECTROMAG-
+NÉTICA ANTE LA REVERSIÓN TEMPORAL (TIME REVERSAL) ME-
+DIANTE EL MÉTODO DE DIFERENCIAS FINITAS EN EL DOMINIO DEL 
+TIEMPO (FDTD). D.F., México: UNAM. 
+Peláez Zapara Rubén. (2017). Gotermia en México, Un Potencial de Energía “Inago-
+table”. PetroQuiMex. México. 
+Prol-Ledesma Rosa María. (1988). El Calor de la Tierra. Fondo De Cultura Econó-
+mica. México, D.F. 
+Rodríguez Álvarez Rafael. (2001). ALTERACION HIDROTERMAL. 2021, de Unal-
+minas 
+Sitio 
+web: 
+https://www.medellin.unal.edu.co/~rrodriguez/geolo-
+gia/vmaksaev/ALTERACION.pdf 
+Ruíz Martínez, V. (2004). Estudio Paleomagnético del Cinturón Volcánico Transme-
+xicano: Implicaciones tectónicas. Madrid, España: Universidad Complutense 
+de Madrid. 
+Secretaría de Energía (SENER). (2016). Balance Nacional de Energía 2015. Mé-
+xico, Ciudad de México. 
+Servicio Geológico Mexicano. (2017). Geotermia. 2021, de SGM Sitio web: 
+https://www.sgm.gob.mx/Web/MuseoVirtual/Aplicaciones_geologicas/Geo-
+termia.html 
+Simpson, F. y Bahr, K. (2005). Practicall Magnetotellurics. Cambridge University 
+Press, Cambridge, U.K. 
+Stock, J. (1993). TECTONICA DE PLACAS Y LA EVOLUCION DEL BLOQUE JA-
+LISCO, MEXICO. Boletín de la Unión Geofísica Mexicana. V. 13, pp. 3–9. 
+Subdirección General Técnica, Gerencia De Aguas Subterráneas. (2020). ACTUA-
+LIZACIÓN DE LA DISPONIBILIDAD MEDIA ANUAL DE AGUA EN EL 
+
+ 
+57 
+ACUÍFERO VALLE DE COMPOSTELA (1805), ESTADO DE NAYARIT. Ciu-
+dad de México: CONAGUA. 
+Teklesenbet, A.B. (2012). Multidimensional inversion of MT data from Alid Geother-
+mal area, Eritrea. Comparison with geological structures and identification of 
+a geothermal reservoir. Tesis Doctoral. Faculty of Earth Sciences, University 
+of Iceland. 
+Universidad de Guadalajara (UDG). (2001). Las regiones geomorfológicas del es-
+tado de Jalisco (Geocalli Cuadernos de Geografía) Vol. 3. Jalisco, México: 
+Departamento de Geografía y Ordenación Territorial. 
+Uribe Marín María De Los Ángeles. (2015). Aplicación del método Magnetotelúrico 
+(MT) en dos zonas con posible potencial geotérmico ubicadas en la xi región 
+de Aysen, Chile. Concepción, Chile: Universidad de Concepción. 
+Vozoff, K. (1972). The Magnetotelluric method in the exploration of sedimentary ba-
+sins. Geophysics. 
+Yarza De la Torre E. (2003). Los volcanes del Sistema Volcánico Transversal. Bo-
+letín del Instituto de Geografía de la UNAM. V. 50, pp. 220-224. 
+Zhdanov, M.S. (2009). Geophysical Electromagnetic Theory and Methods. Vol. 43, 
+Elsevier. 
+ 
+ 
+
+ 
+58 
+ANEXOS 
+I. 
+Datos filtrados previo a realizar la inversión 1D 
+ 
+
+ 
+59 
+ 
+ 
+ 
+
+ 
+60 
+ 
+II. 
+Curvas de ajuste para los modelos 1D. 
+Sondeo A38. 
+ 
+Sondeo A40 
+ 
+Sondeo A42 
+
+ 
+61 
+ 
+Sondeo A44 
+ 
+Sondeo A70 
+
+ 
+62 
+ 
+Sondeo A71 
+ 
+
+ 
+63 
+III. 
+Ajuste de curvas para Modelo 2D. 
+
+ 
+64 
+ 

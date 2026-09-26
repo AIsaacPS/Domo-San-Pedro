@@ -1,0 +1,1077 @@
+ 
+ 
+ 
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+                           UNIVERSIDAD AUTÓNOMA DEL ESTADO DE MÉXICO 
+ 
+* Universidad Nacional Autónoma de México, Facultad de Ingeniería, México. Correos electrónicos: isaac11najera@gmail.com, 
+caetano@unam.mx, totolhua@gmail.com 
+ 
+ 
+ 
+ 
+67   
+Delimitación de zonas con potencial geotérmico aplicando técnicas 
+de percepción remota que correlacionan las características físicas de 
+temperatura de superficie terrestre y densidad del subsuelo: Caso de 
+estudio Nayarit 
+Delimitation of areas with geothermal potential applying remote sensing 
+techniques that correlate the physical characteristics of land surface temperature 
+with subsoil density: Nayarit case study 
+Guillermo Isaac Nájera-Rocha* 
+Ernesto Caetano* 
+Verónica Totolhua-Ramírez* 
+Recibido: octubre 29 de 2021. 
+Aceptado: agosto 19 de 2022. 
+ 
+Resumen 
+En el contexto actual, donde los combustibles fósiles generan un grave problema ambiental, se han buscado nuevas fuentes 
+de energía alternativa más amigables con el medio ambiente, entre ellas se encuentran la energía solar, eólica, de oleaje y 
+geotérmica; esta última no depende de las condiciones climáticas ni del tiempo meteorológico de la región donde se aplique. 
+En México, las condiciones geológicas del territorio favorecen la existencia de potencial geotérmico, lo cual lo ha destacado 
+actualmente como el 4° país con mayor capacidad geotérmica-eléctrica instalada con 958 [MW]; se estima que el potencial total 
+del país alcanza los 9,686 [MW] diferidos en 276 localidades de México. Un problema existente para la delimitación de estas 
+localidades geotérmicas es que se requieren estudios muy puntuales y costosos que no cubren el potencial de una región; como 
+consecuencia, en este trabajo se propone una técnica para conocer esta información con el uso de imágenes satelitales, a las 
+cuales les serán aplicadas técnicas de percepción remota y análisis en sistemas de información geográfica para correlacionar 
+características físicas de la Tierra, tales como la temperatura de superficie terrestre y la densidad del subsuelo mediante 
+anomalías gravimétricas que sirven como indicadores de actividad geotérmica. La técnica propuesta funciona como una 
+prospección inicial de muy bajo costo para futuros estudios de campo más detallados; además fue utilizada para delimitar tres 
+zonas geotermales en Nayarit, México. 
+Palabras clave: energía alternativa, imágenes satelitales, temperatura de superficie terrestre, anomalía gravimétrica, 
+correlación. 
+Abstract 
+In the current context where fossil fuels generate a serious environmental problem, in recent decades new sources of alternative 
+energy that are more environmental friendly have been sought, including solar, wind, wave and geothermal energy, the latter 
+being the only one that does not depend on the climatic conditions or meteorological weather of the región where it is applied. 
+In Mexico, the geological conditions of its territory favor the existance of geothermal potential, being currently the 4th country 
+with the highest installed geothermal-electrical capacity with 985 MW, however, it is estimated that the country´s total 
+potential reaches 9,686 MW deferred in 276 locations in Mexico. An existing problem for the delimitation of these geothermal 
+locations is that very specific and expensive studies are required that do not over the potential of a región, consequently, with 
+this work a technique is proposed to know this information using satellite images and applying remote sensing techniques 
+and analysis in geographic information systems to correlate physical characteristics of the Earth such as the land surface 
+temperature  and the density of the subsoil using gravimetric anomalies that serve as indicators of gethermal activity. This 
+technique performs as a very low cost initial survey for more detailed field studies, and it was also used to delimit 3 geothermal 
+zones in Nayarit, Mexico.  
+Keywords: alternative energy, satellite images, land surface temperature, gravimetric anomaly, correlation. 
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+68 
+ 
+ 
+Introducción 
+Los objetivos de este trabajo son proponer una metodología para mapear zonas con 
+potencial geotérmico correlacionando características físicas de la superficie terrestre con 
+estimativas de percepción remota, y demostrar la viabilidad de la información de libre 
+acceso y el uso de análisis en sistemas de información geográficos para la exploración y 
+delimitación de dichas zonas con potencial de generar energía a través del calor de la Tierra. 
+La geotermia, como indica su etimología, se refiere al calor producido debido a 
+diversos procesos de la misma Tierra y que es transferido a niveles corticales superficiales. 
+Dicho calor se genera a partir de la desintegración de isótopos radioactivos de elementos 
+como el torio, uranio y potasio presentes en las rocas (Santoyo y Barragán-Reyes, 2010), y 
+de los movimientos magmáticos convectivos profundos en los límites de la Tierra 
+(astenosfera), así como el calor latente formado durante la cristalización del núcleo externo. 
+Esta energía es irradiada en las erupciones freato-magmáticas hacia el exterior, la cual deja 
+pruebas visibles en los volcanes, aguas termales, fumarolas y géiseres.  
+Por otro lado, la geofísica es una ciencia derivada de la geología. Estudia las 
+propiedades físicas de la Tierra que comprenden aspectos como la composición interna del 
+planeta y el estudio de los campos físicos terrestres. De manera consecuente, debido al 
+contexto de génesis y efectos corticales, la geofísica se apoya de la geotermia para estudiar 
+el calor existente en el interior del planeta para su posterior aprovechamiento como energía 
+generadora de electricidad (Servicio Geológico Mexicano, 2017). Los usos adicionales de la 
+geotermia van desde procesos industriales hasta los usos domésticos. 
+Un recurso geotérmico es la proporción del calor extraído del interior de la Tierra 
+para ser aprovechado por el hombre en ámbitos técnicos y económicos; por lo tanto, el 
+aprovechamiento de esta energía resulta de gran importancia para las sociedades modernas; 
+sin embargo, la utilización de la geotermia se limita a áreas con condiciones geológicas 
+favorables, y México es uno de los países con mayor potencial al ocupar el sexto lugar a 
+nivel mundial (Richter, 2019). 
+A diferencia de otras energías renovables, la geotérmica es la que mejores resultados 
+arroja, pues no está condicionada a cuestiones temporales ni climáticas ya que el calor 
+interno de la Tierra es constante y no es afectado por el cambio climático en contraste con la 
+energía solar y eólica (Goldstein et al., 2011).  
+La inmensa cantidad de energía térmica producida continuamente en el interior de 
+la Tierra y los largos períodos geológicos requeridos para su agotamiento vuelven a la 
+geotermia una fuente alterna de energía renovable y prácticamente inagotable. A pesar de 
+eso, actualmente solo una pequeña fracción de los recursos mundiales se explota para 
+producir electricidad y algunas otras aplicaciones de calentamiento. 
+ 
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+69 
+ 
+La geotermia es una fuente renovable para generar energía eléctrica; ha sido 
+utilizada desde 1911 en el mundo, y en México inició en 1959 con la primera planta 
+geotermoeléctrica localizada en Pathé, Hidalgo con una capacidad de 3.5 MW. En México, 
+las condiciones geológicas de su territorio favorecen la existencia de potencial 
+posicionándose actualmente como el 4° país con mayor capacidad geotérmica-eléctrica 
+instalada con 958 MW (Hiriart, 2011) a través de la explotación de cuatro campos 
+geotérmicos: Cerro Prieto, Baja California con 720 MW; Los Azufres, Michoacán con 195 
+MW; Los Humeros, Puebla con 40 MW; y Las Tres Vírgenes, Baja California con 10 MW;  no 
+obstante, se estima que el potencial total del país alcanza los 9,686 MW diferidos en 276 
+localidades de México. 
+Esta energía renovable es una de las que mayor sustentabilidad y madurez 
+tecnológica tiene, lo cual es avalado por los largos períodos de explotación que han exhibido 
+los campos geotérmicos sin afectar sus reservas energéticas, como Larderello en Italia con 
+casi 100 años, los Géiseres en Estados Unidos cerca de 78 años y Cerro Prieto en México con 
+aproximadamente 45 años (Santoyo y Barragán-Reyes, 2010). 
+La viabilidad de un proyecto de exploración y explotación geotérmico se define a 
+partir de diversos indicadores preliminares de la presencia de un sistema geotermal 
+identificado en el área, que como ya se mencionó, suelen ser aguas termales y fumarolas. De 
+esta manera, la verificación de la existencia del recurso, o fase de exploración de un proyecto 
+general, implica una serie de actividades que proporcionan progresivamente indicios de la 
+calidad del recurso geotérmico (Ussher y Schwimmer, 2016).  
+El propósito de realizar una exploración geotérmica es definir el tamaño, forma y 
+estructuras geológicas principales de una zona para determinar características como el tipo 
+de fluido que contiene, su temperatura, composición química y su capacidad de producir 
+energía. La exploración geotérmica se puede dividir en dos etapas: la exploración superficial 
+y la exploración profunda. Dado que la perforación para obtener registros geofísicos de 
+pozo para exploración profunda resulta muy cara, la exploración superficial es de vital 
+importancia para la reducción de costos y riesgos; es aquí donde la geofísica es la más 
+requerida al aplicar diferentes técnicas en la interpretación de las propiedades físicas de la 
+Tierra y en la determinación de las condiciones del subsuelo (Molina, Honda, El-Qady y 
+Ushijima, 2006). Asimismo, se requieren estudios complementarios tales como los 
+geológicos, geoquímicos e hidrológicos.  
+Por otra parte, reconstruir el marco estructural en áreas geotermales es fundamental 
+para entender las relaciones entre la roca sello, el depósito y la circulación de los fluidos 
+hidrotermales (Giordano et al., 2012). Existe una estrecha relación entre las aperturas en las 
+rocas como fallas y fracturas, pues actúan como canalizadores de las soluciones 
+hidrotermales en su ascenso a la superficie (Valdés, 2015).  
+ 
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+70 
+ 
+ 
+Es común que el mayor riesgo en un proyecto geotérmico se presente en la fase de 
+exploración debido al conocimiento limitado que se tiene acerca del recurso; a pesar de ello, 
+la incertidumbre disminuye de manera progresiva cuando se comienza con una revisión y 
+análisis de los datos disponibles, de la exploración superficial y de la exploración en pozos. 
+Por consiguiente, siempre será más favorable la aplicación de la mayor cantidad de técnicas 
+de exploración acordes al presupuesto para garantizar los buenos resultados, por lo que la 
+percepción remota en los inicios de la exploración tiene grandes beneficios en la parte de 
+delimitación del área de estudio aunado al bajo costo con los que estos se realizan. 
+Percepción remota 
+Es una disciplina basada en ciencia y tecnología que permite desarrollar, capturar, procesar 
+y analizar imágenes obtenidas desde sensores en el espacio, sensores aerotransportados y 
+con sensores que capturan datos de mediciones in situ con el fin de identificar rasgos físicos 
+de la Tierra (Centro de Investigaciones en Ciencias de Información Geoespacial, 2022). 
+La radiación electromagnética es la base para toda la percepción remota. Se refiere a 
+la energía emitida en forma de onda por lo objetos con una temperatura mayor al cero 
+absoluto (-273 °C) (Aguirre, 2002). El espectro electromagnético es el continuo de todos los 
+tipos de radiación y está ordenado de acuerdo con su longitud de onda. Cada material con 
+temperatura mayor al cero absoluto es capaz de emitir radiación electromagnética en 
+diferentes rangos del espectro debido a las propiedades físicas intrínsecas; de este modo se 
+han desarrollado sensores capaces de captar el rango de la radiación emitida por los 
+materiales de la superficie terrestre de acuerdo con el objetivo; así se obtienen las imágenes 
+espectrales. 
+A partir del procesamiento de imágenes espectrales, la percepción remota tiene 
+amplias aplicaciones en diferentes disciplinas desde la ciencia hasta la vida cotidiana como 
+en la agricultura, la astronomía y la medicina (Centro Nacional de Prevención de Desastres, 
+2022). Permite estudiar el modo en que están distribuidos los recursos naturales del planeta, 
+los fenómenos meteorológicos y los fenómenos que ocurren en la superficie terrestre tales 
+como la contaminación, desertificación y los asentamientos humanos (Lira, 2003).  
+En consecuencia, en México, instituciones como el Instituto Nacional de Estadística 
+y Geografía (INEGI), la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad 
+(CONABIO), el Centro Nacional de Prevención de Desastres (CENAPRED), entre otros, 
+emplean técnicas de percepción remota y uso de Sistemas de Información Geográfica (SIG) 
+para adquirir diversos datos y estadísticas que les conciernen. 
+ 
+ 
+ 
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+71 
+ 
+Landsat-8 es el último satélite lanzado al espacio por parte de la National Aeronautics 
+and Space Administration (NASA) en función de las misiones Landsat que comenzaron a 
+inicio de la década de los setenta. Con ayuda del satélite es posible la adquisición de datos 
+para conocer los rasgos físicos de la superficie terrestre de forma remota y con una gran 
+resolución espacial. Basta ingresar a la página de United States Geological Survey (USGS) para 
+delimitar la zona de la que se requiere información y buscar una imagen que se ajuste a las 
+necesidades de localización y de temporalidad para el estudio. 
+A bordo del satélite se tienen dos sensores (cuadro 1): el primero es el sensor 
+Operational Land Imager (OLI), el cual incluye nueve bandas espectrales que abarcan el 
+espectro visible pasando por los infrarrojos y el espectro de ondas cortas; el segundo sensor 
+Thermal Infrared Sensor (TIRS) detecta espectros térmicos y se compone de dos bandas 
+espectrales. 
+Cuadro 1. Características de las bandas espectrales de Landsat-8 
+ 
+Fuente: elaboración propia con base en información del USGS (2020a). 
+ 
+La radiación infrarroja es captada por los sensores de Landsat-8 como una 
+representación de imágenes, las cuales proporcionan una buena sensibilidad a la 
+temperatura (Buntebarth, 1994). El contraste de temperatura está relacionado a diferentes 
+propiedades térmicas del suelo.  
+ 
+ 
+ 
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+72 
+ 
+ 
+Figura 1. Imagen multiespectral correspondiente a la banda 10 del sensor TIRS,  
+descargada el 20 de abril de 2020 
+ 
+ 
+Fuente: elaboración propia con fondo de satélite Google (junio 2020). 
+Ubicación de la zona de estudio 
+Se eligió un área del estado de Nayarit por la posibilidad de poder trabajar de manera 
+simultánea tres subsecciones ya identificadas y catalogadas con potencial geotérmico 
+(Hiriart, 2011), y debido a la proximidad entre ellas, las cuales coinciden dentro del área de 
+una misma imagen Landsat-8. Estas tres subsecciones se describen a continuación: 
+Zona Geotérmica de Los Hervores-El Molote, Nayarit 
+Los Hervores-El Molote se localiza en la parte sureste del estado de Nayarit, a unos 15 km 
+al occidente de la ciudad de Compostela y a 50 km al suroeste de Tepic. Sus coordenadas 
+geográficas aproximadas son 21°15’ en latitud norte y 105°00’ en longitud oeste. La zona 
+pertenece al extremo occidental de la Faja Volcánica Transmexicana (FVTM). 
+ 
+ 
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+73 
+ 
+Zona geotérmica del Graben de Compostela, Nayarit 
+El Graben de Compostela se localiza en la parte sur del estado de Nayarit a unos 19 km al 
+sureste de la ciudad de Compostela y a unos 5 km al sur del poblado de San Pedro 
+Lagunillas. Sus coordenadas geográficas aproximadas son 21°09’46’’ en latitud norte y 
+104°43’18’’ en longitud oeste. Esta zona se encuentra en el extremo occidental de la FVTM, 
+colindando al sur con la Provincia de la Sierra Madre del Sur y al occidente con la Provincia 
+de la Sierra Madre Occidental (Hiriart, 2011). 
+Zona geotérmica del Volcán Ceboruco, Nayarit 
+La zona del Volcán Ceboruco se encuentra en la parte sureste del estado de Nayarit, 
+aproximadamente a 20 km al noroeste de la población de Ixtlán del Río. Sus coordenadas 
+geográficas aproximadas son de 21°06’ y 21°18’ en latitud norte y 104°28’ y 104°35’ en 
+longitud oeste. Tiene una elevación que oscila entre los 1000 msnm en el valle, hasta 2200 
+msnm en la cima del volcán. Esta zona se encuentra en el extremo occidental de la FVTM, 
+cerca del límite con la provincia de la Sierra Madre Occidental. 
+Geología y estudios geotérmicos preliminares 
+Zona Geotérmica de Los Hervores-El Molote, Nayarit 
+En el área afloran rocas metamórficas, sedimentarias, vulcanoclásticas, volcánicas e 
+intrusivas donde las más antiguas son filitas de edad jurásica. En secuencia de edad sigue 
+un cuerpo intrusivo clasificado como microgabro de edad del Cretácico inferior, al cual lo 
+sobreyacen areniscas cretácicas y andesitas e ignimbritas del Oligoceno-Mioceno (Gastil y 
+Krummenacher, 1977). También se encuentra un intrusivo granodiorítico emplazado hace 
+67 millones de años.  Las andesitas son de volcanes El Molote, en cuyo cráter se observa una 
+estructura dómica. Las rocas más jóvenes son las andesitas Mazatlán extruidas por los 
+volcanes cuaternarios ubicados al sur de Mazatlán. Las estructuras tienen una orientación 
+este-oeste dominantemente, mientras que los manantiales termales de El Molote están 
+asociados a estructuras noreste-suroeste. 
+Se han identificado tres grupos de manantiales termales. El Molote, en la parte 
+central, constituido por 14 manantiales distribuidos en una superficie de 3 k𝑚2 con 
+temperaturas superficiales entre 65°C y 91°C y aguas de composición variable de clorurado 
+sódico a bicarbonatado sódico. El grupo de La Ínsula-Los Hervores al oeste del rancho El 
+Molote presenta temperaturas superficiales aproximadamente de 28°C con agua de 
+composición bicarbonatada sódica y contenido de boro de hasta 22 ppm. El grupo Agua 
+Caliente Jamurca al sur y sureste del poblado de Las Varas tiene temperaturas superficiales 
+de 49°C con aguas cloruradas sódicas. El yacimiento geotérmico inferido en la zona podría 
+estar contenido en las rocas intrusivas granodioríticas y, probablemente, en las rocas 
+vulcanoclásticas y sedimentarias.  
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+74 
+ 
+Zona geotérmica del Graben de Compostela, Nayarit 
+Es una zona formada por domos de composición dacítica con edades entre 0.85 y 0.04 
+millones de años alineados en una dirección noroeste-sureste (Gutiérrez-Negrín, 1988). Los 
+domos se asocian a flujos piroclásticos, pómez y ceniza, y probablemente a los manantiales 
+termales de Las Cuevas. Se infiere que su formación es consecuencia de la presencia de 
+cámaras magmáticas diferenciadas y relativamente someras, lo cual las vuelve una fuente 
+de calor para un potencial yacimiento geotérmico. 
+Hay un consenso de que el graben sufre un proceso de apertura (rifting), lo que 
+implica que se encuentra sujeto a esfuerzos distensivos. Los domos parecen haberse 
+emplazado en una fractura regional de la misma dirección NW-SE. Este sistema parece que 
+estará activo afectando a las rocas cuaternarias. Hay pocos manantiales termales cercanos a 
+los domos y presentan temperaturas superficiales de 34°C y aguas de composición 
+bicarbonatada sódica. El probable yacimiento geotérmico podría alojarse en rocas intrusivas 
+(granitos) y/o sedimentarias (calizas), así como en rocas volcánicas (andesitas, dacitas y 
+rocas piroclásticas) con una permeabilidad secundaria de media a alta. 
+ 
+Zona geotérmica del Volcán Ceboruco, Nayarit 
+Es un estratovolcán de composición que va de andesítica a riolítica cuya formación empezó 
+en el Plioceno (Demant, 1981), y sus últimas erupciones de lavas andesíticas y riolíticas 
+ocurrieron en 1875. El volcán se encuentra emplazado en el Graben de Tepic-Zacoalco de 
+dirección noroeste-sureste de manera puntual en la porción conocida como Graben de 
+Ahuacatlán-Jala. Se considera que el graben se encuentra en un proceso de apertura (rifting), 
+por lo cual está sometido a esfuerzos distencionales. El volcán parece haberse emplazado en 
+una fractura regional de misma dirección NW-SE. Aunque se considera un volcán activo, 
+actualmente es muy poco probable una nueva erupción (Hiriart, 2011). 
+Las manifestaciones termales son fumarolas, suelos calientes y manantiales; sólo las 
+dos primeras están asociadas directamente al volcán. Las fumarolas del volcán presentan 
+temperaturas entre 82°C y 92°C. Los gases de las fumarolas del llamado cráter Cinco Bocas 
+son típicos de sistemas geotérmicos de alta temperatura. Se estima que el probable 
+yacimiento geotérmico estaría contenido en la secuencia de rocas andesíticas, basálticas, 
+riolíticas y piroclásticas que constituyen el basamento de la Faja Volcánica Transmexicana 
+y/o el límite suroriental de la Sierra Madre Occidental restringido en superficie a un área 
+equivalente a la que ocupa de primera caldera de 3.5 km de diámetro. 
+La Comisión Federal de Electricidad (CFE) ha realizado estudios en tales zonas. 
+Correspondientes a Los Hervores-El Molote se han llevado a cabo investigaciones 
+geológicas y geoquímicas de detalle; sin embargo, no se han realizado levantamientos 
+geofísicos. Con ayuda del método Volumétrico-Montecarlo del USGS (2020b) se estima un 
+potencial en el campo de 36 MW. En el Graben de Compostela se han realizado campañas 
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+75 
+ 
+exploratorias intensas con métodos eléctricos, magnéticos, gravimétricos, así como 
+geológicos y geoquímicos y la perforación de pozos. Con el método Volumétrico-
+Montecarlo el campo presenta un potencial de 110 MW. En la zona del Volcán Ceboruco y 
+sus alrededores se han realizado estudios geológicos y geofísicos a detalle, así como 
+perforación de pozos. El campo presenta un potencial de 74 MW (Hiriart, 2011). 
+Fundamentos teóricos 
+Temperatura de superficie terrestre LST (Land Surface Temperature) 
+A partir de la ecuación de balance de la energía, donde la temperatura de la superficie 
+terrestre representa la relación entre la energía emitida por la superficie y la recibida en el 
+sensor satelital, si se asumiera que no existe la atmósfera, bastaría conocer el flujo emitido 
+en el suelo para saber su temperatura, ya que la radiación emitida por un objeto es una 
+función de su temperatura, esto de acuerdo con la Ley de Planck. No obstante, esta ley está 
+definida para un emisor perfecto que se conoce como cuerpo negro (Fernández, 2018). Con 
+respecto al problema real, donde no se tiene un cuerpo negro, se deben considerar los efectos 
+de la atmósfera, así como la relación entre la emisividad de una superficie determinada y la 
+que se produce en un cuerpo negro a la misma temperatura. Tomando estas 
+consideraciones, se definen tres tipos de temperatura: 
+ 
+Temperatura de brillo: es la existente en el techo de la atmósfera. 
+ 
+Temperatura de brillo en la superficie: la temperatura obtenida tras corregir los efectos 
+atmosféricos. 
+ 
+Temperatura de superficie corregida de emisividad: la temperatura resultante tras aplicar la 
+emisividad de cada cubierta. Es la variable física conocida como temperatura de superficie 
+terrestre, Land Surface Temperature (LST). 
+A continuación, se describen los pasos para obtener la temperatura de superficie. 
+Este proceso es un algoritmo desarrollado para automatizar la obtención de LST utilizando 
+específicamente imágenes satelitales de LANDSAT 8 (Avdan y Jovanovska, 2016). Todos los 
+datos requeridos se pueden encontrar en el archivo de metadatos MTL que se descarga con 
+las imágenes Landsat. 
+a) Cálculo de TOA (Top of Atmospheric) o radiancia espectral 
+ 
+ 
+Donde:  
+𝑀𝐿: factor de reescalamiento multiplicativo específico de banda. 
+       RADIANCE_MULT_BAND_x (donde x es el número de banda, ya sea 10 o 11). 
+𝐵𝑥: banda térmica. 
+𝐴𝐿: factor de reescalamiento aditivo específico de banda. 
+      RADIANCE_ADD_BAND_x (donde x es el número de banda, ya sea 10 o 11). 
+ 
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+76 
+ 
+b) Conversión de TOA a Brightness Temperature (Temperatura de Brillo) 
+ 
+ 
+Donde: 
+𝐾1 y 𝐾2: constantes de conversión térmica específicas de la banda. 
+𝑙𝑘: TOA o radiancia. 
+*Los resultados obtenidos se encuentran en grados Kelvin, por lo que basta restar 273.15 para 
+obtener los valores en °C. 
+ 
+ 
+ 
+c) Cálculo del NDVI (Índice de Vegetación de Diferencia Normalizada por sus  
+siglas en inglés) 
+ 
+ 
+d) Cálculo de la proporción de vegetación 𝑃𝑣 
+ 
+ 
+ 
+Donde 𝑁𝐷𝑉𝐼𝑖 es el valor de NDVI correspondiente a cada punto del ráster. 
+ 
+e) Cálculo de la Emisividad ε [μm] 
+ 
+ 
+ 
+Donde las constantes son valores de corrección. 
+ 
+f) 
+Cálculo de la Temperatura de Superficie Terrestre (LST) 
+ 
+ 
+ 
+ 
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+77 
+ 
+Gravimetría 
+Es un método basado en el campo natural de la gravedad que estudia la variación del 
+componente vertical del campo gravitacional terrestre. Las pequeñas variaciones o 
+anomalías de la gravedad se generan por las distintos componentes de la corteza terrestre 
+donde la propiedad que se mide es la densidad de los materiales del subsuelo. Su 
+fundamento físico y matemático yace en la Ley de la Gravitación Universal de Newton.  
+ 
+ 
+ 
+Donde F es la fuerza de atracción gravitacional, G la constante de gravitación, 𝑚1 𝑦 𝑚2 dos cuerpos 
+de masa y 𝑟2 es el cuadrado de la distancia entre dichos cuerpos. 
+La aceleración o atracción gravitacional es la fuerza de gravitación que actúa sobre una unidad de 
+masa y corresponde a la medición del campo gravitacional actuando en cualquier punto, de esta 
+manera la ecuación 1 puede representarse de la siguiente forma: 
+ 
+ 
+Es decir: 
+ 
+Si la ecuación 3 es tratada como un campo vectorial, la atracción gravitacional g observada en un 
+punto del espacio P, debido a una masa con densidad ρ y que ocupa la región con volumen V, está 
+dada por el gradiente del potencial gravitacional U, como lo desarrolló Nava (2010): 
+ 
+ 
+ 
+Es decir: 
+ 
+ 
+ 
+Donde ρ es la densidad del cuerpo, 𝑟⃗ 𝑦 𝑟𝑜
+⃗⃗⃗⃗⃗ son los vectores de posición del elemento de volumen dV 
+y del punto de observación P respectivamente, y γ es la constante de gravitación universal. En 
+gravimetría se considera únicamente la componente vertical de g.  
+ 
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+78 
+ 
+Si se tiene en cuenta únicamente la componente vertical de la atracción gravitacional en el punto P, 
+de la ecuación 6 se obtiene: 
+ 
+ 
+Desarrollando la ecuación 7: 
+ 
+ 
+Obteniendo finalmente 
+ 
+ 
+ 
+En el Sistema Cegesimal de Unidades, la gravedad se mide en unidades de longitud 
+sobre tiempo al cuadrado (cm/𝑠2) que equivale a un gal. Sin embargo, la aceleración 
+gravitacional promedio es 980 cm/𝑠2, equivalente a 980 gales, por lo que la unidad estándar 
+en geofísica para la gravimetría es el miligal (mGal). 
+El método gravimétrico se basa en la medición en la superficie de pequeñas 
+variaciones del campo gravitacional. Estas diferencias son causadas por cualquier alteración 
+lateral en la distribución de las masas en el interior de la Tierra; por lo tanto, si el contexto 
+geológico del subsuelo involucra rocas de diferente densidad, la irregularidad resultante en 
+la distribución de masas generará un cambio correspondiente en la aceleración de la 
+gravedad. Las variaciones medidas se interpretan en términos de probables distribuciones 
+de masa en el subsuelo que son el cimiento para inferir las POSIBLEScondiciones geológicas 
+existentes (Nettleton, 1976).  
+ 
+Correcciones de gravedad 
+Estas correcciones sirven para que el valor de la gravedad esté libre de efectos no geológicos. 
+Antes de poder interpretar los resultados de un estudio gravimétrico, es necesario corregir 
+todas las variaciones en el campo gravitacional terrestre que no sean el resultado de las 
+diferencias de la densidad en las rocas subyacentes. A este proceso se le conoce como 
+reducción de la gravedad (LaFehr, 1991), donde se toma un nivel de referencia para la 
+gravedad. El nivel de referencia aceptado en México es el geoide WGS84, el cual es 
+consistente con el Intenational Reference Frame 1992 (ITRF92). 
+ 
+ 
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+79 
+ 
+ 
+Corrección por latitud.  Se realiza debido a la variación de la aceleración de la gravedad que 
+depende de la latitud, ya que, debido a la forma achatada de la Tierra, la aceleración gravitacional 
+es mayor conforme se acerca a los polos y es menor en el ecuador. Además, también se ve afectada 
+en una menor proporción por la fuerza centrífuga por el efecto de la rotación que disminuye en 
+los polos y aumenta en el ecuador.  
+ 
+ 
+También se le conoce como corrección por gravedad normal: 
+ 
+ 
+Donde: 
+ λ es la latitud de la estación base donde se realizó la medición.   
+Δy es la diferencia de latitudes entre la estación medida y la base, en radianes. 
+ 
+ 
+Corrección atmosférica. Sustrae la masa de la atmosfera incluida en 𝑔𝑛  
+ 
+ 
+ 
+Donde h es la elevación de la estación. 
+ 
+ 
+Corrección por aire libre. Se refiere a las variaciones en g causadas por las diferencias de 
+elevaciones. Se determina al derivar g. 
+ 
+ 
+Donde Δh es la diferencia entre la altura de la base con la estación. 
+ 
+ 
+Corrección de Bouguer. Compensa el exceso de masa localizado debajo de los puntos de 
+observación con una diferencia de elevaciones. Se considera el efecto de un estrato infinito: 
+ 
+ 
+Donde ρ es la densidad del estrato, G es la constante gravitacional y h la elevación de la estación. 
+ 
+ 
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+80 
+ 
+ 
+Corrección por terreno o topografía 
+ 
+ 
+Donde Re es el radio externo y Ri el radio interno para el formato de corrección por terreno. 
+ 
+ 
+Anomalía de aire libre 
+ 
+ 
+ 
+ 
+Anomalía de Bouguer simple 
+ 
+ 
+ 
+ 
+Anomalía de Bouguer Completa. A la reducción de la gravedad observada al nivel de la estación 
+base, la cual incluye todas las correcciones mencionadas anteriormente y al compararla con con 
+la gravedad teórica, es lo que comúnmente se conoce como Anomalía de Bouguer: 
+ 
+ 
+ 
+Metodología 
+Se organizaron los siguientes pasos; primeramente, para el caso de estudio, las imágenes 
+satelitales multiespectrales fueron descargadas de la plataforma del Servicio Geológico de 
+Estados Unidos (USGS, 2020b), obtenidas por la misión Landsat-8 a las 11:23, horario de 
+México, del 20 de abril de 2020, la cual fue elegida entre otras por cubrir completamente la 
+zona, además por no estar afectada por la presencia de nubes (0% de nubosidad) que 
+pudieran interferir en las mediciones de los sensores del satélite (figura 1).  
+Posteriormente, se obtuvo el mapa de LST, un mapa de fallas y fracturas geológicas 
+y un mapa de anomalía de Bouguer; todo mediante software libre e información abierta. Por 
+último, con ayuda del SIG se aplicó algebra de mapas para localizar las zonas de interés que 
+cumplen las condiciones descritas en la metodología propuesta por Lago y Rodríguez (2019) 
+(cuadro 2). De manera independiente a estos pasos, se debe verificar que las resoluciones de 
+los mapas generados sean iguales. 
+ 
+ 
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+81 
+ 
+El sistema de información geográfico utilizado es el software QGIS versión 3.4.15. Se 
+utilizó información de curvas de nivel para modelar el terreno con datos obtenidos del 
+INEGI. La información geológica, tal como los mapas de fallas y fracturas, se obtuvieron de 
+las cartas geológicas del Servicio Geológico Mexicano (SGM) Ixtlán F13-D42, Santa María 
+del Oro F13-D32, Compostela F13-D41, Xalisco F13-D31, Las Varas F13-C49 y Jalcocotán 
+F13-C39, de donde se georreferenciaron los datos con ayuda del SIG.  
+La información de litología se obtuvo del banco de datos del Servicio Geológico 
+Mexicano como un archivo vectorial shapefile. El mapa de anomalía de Bouguer se obtuvo 
+con el software GeoMapApp versión 3.6.10, el cual es un visualizador de información 
+terrestre. Por último, el mapa de temperatura de superficie terrestre LST, se calculó a partir 
+de las bandas espectrales de Landsat-8, usando un algoritmo en lenguaje Python. 
+ 
+Cuadro 2. Diagrama de flujo de trabajo 
+ 
+Fuente: elaboración propia con base en Lago y Rodríguez (2019). 
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+82 
+ 
+Obtención de datos 
+Topografía del terreno  
+Para visualizar de mejor manera el terreno donde se llevó a cabo el estudio, se buscó 
+información de topografía en los catálogos de información disponible del INEGI. Dicha 
+información fue de curvas de nivel para el estado de Nayarit descargadas con escala de 
+1:20,000 en formato shape con las cuales se trabajaron para realizar un modelo digital de 
+elevación (MDE) y así obtener un modelo de sombras (figura 2). También es posible 
+visualizar de forma precisa la ubicación del sitio en estudio. 
+ 
+Figura 2. Modelo de elevación sombreado del área en estudio localizada en el estado de Nayarit, México, 
+abarcando los municipios de San Blas, Xalisco, Compostela, Tepic, San Pedro Lagunillas, Ahuacatlán, Amatlán de 
+Cañas, Ixtlán del Río, Santa María del Oro, La Yesca y Del Nayar 
+ 
+Fuente: elaboración propia con información topográfica de INEGI (2020). 
+ 
+Mapa de Índice de Vegetación Diferenciada y Normalizada (NDVI) 
+Como se muestra en el apartado acerca del cálculo de temperatura de superficie, es 
+importante reconocer la presencia o porcentaje de vegetación. Así se generó un mapa de 
+NDVI donde se logra apreciar la cantidad de vegetación en la zona, así como los cuerpos de 
+agua (figura 3). 
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+83 
+ 
+Figura 3. Mapa de NDVI en la zona de estudio. Los valores cercanos a 1, es decir, las tonalidades verdes, indican 
+presencia de vegetación sana y en abundancia, mientras que en tonos amarillos y naranjas sugiere vegetación 
+escasa o en mal estado. Los cuerpos en color rojo del mapa representan masas de agua 
+ 
+Fuente: elaboración propia. 
+ 
+El NDVI es un índice no dimensional; sus valores van de -1 a 1, y se encarga de medir 
+la relación entre la energía absorbida y la emitida por los objetos terrestres; de igual manera, 
+proporciona valores de intensidad del verdor en la zona y puede ser usado para inferir la 
+condición de la vegetación presente y su vigor vegetativo. En la práctica, los valores por 
+debajo de -0.1 corresponden a cuerpos de agua y nieve; los valores negativos cercanos a 0 
+sugieren presencia de rocas, arena y suelo desnudo mientras que los valores más altos son 
+indicadores de mayor actividad fotosintética, es decir, mayor abundancia de vegetación 
+(Heredia, Malmond, Castro y Tejada, 2016).  
+ 
+Información geológica 
+Se buscaron datos de geología para relacionar las zonas geotérmicas con sus 
+manifestaciones en estructuras, tales como las fracturas y fallas en el suelo. Esta información 
+fue obtenida de las cartas geológicas escala 1:50,000 del Servicio Geológico Mexicano, cuyas 
+claves son Ixtlán F13-D42, Santa María del Oro F13-D32, Compostela F13-D41, Xalisco F13-
+D31, Las Varas F13-C49 y Jalcocotán F13-C39 (figura 4 y figura 5). 
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+84 
+ 
+Figura 4. Mapa geológico de la zona de estudio modelado con información topográfica. Se muestra la distribución de 
+la litología presente en el área de estudio. En dicha litología predominan las rocas ígneas de carácter extrusivo 
+Fuente: elaboración propia con datos del Servicio Geológico Mexicano (2020). 
+ 
+Figura 5. Mapa geológico con información estructural. Se muestra la presencia de los sistemas de fallas y fracturas en 
+el área de estudio con una orienta ción relativamente predominante Este-Oeste 
+ 
+Fuente: elaboración propia con datos del Servicio Geológico Mexicano (2020). 
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+85 
+ 
+Mapa de temperatura de superficie 
+Se calculó la temperatura de superficies terrestres del 20 de abril de 2020 a través de 
+imágenes multiespectrales descargadas de Landsat-8 (figura 6). El cálculo operacional se 
+realizó mediante un programa escrito en Python basado en el algoritmo de Avdan y 
+Jovanovska (2016), esto para mantener el control del proceso de obtención de los diferentes 
+parámetros implicados en el cálculo. La decisión de utilizar una sola fecha para validar la 
+temperatura calculada fue que las imágenes Landsat-8 de los días adyacentes tenían un 
+porcentaje de nubosidad que podía alterar los cálculos. 
+ 
+Figura 6. Se muestra la temperatura de superficie de la zona de estudio variando desde los 15°C y alcanzando los 48°C. 
+La zonas con tonalidades rojas (alta LST) son las de interés 
+ 
+Fuente: elaboración propia. 
+Mapa de anomalía de Bouguer 
+El mapa de anomalía de Bouguer se obtuvo usando el software GeoMapApp de donde, 
+utilizando la capa WGM 2012 Bouguer Anomalies, se obtuvo la capa de valores de anomalía, 
+la cual representa de manera gráfica las zonas donde existe una variación del valor de 
+aceleración gravitacional respecto al valor de referencia del geoide (figura 7). A esta capa se 
+le aplicó la técnica de reducción de escala (downscaling estadístico) debido a que suele tener 
+buenos resultados frente a problemas de diferencias de resolución espacial en cuestiones de 
+climatología (Benestad, Hanssen-Bauer y Chen, 2008).  
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+86 
+ 
+Se define como el proceso de relacionar el estado de alguna variable que representa 
+un espacio grande y el estado de otra que representa un espacio mucho menor (Benestad et 
+al., 2008), o bien, el proceso de reproyectar de forma precisa la información disponible a gran 
+escala sobre la regional (Von Storch, Zorita y Cubasch, 1993). Esto se debe a que el tamaño 
+de píxel de la capa original descargada del software era aproximadamente de 3.5 km. El 
+procedimiento se realiza tomando una variable de una resolución deseada, en este caso el 
+mapa de temperatura de superficie de la figura 6, el cual tiene una resolución de 30 m, y 
+mediante regresión lineal genera una nueva variable con su misma resolución, que es el 
+mapa de la figura 7.  
+ 
+Figura 7. Se muestra un mapa con los valores de anomalía de Bouguer indicando en tonalidades azules deficiencias de 
+masa, es decir, densidades del subsuelo bajas, y en tonalidades rojas excesos de masa que representan densidades 
+del subsuelo altas 
+ 
+Fuente: elaboración propia con datos obtenidos del software GeoMapApp. 
+En este mapa se pueden identificar valores de anomalía de Bouguer altos hacia el 
+lado este debido a la cercanía de la costa y, en consecuencia, presencia de corteza oceánica, 
+pues esta tiene un valor promedio de ρ= 3
+𝑔
+𝑐𝑚3, mientras que hacia el lado oeste del mapa se 
+aprecian valores menores de la anomalía debido a la presencia de la corteza continental con 
+valor promedio de ρ=2.67 𝑔
+𝑐𝑚3. A pesar de ello, en la zona central podemos encontrar valores 
+máximos locales que contrastan con los valores de densidad que los rodean. De esta manera, 
+esos valores de densidad que representan una variación de la intensidad del campo 
+gravitatorio (García, 1982), pueden ser interpretados como un indicador de fuente 
+geotermal. 
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+87 
+ 
+ 
+En primera instancia, y como se muestra en la figura 5, la anomalía puede referir 
+estructuras geológicas como las fallas presentes en la zona. Por otra parte, los aumentos de 
+densidad representados en la anomalía de Bouguer y dentro del contexto estructural y 
+litológico, podrían inferir la presencia de cuerpos magmáticos que ayudan a explicar las 
+altas temperaturas del suelo, como lo expusieron en Chan, Chang y Dao (2018) en su estudio 
+geotérmico en el Norte de Taiwán. 
+ 
+Resultados y discusión 
+Es importante tener en cuenta que no se pueden asociar directamente los mapas de fallas y 
+fracturas (figura 5) con el de temperatura de superficie (figura 6) para delimitar una zona 
+con potencial geotérmico, pues existen otros factores a considerar. La presencia de estas 
+estructuras geológicas ayuda a inferir la posible existencia de cuerpos magmáticos que, 
+debido a su ascenso y distribución, generan actividad hidrotermal causante del 
+fracturamiento y fallamiento de las rocas adyacentes como se muestra en la figura 5.   
+Otro elemento a considerar es el de las islas de calor que existe debido a la presencia 
+de zonas urbanas e infraestructura en general; podría confundirse con manifestaciones 
+termales del subsuelo debido a la alta temperatura que generan ya sean construcciones, 
+viviendas o vías de comunicación terrestre. De esta forma, la anomalía de Bouguer se puede 
+correlacionar para descartar zonas del subsuelo que están influenciadas por factores no 
+geológicos. 
+Luego de considerar estos elementos, se obtuvo un mapa delimitando las zonas con 
+potencial geotérmico donde se han llevado a cabo estudios por diferentes instancias 
+gubernamentales (CFE), e institucionales como el Instituto de Geofísica de la UNAM, y que, 
+empleando la metodología descrita, pueden ayudar a constatar la existencia de campos 
+geotérmicos en la zona de estudio, como lo hicieron Lago y Rodríguez en 2019 en su estudio 
+en la provincia de Ourence localizada en Galicia, España. 
+El cálculo de la temperatura de superficie luego de descartar amplias zonas urbanas 
+en el área es otro indicador geotermal, pues en la figura 6 se aprecian temperaturas de hasta 
+50°C en la superficie. Dicha información obtenida de LST fue validada comparando con los 
+datos proporcionados por la National Oceanic and Atmospheric Administration (2020) (NOAA) 
+de temperatura en superficie para el día 20 de abril de 2020 a la misma hora de la imagen 
+Landsat-8 que se usó; ésta se adquirió a las 11:23, hora local para horario de México. 
+ 
+ 
+ 
+ 
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+88 
+ 
+Figura 8. Mapa de temperatura de superficie de la NOAA para las 11:00 horas del 20 de abril de 2020, generado por el 
+sistema North American Mesoscale Forecast System (NAM) 
+ 
+Fuente: imagen proporcionada por la NOAA. 
+De la figura 8 se puede comprobar que los valores de temperatura de superficie 
+calculados con el algoritmo de Jovanovska son consistentes con los de la NOAA a pesar de 
+que estos últimos cuentan con una resolución de 12 x 12 km. El sistema NAM es uno de los 
+principales modelos para pronóstico ambiental del National Centers for Environmental 
+Prediction’s (NCEP) y, como se puede observar, los valores de temperatura dominantes 
+coinciden con los calculados en la figura 6, gracias a eso, fue favorable continuar con el 
+análisis.  
+La dificultad para corroborar la información a escala local radicó en las pocas y muy 
+separadas estaciones meteorológicas que se encuentran en los alrededores de la zona de 
+estudio, por lo que una interpolación con la información que proporcionan para obtener un 
+mapa de LST comparable con el generado con la metodología propuesta no parecía viable. 
+El mapa de anomalía de Bouguer indica el complejo contexto estructural de la zona 
+y el probable exceso de masa que se presenta a nivel superficie, pues recordando la Ley de 
+Gravitación Universal, un cuerpo con mayor masa genera una mayor fuerza de atracción; 
+para este caso dicha fuerza es el valor de la gravedad. Esto se explica por la presencia de 
+cuerpos de mayor densidad que los de sus alrededores.  
+ 
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+89 
+ 
+ 
+Bien se puede notar en la figura 4 y figura 5 que la zona está dominantemente 
+ocupada por rocas ígneas, y al existir manifestaciones hidrotermales como los géiseres y 
+manantiales hidrotermales se infiere la existencia de una importante actividad magmática, 
+además que las rocas han estado expuestas a fluidos calientes que modifican su estructura 
+química favoreciendo la alteración de rocas y minerales; en consecuencia, su densidad varía 
+en comparación con las rocas originales (Lagat, 2010). Estos cambios en la densidad son los 
+que se registran con los levantamientos gravimétricos, tal como se muestra en la figura 7.  
+Se vuelve necesario mencionar que la falta de información a nivel local vuelve un 
+tanto difícil la visualización, pues el área se encuentra muy cerca de la zona de subducción 
+del Pacífico. A pesar de esto, en el mapa de anomalía de Bouguer es posible identificar 
+valores máximos locales que infieren aumentos de densidad en determinadas áreas respecto 
+al medio que los rodea, así como la presencia de estructuras geológicas que se pueden 
+relacionar a actividad magmática (Chan et al., 2018). 
+En la figura 5 se aprecia que la litología predominante es de rocas volcánicas, y que 
+la mayor parte del área en estudio se encuentra influenciada por sistemas de fallas y 
+fracturas, la cual es una característica requerida especificada en la metodología (cuadro 2); 
+de ese modo se infiere la presencia de cuerpos magmáticos capaces de actuar como fuentes 
+geotérmicas en el área, por ello la característica estructural quedó implícita en el análisis. 
+Con ayuda del SIG, se aplicó algebra de mapas para identificar zonas con valores de 
+interés tanto de LST como de anomalía de Bouguer que coinciden espacialmente. Dichos 
+valores considerados son acordes a los factores anteriormente mencionados: altas 
+temperaturas en la superficie y cambios de densidad en el subsuelo. 
+Posteriormente se separaron las zonas cuya LST fue igual o mayor a los 40 °C. De 
+manera consecuente se hizo un análisis donde dichas zonas de LST elevada interactúan con 
+apreciables variaciones de valores en la anomalía de Bouguer que sugieren cambios en la 
+densidad del subsuelo relacionados a alteración hidrotermal (generadora de los valores de 
+LST altas) en las rocas (figura 9). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+90 
+ 
+ 
+Figura 9. Mapa de zonas con valores de LST igual o mayor a 40 °C. Se observa que las altas densidades se relacionan 
+más con las altas temperaturas en comparación con las bajas densidades 
+ 
+Fuente: elaboración propia. 
+ 
+Por último, se ubicaron las zonas que cumplen todas las condiciones establecidas en 
+el cuadro 2 para poder delimitar en qué áreas resulta favorable llevar a cabo una futura 
+exploración en busca de potenciales geotérmicos. En la figura 10 se definen las zonas con 
+indicadores geotérmicos pertenecientes a la región del Volcán Ceboruco en los municipios 
+de Ahuacatlán, Jala, Ixtlán del Río y de Santa María del Oro, la región del Graben de 
+Compostela perteneciente a los municipios de San Pedro Lagunillas y al de Compostela y a 
+la región de Hervores-El Molote perteneciente a los municipios de Xalisco y de Tepic, todos 
+pertenecientes al estado de Nayarit que conforman un área total de 149.865 km2 con 
+características y manifestaciones geotérmicas importantes. 
+ 
+ 
+ 
+ 
+ 
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+91 
+ 
+Figura 10. Zonas que cumplen condiciones para inferir potencial geotérmico 
+ 
+Fuente: elaboración propia. 
+ 
+Conclusiones 
+Hoy en día las técnicas para exploración geotérmica son muy variadas y sin duda el trabajo 
+de campo nunca podrá ser sustituido; sin embargo, el objetivo de este estudio es comprobar 
+la eficiencia de la percepción remota en conjunto con el análisis de datos geoespaciales con 
+el uso de un SIG para facilitar la etapa de exploración de un sitio. También es cierto que 
+existen diferentes estudios en todo el mundo que utilizan el cálculo de LST para delimitar 
+zonas con actividad geotermal, pero, como se demostró, la integración de información 
+estructural y de anomalía de Bouguer permite añadir más criterios que justifican las altas 
+temperaturas en la superficie terrestre dejando fuera aspectos no geológicos.El 
+conocimiento y aprovechamiento de la energía geotérmica tiene más de un siglo siendo 
+aplicado, por lo que los indicadores utilizados para su exploración están muy bien 
+definidos.  
+También es importante mencionar y tener en cuenta que el manejo de todos los datos 
+se dificulta cuando estos no son compatibles en formato unos con otros, pues si bien existe 
+la información, la calidad y disponibilidad no siempre son las mejores. Mucha información 
+que se encontró varía en sus actualizaciones, pues algunas son de hace casi 3 décadas que 
+contrasta con otras de hace 5 años a pesar de que prácticamente son de zonas adyacentes.  
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+92 
+ 
+La mayor parte de la información de estructuras geológicas se encontraba en 
+formatos PDF y el trabajo de convertirla a un archivo compatible con el SIG fue uno de los 
+mayores obstáculos que se encontraron al realizar este estudio, ya que al elaborar los 
+procesos de georreferenciación de dicha información se requiere cuidar mucho la precisión. 
+El mayor reto fue la información de gravimetría, pues para México en tal ámbito sólo existe 
+una carta gravimétrica generada por el INEGI creada con una escala que cubre el país por 
+completo a manera de representar la distribución de las densidades de masa del territorio, 
+por lo que para realizar algún tipo de estudio local, no resulta viable su uso.  En 
+consecuencia, la información obtenida por el software GeoMapApp fue de gran utilidad en 
+la cuestión de resolución espacial; resulta curioso que tal información no haya sido obtenida 
+por ninguna institución nacional.  
+Como resultado de esta investigación, se busca recalcar que los estudios geofísicos, 
+geológicos e, incluso, topográficos en un país como México deberían cobrar una mayor 
+relevancia y encontrarse disponibles de mejor manera, pues, como se mostró, aún con ciertas 
+limitaciones, los resultados fueron bastante favorables y muy provechosos con la 
+posibilidad de tener mayores aplicaciones en los estudios relacionados a las ciencias de la 
+Tierra. 
+Las técnicas de teledetección o percepción remota son algunas de las herramientas 
+más útiles en el campo de las geociencias, las cuales, si son utilizadas de manera correcta y 
+complementadas con técnicas geomáticas en sistemas de información geográfica, vuelven 
+los procesos de exploración de la superficie terrestre bastante sencillos y de buena calidad. 
+Esto permitió, de manera satisfactoria, comprobar la hipótesis planteada de correlacionar 
+estructuras geológicas, como lo son las fallas y fracturas, con las variaciones de densidad y 
+de temperatura de superficie terrestre para asociarlas a la actividad geotermal. 
+Por último, los objetivos de este trabajo se cumplieron plenamente teniendo cuidado 
+al realizar cada proceso establecido en la metodología y comprobando que los resultados 
+obtenidos fueran válidos. De esta forma, se busca incentivar la creación de los tipos de 
+mapas a nivel nacional para tener mejores catálogos de información acerca de las energías 
+limpias y renovables. El tema se vuelve cada vez de mayor importancia entre la comunidad 
+científica internacional e incluso en las actuales cuestiones y decisiones políticas. Al tener 
+disponible información, como la que se obtuvo, se facilita la planeación de nuevos proyectos 
+sustentables con el fin de coadyuvar al desarrollo del país. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+93 
+ 
+Referencias 
+Aguirre, R. (2002). Los mares mexicanos a través de la percepción remota. Instituto de Geografía, Universidad 
+Nacional 
+Autónoma 
+de 
+México. 
+Recuperado 
+de: 
+http://www.publicaciones.igg.unam.mx/index.php/ig/catalog/book/57  
+Avdan, U. y Jovanovska, G. (2016). algorithm for automated mapping of land surface temperature using 
+LANDSAT 
+8 
+Satellite 
+Data. 
+Journal 
+of 
+Sensors, 
+2016 
+(1480307), 
+1-4. 
+Recuperado 
+de: 
+https://www.hindawi.com/journals/js/2016/1480307/  
+Benestad, R., Hanssen-Bauer, I. y Chen, D. (2008). Empirical-Statistical Downscaling. World Scientific Publishing 
+Company. 2008, 1-3. https://doi.org/10.1142/6908  
+Buntebarth, G. (1994).  Geotermia, Introducción a los Aspectos Aplicados y Teóricos de la Conducción del Calor en la 
+Tierra. México: Grafos Editores  
+Centro de Investigaciones en Ciencias de Información Geoespacial. (2022). Percepción Remota. Recuperado de: 
+https://www.centrogeo.org.mx/investigacion/percepcion-remota  
+Centro Nacional de Prevención de Desastres. (2022). Tecnología Espacial y Percepción Remota en la Prevención de 
+Desastres. 
+Recuperado 
+de: 
+https://www.gob.mx/cenapred/articulos/tecnologia-espacial-y-
+percepcion-remota-en-la-prevencion-de-
+desastres#:~:text=La%20percepci%C3%B3n%20remota%20o%20teledetecci%C3%B3n,1987).  
+Chan, H., Chang, C., y Dao, P. (2018). Geothermal anomaly mapping using landsat ETM+ Data in Ilan Plain, 
+Northeastern Taiwan. Pure and Applied Geophysics. 175 (2018). 303-323. Recuperado de: 
+https://doi.org/10.1007/s00024-017-1690-z  
+Demant, A. (1981). Plio-Quaternary Volcanism of The Santa Rosa Area, Baja California, Mexico. Geological Society 
+of America. Cordilleran Section, Annual Meeting, 295-305. 
+Fernández S., A. (2018). Cálculo de temperatura de superficie a partir de imágenes NOAA, Landsat y Sentinel-3. RiuNet 
+Repositorio UPV. 5-6. Recuperado de: https://riunet.upv.es/handle/10251/103166?show=full  
+García A., J. (1982). Estudio gravimétrico en la zona geotérmica de La Presita (Tesis de Maestría). Centro de 
+Investigación Científica y de Educación Superior de Ensenada. Baja California, México. Recuperado de: 
+http://cicese.repositorioinstitucional.mx/jspui/handle/1007/1418  
+Gastil, G., y Krummennacher, D. (1977). Reconnaissance Geology of Coastal Sonora between Puerto Lobos and 
+Bahia Kino. Geological Society of America Bulletin. 88. (189-198). 
+Giordano, G., Pinton, A., Cianfarra, P., Baez, W., Chiodi, A., Viramonte, J., Norini, G., Gropelli, G. (2012). 
+Structural control on geothermal circulation in The Cerro Tuzgle-Tocomar geothermal volcanic area 
+(Puna Plateau, Argentina). Journal of Volcanology and Geothermal Research. (249). 77-94. Recuperado de: 
+https://doi.org/10.1016/j.jvolgeores.2012.09.009  
+Goldstein, B.A., Hiriart L. B., G. Tester, J., Gutiérrez-Negrin, L. C., y Huenges, E. H. (2011). Great Expectations 
+for Geothermal Energy to 2100. Proceedings 36th Workshop on Geothermal Reservoir Engineering (665), 1. 
+Recuperado 
+de: 
+https://scholar.google.com/citations?view_op=view_citation&hl=es&user=EV0Va3EAAAAJ&citatio
+n_for_view=EV0Va3EAAAAJ:0EnyYjriUFMC  
+Gutiérrez-Negrín, L. (1988). La Primavera, Jalisco, Mexico: Geothermal Field. Transactions of the Geothermal 
+Research Council. 12, 161-165. 
+Heredia, S., Malmond, A., Castro, C., y Tejada, S. (2016). Índice de Vegetación NDVI, para la Visualización de la 
+Dinámica Espacial de Áreas en Expansión. Ponencias de las XI Jornadas IDERA. (140-141). República de 
+Argentina.  
+
+Guillermo Isaac Nájera-Rocha, Ernesto Caetano, Verónica Totolhua-Ramírez: Delimitación de zonas… 
+ 
+94 
+ 
+Hiriart L. B., G. (2011). Evaluación de la energía geotérmica en México. Informe para el Banco Internacional de 
+Desarrollo y la Comisión Reguladora de Energía, 49-56, 89-92. México. Recuperado de: 
+https://www.cre.gob.mx/documento/2026.pdf  
+INEGI. (2020). Catálogo de datos Ixtlán F13-D42, Santa María del Oro F13-D32, Compostela F13-D41, Xalisco F13-D31, 
+Las Varas F13-C49 y Jalcocotán F13-C39. Instituto Nacional de Estadística y Geografía Recuperado de: 
+https://www.inegi.org.mx/temas  
+LaFehr, T.R. (1991). Standardization in Gravity Reduction. Geophysics. Society of Exploration Geophysicists.  
+Lagat, J. (2010). Hydrothermal alteration mineralogy in geothermal fields with case examples from Olkaria 
+Domes Geothermal Field, Kenya. Short Course on Exploration for Geothermal Resources. 2-3. Recuperado 
+de: http://hdl.handle.net/10802/13871  
+Lago, D., y Rodríguez, P. (2019). Detection of Geothermal Potential Zones Using Remote Sensing Techniques. 
+Remote Sensing. 11 (20: 2403), 2-8. Recuperado de: https://doi.org/10.3390/rs11202403  
+Lira, J. (2003). La percepción remota: nuestros ojos desde el espacio. México: Fondo de Cultura Económica. 
+Molina, A. III., Honda, M., El-Qady, Gad., Ushijima, Keisuke. (2006). Exploration of Geotermal Reservoir of 
+Cerritos Colorados, Jalisco, México, Using 1D and 2D Inversión of Resistivity Data. Geotermia. 19 (1), 3. 
+Recuperado 
+de: 
+https://biblat.unam.mx/es/revista/geotermia/articulo/exploration-of-the-
+geothermal-reservoir-of-cerritos-colorados-jal-mexico-using-1-d-and-2-d-inversion-of-resistivity-data   
+National Oceanic and Atmospheric Administration, (2020). North America Mesoscale Forecast System. Recuperado 
+de: https://www.ncei.noaa.gov/products/weather-climate-models/north-american-mesoscale  
+Nava, M. (2010). Modelado por Métodos Potenciales de Estructuras Salinas Inferidas por Sismología de Reflexión. (Tesis 
+de 
+Maestría). 
+Universidad 
+Nacional 
+Autónoma 
+de 
+México, 
+México. 
+Recuperado 
+de: 
+https://repositorio.unam.mx/contenidos/102221  
+Nettleton, L.L. (1976). Gravity and Magnetics in Oil Prospecting. New York, United States: McGraw-Hill. 
+Richter, A. (2019). The Top 10 Geothermal Countries 2019 – based on installed generation capacity (MWe). Think 
+Geoenergy.  Recuperado de: https://www.thinkgeoenergy.com/the-top-10-geothermal-countries-
+2019-based-on-installed-generation-capacity-mwe/ 
+Santoyo, E y Barragán-Reyes R. (2010). Energía geotérmica. Ciencia – Academia Mexicana de Ciencias. 61 (2), 40-51. 
+Recuperado 
+de: 
+https://biblat.unam.mx/es/revista/ciencia-academia-mexicana-de-
+ciencias/articulo/energia-geotermica  
+Servicio Geológico Mexicano. (2020). Cartas Geológicas Ixtlán F13-D42, Santa María del Oro F13-D32, Compostela 
+F13-D41, Xalisco F13-D31, Las Varas F13-C49 y Jalcocotán F13-C39. Banco de datos. Recuperado de: 
+https://www.sgm.gob.mx/CartasDisponibles/  
+Servicio 
+Geológico 
+Mexicano 
+(2017). 
+¿Qué 
+es 
+la 
+geofísica? 
+Museo 
+virtual. 
+Recuperado 
+de: 
+https://www.gob.mx/cms/uploads/attachment/file/157796/Que-es-la-Geofisica.pdf  
+USGS (2020a). What are the band designations for the Landsat satellites? United States Geological Survey. USGS 
+cience for a changing world. Recuperado de: https://www.usgs.gov/faqs/what-are-band-
+designations-landsat-satellites?qt-news_science_products=0#qt-news_science_products  
+USGS (2020b). Earth Explorer. United States Geological Service, USGS science for a changing world. Recuperado 
+de: https://earthexplorer.usgs.gov/  
+Ussher, G., y Schwimmer, A. (2016). Reduciendo el riesgo geotermal y los tiempos de ejecución para una 
+campaña de exploración. Geotermia–Revista Mexicana de Geoenergía. 29 (1), 6-8. Recuperado de: 
+https://www.geotermia.org.mx/app/assets/media/2017/11/Geotermia-Vol29-1.pdf  
+
+AÑO 25, 2023-1     ENERO-JUNIO     ISSN 2594-102X     PÁGS. 67-95 
+ 
+95 
+ 
+Valdés, B. (2015). Identificación de lineamientos minerales asociados a alteraciones hidrotermales en la Bahía de La Paz, 
+Baja California Sur, México, mediante imágenes satelitales Landsat ETM (Tesis de Licenciatura). Universidad 
+Nacional 
+Autónoma 
+de 
+México, 
+México. 
+Recuperado 
+de: 
+http://132.248.52.100:8080/xmlui/handle/132.248.52.100/6838  
+Von Storch, H., Zorita, E., y Cubasch, U. (1993). Downscaling of global climate change estimates to regional 
+scales: 
+an 
+application 
+to 
+Iberian 
+Rainfall 
+in 
+Wintertime. 
+Journal 
+of 
+Climate. 
+6().https://doi.org/10.1175/1520-0442(1993)006%3C1161:DOGCCE%3E2.0.CO;2   

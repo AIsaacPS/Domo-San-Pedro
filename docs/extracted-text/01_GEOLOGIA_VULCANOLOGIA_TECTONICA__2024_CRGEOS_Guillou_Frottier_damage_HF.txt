@@ -1,0 +1,2678 @@
+Comptes Rendus
+Géoscience
+Sciences de la Planète
+Laurent Guillou-Frottier, Gaétan Milesi, Vincent Roche, Hugo Duwiquet
+and Audrey Taillefer
+Heat flow, thermal anomalies, tectonic regimes and high-temperature geothermal
+systems in fault zones
+Volume 356, Special Issue S2 (2024), p. 389-421
+Online since: 15 May 2023
+Part of Special Issue: Geodynamics of Continents and Oceans – A tribute to Jean
+Aubouin
+Guest editors: Olivier Fabbri (Université de Franche-Comté, UMR CNRS 6249,
+Besançon), Michel Faure (Université d’Orléans-BRGM, UMR CNRS 7325, Institut des
+Sciences de la Terre, Orléans), Jacky Ferrière (Université de Lille, faculté des Sciences),
+Laurent Jolivet (Sorbonne Université, ISTeP, UMR 7193, Paris) and Sylvie Leroy
+(Sorbonne Université, CNRS-INSU, ISTeP, Paris)
+https://doi.org/10.5802/crgeos.213
+This article is licensed under the
+Creative Commons Attribution 4.0 International License.
+http://creativecommons.org/licenses/by/4.0/
+CENTRE
+MERSENNE
+The Comptes Rendus. Géoscience — Sciences de la Planète are a member of the
+Mersenne Center for open scientific publishing
+www.centre-mersenne.org — e-ISSN : 1778-7025
+
+Comptes Rendus. Géoscience — Sciences de la Planète
+2024, Vol. 356, Special issue S2, p. 389-421
+https://doi.org/10.5802/crgeos.213
+Research article
+Geodynamics of Continents and Oceans – A tribute to Jean Aubouin
+Heat flow, thermal anomalies, tectonic regimes and
+high-temperature geothermal systems in fault zones
+Laurent Guillou-Frottier
+,∗,a,b, Gaétan Milesi
+,c, Vincent Roche
+,d,e, Hugo Duwiquet
+,f
+and Audrey Taillefer
+,g
+a BRGM, Georesources Division, 45060 Orléans, France
+b ISTO, UMR 7327, Université d’Orléans, CNRS, BRGM, 45071, Orléans, France
+c GeoRessources, CNRS, Université de Lorraine, Labcom CREGU, 54506
+Vandœuvre-lès-Nancy, France
+d ISTEP, UMR 7193, Sorbonne Université, CNRS-INSU, 75005 Paris, France
+e Laboratoire des Fluides Complexes et leurs Réservoirs – IPRA, E2S-UPPA,
+TotalEnergies, CNRS, Université de Pau et des Pays de l’Adour, UMR 5150, 64012 Pau,
+France
+f IFP Energies nouvelles, 1 et 4 avenue de Bois-Préau, 92852 Rueil-Malmaison, France
+g Université Grenoble Alpes, Université Savoie Mont Blanc, CNRS, IRD, Université
+Gustave Eiffel, ISTerre, 38000 Grenoble, France
+E-mails: l.guillou-frottier@brgm.fr (L. Guillou-Frottier),
+gaetan.milesi@univ-lorraine.fr (G. Milesi), vincent.roche@sorbonne-universite.fr
+(V. Roche), hugo.duwiquet@ifpen.fr (H. Duwiquet), audrey.taillefer@gmail.com
+(A. Taillefer)
+Abstract. The potential of high-temperature (>150 °C) geothermal systems in crustal fault zones (fault
+cores and hundreds of meters wide networks of interconnected fractures in the damage zone) is
+underestimated. Based on numerical models, we show that topography-driven, poroelasticity-driven
+as well as buoyancy-driven forces play a significant role in the establishment of shallow (1–4 km)
+thermal anomalies in fault zones.
+We investigate the role of permeability, topography, fault dip,
+tectonic regime and fault geometry on the amplitude of thermal anomalies. Favorable conditions
+include: (i) a damage zone thickness > 100 m, (ii) a minimum cumulative displacement of 100–150 m
+and (iii) fault zone lengths of at least one kilometer. Based on these parameters, we propose new
+potential targets for the geothermal exploration of fault zones in Western Europe.
+Keywords. Geothermal energy, Heat flow, Permeability, Fault zones, Fault geometry.
+Manuscript received 1 December 2022, revised 27 March 2023, accepted 6 April 2023.
+∗Corresponding author
+ISSN (electronic): 1778-7025
+https://comptes-rendus.academie-sciences.fr/geoscience/
+
+390
+Laurent Guillou-Frottier et al.
+1. Introduction
+In a global energy transition context, the potential
+of geothermal power, i.e. electricity generation from
+geothermal energy, might be underestimated. The
+installed capacity of geothermal power plants has
+increased by 27% between 2015 and 2020 [Huttrer,
+2021]. The world’s total geothermal power reached
+15.9 GWe (electric gigawatt) in May 2020 and the reg-
+ular increase since 2010 would imply a total world
+installed capacity of around 20 GWe (the equivalent
+of the average power of 20 nuclear reactors) in 2025
+[Huttrer, 2021]. However, this prediction is based on
+present-day geological models of geothermal reser-
+voirs, which are generally assumed to be located in
+specific tectonic and geodynamic contexts (e.g. ex-
+tensional tectonics or volcanic areas).
+The three
+main countries where geothermal exploration has re-
+cently increased are Indonesia, Kenya, and Turkey. In
+these and other countries where geothermal energy
+is exploited, surface manifestations such as geysers,
+hot springs, or fumaroles are observed and represent
+direct evidence of an underlying geothermal reser-
+voir (e.g., Larderello, Italy; Wairakei, New Zealand;
+The Geysers, California; Olkaria, Kenya; Germencik,
+Turkey).
+However, in this study, we focus on spe-
+cific geological systems that may host geothermal
+reservoirs without showing surface evidence. Perme-
+able structures such as crustal fault zones (fault cores
+and hundreds of meters wide networks of intercon-
+nected fractures in the damage zone) are particularly
+discussed. These structures may represent uncon-
+ventional geothermal resources for power produc-
+tion [Duwiquet, 2022], since reservoir permeability
+would be sufficiently favorable to avoid stimulation
+[see Jolie et al., 2021 for a detailed review of conven-
+tional and unconventional geothermal resources].
+In the following, a “high-temperature” geother-
+mal system refers to a geothermal reservoir where the
+temperature is greater than 150 °C. Various defini-
+tions are used in the literature [e.g., Jolie et al., 2021]
+and our choice corresponds to a threshold value of
+temperature where exploration of such systems in
+France has to be officially declared. Actually, Lund
+et al. [2022] emphasized that electric power can be
+generated from geothermal systems where the tem-
+perature is as low as 90 °C, but our study will be
+focused on higher-temperature geothermal systems
+with better energy performance.
+Several high-temperature geothermal systems at
+exploitable depths (1–4 km) do not exhibit surface
+manifestations (e.g., Landau in the Upper Rhine
+graben).
+Actually, “blind” or “hidden” geothermal
+systems were discovered accidentally during oil, gas,
+or mining activities [e.g., the geothermal reservoirs
+in the Imperial Valley of southern California, or
+those in the Basin and Range province; Faulds and
+Hinz, 2015, Garg et al., 2010, Dobson, 2016]. Like-
+wise, the Soultz-sous-Forêts thermal anomaly (Up-
+per Rhine graben, France) was first evidenced by
+temperature measurements performed in petroleum
+boreholes [Haas and Hoffmann, 1929].
+Recently,
+a blind geothermal system in western Nevada has
+been discovered through a “geothermal play fairway
+analysis”, where gravity, magnetics, resistivity, and
+geothermometry data were combined before decid-
+ing to drill temperature-gradient boreholes [Craig
+et al., 2021]. Interestingly, their predicted geother-
+mal power reaches 16 MWe. From this example and
+many others, one can infer that the presence of a
+magmatic activity is not a prerequisite for the for-
+mation of shallow thermal anomalies. To summa-
+rize, exploitable thermal anomalies at shallow depths
+are probably much more present than previously
+assumed.
+Promising areas where geothermal systems could
+be exploited can also be inferred from the pres-
+ence of anomalously high subsurface temperature
+gradients. However, direct measurements of under-
+ground temperatures depend on the availability of
+sufficiently deep (hundreds to thousands of meters)
+and open boreholes. When such temperature mea-
+surements are available, downward extrapolation to
+greater depths may however be biased by several
+physical and geological processes, as detailed later.
+When heat flow or underground temperature data
+are not available, geothermal potential becomes dif-
+ficult to assess, except if multidisciplinary studies are
+conducted [Craig et al., 2021].
+However, it is well known that temperature is
+not the only fundamental parameter to make an
+exploitable geothermal reservoir. Permeability and
+flow rate are essential. In a sense, the role of perme-
+ability was neglected in the last decades, and artifi-
+cial techniques were developed to enhance the effi-
+ciency of fluid circulation (the “Enhanced Geother-
+mal Systems (EGS)” concept). Yet, instead of looking
+for anomalously hot areas where permeability could
+
+Laurent Guillou-Frottier et al.
+391
+be enhanced, it might be worth searching for anoma-
+lously permeable zones, such as crustal fault zones
+[Bellanger et al., 2016, Duwiquet et al., 2019, 2021]
+where deep hot fluids would naturally rise to shal-
+low crustal levels.
+This concept, which prioritizes
+permeable zones instead of hot zones, may strongly
+increase the number of favorable geological systems
+where blind geothermal reservoirs would be present.
+We therefore focus our study on hydraulically active
+parts of fault zones, which are recognized as prefer-
+ential pathways for fluid flow.
+The main objective of this study consists in open-
+ing different ways of thinking and exploring geother-
+mal energy.
+More precisely, this study is aimed
+at (i) describing the various physical processes at
+the origin of the formation of geothermal reser-
+voirs; (ii) suggesting new perspectives for geother-
+mal exploration through different views of high-
+temperature geothermal systems;
+(iii) estimating
+possible targets in fault zones for the development
+of geothermal energy in Europe in the next decades.
+After describing several mechanisms at the origin of
+thermal anomalies in the shallow crust (Section 2),
+we present tectonic and geodynamic processes that
+can affect the thermal regime of the crust at different
+scales (in space and time), from mantle to crustal
+units (Section 3). Then a literature review focuses on
+crustal permeability (Section 4) and highlights the
+role of damage zone geometry on the heat transport
+mechanisms and on the conditions for the onset of
+buoyancy-driven convection (Section 5). We discuss
+the role of tectonic regimes in the establishment of
+thermal anomalies in permeable fault zones.
+The
+effect of local topography, the roles of fault dip and
+fault thickness, and the role of tectonic regimes are
+then investigated by new numerical results based on
+previously published numerical procedures [Taille-
+fer et al., 2017, 2018, Guillou-Frottier et al., 2020,
+Duwiquet et al., 2022]. Finally, we describe physical
+processes occurring at more local scales, in partic-
+ular the interplay between hydrothermal fluid flow
+(buoyancy-driven and/or topography-driven) and
+local stress regime (inducing a poroelasticity-driven
+flow), which may result in potentially exploitable
+geothermal reservoirs. Whatever the cause leading
+to fluid flow (topography, buoyancy, poroelasticity)
+our study is mainly focused on the establishment and
+the amplitudes of thermal anomalies at exploitable
+depths.
+2. Heat flow,
+temperature anomalies,
+and
+geothermal energy
+2.1. Heat flow components
+The thermal regime of the crust is mainly controlled
+by heat conduction. By definition, the measured sur-
+face heat flow includes the heat flow coming from
+the mantle and the crustal component due to radio-
+genic heat production [Jaupart and Mareschal, 2011].
+If mantle heat flow and thermal properties of crustal
+rocks (thermal conductivity, thermal diffusivity, and
+heat production rates) were well constrained, then
+crustal temperatures would be predicted with small
+uncertainties. However, this is not the case, and un-
+certainties in mantle heat flow values or in heat pro-
+duction rates may under- or over-estimate crustal
+temperatures by several tens of °C at a depth of a few
+kilometers.
+Mantle heat flow is generally deduced from sur-
+face heat flow values and models of crustal compo-
+sition. For an average 40 km–thick stable continen-
+tal crust, the average surface and mantle heat flow
+values amount respectively to 67 and 30 mW·m−2,
+with an average crustal heat production providing
+37 mW·m−2 [Lucazeau, 2019; see Jaupart et al., 2015
+for more detailed statistics on continental heat flow].
+Below cratonic areas, mantle heat flow is much lower,
+around 10–15 mW·m−2 [see Table 7 in Jaupart et al.,
+2015]. Outside cratonic areas, the mantle heat flow
+may exceed 50 mW·m−2 [e.g. Lucazeau et al., 1984].
+When radiogenic heat production of crustal rocks
+is not anomalously high, the crustal component of
+surface heat flow is typically around 30 to 40 mW·m−2
+[see average crustal compositions detailed in Jaupart
+et al., 2016].
+However, when surface heat flow is
+around 80–100 mW·m−2 or even higher, the crustal
+component is necessarily larger due to higher heat
+production rates, and the mantle heat flow compo-
+nent probably exceeds 30 mW·m−2. Even when sev-
+eral geophysical datasets are taken into account to
+infer the most probable crustal models, the uncer-
+tainty on mantle heat flow value can reach 15 to 20%
+[Jaupart et al., 2015].
+In addition, when the tem-
+perature dependence of thermal properties [Clauser
+and Huenges, 1995, Whittington et al., 2009] is not
+considered, the inferred crustal temperatures may be
+strongly underestimated [Braun, 2009].
+Apart from these uncertainties in the context of
+a thermally conductive regime, the occurrence of
+
+392
+Laurent Guillou-Frottier et al.
+fluid flow in permeable rocks (advective or convec-
+tive regimes) may strongly disturb the isotherms that
+would have been inferred from a purely conductive
+regime. For example, the uprising of crustal fluids
+through permeable fault zones may induce the for-
+mation of kilometer-sized positive thermal anom-
+alies exceeding several tens of °C [e.g. Wanner et al.,
+2019, Guillou-Frottier et al., 2020]. In the following,
+a positive/negative thermal anomaly corresponds to
+temperature values above/below an average conduc-
+tive temperature–depth profile.
+The knowledge of crustal temperatures is neces-
+sary to understand tectonic regimes and processes.
+Rock rheology is strongly temperature-dependent,
+and the deformation style may evolve from brittle
+to ductile for a temperature increase [Burov, 2011].
+In addition to spatial variations of crustal tempera-
+tures, rheological contrasts and their tectonic con-
+sequences add a temporal variation over a long
+timescale. Processes such as sedimentation, erosion,
+faulting events, exhumation and topography build-
+ing, affect crustal temperatures over several tens of
+Myrs, thus involving transient evolution of crustal
+temperatures that could even lead to partial melt-
+ing and magmatism [Jaupart and Mareschal, 2011,
+Chen et al., 2018]. Because heat diffusion is a long-
+term heat transfer mechanism, such large-scale pro-
+cesses may still affect the present-day temperatures
+of the upper crust, leading to the formation of ther-
+mal anomalies.
+Although the typical time scale of geothermal sys-
+tems is much shorter (tens to hundreds of thou-
+sands of years), it is fundamental to consider past
+tectonic processes as a potential source of present-
+day thermal anomalies.
+Indeed, the shape of the
+isotherms in the upper crust (<10 km) is particularly
+controlled by topography [Braun, 2002, Foeken et al.,
+2007]. Therefore, rapid relief evolution due to fault
+activity can affect the isotherm distribution [Ehlers
+and Farley, 2003]. In this case, isotherm disequilib-
+rium is slower than deformation and thermal anom-
+alies can be generated by past and no-longer active
+tectonics.
+2.2. Heat flow and crustal temperatures
+Interestingly, a positive thermal anomaly in the shal-
+low crust is not necessarily correlated with a high sur-
+face heat flow, and a high surface heat flow is not
+always associated with an underlying positive ther-
+mal anomaly. Yet, geothermal exploration is gener-
+ally focused either on areas where surface manifes-
+tations are present, or in areas showing abnormally
+high surface heat flow.
+Terrestrial surface heat flow represents the energy
+loss at the surface of the Earth, through a unit surface
+(W·m−2).
+Expressed as the product of the vertical
+temperature gradient by the thermal conductivity, it
+is thus not directly correlated to temperature:
+⃗q = −λ·⃗∇T
+(1)
+where ⃗q (W·m−2) is the surface heat flow vector, from
+hot to cold (upward), while the vertical tempera-
+ture gradient ⃗∇T (K·m−1) is directed downward, and
+where λ (W·m−1·K−1) is thermal conductivity. An el-
+evated surface heat flow value can thus be explained
+by (i) a high thermal conductivity with a normal tem-
+perature gradient, (ii) a high-temperature gradient
+with a normal thermal conductivity, or (iii) a high
+thermal conductivity and a high-temperature gra-
+dient.
+An example of a high thermal conductivity
+where the temperature gradient is not anomalous is
+shown in Figure 1, left case (green subvertical body).
+This example corresponds to the Thompson Nickel
+belt, Manitoba [Guillou-Frottier et al., 1996], where
+subvertical and narrow bodies of quartzites (elevated
+thermal conductivity) do not disturb the tempera-
+ture gradient but result in an anomalously high heat
+flow (label 1). In this case, the abnormal surface heat
+flow value is not associated with a thermal anomaly
+at depth (see the undisturbed white contours in the
+colored image in Figure 1).
+On the contrary, when large thermally insulating
+bodies are present (e.g., a porous sedimentary layer
+or a thick sequence of ignimbrites, pink horizon-
+tal body on top of Figure 1), the isotherms are up-
+lifted and a positive thermal anomaly develops (Fig-
+ure 1, label 3). However, the product of the low ther-
+mal conductivity by an elevated temperature gradi-
+ent may result in a normal surface heat flow (Figure 1,
+label 2). In this case, the underlying thermal anomaly
+(150 °C at a depth of 4 km, label 3) cannot be inferred
+by looking at surface heat flow data only.
+Furthermore, thermal conductivity is also influ-
+enced by various factors such as temperature, the
+dominant mineral phase, porosity and saturating
+fluid, and anisotropy [Clauser and Huenges, 1995].
+All these factors may significantly affect the bulk
+
+Laurent Guillou-Frottier et al.
+393
+Figure 1. Case of heat refraction due to litho-
+logical contrasts.
+From top to bottom:
+ge-
+ometries, boundary conditions, and physical
+properties; temperature field with isotherms in
+white contours separated by 20 °C; surface heat
+flow; horizontal temperature profile at a depth
+of 4 km.
+A conductive and narrow body (in
+green on the top image) does not disturb the
+isotherms (white contours) but results in an el-
+evated surface heat flow (label 1). On the op-
+posite, the large and insulating body (in pink
+on the top image) results in an important uplift
+of the isotherms, but a small heat flow anom-
+aly (label 2). However, a temperature of almost
+150 °C is present at a depth of 4 km (label 3).
+thermal conductivity of the rocks.
+For example,
+anisotropy of thermal conductivity should be consid-
+ered in sedimentary layers, especially in shales and
+clay-rich rocks [e.g., Davis et al., 2007].
+One consequence of these simple heat refraction
+effects is that geothermal exploration may be under-
+developed if thermal features are considered through
+heat flow data only. To estimate correctly the under-
+ground temperatures, any analysis of heat flow data
+should be accompanied by an analysis of thermal
+conductivity data.
+2.3. Thermal features at Soultz-sous-Forêts (up-
+per Rhine graben, France)
+The geothermal site of Soultz-sous-Forêts is a strik-
+ing example of what is addressed in this study. Over
+the 20 km surrounding the area, high surface heat
+flow values range between 121 and 183 mW·m−2 [Lu-
+cazeau, 2019], probably due to a large-scale anoma-
+lously high mantle heat flow, associated with the
+formation of the European Cenozoic Rift System
+[Dèzes et al., 2004]. However, this high surface heat
+flow is not accompanied by hot springs or other
+surface manifestations of underlying geothermal
+activity.
+The presence of an anomalous surface tempera-
+ture gradient in the area was established at the be-
+ginning of the XXth century when tens of boreholes
+were drilled in the Pechelbronn oil field, a few kilo-
+meters east of Soultz-sous-Forêts. With the available
+bottom-hole temperature measurements, Haas and
+Hoffmann [1929] established a temperature map at
+a depth of 400 m and discovered the thermal anom-
+aly of Soultz-sous-Forêts (around 55 °C at a depth
+of 400 m). Before deep (up to five kilometers) bore-
+holes were drilled at Soultz-sous-Forêts, the avail-
+able subsurface temperature gradient measured at
+depths of a few hundred meters was exceptionally
+high (110 °C·km−1). Thus, the existence of a high-
+temperature geothermal reservoir at a shallow depth
+(estimated around 170 °C at a depth of 1.5 km, black
+star in Figure 2a, or between 140 and 180 °C at a depth
+of 1900 m, black rectangle in Figure 2a) was then sug-
+gested [Gerard and Kappelmeyer, 1987]. In the late
+80’s and in the 90’s, when the first shallow boreholes
+at Soultz were deepened to greater depths, it turned
+out that a temperature of only 140 °C was reached at
+a depth of 2 km, and only 200 °C at a depth of 5 km
+[Genter et al., 2010; Figure 2a]. The regularly decreas-
+ing temperature gradient from 1 km to 3.5 km depth
+represents the vertical extent of a nearly isother-
+mal reservoir, where hydrothermal convection dom-
+inates and homogenizes temperatures [Clauser and
+Villinger, 1990, Guillou-Frottier et al., 2013].
+Simi-
+lar temperature–depth profiles (an elevated surface
+temperature gradient and a nearly isothermal reser-
+voir over several kilometers) were indeed measured
+in many other high-temperature geothermal sys-
+tems (see examples of such temperature profiles in
+Figure 2b).
+
+394
+Laurent Guillou-Frottier et al.
+Figure 2. Temperature profiles in geothermal systems: (a) measured temperature profile (grey) in the
+GPK2 borehole at Soults-sous-Forêts (Alsace) and modifications of the temperature gradient (dashed
+lines), after Genter et al. [2010].
+The black star and the black rectangle indicate the predictions in
+1987 (see text).
+(b) General shape of temperature profiles in different geothermal systems: Fenton
+Hill [Harrison et al., 1986], Svartsengi and Nesjavellir [Steingrímsson, 2013], Germencik Inanc Tureyen
+et al. [2014], Bouillante [Guillou-Frottier, 2003], Tiwi [Moore et al., 2000], Salton Sea [Sass et al., 1986],
+Kakkonda [Doi et al., 1998].
+With the example of Soultz-sous-Forêts in mind,
+where no hot springs or fumaroles are visible, one
+may postulate that the discovery of new high-
+temperature geothermal systems is still plausible,
+as soon as hydrothermal convection can occur in
+the shallow crust. The occurrence of hydrothermal
+convection requires that the host rock must be suf-
+ficiently permeable. Since the density of hydrother-
+mal fluids is temperature-dependent, whatever the
+fluid composition, hot and light fluid at a depth of
+several kilometers would naturally rise to shallow
+levels, where less permeable rocks will enclose the
+geothermal reservoir.
+Beside the occurrence of buoyancy-driven con-
+vection [or “free” convection, as detailed in Alt-
+Epping et al., 2021], non-Rayleigh convection and
+topography-driven (“forced”) convection may play a
+significant role in fluid flow and thermal regimes. In
+this study, although we put forward the role of dam-
+age zone geometry (Section 4.3) on the occurrence
+of buoyancy-driven convection (see Section 5.2), the
+other driving forces are also considered (topography-
+driven and poro-elasticity-driven forces).
+3. Large-scale (10–1000 km) thermal anom-
+alies: geodynamical control
+3.1. Large-scale heat flow anomalies
+Although lithological contrasts may result in small-
+scale discontinuous heat flow variations (Figure 1),
+long wavelength heat flow anomalies can be evi-
+denced by interpolation maps such as the one pub-
+lished by Artemieva and Mooney [2001] (Figure 3).
+Anomalous heat flow values [higher than the aver-
+age continental heat flow of 67 mW·m−2, Lucazeau,
+2019] can be delineated over several hundreds of
+kilometers.
+In southeast Australia (Figure 3a), a
+∼250 km large zone shows high heat flow values (92±
+10 mW·m−2), which are interpreted as resulting from
+high heat production of basement rocks [an average
+
+Laurent Guillou-Frottier et al.
+395
+Figure 3. Three examples of interpolated maps of surface heat flow data (top), from Artemieva and
+Mooney [2001], and synthetic west-east cross-sections of geodynamic contexts (bottom). Long wave-
+length heat flow anomalies (from red to purple) are visible in southeast Australia (a), from the French
+Massif Central to the Rhine graben (b), and in western North America (c).
+value of 6 µW·m−3 is obtained, instead of less than
+3 µW·m−3 outside the area; Neumann et al., 2000].
+In the French Massif Central (Figure 3b), a broad
+zone of heat flow values exceeding 100 mW·m−2 can
+be delineated over a distance of ∼300 km [Lucazeau
+and Vasseur, 1989]. Lucazeau et al. [1984] showed
+that crustal heat production alone cannot explain
+this long wavelength anomaly. They suggest that an
+additional mantle heat flow component, reaching
+25–30 mW·m−2 (resulting in a maximum mantle heat
+flow around 60 mW·m−2) and associated with the
+recent Cenozoic activity, corresponds to the signa-
+ture of a mantle diapir. According to recent thermo-
+mechanical models of plume–lithosphere inter-
+actions, small-scale mantle upwellings (or “baby-
+plumes”) might have played a significant role in
+continental rifting [Koptev et al., 2021].
+The third example (Figure 3c) illustrates the long
+wavelength heat flow anomaly along the western
+coast of North America, below which the Farallon
+oceanic plate had subducted. Erkan and Blackwell
+[2008] detailed the different subduction-related geo-
+dynamical events that could explain the large-scale
+positive and negative heat flow anomalies. In par-
+ticular, the geothermal systems of the Basin and
+Range Province, Nevada, would be associated with
+subduction-induced extensional tectonics and with
+surface heat flow higher than 80 mW·m−2 [Wisian
+and Blackwell, 2004]. Slab tears and their thermal
+consequences might also have played a role in estab-
+lishing this large-scale heat flow anomaly, promoting
+the melting of the ascending asthenosphere, partic-
+ularly in the northeast portion of Baja California re-
+gion [Ferrari et al., 2018]. At smaller scales, the high
+surface heat flow values in western Anatolia, Turkey,
+could be related to underlying subduction-related
+mantle flow (slab rollback and slab tear processes),
+inducing high mantle heat flow [e.g., Roche et al.,
+2018, 2019]. Similar processes may be at the origin
+of the extensional tectonics in Tuscany, Italy, where
+
+396
+Laurent Guillou-Frottier et al.
+Figure 4. Effect of mantle heat flow on temperature–depth profiles for a three-layer crust enriched in
+radioactive elements (see Section 3.2). The crustal geotherms on the left (a) are zoomed at shallow depth
+in (b), where the red arrow indicates the temperature domain for high-temperature geothermal systems;
+(c) transient effect of an instantaneous increase of Qm (from 20 to 50 mW·m−2 during 10 Myrs).
+the Larderello-Travale geothermal field is character-
+ized by an high regional surface heat flow exceeding
+100 mW·m−2 over more than 100 km [Bonini et al.,
+2014].
+3.2. Effect of mantle heat flow on crustal temper-
+atures
+The previous examples suggest that deep thermal
+anomalies that occurred in the past have diffused
+towards the surface, leaving a thermal imprint that
+can be deciphered today. Figures 4a and b illustrate
+the effect of mantle heat flow (Qm) on steady-state
+crustal temperatures for a three-layer crust, where
+heat production rates are twice as large as the ones
+described for an averaged crustal composition.
+A
+35 km thick crust is made of a 13 km thick up-
+per crust (thermal conductivity of 3.0 W·m−1·K−1,
+heat production of 3.2 µW·m−3), an intermediate
+11 km thick crust (2.5 W·m−1·K−1 and 1.5 µW·m−3)
+and a 10 km thick lower crust (2.0 W·m−1·K−1
+and 0.4 µW·m−3).
+For this model, the crustal
+
+Laurent Guillou-Frottier et al.
+397
+component reaches 62.1 mW·m−2.
+A mantle heat
+flow of 20 mW·m−2, leading to a surface heat flow
+(Qs) of 82.1 mW·m−2, is not sufficient to get 150 °C
+in the first 6 km of the crust. However, a Qm value
+of 50 mW·m−2 (Qs = 112.1 mW·m−2) allows such
+high temperatures, but only below a depth of 4 km.
+Figure 4c illustrates the transient effect of a ther-
+mal pulse coming from the mantle. Considering the
+steady-state temperature profile of Figure 4a with
+a mantle heat flow value of 20 mW·m−2, an instan-
+taneous thermal pulse of 30 mW·m−2 (providing a
+mantle heat flow of 50 mW·m−2) is applied during
+10 Myrs. Mantle heat flow is then reduced instanta-
+neously to its initial value of 20 mW·m−2. It results
+that the induced temperature change at a depth of
+5 km does not exceed 24 °C. For a thermal pulse
+of 50 mW·m−2, temperatures exceeding 150 °C are
+found below a depth of 4100 m.
+In summary, whatever the chosen crustal models,
+in the absence of shallow magmatic intrusions, and
+for reasonable values of heat production rates (from
+0.5 µW·m−3 in the lower crust to 4.0 µW·m−3 in the
+upper crust), temperatures above 150 °C are difficult
+to be reached at shallow depths (1–4 km).
+If heat
+transfer occurs only by conduction, then abnormally
+high heat production rates are required, as for some
+Australian granites.
+Otherwise, high temperatures
+(>150 °C) at shallow depths can only be reached if
+fluid circulation is taken into account.
+4. Small-scale (0.1–10 km) thermal anomalies:
+structural control
+This section is dedicated to abnormally permeable
+zones of the crust, particularly fault zones within
+which fluid circulation induces thermal anomalies at
+shallow depths (Section 5). Here, we first focus on
+crustal permeability and transient effects on perme-
+ability as detailed in Taillefer [2017], and then on fault
+zone architecture and damage zone properties.
+4.1. Crustal permeability
+Permeability is a key parameter that controls the oc-
+currence of fluid flow (whether driven by topography
+or buoyancy) and thus the location and the ampli-
+tude of thermal anomalies [e.g., Taillefer et al., 2018,
+Guillou-Frottier et al., 2020, Alt-Epping et al., 2021].
+Crustal permeability is considered to be strongly
+depth-dependent [Anderson et al., 1985, Ingebritsen
+and Manning, 1999, Shmonov et al., 2003, Saar and
+Manga, 2004, Stober and Bucher, 2007, Earnest and
+Boutt, 2014, Ranjram et al., 2015], and recent studies
+showed that the permeability at depth is the main pa-
+rameter that controls the longevity of a geothermal
+system [e.g. Ingebritsen and Gleeson, 2017]. Expo-
+nential first-order relationships were established be-
+tween permeability and depth [Anderson et al., 1985,
+Shmonov et al., 2003, Saar and Manga, 2004], and the
+few hydraulic data on crystalline rocks [Stober and
+Bucher, 2007] seem to confirm this dependence (red
+curve in Figure 5). However, based on large data sets,
+recent studies showed that permeability values in
+the shallow crust (<2.5 km) are mainly controlled by
+lithology [Neuzil, 2019, Figure 5] and tectonic setting
+[Ranjram et al., 2015]. Unfortunately, permeability
+evolution in the targeted depth window for geother-
+mal energy (1–4 km), is still not well constrained due
+to the lack of data [Stober and Bucher, 2007, Ranjram
+et al., 2015].
+The high sub-surface permeability (Figure 5) is re-
+lated to supergene alteration processes and the frac-
+tured decompression zone [Dewandel et al., 2006].
+Interestingly, rocks affected by weathering can pre-
+serve these high permeability characteristics when
+subsequently buried [Lachassagne et al., 2011]. This
+is the case at Soultz-sous-Forêts, where the perme-
+ability of the altered and fissured horizon at the top
+of the granitic basement is preserved at depth [Gen-
+ter et al., 2010].
+Fractures can increase the permeability of pro-
+toliths by several orders of magnitude [Sonney and
+Vuataz, 2009, Cox et al., 2015]. Because of their in-
+terconnection, the set of fractures is also called a
+“fracture network”, whose permeability is dependent
+on several factors such as the fracture morphology,
+the spatial organization of the fracture network (den-
+sity and connectivity), the fillings, and the ongo-
+ing tectonic activity that keeps the fractures open
+[Crider, 2015]. Fractures can be closed under con-
+fining pressure, or cementation, if they are not held
+open by tectonic stresses or fluid pressure [Laubach
+et al., 2004].
+Larger stress magnitudes in tectoni-
+cally active regions may produce, at depth, fracture
+apertures larger than expected [Earnest and Boutt,
+2014]. Fracturing associated with the fault zones will
+have a significant impact on creating or maintaining
+
+398
+Laurent Guillou-Frottier et al.
+Figure 5. Range of permeability (m2) vs. depth (km) for different lithologies in the brittle continental
+crust [modified after Neuzil, 2019]. Green and blue are site (10−2–102 km2) and regional (103–106 km2)
+clay and shale data, other colors are sedimentary/crystalline rocks and metamorphic/crystalline rocks
+[Townend and Zoback, 2000], except brown for basalt and basaltic andesite [Saar and Manga, 2004]. The
+red curve represents hydraulic data from Stober and Bucher [2007].
+permeability, particularly at the depths targeted for
+deep geothermal energy (1–4 km).
+4.2. Transient effects on permeability variations
+The fractures, the fluid pressure, and the fluid com-
+position play a key role in the permeability evolution
+of the geothermal system [Renard et al., 2000]. Nu-
+merous studies on hydrothermal systems show that
+the permeability varies in time as well as space [e.g.,
+Cox et al., 2015]. It is therefore relevant to consider
+the concept of “dynamic permeability” [Ingebritsen
+and Gleeson, 2017] and detail the transient effects
+that can impact a geothermal system. In particular,
+mineralization processes, or fault activity and conse-
+quent fluid flow may decrease or increase permeabil-
+ity, respectively, as detailed below.
+The whole process of fracture sealing by miner-
+alization plays an important role in the lifespan of
+a geothermal system, and can significantly reduce
+its permeability [Renard et al., 2000, Griffiths et al.,
+2016].
+Rock/fluid interaction will be responsible
+for the nature of mineralization, and mineralization
+can completely block fluid circulation [Stanˇek and
+Géraud, 2019]. Renard et al. [2000] show that at the
+scale of a fracture, pressure/solution mechanisms are
+faster (a few years) than fracture cementation (from
+a hundred years to several million years), allowing
+fluid circulation to be maintained over time. In fault
+zones that localize fluid circulation, the presence of
+phyllosilicates and clays is frequently reported [e.g.,
+Nishimoto and Yoshida, 2010], and can change the
+permeability properties [e.g., Yielding et al., 1997,
+Leclère et al., 2012].
+Fault activity can increase permeability.
+Major
+tectonic setting changes can lead to migration or
+modification of the main parameters of the geother-
+mal system: spring location, flow rates and tempera-
+tures [Husen et al., 2004, Ingebritsen and Manning,
+2010, Cox et al., 2015, Taillefer et al., 2021]. Faulds
+et al. [2010] showed that, in the Basin and Range
+(western USA), geothermal systems are more likely
+
+Laurent Guillou-Frottier et al.
+399
+associated with active faults. However, the macro-
+seismicity is not a critical parameter for the preser-
+vation of a permeable fracture network, if a favorably
+oriented stress regime can maintain the permeabil-
+ity required for fluid flow [Barton et al., 1995, Tow-
+nend and Zoback, 2000]. In this case, geothermal sys-
+tems reach a state of equilibrium allowing constant
+hydrothermal activity [Taillefer et al., 2018].
+The fluid flow itself influences permeability with
+fluid overpressures in low-permeability or sealed
+zones [Sibson, 1992]. When these overpressures are
+located along a fault, they can initiate slip on the fault
+and associated earthquakes [Cox, 2016]. Such a fault-
+valve behavior [Sibson, 1992] allows post-failure dis-
+charge of fluids.
+Importantly, in most cases, this
+leads to the upward migration of fluids along the
+fault. In addition, the activity of the fault related to
+these overpressures allows the re-opening of closed
+or sealed fractures, and the generation of new frac-
+tures [Schoenball et al., 2020].
+Finally, climatic factors can also influence fluid
+flow in a geothermal system.
+Water from numer-
+ous geothermal systems has a meteoric origin [e.g.,
+Grasby and Hutcheon, 2001, Sonney and Vuataz,
+2009, Diamond et al., 2018], and therefore depends
+on climatic conditions. Fluid flow and temperature
+of the water can be correlated with rainfall [Ratouis
+et al., 2017]. It is important to note that rainfall cor-
+relation is not systematic for a long geothermal cell
+[Taillefer et al., 2018]. Recent studies by Alt-Epping
+et al. [2021, 2022] demonstrated that flow patterns
+can change during periods of glaciation. For exam-
+ple, non-Rayleigh convection during glacial periods
+would evolve towards topography-driven flow dur-
+ing interglacial periods. Glaciation can also have sev-
+eral implications: (1) the loading effect of glaciers
+causes local variations in stress [Neuzil, 2012]; (2) the
+melting of ice and the associated infiltration of cold
+fluids leads to a cooling of the massif [Maréchal
+et al., 1999]; (3) the thickness of ice on the re-
+lief can reduce the infiltration of meteoric water
+[Volpi et al., 2017].
+4.3. Fault zone architecture and damage zone
+thickness
+The fault zones constitute one of the most permeable
+zones in the Earth’s crust (see Sections 4.1 and 4.2).
+It is therefore relevant to detail the main character-
+istics and the fracturation volume associated with
+these structural objects.
+Two main zones are dis-
+tinguished inside a deformed and altered rock vol-
+ume in a fault zone: (i) one, or several Core Zone(s)
+(CZ) characterized by the presence of fault rocks fre-
+quently associated with clay or thin matrix (<0.1 mm)
+and well-developed cementation. These zones are
+mostly recognized as a barrier for fluid circulation
+when the fault is not active [e.g. Sibson, 2000, Fossen,
+2016]. (ii) two, or several Damage Zone(s) (DZ), char-
+acterized by an increase in fracture density compared
+to the protolith [e.g. Sibson, 2000, Faulkner et al.,
+2003]. The damage due to the fault activity increases
+the permeability of the protolith by several orders of
+magnitude, thus allowing fluid circulation [Mitchell
+and Faulkner, 2012]. The damage zone is composed
+of an inner part, highly fractured, commonly associ-
+ated with intense fluid circulation and an outer part,
+less fractured, but still more permeable than the pro-
+tolith [e.g., Choi et al., 2016].
+The degree of maturity of the fault exerts a strong
+control on the thickness of the DZ that localizes the
+maximum permeability.
+Figure 6 shows that the
+thickness of the DZ is correlated to the fault dis-
+placement, a proportional relationship exists for dis-
+placement until ∼150 m, regardless of the kinematic
+of the fault and the nature of the protolith [Bense
+et al., 2013, Mayolle et al., 2021]. Above 150 m, DZ
+thickness is limited to a few hundred meters [e.g.,
+Mitchell and Faulkner, 2009, Bense et al., 2013, May-
+olle et al., 2019]. Characterization of the DZ thick-
+ness for faults with displacement above hundred me-
+ters shows more uncertainty due to the presence of
+secondary faults and the difficulty to find a contin-
+uous outcrop for fracture quantification [Choi et al.,
+2016]. Several models are proposed for the bending
+of the DZ thickness observed in Figure 6: the thick-
+ness of the brittle crust [Ampuero and Mao, 2017],
+segmentation of the fault [Schlische et al., 1996]; ac-
+cumulation of displacement and fault damage thick-
+ness by incorporating damages from the former fault
+segments [Mayolle et al., 2019, 2021, and references
+therein]. Along pluri-kilometric faults, the geometry
+of the fault itself has a strong control on the perme-
+ability. Indeed, fault relays, fault terminations and
+fault intersections are more favorable zones to chan-
+nel fluid circulation due to an increase in fracture
+density [Curewitz and Karson, 1997, Faulds and Hinz,
+
+400
+Laurent Guillou-Frottier et al.
+Figure 6. Total fault zone thickness as a func-
+tion of displacement, modified from Mayolle
+et al. [2019]. The damage zone thickness is de-
+fined as the total adjacent damaged rock vol-
+ume on both sides of the fault. The bending
+of the linear scaling law trend is highlighted in
+light brown.
+2015].
+5. Fluid circulation in fault geothermal reser-
+voirs
+Fluid flow in a permeable medium can be due to
+different driving forces [Alt-Epping et al., 2021]. In
+our study, the permeable medium consists of a fi-
+nite width fault zone.
+Thus, the classical Rayleigh
+number expression does not apply (see Section 5.2).
+Although we mainly focus our study on buoyancy-
+driven convection, topography-driven and poro-
+elasticity-driven forces will be also investigated (Sec-
+tions 5.3 and 5.4). The effects of fault thickness, the
+impact of tectonic regimes or the role of the poro-
+elasticity force are discussed but not compared to
+each other. This section is thus dedicated to illus-
+trate independently different causes leading to the
+establishment of shallow thermal anomalies.
+5.1. Fluid flow in fault zones and related thermal
+anomalies
+Apart from geological evidence of fluid circulation
+within fault zones (see Section 4), theoretical and nu-
+merical studies brought quantitative aspects related
+to the required conditions for thermal convection to
+occur [Forster and Smith, 1989, Malkovsky and Ma-
+gri, 2016]. When buoyancy-driven flow occurs within
+a fault zone, temperature anomalies develop and
+may result in large volumes of high (>150 °C) temper-
+atures at shallow depths (1–4 km). For example, Wan-
+ner et al. [2019] suggested that large ellipsoidal ther-
+mal plumes are generated by fault-hosted orogenic
+geothermal systems, such as the Grimsel Pass case,
+Swiss Alps, where hot upwellings would provide hun-
+dreds of PJ (1015 J) of anomalous heat per km depth.
+Guillou-Frottier et al. [2020] illustrated similar con-
+vective patterns where temperature anomalies may
+exceed 70 °C at a depth of 500 m.
+These studies
+demonstrate that temporal and spatial variations of
+permeability play a key role in the morphology and
+amplitude of temperature anomalies. They also show
+that temperature anomalies are larger and higher for
+vertical fault zones [see also Duwiquet et al., 2019]
+and for wide damage zones. Because damage zone
+thickness may exceed several hundreds of meters, it
+is worth studying through simple theoretical consid-
+erations how fault zone thickness influences thermal
+convection features.
+5.2. Role of fault zone thickness
+Malkovsky and Magri [2016] studied the conditions
+for which thermal convection occurs within a fault
+zone of thickness 2δ and height H, embedded into
+impermeable rocks. They extended the constant vis-
+cosity case developed by Malkovsky and Pek [1997] by
+considering a temperature-dependence of the fluid
+viscosity (as for the case of hydrothermal fluids),
+characterized by a dimensionless parameter, γ. Their
+linear stability analysis provides a new expression for
+the critical Rayleigh number Racrit, where the fault
+aspect ratio ∆= δ/H appears:
+Racrit(∆,γ) = (1+0.493γ+0.12γ2)
+×
+"µ8.19
+∆
+¶5/4
++(4π2)5/4
+#4/5
+(2)
+It can be seen that for an infinitely wide medium and
+for a constant viscosity (γ = 0), the 4π2 value [Lap-
+wood, 1948] is recovered. For an average temperature
+gradient (γ ∼2), the critical Rayleigh number can be
+calculated for different ∆values (Figure 7a). Equa-
+tion (2) indicates that for wide fault zones (i.e. large
+∆or δ values), Racrit will be small. In other words,
+
+Laurent Guillou-Frottier et al.
+401
+Figure 7. (a) Role of the fault thickness (2δ)
+(or half-thickness over height ratio, ∆) on the
+critical Rayleigh number, after the theoretical
+law of Malkovsky and Magri [2016]; (b) sketch
+of a fault zone whose thickness increases from
+20 m to 200 m: the critical Rayleigh number
+decreases by a factor 9, and isotherms can be
+strongly distorted within the wide part.
+all other parameters being equal, thermal convec-
+tion will occur more easily within large fault zones.
+This is illustrated in Figure 7b, where ∆varies from
+0.005 to 0.05: the critical Rayleigh number decreases
+from 4059 to 455. If the computed Rayleigh number
+equals 1000, then convection will not develop in the
+thin part of the fault zone. On the opposite, within
+the wide part, convection will be well-developed and
+isotherms can be strongly raised up (red curve in
+Figure 7b).
+When the Rayleigh number expression is consid-
+ered [see Equation (12a) in Malkovsky and Magri,
+2016], the critical permeability above which convec-
+tion occurs can be estimated for different ∆ratios.
+The fault zone height is here fixed at 5 km, and a
+temperature difference of 200 °C is assumed, while
+other physical properties are well-known. For a fault
+thickness of 100 m (δ = 50 m; ∆= 0.01), the crit-
+ical Rayleigh number equals 2050 (Figure 7a) and
+the critical permeability above which thermal con-
+vection occurs equals 2.6 × 10−14 m2.
+For a fault
+thickness of 500 and 1000 m, the critical permeabil-
+ity decreases to 5.9×10−15 m2, and to 1.4×10−15 m2,
+respectively.
+However,
+these estimates depend on several
+hypotheses, such as the chosen expression of the
+Rayleigh number [see Equations (12a) and (12c) in
+Malkovsky and Magri, 2016].
+Another way to un-
+derstand qualitatively the role of fault thickness on
+the temperature field is to run simple 2D numeri-
+cal experiments where realistic physical parameters
+are chosen and where the thickness of the damage
+zone varies. This 2D simplification is valid as soon as
+fault length can be considered pluri-kilometric. The
+numerical procedure and set-up are detailed in the
+Appendix A. Thermal convection occurs within the
+fault damage zone, and the maximum temperature
+at different depths is recorded. Figure 8a illustrates
+this maximum temperature at a depth of 3 km in a
+fault zone permeability–fault zone width diagram.
+For example, for a fault width of 800 m where perme-
+ability equals 5×10−15 m2, 120 °C can be reached at a
+depth of 3 km. To get 150 °C for the same fault width,
+permeability must be larger than 3 × 10−14 m2. Fig-
+ure 8b illustrates the depths for which 100, 120 and
+140 °C are observed, for four different fault widths.
+For large fault thicknesses,
+temperatures above
+100 °C are observed at depths lower than 2 km. On
+the right of light orange areas (conductive regimes),
+maximum temperatures are controlled by the con-
+vective regimes, where downwellings or upwellings
+can decrease or increase the maximum recoded
+temperature.
+5.3. Impact of tectonic regimes
+The three basic tectonic regimes, that is, extensional
+(normal), compressional (reverse), and strike-slip,
+result from different stress fields and express them-
+selves in the field by typical geometric and geomor-
+phologic features (e.g., fault dip, form of the scarp
+relief). Some of these differences are here tested in
+a 2D parametric study considering a fault zone and
+its related topography in only one of the fault com-
+partments (Figure 9a). Mechanical stresses are not
+
+402
+Laurent Guillou-Frottier et al.
+Figure 8. Results from 2D numerical models of
+thermal convection within a fault-damage zone (see
+details in the text and Appendix A). (a) Maximum
+temperature observed at a depth of 3 km.
+For a
+600 m wide damage zone, the temperature reaches
+150 °C for a permeability of 6×10−14 m2. If the fault-
+damage zone is twice as wide (1200 m), 150 °C is
+reached for a permeability of 7.5×10−15 m2. Curves
+for 120 °C, 180 °C, and 200 °C are also shown.
+(b) Depths of maximum temperatures observed
+(100, 120 and 140 °C) for different fault widths as a
+function of fault zone permeability. Areas in light
+orange correspond to conductive regimes.
+explicitly taken into account in these models, where
+only thermal and hydraulic processes are coupled,
+but their effects on fault geometry and geomorphol-
+ogy are reproduced.
+5.3.1. Numerical model
+The numerical model is a 2D-block consisting of
+two compartments of the basement with a depth-
+decreasing homogeneous permeability. A fault zone
+composed of one 10 m-thick core zone with a con-
+stant permeability Kc, surrounded by two damage
+zones with a constant permeability Kd, separates the
+two compartments. The choice of a constant perme-
+ability Kd may be questionable since it may depend
+on the tectonic regime. However, based on the Scibek
+database [2020], we estimate an average permeabil-
+ity of fault zones around 10−14 m2, whatever the tec-
+tonic regime. We thus fixed this value to allow fluid
+circulation within damage zones for all experiments.
+The thickness of the total fault damage zone (DZT,
+two half damage zones) is tested for the values DZT
+= 50, 300, and 1000 m. The fault dip is tested through
+three typical dip values according to the main tec-
+tonic regimes: reverse (30°), strike-sip (90°), and nor-
+mal (60°). The left basement compartment (i.e., the
+hanging wall of the reverse fault or the footwall of the
+normal fault) represents a scarp relief associated with
+the fault offset which elevation (Scarp Relief Eleva-
+tion, SRE) is tested for the values SRE = 200, 1000,
+and 3000 m. The model is examined along a horizon-
+tal temperature profile at 4000 m below the surface
+without topography (i.e. the right compartment). A
+mixed thermal boundary condition is applied to the
+topographic surface. This mixed thermal condition
+relates the surface heat flow with surface tempera-
+ture through a heat transfer coefficient [see details in
+Taillefer et al., 2018, and in the Appendix A]. This al-
+lows variations in surface temperatures, as illustrated
+by, e.g., the presence of hot springs [see also Magri
+et al., 2015]. The variables and parameters used in
+the models are available in the Appendix A.
+5.3.2. Numerical results
+Influence of the fault dip. The numerical results
+of Figure 9b represent the temperature, the main
+isotherms, and flow lines colored according to the
+fluid temperature inside the model for the three fault
+dips (FD) configurations.
+For greater readability,
+only the intermediate combination is presented in
+
+Laurent Guillou-Frottier et al.
+403
+Figure 9. Parametric study on the geometric features of a scarp relief related to a fault offset. Colors associated
+with typical fault dips (green = reverse 30°, blue = strike-slip 90°, normal = 60°) are common to the three figures.
+(a) Sketch of the numerical model, the tested parameters are in red. (b) Influence of the fault dip on the temperature
+distribution (color chart), along a profile at a depth of 4000 m below the flat right compartment (dashed black
+line).
+Thick and thin lines on the sketches correspond to the isotherms and flow lines (colored according to
+the temperature), respectively. Dashed colored lines correspond to the position of the core zone at the surface.
+(c) Comparison of the maximum temperatures reached at a depth of 4000 m for the three tested parameters.
+
+404
+Laurent Guillou-Frottier et al.
+Figure 9b, i.e. SRE = 1000 m, DZT = 300 m, but all
+the parametric combinations were tested, and show
+similar patterns. The flow lines in Figure 9b show
+that cold fluids infiltrate at the model surface and
+then go down to depths of several kilometers under
+the effect of the pressure gradient. They warm dur-
+ing their descent under the effect of the geothermal
+gradient, and reach a temperature of 150 °C around
+a depth of 4000 m.
+These warm fluids are caught
+by the permeable damage zones where they can eas-
+ily circulate and reach the surface. In any fault dip
+configuration, both the sketches and the tempera-
+ture profiles at a depth of 4000 m show that the de-
+formed isotherms at the fault vicinity create a posi-
+tive thermal anomaly (Figure 9b). However, the am-
+plitude and the form of this anomaly depend on the
+fault dip. The thermal anomaly associated with the
+reverse fault (FD = 30°) has the widest lateral ampli-
+tude and is off-center with respect to the core zone.
+Conversely, the strike-slip (FD = 90°) and the nor-
+mal (FD = 60°) fault anomalies are centered on the
+fault core zones. The temperature anomaly related
+to the normal fault is asymmetric, with the tempera-
+ture in the left (relief) compartment being more ele-
+vated than in the right (flat) compartment. The fault
+dip, i.e., the tectonic regime, could then strongly in-
+fluence the temperature distribution at the fault zone
+vicinity.
+Relative importance of the tested parameters on
+the maximum temperature. The maximum temper-
+ature reached along the horizontal temperature pro-
+file at a depth of 4000 m gives an estimate of the
+relative importance of the three tested geometrical
+parameters: the total damage zone thickness DZT,
+the scarp relief elevation SRE, and the fault dip FD
+(Figure 9c). The greatest influence on the maximum
+temperatures is related to the scarp relief elevation
+(with a maximum difference of 34 °C between SRE =
+200 m and SRE = 3000 m): the higher the scarp eleva-
+tion relief, the higher the temperature. Fault dip and
+damage zone thickness have a similar influence on
+the maximum temperature, with a maximum differ-
+ence of 5 °C between normal and reverse fault (SRE
+= 200 m, DZT = 1000 m), and between a damage
+zone of 50 and 1000 m (SRE = 3000 m, strike-slipe
+fault), respectively. It seems that there are no clear
+rules about which fault dip or damage zone thick-
+ness is more adapted for reaching the highest tem-
+peratures at a depth of 4000 m. However, additional
+results (see Appendix A) show that at shallow depths
+(2000 m), fault dip has a stronger influence on the
+maximum temperatures (8 °C of difference), with re-
+verse faults recording the maximum temperatures for
+all the parameter combinations. At these shallower
+depths, the damage zone thickness has a poor influ-
+ence on the maximum temperature. Nevertheless,
+the impacts of the fault dip and damage zone thick-
+ness on the maximum temperature are weak com-
+pared to those due to the topography.
+5.4. Role of the poroelasticity-driven force
+Tectonic deformation influences fluid flow in dif-
+ferent geological contexts [Bethke, 1985, Rowland
+and Sibson, 2004, Eldursi et al., 2021].
+Within a
+basement fault zone, such as the one described
+above (i.e., an anomalously permeable zone), a sin-
+gle stress (SHmax) impacts the general convective
+dynamics and affects the thermal field [Duwiquet
+et al., 2021]. The distribution of positive and neg-
+ative temperature anomalies in these permeable ar-
+eas depends, among others, on tectonic regimes,
+whose poroelasticity-driven force has been identi-
+fied [Duwiquet et al., 2022]. These effects were high-
+lighted both by quantifying a very small permeability
+variation (less than 1%), but also by recording fluid
+pressure variations related to the tectonic regimes
+implemented.
+Based on poroelasticity assumptions, we propose
+to investigate how the poroelasticity-driven force,
+caused by tectonic regimes, can have an impact on
+the fluid flow for a 0.3 km fault thickness (here the
+fault core is not taken into acount). This fault thick-
+ness is typical of natural fractured systems such as
+the Têt fault [Taillefer et al., 2018, Milesi et al., 2020]
+or the Seferihisar-Balçova fault-hosted geothermal
+system [Magri et al., 2012].
+Considering a simpli-
+fied 3D geometry and realistic physical properties
+[see Duwiquet et al., 2022, for details] the approach
+consists first in generating a numerical model with-
+out tectonic regime application (the benchmark ex-
+periment, Figure 10a).
+Thereafter, we applied two
+different tectonic regimes (Figure 10b, compression
+and extension, Figure 10c,d).
+A comparison be-
+tween the benchmark experiment and the other sim-
+ulations will be discussed, especially in terms of
+
+Laurent Guillou-Frottier et al.
+405
+Figure 10. 3D numerical model of hydrothermal convection within a 300 m wide fault zone embedded in
+impermeable rocks. A fixed temperature and a fixed pressure are imposed at the upper surface. The no-
+flow and insulating conditions apply to lateral boundaries. A fixed heat flux and a no-flow condition are
+imposed at the bottom boundary. Results correspond to a steady-state regime. (a) Boundary conditions
+and result for the experiment without applying tectonic stresses; (b) illustration of stress applications as
+boundary conditions for the compressional tectonic regime (with SHmax ≥Shmin ≥SV ); (c,d): thermal
+(red color for temperature greater than 150 °C) and velocity fields (colored arrows along streamlines);
+(e) fluid pressure variations for each experiment.
+fluid pressure variation (Figure 10e). This compar-
+ison allows us to understand the different dynamic
+convective patterns obtained in the different numer-
+ical experiments, and how the poroelasticity-driven
+force could explain these differences. Note that this
+experiment is similar to the ones discussed in Duwi-
+quet et al. [2022] except that fault thickness is here re-
+duced to 0.3 km.
+To investigate the influence of tectonic regimes
+on fluid flow, we used the Andersonian assump-
+tion, which is regularly used in geomechanical reser-
+voir studies [Zoback et al., 2003].
+The principal
+stresses are expressed with vertical (Sv), maximum
+horizontal (SHmax), and minimum horizontal (Shmin)
+
+406
+Laurent Guillou-Frottier et al.
+components.
+Note that the relative stress magni-
+tudes determine the modeled tectonic regime:
+• Compressional
+(reverse/thrust
+faulting),
+with SHmax ≥Shmin ≥SV ,
+• Extensional (normal faulting) with SV
+≥
+SHmax ≥Shmin.
+As the model is aligned with the principal stresses,
+pure normal stresses are applied on the lateral
+boundaries. For the compressional tectonic regime,
+the fault is perpendicular to the SHmax stress while for
+the extensional tectonic regime, the fault is perpen-
+dicular to Shmin. In these models no shear is applied
+on the vertical boundaries. The depth-dependence
+of stresses is extracted from drilling measurements in
+the French Massif Central [Cornet and Burlet, 1992]
+and is illustrated in Figure 10b. This implementation
+follows the method detailed in Duwiquet et al. [2022].
+In the benchmark experiment (i.e. without tec-
+tonic regime application), the fluid shows an upward
+movement at the center of the fault zone (Figure 10a)
+and two downward movements on either side of the
+fault zone. Fluid flow velocities range from 2 to 17 ×
+10−9 m·s−1. The velocity is highest in the downward
+movements. The upward movements induce a rise of
+the isotherms. For example, the 150 °C isotherm tar-
+get for geothermal energy is found at 1.2 km depth
+(Figure 10a), while in a pure conductive regime with
+no fluid flow, the 150 °C isotherm was observed at
+5 km depth.
+Between the basement and the fault
+zone, no fluid pressure variation exists (Figure 10e).
+However, within the fault, there is a slight increase in
+fluid pressure, which is related to upward fluid move-
+ment. In light of these elements, buoyancy-driven
+forces alone act on fluid convection. After tectonic
+regime application (Figure 10b), the results are dif-
+ferent (Figure 10c,d).
+In the compressional tectonic regime (Figure 10c),
+the fluid pattern is characterized by two downward
+and two upward movements. The fluid velocities vary
+from 1 to 13 × 10−9 m·s−1, and the fastest velocities
+are found in the downward movements. The upward
+movements raise the 150 °C isotherm at a depth of
+1.4 km. This convective dynamics differs from the
+benchmark experiment, (Figure 10a), as well as from
+the extensional tectonic regime. For the extensional
+tectonic regime (Figure 10d), the fluid patterns follow
+a downward and two upward movements. Fluid flow
+velocities range from 1 to 20 × 10−9 m·s−1, and as in
+the previous cases, the downward movements focus
+the fastest fluid flows. The temperature rise follows
+the upward movement and is focused on either side
+of the fault, and the 150 °C isotherm reaches a depth
+of 1.7 km.
+The three numerical experiments show three
+different convective dynamics and three spatial
+isotherms distributions. Figure 10e shows the fluid
+pressure variations for all experiments. As previously
+described, for the benchmark experiment, only a
+small variation is noticed within the fault zone. After
+stress application, for the compressional tectonic
+regime, a lateral fluid pressure variation is present
+(Figure 10e), and this trend is found above the val-
+ues of the benchmark experiment. The difference in
+fluid pressure between the basement and the fault
+is 1.45 MPa. For the extensional system, a variation
+between the basement and the fault is also observed
+and the trend of this variation is below the bench-
+mark experiment. The difference in fluid pressure
+between the basement and the fault is 0.95 MPa. In
+the benchmark experiment, the only force impacting
+the fluid flow is the buoyancy force, whereas the im-
+plementation of a tectonic regime changes the way
+the fluids circulate.
+Note that the pressure differ-
+ence generated between the basement and the fault
+guides the fluids from the high-pressure zones to the
+low-pressure zones. This force has a similar impact
+as the effects of topography on fluid flow [Forster and
+Smith, 1989, Lopez and Smith, 1995]. This effect is
+facilitated by higher permeability values in the fault
+than in the basement.
+6. Discussion and perspectives
+6.1. From large-scale mantle heat flow anom-
+alies to fault-scale thermal anomalies
+Surface manifestations or areas of anomalously high
+surface heat flow have long guided geothermal explo-
+ration. It seems that favorable areas are located in re-
+gions where surface heat flow exceeds 80 mW·m−2
+[as in western North America, Wisian and Black-
+well, 2004], a value probably correlated with anoma-
+lously high mantle heat flow.
+Yet, the anomalous
+mantle heat flow is not necessarily transferred ho-
+mogeneously at the surface, and the crustal hetero-
+geneities may disturb and redistribute anomalous
+temperatures in the shallow crust.
+In particular,
+
+Laurent Guillou-Frottier et al.
+407
+permeable zones of the crust contain crustal fluids
+that can circulate, by pressure-driven, poroelasticity-
+driven, or buoyancy-driven forces, and transfer deep
+hot fluids to shallow depths.
+In Western Europe, the anomalous large-scale sur-
+face heat flow (Figure 3b) is probably at the origin of
+the European Cenozoic Rifts System [ECRIS, Dèzes
+et al., 2004] but associated geothermal systems are
+sparsely distributed, probably because permeabil-
+ity along associated fault-damage zones is heteroge-
+neous. It may be worth investigating all other ECRIS-
+related grabens, as it was partly done in the past
+[Guillou-Frottier et al., 2010, Calcagno et al., 2014,
+Freymark et al., 2017]. Hence, geodynamic settings
+and the history of mantle events in the last 30 Myrs
+have to be taken into account in exploration strate-
+gies, in particular for the blind geothermal systems.
+The most permeable zones correspond to crustal
+fault zones, where the thickness of the damaged
+zones may reach hundreds of meters. Indeed, our
+results on the role of fault thickness on the critical
+Rayleigh number (Figure 7) imply that wide crustal
+fault zones may host geothermal systems at shallow
+depths.
+As shown in the Appendix A and in Fig-
+ure 8a, temperatures above 150 °C may be present
+at a depth of less than 3 km and over a width of
+several hundreds of meters (Figure A1b). Wide fault
+zones and their surroundings may thus correspond
+to the most promising geological targets hosting ex-
+ploitable geothermal reservoirs (given that the flow
+rate is sufficiently high), without using extensive hy-
+draulic fracturing.
+However, uncertainties in fault
+rock permeability must be considered since several
+physical and chemical processes may control the ef-
+ficiency of fluid circulation (see Section 4).
+6.2. Fluid flow processes within and around fault
+zones
+The numerical models performed here (Figures 8–10)
+consider permeability as a static and spatially vari-
+able parameter based on a conceptual model of the
+“uni core” fault zone, deduced from field observa-
+tions on the Punchbowl Fault zone (USA) [Chester
+and Logan, 1986].
+For larger systems, such as the
+Carboneras Fault Zone (Spain) [Faulkner et al., 2010]
+or the Pontgibaud Fault Zone (France) [Duwiquet,
+2022], the spatial variation of permeability corre-
+sponds to the conceptual model of the “multi-core”
+fault zone [Faulkner et al., 2003], where permeabil-
+ity can be represented as spatially heterogeneous
+[Duwiquet et al., 2019]. Here, our new numerical re-
+sults shed light on other important factors that may
+also control the geothermal potential.
+In particu-
+lar, fault dip, topography, and tectonic regime affect
+the underlying thermal anomaly features (Figures 9
+and 10).
+6.2.1. Effects of topography and tectonic regimes
+The effects of topography and tectonic regimes on
+fluid flow are similar. According to Darcy’s law, the
+behavior of fluid flow is related to the pore fluid pres-
+sure gradient; pore fluid always flows from high to
+low pressure. Pressure gradients are generated from
+topographic highs to topographic lows, and induce
+meteoric fluid flow from peaks to valleys [Forster and
+Smith, 1989, Taillefer et al., 2018]. The poroelasticity-
+driven force is related to the tectonic regime itself
+[Duwiquet et al., 2022], and, as for the topography-
+driven flow, fluids are guided from high pressure
+(the basement) to low pressure zones (the fault) (Fig-
+ure 10e). In summary, when topography and tectonic
+regimes are considered, fluid flow is not only driven
+by buoyancy forces, but also by pressure-driven and
+poroelasticity-driven forces. Thermal consequences
+of the presence of these three different forces may be
+subtle.
+For example, there may be a competition between
+the infiltration of cold fluids in the subsurface dam-
+age zone and the upwelling of warm fluids from
+deep levels. Downward circulation of superficial cold
+fluids is facilitated when the damage zone is par-
+ticularly permeable, or when topography is impor-
+tant, explaining why large damage zones could be
+a disadvantage in some configurations of Figure 9c.
+For example, the case of a strike-slip fault zone
+where SRE = 3000 m shows a decreasing tempera-
+ture when fault zone thickness increases, contrary
+to what theoretical considerations (with no topogra-
+phy) suggest (Figure 7). This infiltration effect also
+explains the asymmetry of the temperature anomaly
+observed in Figure 9 as a function of the position
+of the fault-related relief.
+This should be consid-
+ered in three dimensions because lateral fluid flow
+also occurs along the fault [see Taillefer et al., 2018].
+However, the infiltration effect caused by the unfa-
+vorable conjunction of permeability and topography
+decreases with depth because the buoyancy effect
+
+408
+Laurent Guillou-Frottier et al.
+on warm fluids takes over. We note that Forster and
+Smith [1989] and Lopez and Smith [1995] already
+emphasized these complex interactions between
+topography-driven fluid flow in relatively permeable
+host rocks and buoyancy-driven fluid flow in fault
+zones.
+6.2.2. Effect of fault dip
+We find that the vertical dip (90°) concentrates a
+higher temperature anomaly than the 30° and 60°
+dips (Figure 9b). These results were also found for
+other model configurations where the topography
+was not taken into account [Duwiquet et al., 2019,
+Guillou-Frottier et al., 2020]. According to Figure 9b,
+temperatures above 160 °C would be present at a
+depth of 4 km for the three dips, and temperatures
+above 150 °C would extend laterally (outside the fault
+zone) over several kilometers. In Figure 10, such tem-
+peratures are reached within the fault zone between
+1.4 and 1.7 km, depending on the tectonic regime.
+These shallower depths can be due to the absence of
+topography, to the vigorous convection not present
+in Figure 9, or to both phenomena. Indeed, the re-
+sults from Figure 8 (2D models without topography),
+Figure 9 (2D models with topography and dip varia-
+tion) and Figure 10 (3D models without topography)
+are difficult to compare, and permeability distribu-
+tions within the host rocks are not the same. How-
+ever, physical processes controlling fluid flow can be
+discussed.
+6.3. High-temperature geothermal systems in
+fault zones
+Although complex interactions between different
+fluid flow processes may exist at exploitable depths
+(1–4 km), we have outlined some key features of fault
+zones enabling us to consider them as potential hosts
+of high-temperature geothermal systems. The width
+of the damage zone must be sufficiently large to al-
+low fluid convection to occur easily. If the fault zone
+is surrounded by an important relief, then large-scale
+cold downwellings could prevent hot temperatures
+to reach shallow depths. Subvertical fault zones are
+also more favorable for allowing important thermal
+anomalies at shallow depths.
+Consequently, and following the main ideas of this
+study, we can define potential targets for geothermal
+exploration using the main geometrical parameters
+of fault zones. We focus here our analysis on thick
+fault zones where free convection is possible.
+We
+do not include geothermal plays where forced con-
+vection may lead to significant thermal anomalies
+[e.g., Grimsel Pass, Swiss Alps, Wanner et al., 2019].
+The conjunction of free and forced convection within
+permeable fault zones in mountainous regions could
+also enhance the number of geothermal targets. The
+difficulty is that permeability data are even less col-
+lected in mountainous regions than in flat ones. This
+potential should be examinated in a future study.
+
+Laurent Guillou-Frottier et al.
+409
+Figure 11. Maximum displacement–length di-
+agram for faults using data from several lo-
+calities and fault settings [Fossen, 2016]. The
+length of fault associated with displacement in
+the range of 100–150 m associated with a thick-
+ness of damage zone of 100 m or more (see
+Figure 6) is highlighted in light grey.
+Areas
+in light orange correspond to the faults where
+heat conduction is dominant.
+Damage zone width is essentially controlled by the
+displacement on the fault whatever the fault kine-
+matics [Bense et al., 2013, Section 4.3].
+We must
+consider fault displacement greater or equal to 100–
+150 m to reach a damage zone thickness of a hun-
+dred meters or more. This critical thickness is nec-
+essary to reasonably consider the generation of con-
+vection cells (Figure 6). A power law defines the re-
+lationship between the maximum displacement on
+the fault and the fault length [Schultz and Fossen,
+2002].
+This law shows that a fault displacement
+of 100–150 m is associated with faults lengths be-
+tween 1.5 and 10 km (Figure 11).
+The estimation
+of these parameters is based on a mean permeabil-
+ity in the range of 10−14–10−13 m2, therefore damage
+zone permeabilty changes can influence the geomet-
+rical parameters necessary to generate fluid convec-
+tion in a fault zone. The main geometrical param-
+eters for faults able to host geothermal systems are:
+(i) a damage zone thickness ≥100 m, (ii) a minimum
+displacement of 100–150 m and (iii) a kilometric scale
+fault. These parameters are illustrated in Figure 12,
+where a damage zone thickness of 600 m is chosen.
+The database of Scibek [2020] contains numer-
+ous information on the permeability of fault zones
+around the world, associated with fault zone parame-
+ters available: protolith, kinematic, length, displace-
+ment, damage zone thickness. Despite the impor-
+tant number of referenced sites (511 sites), it remains
+incomplete and spatially distributed in a heteroge-
+neous way. We have sorted the database according
+to the 3 main fault geometrical criteria to select the
+sites that can be potential targets for geothermal ex-
+ploration. The results highlight that one third of the
+sites (173 sites) have favorable fault geometrical set-
+tings for geothermal exploration.
+Table 1 shows a selection of a few fault zones,
+whose length is larger than 1 km, whose displace-
+ment is larger than 100 m, and where maximum
+fault thickness is larger than 150 m. Data belong-
+ing to the “Geothermal reservoir” category illustrates
+some well-known geothermal systems providing sev-
+eral tens of MW (Dixie Valley in Nevada; Kakkonda,
+Japan; Balçova, Turkey).
+In the lower half of Ta-
+ble 1, other fault zone categories show cases where
+permeability is probably sufficiently large because
+the fault width exceeds several hundreds of meters
+(Gryphon, Saskatchewan; Eklutna, Alaska).
+Some
+systems where permeability is unknown are also in-
+dicated since their fault widths approach or even ex-
+ceed 1 km (Sandwich, Illinois; Carboneras, Spain).
+6.4. Potential geothermal systems in European
+fault zones
+At the scale of Europe, fault geometrical parame-
+ters applied to the databse of Scibek [2020] highlight
+40 fault zones with a favorable geometry for host-
+ing geothermal systems. We also added three crustal
+fault zones that have been previously mentioned in
+this study (i.e., the Pontgibaud and Têt fault systems
+in France, and the fault zone of Larderello in Italy).
+Fault kinematics are represented in Figure 13a. The
+maps in Figure 13 show the spatial distribution of
+geothermal power plants and the selected fault zones
+with their kinematics (Figure 13a) and with their as-
+sociated permeabilities (Figure 13b).
+
+410
+Laurent Guillou-Frottier et al.
+Figure 12. Example of a normal fault with a damage zone thickness of 600 m, where permeability ranges
+between 10−14 and 10−13 m2. The other geometrical parameters necessary to generate convection cells
+and high temperatures at shallow depths are indicated [modified after Fossen, 2016].
+Table 1. Selection of a few fault zones from the database of Scibek [2020], where fault length is greater
+than 1000 m, fault displacement greater than 100 m, and fault thickness greater than 150 m
+Site
+number
+Short name
+Country/State
+Category
+Max.
+thickness (m)
+Permeability (m2)
+Power production
+(MWe)
+DZ
+Bulk
+167
+Chingshui
+Taiwan
+Geothermal reservoir
+260
+/
+2.5 × 10−14
+4.2
+180
+Balçova
+Turkey
+Geothermal reservoir
+1000
+/
+4 × 10−13
+72
+139,1
+Ogiri
+Japan
+Geothermal reservoir
+150
+/
+6 × 10−13
+30
+154
+Los Azufres
+Mexico
+Geothermal reservoir
+1000
+/
+4 × 10−13
+161.5
+176
+St Gallen
+Switzerland
+Geothermal reservoir
+1000
+/
+5 × 10−14
+Abandoned
+186
+Dixie
+Nevada
+Geothermal reservoir
+1000
+/
+10−12
+70.9
+141,1
+Kakkonda
+Japan
+Geothermal reservoir
+1000
+/
+2 × 10−14
+50
+328
+Gryphon
+Saskatchewan
+Engineering
+>500
+10−15
+/
+370
+Eklutna
+Alaska
+Engineering
+1000
+/
+3 × 10−12
+265,1
+Sandwich
+Illinois
+Groundwater supply
+800
+/
+/
+247
+Gloucester
+Ontario
+Groundwater supply
+300
+/
+2 × 10−9
+33,1
+Neodani
+Japan
+Active fault/processes
+200
+/
+2.3 × 10−13
+51
+Lansjärv
+Sweden
+Active fault/processes
+150
+/
+10−13
+40,1
+Alpine
+New Zealand
+Active fault/processes
+100 s
+/
+6 × 10−14
+47
+Carboneras
+Spain
+Active fault/processes
+2000
+/
+/
+55
+San Andreas
+California
+Active fault/processes
+500
+/
+2 × 10−14
+The site number comes from the database. DZ = Damage zone. “Bulk” refers to data that cannot be relocated in fault
+core or damaged zones. The first 7 lines correspond to geothermal systems for which power production is indicated.
+
+Laurent Guillou-Frottier et al.
+411
+Figure 13. (a) Geothermal fields installed and
+exploited in Europe (star symbols) (https:
+//www.thinkgeoenergy.com/map/).
+Selected
+fault zones from the database of Scibek [2020]
+with geometrical criteria (length greater than
+1000 m, displacements or damage zone thick-
+ness greater than 100 m) favorable for geother-
+mal exploration are also indicated.
+Note the
+different types of faults. (b) Map showing the
+main faults permeabilities from the database of
+Scibek [2020] and geothermal systems. Perme-
+abilities for the Larderello geothermal system
+and Pontgibaud system are from Bertani and
+Cappetti [1995] and Duwiquet et al. [2021] re-
+spectively.
+Some countries do not contain any new data (Ger-
+many, Poland) but this is only due to the lack of geo-
+metrical data in the database for these sites. For ex-
+ample, the Unterhaching fault zone [Germany, site
+number 101.1 in Scibek, 2020] would have a high bulk
+permeability of 10−13 m2, but there is no information
+on the fault length, displacement or the damage zone
+thickness. Consequently, these maps must be con-
+sidered as a first step to define new potential targets
+for geothermal exploration.
+The maps in Figure 13 highlight that only a few
+fault zones currently host exploited geothermal
+reservoirs, but some of them control the location
+of several power plants.
+This is the case for the
+Menderes Massif (Turkey) where at least 45 power
+plants are located close to the low-angle normal fault
+systems with a total capacity of 1450 MWe. The iden-
+tified new sites tend to show some similarities even
+though they are located in different tectonic con-
+texts. Further, these maps show that all tectonic con-
+texts may be interesting, in particular the extensional
+regime represented by normal faults. However, this
+may also be due to a bias in the incomplete database.
+Our selection, based on purely geometrical criteria,
+shows that fault permeabilities range from 10−15 to
+10−12 m2, a favorable range for high-temperature
+geothermal systems.
+Based on these observations
+and criteria, we suggest that the geothermal potential
+in Europe is still underestimated.
+6.5. Perspectives for geothermal exploration in
+fault zones
+Beside being heterogeneous, the Scibek [2020] data-
+base lacks numerous permeability data of European
+fault zones. Consequently, Figure 13 should not be
+considered as a predictivity map since several ad-
+ditional features must be taken into account be-
+fore being usable to predict the presence of an ex-
+ploitable geothermal system. Indeed, information on
+fault zone geometry and permeability data should be
+combined with the regional tectonic regime, the lo-
+cal stress field and the surrounding topography. In
+addition, it is important to recall that the permeabil-
+ity database of fault zones in Europe is not exhaus-
+tive, (since in constant evolution). We however be-
+lieve that our study can help geothermal exploration
+towards a more efficient targeting, where permeabil-
+ity enhancement techniques would not be necessary.
+
+412
+Laurent Guillou-Frottier et al.
+We focused our study on thermal anomalies
+greater than 150 °C at a depth lower than 4 km. It
+must be noted that the recent study by Lund et al.
+[2022] indicates that “electric power from geother-
+mal energy is now being produced from resources
+with temperatures as low as 90 °C, using the organic
+Rankine cycle process in binary power units”. Con-
+sequently, our selection must be considered as a
+lower limit since temperatures around 100 °C at a
+depth of 1–2 km should be easily found in wide fault
+zones (Figure 8b), thus increasing the number of
+fault zones that could be considered as promising
+targets for geothermal exploration.
+Conflicts of interest
+Authors have no conflict of interest to declare.
+Acknowledgements
+This research has been supported by the GERES-
+FAULT project (grant no.
+ANR-19-CE05-0043-01),
+GM acknowledges funding from the program TelluS
+of the Institut National des Sciences de l’Univers,
+CNRS. Discussions with Patrick Ledru and Vincent
+Bouchot helped to improve the ideas developed in
+this study. We thank reviewers Domenico Montanari
+and Christoph Wanner for their positive and con-
+structive reviews. We also thank Olivier Fabbri for
+additional suggestions that help to improve the final
+version of the manuscript.
+Appendix A. Numerical modeling: model set-
+up, equations and physical pa-
+rameters
+All numerical models of this study have been com-
+puted with the Comsol Multiphysics™software. Sev-
+eral different benchmark experiments have been per-
+formed, and previously published results were re-
+produced by our numerical procedure [Eldursi et al.,
+2009, Garibaldi et al., 2010, Taillefer et al., 2017,
+Guillou-Frottier et al., 2020, Duwiquet et al., 2022].
+Figures 8, 9 and 10 have different model setups and
+their peculiarities are described below.
+A.1. Models of Figure 8
+The series of numerical models reported in Figure 8
+have been performed in 2D, where a permeable fault
+zone of variable width and variable permeability is
+embedded into a low permeable host rock. Model
+set-up, geometry and boundary conditions are illus-
+trated in Figure A1. Physical properties and other de-
+tails are also indicated. The heat equation, Darcy law
+and mass conservation are coupled through the ve-
+locity field and the temperature-dependence of fluid
+properties. An identical numerical procedure as that
+described in Guillou-Frottier et al. [2020] was used.
+A.2. Models of Figure 9
+The models of Figure 9, partly dedicated to the role
+of topography, account for the altitude-dependence
+of the surface pressure (see expression p0 and p in
+Table A1). A mixed thermal boundary condition is
+imposed at the surface (details below), allowing to
+get cold temperatures (5–10 °C) at high altitudes, hot
+temperatures above the fault zone (thermal springs
+up to 80 °C) and 10 °C elsewhere [see details in Taille-
+fer et al., 2018].
+Fluid and rock properties, tested
+parameters, initial conditions, and boundary condi-
+tions are detailed in Table A1. Additional results are
+shown in Figure A2.
+Details on the mixed thermal boundary condi-
+tion fixed at the topographic surface of the numeri-
+cal model, issued from Taillefer et al. [2018].
+A theoretical constant heat flow q0 = 0.07 W·m−2
+is imposed at the base of the model. The lateral lim-
+its of the model are thermally insulated. In order to
+allow for temperature variations at the surface (cold
+areas at high altitudes but also warm zones where hot
+springs emerge), a mixed thermal boundary condi-
+tion like the one used in Magri et al. [2015] and Taille-
+fer et al. [2018] is applied to the topographic surface:
+Q = h(T0 −T )
+(A.1)
+where Q
+(W·m−2) is the surface heat flow,
+h
+(W·m−2·K−1) a coefficient of heat transfer and T0
+(°C) the reference temperature at the surface (chosen
+to be 20 °C). In order to impose a realistic thermal
+boundary condition, a sensitivity analysis of the heat
+transfer coefficient h was performed. The condition
+applied to the topographic surface needs to satisfy
+(1) a realistic temperature at the surface depend-
+ing on the temperature (5–20 °C) and (2) potential
+
+Laurent Guillou-Frottier et al.
+413
+Figure A1. Details on the numerical modeling leading to the results illustrated in Figure 8. For these
+models, a fixed temperature condition is imposed at the surface. (a) Model set-up, parameters, and
+boundary conditions; (b) temperature field (isotherms in black contours, separated by 25 °C) for a fault
+width of 800 m and a fault permeability of 5 × 10−14 m2, 3700 yr after the beginning of the experiment;
+(c) horizontal temperature profile at a depth of 3 km (profile A–B in b), at the time when temperature
+perturbation is maximum.
+convective flows allowing hot fluid emergence. The
+h value was therefore calibrated so as to combine
+realistic temperatures for (i) the fluid infiltrated at
+the model surface and (ii) the hot fluids that rise up
+to the model surface. To obtain consistent temper-
+atures at the surface (between 5 and 20 °C) while
+emergence temperatures may reach 70 °C (which are
+observed values for hot springs in mountain ranges),
+the optimum h value appears to range between 0.017
+and 0.025 W·m−2·K−1.
+Using this value, the few areas at high altitude
+(above 2000 m) exhibit low temperatures (5–7 °C)
+while all other areas show surface temperature of 10
+± 2 °C. The initial conditions for the model are a
+hydrostatic pressure and a purely conductive thermal
+state, from which a steady state is computed.
+A.3. Models of Figure 10
+The numerical procedure for the models of Figure 10,
+as well as the benchmark for the 3D experiment, have
+been described in Duwiquet et al. [2022].
+References
+Alt-Epping, P., Diamond, L. W., and Wanner, C.
+(2022).
+Permeability and groundwater flow
+
+414
+Laurent Guillou-Frottier et al.
+Figure A2. Additional results with horizontal temperature profiles at a depth of 2000 m.
+
+Laurent Guillou-Frottier et al.
+415
+Table A1. Parameters and variables used in numerical models of Figure 9
+Fluid variables and parameters
+Fluid dynamic viscosity
+µ
+2.414×10−5 exp(570/((T −273.15)+133)), T in K
+Pa·s
+Fluid density
+ρf
+1036.5 −0.14167 × (T −273.15) −0.0022381 ×
+(T −273.15) × (T −273.15), T in K
+kg/m3
+Thermal capacity
+Cpf
+4180
+J/(kg·K)
+Thermal conductivity
+λf
+0.60
+W/(m·K)
+Thermal expansion coefficient
+α
+10−4
+1/K
+Rock variables and parameters
+Mass density
+ρs
+2650
+kg/m3
+Porosity
+φ
+0.10
+Thermal capacity
+Cps
+1000
+K/(kg·K)
+Thermal conductivity
+λs
+2.50
+W/(m·K)
+Thermal expansion coefficient
+β
+7×10−6
+1/K
+Basement permeablity
+Kb
+10−16 exp(y−SRE)/2500 y in m, −7000 < y < SRE
+m2
+Core zone permeability
+Kc
+10−20
+m2
+Damage zone permeability
+Kd
+2×10−14
+m2
+Geometric features (tested parameters)
+Scarp relief elevation
+SRE
+200, 1000, 3000
+m
+Fault dip
+FD
+30, 90, 60
+deg
+Total Damage zone Thickness
+(2× 1
+2 DZ)
+DZT
+50, 300, 1000
+m
+Model variables and parameters
+Ambiant temperature
+Text
+20
+°C
+Heat flow at the model base
+Q0
+0.07
+W/m2
+Mixed thermal condition at the
+model surface
+qs
+0.05 × (Text-T ), T in °C
+W/m2
+Initial pressure field
+p
+105 × ((1 −0.006 y/288.15)5.255) + (1000 × 9.8 ×
+(−y)), y in m
+Pa
+Surface pressure
+p0
+105 × ((1−0.006 y/288.15)5.255), y in m
+Pa
+Initial temperature field
+T
+Text + 0.03 × (−y), y in m
+°C
+Thermal insulation
+Lateral boundaries
+No flow conditon
+Lateral + model base boundaries
+dynamics in deep-reaching orogenic faults es-
+timated from regional-scale hydraulic simula-
+tions.
+Geochem. Geophys. Geosyst., 23, article
+no. e2022GC010512.
+Alt-Epping, P., Diamond, L. W., Wanner, C., and
+Hammond, G. E. (2021).
+Effect of glacialinter-
+glacial recharge conditions on flow of meteoric
+water through deep orogenic faults: insights into
+the geothermal system at Grimsel Pass, Switzer-
+land.
+J. Geophys. Res. Solid Earth, 126, article
+no. e2020JB021271.
+Ampuero, J. P. and Mao, X. (2017).
+Upper limit on
+damage zone thickness controlled by seismogenic
+depth. In Thomas, M. Y., Mitchell, T. M., and Bhat,
+H. S., editors, Fault Zone Dynamic Processes: Evo-
+lution of Fault Properties During Seismic Rupture,
+
+416
+Laurent Guillou-Frottier et al.
+Geophysical Monograph 227, pages 243–253. John
+Wiley and Sons, Inc., Hoboken, NJ, USA.
+Anderson, R. N., Zoback, M. D., Hickman, S. H.,
+and Newmark, R. L. (1985).
+Permeability versus
+depth in the upper oceanic crust: in situ measure-
+ments in DSDP hole 504B, eastern equatorial Pa-
+cific. J. Geophys. Res. Solid Earth, 90, 3659–3669.
+Artemieva, I. M. and Mooney, W. D. (2001).
+Ther-
+mal thickness and evolution of Precambrian litho-
+sphere: A global study. J. Geophys. Res., 106(B8),
+16387–16414.
+Barton, C. A., Zoback, M. D., and Moos, D. (1995).
+Fluid flow along potentially active faults in crys-
+talline rock. Geology, 23(8), 683–686.
+Bellanger, M., Auxiètre, J. L., Ars, J. M., Hautot, S., and
+Tarits, P. (2016). The key role of first-order geolog-
+ical paradigm in deep geothermal exploration. In
+European Geothermal Congress 2016, Strasbourg,
+France, 19–24 September 2016.
+Bense, V. F., Gleeson, T., Loveless, S. E., Bour, O., and
+Scibek, J. (2013). Fault zone hydrogeology. Earth
+Sci. Rev., 127, 171–192.
+Bertani, R. and Cappetti, G. (1995). Numerical simu-
+lation of the Monteverdi zone western border of the
+Larderello geothermal field. In Proceedings, World
+Geothermal Congress, Florence, Italy, pages 1735–
+1740.
+Bethke, C. M. (1985).
+A numerical model of
+compaction-driven groundwater flow and heat
+transfer and its application to the paleohydrology
+of intracratonic sedimentary basins.
+J. Geophys.
+Res. Solid Earth, 90(B8), 6817–6828.
+Bonini, M., Sani, F., Stucchi, E. M., Moratti, G., Ben-
+venuti, M., Menanno, G., and Tanini, C. (2014).
+J. Geodyn., 74, 1–31.
+Braun, J. (2002). Quantifying the effect of recent re-
+lief changes on age–elevation relationships. Earth
+Planet. Sci. Lett., 200(3–4), 331–343.
+Braun, J. (2009). Hot blanket in Earth’s deep crust.
+Nature, 458, 292–293.
+Burov, E. B. (2011).
+Rheology and strength of the
+lithosphere. Mar. Pet. Geol., 28, 1402–1443.
+Calcagno, P., Baujard, C., Guillou-Frottier, L., Da-
+gallier, A., and Genter, A. (2014).
+Estimation
+of the deep geothermal potential within the Ter-
+tiary Limagne basin (French Massif Central): An
+integrated 3D geological and thermal approach.
+Geothermics, 51, 496–508.
+Chen, J., Gaillard, F., Villaros, A., Yang, X., Laumonier,
+M., Jolivet, L., Unsworth, M., Hashim, L., Scaillet,
+B., and Richard, G. (2018). Melting conditions in
+the modern Tibetan crust since the Miocene. Nat.
+Commun., 9, article no. 3515.
+Chester, F. M. and Logan, J. M. (1986). Implications
+for mechanical properties of brittle faults from ob-
+servations of the Punchbowl fault zone, California.
+Pure Appl. Geophys., 124(1), 79–106.
+Choi, J. H., Edwards, P., Ko, K., and Kim, Y. S. (2016).
+Definition and classification of fault damage zones:
+A review and a new methodological approach.
+Earth Sci. Rev., 152, 70–87.
+Clauser, C. and Huenges, E. (1995). Thermal conduc-
+tivity of rocks and minerals. In Ahrens, T. J., editor,
+Rock Physics and Phase Relations: A Handbook of
+Physical Constants, pages 105–126. AGU Reference
+Shelf 1, AGU, Washington DC, USA.
+Clauser, C. and Villinger, H. (1990).
+Analysis of
+convective and conductive heat transfer in a sedi-
+mentary basin, demonstrated for the Rhinegraben.
+Geophys. J. Int., 100, 393–414.
+Cornet, F. H. and Burlet, D. (1992). Stress field de-
+terminations in France by hydraulic tests in bore-
+holes. J. Geophys. Res., 97(B8), 11829–11849.
+Cox, S. C., Menzies, C. D., Sutherland, R., Denys,
+P. H., Chamberlain, C., and Teagle, D. A. H. (2015).
+Changes in hot spring temperature and hydrogeol-
+ogy of the Alpine Fault hanging wall, New Zealand,
+induced by distal South Island earthquakes.
+Ge-
+ofluids, 15(1–2), 216–239.
+Cox, S. F. (2016). Injection-driven swarm seismicity
+and permeability enhancement: Implications for
+the dynamics of hydrothermal ore systems in high
+fluid-flux, overpressured faulting regimes—An in-
+vited paper. Econ. Geol., 111(3), 559–587.
+Craig, J. W., Faulds, J. E., Hinz, N. H., Earney, T. E.,
+Schermerhorn, W. D., Siler, D. L., Glen, J. M., Pea-
+cock, J., Coolbaugh, M. F., and Deoro, S. B. (2021).
+Discovery and analysis of a blind geothermal sys-
+tem in southeastern Gabbs Valley, western Nevada,
+USA. Geothermics, 97, 102177.
+Crider, J. G. (2015). The initiation of brittle faults in
+crystalline rock. J. Struct. Geol., 77, 159–174.
+Curewitz, D. and Karson, J. A. (1997). Structural set-
+tings of hydrothermal outflow: Fracture perme-
+ability maintained by fault propagation and inter-
+action. J. Volcanol. Geotherm. Res., 79, 149–168.
+Davis, M. G., Chapman, D. S., Van Wagoner, T. M.,
+and Armstrong, P. A. (2007).
+Thermal conduc-
+
+Laurent Guillou-Frottier et al.
+417
+tivity anisotropy of metasedimentary and igneous
+rocks. J. Geophys. Res. Solid Earth, 112(B5), article
+no. B05216.
+Dewandel, B., Lachassagne, P., Wyns, R., Maréchal,
+J. C., and Krishnamurthy, N. S. (2006). A general-
+ized 3-D geological and hydrogeological concep-
+tual model of granite aquifers controlled by sin-
+gle or multiphase weathering. J. Hydrol., 330(1–2),
+260–284.
+Dèzes, P., Schmid, S. M., and Ziegler, P. A. (2004). Evo-
+lution of the European Cenozoic Rift System: in-
+teraction of the Alpine and Pyrenean orogens with
+their foreland lithosphere. Tectonophysics, 389, 1–
+33.
+Diamond, L. W., Wanner, C., and Waber, H. N. (2018).
+Penetration depth of meteoric water in orogenic
+geothermal systems. Geology, 46(12), 1063–1066.
+Dobson, P. F. (2016). A review of exploration meth-
+ods for discovering hidden geothermal systems.
+Geotherm. Res. Council Trans., 40, 695–706.
+Doi, N., Kato, O., Ikeuchi, K., Komatsu, R., Miyazaki,
+S.-I., Akaku, K., and Uchida, T. (1998). Genesis of
+the plutonic-hydrothermal system around quater-
+nary granite in the Kakkonda geothermal system,
+Japan. Geothermics, 27, 663–690.
+Duwiquet, H. (2022).
+Les zones de failles crustales
+comme systèmes géothermiques-électrogènes: ap-
+port des modélisations numériques et confronta-
+tion aux systèmes naturels.
+PhD thesis, Univer-
+sité d’Orléans, https://tel.archives-ouvertes.fr/tel-
+03591286/document. 391 p.
+Duwiquet, H., Arbaret, L., Guillou-Frottier, L., Heap,
+M. J., and Bellanger, M. (2019).
+On the geother-
+mal potential of crustal fault zones: a case study
+from the Pontgibaud area (French Massif Central,
+France). Geotherm. Energy, 7, article no. 33.
+Duwiquet, H., Guillou-Frottier, L., Arbaret, L., Bel-
+langer, M., Guillon, T., and Heap, M. J. (2021).
+Crustal fault zones (CFZ) as geothermal power sys-
+tems: a preliminary 3D THM model constrained by
+a multidisciplinary approach. Geofluids, 2021, arti-
+cle no. 8855632.
+Duwiquet, H., Magri, F., Lopez, S., Guillon, T., Ar-
+baret, L., Bellanger, M., and Guillou-Frottier, L.
+(2022).
+Tectonic regime as a control factor for
+crustal fault zone (CFZ) geothermal reservoir in an
+amagmatic system: A 3D dynamic numerical mod-
+eling approach. Nat. Resour. Res., 31, 3155–3172.
+Earnest, E. and Boutt, D. (2014). Investigating the role
+of hydromechanical coupling on flow and trans-
+port in shallow fractured-rock aquifers. Hydrogeol.
+J., 22(7), 1573–1591.
+Ehlers, T. A. and Farley, K. A. (2003).
+Apatite (U–
+Th)/He thermochronometry: Methods and appli-
+cations to problems in tectonic and surface pro-
+cesses. Earth Planet. Sci. Lett., 206(1–2), 1–14.
+Eldursi, K., Branquet, Y., Guillou-Frottier, L., and
+Marcoux, E. (2009).
+Numerical investigation of
+transient hydrothermal processes around intru-
+sions:
+heat-transfer and fluid-circulation con-
+trolled mineralization patterns. Earth Planet. Sci.
+Lett., 288, 70–83.
+Eldursi, K., Chi, G., Bethune, K., Li, Z., Ledru, P., and
+Quirt, D. (2021). New insights from 2- and 3-D nu-
+merical modelling on fluid flow mechanisms and
+geological factors responsible for the formation of
+the world-class Cigar Lake uranium deposit, east-
+ern Athabasca Basin, Canada. Miner. Depos., 56(7),
+1365–1388.
+Erkan, K. and Blackwell, D. D. (2008). A thermal test of
+the post-subduction tectonic evolution along the
+California transform margin.
+Geophys. Res. Lett.,
+35, article no. L07309.
+Faulds, J., Coolbaugh, M., Bouchot, V., Moeck, I., and
+Oguz, K. (2010). Characterizing structural controls
+of geothermal reservoirs in the Great Basin, USA,
+and western Turkey: developing successful explo-
+ration strategies in extended terranes.
+In World
+Geothermal Congress 2010, April 2010, Bali, In-
+donesia, 11.
+Faulds, J. and Hinz, N. (2015).
+Favorable tectonic
+and structural settings of geothermal systems in
+the Great Basin region, western USA: Proxies for
+discovering blind geothermal systems. In Proceed-
+ings World Geothermal Congress, Melbourne, Aus-
+tralia, 19–25 April 2015.
+Faulkner, D. R., Jackson, C. A. L., Lunn, R. J., Schlis-
+che, R. W., Shipton, Z. K., Wibberley, C. A. J., and
+Withjack, M. O. (2010). A review of recent devel-
+opments concerning the structure, mechanics and
+fluid flow properties of fault zones. J. Struct. Geol.,
+32, 1557–1575.
+Faulkner, D. R., Lewis, A. C., and Rutter, E. H. (2003).
+On the internal structure and mechanics of large
+strike-slip fault zones: Field observations of the
+Carboneras fault in southeastern Spain. Tectono-
+physics, 367(3–4), 235–251.
+Ferrari, L., Orozco-Esquivel, T., Bryan, S. E., Lopez-
+
+418
+Laurent Guillou-Frottier et al.
+Martinez, M., and Silva-Fragoso, A. (2018). Ceno-
+zoic magmatism and extension in western Mexico:
+Linking the Sierra Madre Occidental silicic large ig-
+neous province and the Comondú Group with the
+Gulf of California rift. Earth-Sci. Rev., 183, 115–152.
+Foeken, J. P. T., Persano, C., Stuart, F. M., and ter Vo-
+orde, M. (2007).
+Role of topography in isotherm
+perturbation: Apatite (U–Th)/He and fission track
+results from the Malta tunnel, Tauern Window,
+Austria:
+Topography and Isotherms.
+Tectonics,
+26(3), 1–15.
+Forster, C. and Smith, L. (1989).
+The influence of
+groundwater flow on thermal regimes in moun-
+tainous terrain: a model study.
+J. Geophys. Res.,
+94(B7), 9439–9451.
+Fossen, H. (2016).
+Structural Geology.
+Cambridge
+University Press, Cambridge, UK.
+Freymark, J., Sippel, J., Scheck-Wenderoth, M., Bär,
+K., Stiller, M., Fritsche, J.-G., and Kracht, M. (2017).
+The deep thermal field of the Upper Rhine Graben.
+Tectonophysics, 694, 114–129.
+Garg, S. K., Pritchett, J. W., and Combs, J. (2010). Ex-
+ploring for hidden geothermal systems. In Proceed-
+ings World Geothermal Congress 2010, Bali, Indone-
+sia, 25–29 April, 2010, 7p.
+Garibaldi, C., Guillou-Frottier, L., Lardeaux, J. M.,
+Bonté, D., Lopez, S., Bouchot, V., and Ledru, P.
+(2010). Thermal anomalies and geological struc-
+tures in the Provence basin: implications for hy-
+drothermal circulations at depth. Bull. Soc. Geol.
+Fr., 181, 363–376.
+Genter, A., Evans, K., Cuenot, N., Fritsch, D., and
+Sanjuan, B. (2010). Contribution of the exploration
+of deep crystalline fractured reservoir of Soultz to
+the knowledge of enhanced geothermal systems
+(EGS). C. R. Geosci., 342, 502–516.
+Gerard,
+A. and Kappelmeyer,
+O. (1987).
+The
+Soultz-sous-Forêts project: Proceedings of the first
+EEC/US workshop on geothermal Hot Dry Rock
+technology. Geothermics, 16, 393–399.
+Grasby, S. E. and Hutcheon, I. (2001).
+Controls on
+the distribution of thermal springs in the southern
+Canadian Cordillera. Can. J. Earth Sci., 38(3), 427–
+440.
+Griffiths, L., Heap, M. J., Wang, F., Daval, D., Gilg,
+H. A., Baud, P., Schmittbuhl, J., and Genter, A.
+(2016). Geothermal implications for fracture-filling
+hydrothermal precipitation. Geothermics, 64, 235–
+245.
+Guillou-Frottier, L. (2003).
+Compilation et analyse
+des données thermiques sur le champ géother-
+mique de Bouillante. Premières interprétations
+pour le fonctionnement du champ géothermique.
+Rapport final. BRGM/RP-52452-FR, 49 p., 28 fig.
+http://infoterre.brgm.fr/rapports/RP-52452-FR.
+pdf.
+Guillou-Frottier, L., Carré, C., Bourgine, B., Bouchot,
+V., and Genter, A. (2013). Structure of hydrothermal
+convection in the Upper Rhine Graben as inferred
+from corrected temperature data and basin-scale
+numerical models. J. Volcanol. Geotherm. Res., 256,
+29–49.
+Guillou-Frottier, L., Duwiquet, H., Launay, G., Taille-
+fer, A., Roche, V., and Link, G. (2020).
+On the
+morphology and amplitude of 2D and 3D ther-
+mal anomalies induced by buoyancy-driven flow
+within and around fault zones.
+Solid Earth, 11,
+1571–1595.
+Guillou-Frottier, L., Jaupart, C., Mareschal, J.-C., Gar-
+iépy, C., Bienfait, G., Cheng, L. Z., and Lapointe, R.
+(1996). High heat flow in the Trans-Hudson Oro-
+gen, central Canadian Shield. Geophys. Res. Lett.,
+23, 3027–3030.
+Guillou-Frottier, L., Lucazeau, F., Garibaldi, C., Bonté,
+D., and Couëffé, R. (2010). Heat flow and deep tem-
+peratures in the Southeast Basin of France: impli-
+cations for local rheological contrasts.
+Bull. Soc.
+Geol. Fr., 181(6), 531–546.
+Haas, I. O. and Hoffmann, C. R. (1929).
+Temper-
+ature gradient in Pechelbronn oil bearing region,
+lower Alsace: its determination and relation to oil
+reserves. AAPG Bull., XIII(10), 1257–1273.
+Harrison, T. M., Morgan, P., and Blackwell, D. D.
+(1986).
+Constraints on the age of heating at the
+Fenton Hill site, Valles caldera, New Mexico. J. Geo-
+phys. Res., 91, 1899–1908.
+Husen, S., Taylor, R., Smith, R. B., and Healser, H.
+(2004). Changes in geyser eruption behavior and
+remotely triggered seismicity in Yellowstone Na-
+tional Park produced by the 2002 M 7.9 Denali fault
+earthquake, Alaska. Geology, 32(6), 537–540.
+Huttrer, G. W. (2021). Geothermal Power Generation
+in the World 2015–2020 update report. In Proceed-
+ings, World Geothermal Congress, Reykjavik, Ice-
+land, April–October 2021.
+Inanc Tureyen, O., Sarak, H., Gulgor, A., Erkan, B., and
+Staman, A. (2014). A study on the production and
+reservoir performance of the Germencik geother-
+
+Laurent Guillou-Frottier et al.
+419
+mal field. In Proceedings, Thirty-ninth Workshop
+on Geothermal Reservoir Engineering, February 24–
+26, page 9, Stanford, California. Stanford Univer-
+sity.
+Ingebritsen, S. and Gleeson, T. (2017). Crustal perme-
+ability. Hydrogeol. J., 25(8), 2221–2224.
+Ingebritsen, S. E. and Manning, C. E. (1999). Geolog-
+ical implications of a permeability-depth curve for
+the continental crust. Geology, 27(12), 1107–1110.
+Ingebritsen, S. E. and Manning, C. E. (2010). Perme-
+ability of the continental crust: dynamic variations
+inferred from seismicity and metamorphism. Ge-
+ofluids, 10(1–2), 193–205.
+Jaupart, C., Labrosse, S., Lucazeau, F., and Mareschal,
+J.-C. (2015). Temperatures, heat, and energy in the
+mantle of the Earth. In Schubert, G., editor, Treatise
+on Geophysics, volume 7, pages 223–270. Elsevier,
+Oxford, 2nd edition.
+Jaupart, C. and Mareschal, J.-C. (2011). Heat Gener-
+ation and Transport in the Earth. Cambridge Uni-
+versity Press, Cambridge, UK.
+Jaupart, C., Mareschal, J.-C., and Iarotsky, L. (2016).
+Radiogenic heat production in the continental
+crust. Lithos, 262, 398–427.
+Jolie, E., Scott, S., Faulds, J., Chambefort, I., Axels-
+son, G., Gutierrez-Negrin, L. S., Regenspurg, S.,
+Ziegler, M., Ayling, B., Richter, A., and Zemedkun,
+M. T. (2021). Geological controls on geothermal re-
+sources for power generation. Nat. Rev. Earth Env-
+iron., 2, 324–339.
+Koptev, A., Cloetingh, S., and Ehlers, T. A. (2021).
+Longevity of small-scale (baby’) plumes and their
+role in lithospheric break-up. Geophys. J. Int., 227,
+439–471.
+Lachassagne, P., Wyns, R., and Dewandel, B. (2011).
+The fracture permeability of hard rock aquifers is
+due neither to tectonics, nor to unloading, but to
+weathering processes. Terra Nova, 23(3), 145–161.
+Lapwood, E. R. (1948).
+Convection of a fluid in a
+porous medium.
+Math. Proc. Cambridge Philos.
+Soc., 44, 508–521.
+Laubach, S. E., Olson, J. E., and Gale, J. F. W. (2004).
+Are open fractures necessarily aligned with max-
+imum horizontal stress?
+Earth Planet. Sci. Lett.,
+222(1), 191–195.
+Leclère, H., Buatier, M., Charpentier, D., Sizun,
+J. P., Labaume, P., and Cavailhes, T. (2012).
+For-
+mation of phyllosilicates in a fault zone affect-
+ing deeply buried arkosic sandstones: their influ-
+ence on petrophysic properties (Annot sandstones,
+French external Alps). Swiss J. Geosci., 105(2), 299–
+312.
+Lopez, D. L. and Smith, L. (1995). Fluid flow in fault
+zones: Analysis of the interplay of convective cir-
+culation and topographically driven groundwater
+flow. Water Resour. Res., 31(6), 1489–1503.
+Lucazeau, F. (2019).
+Analysis and mapping of an
+updated terrestrial heat flow data set.
+Geochem.
+Geophys. Geosys., 20, 4001–4024.
+Lucazeau, F. and Vasseur, G. (1989). Heat flow den-
+sity data from France and surrounding margins.
+Tectonophysics, 164, 251–258.
+Lucazeau, F., Vasseur, G., and Bayer, R. (1984). In-
+terpretation of heat flow data in the French Massif
+Central. Tectonophysics, 103, 99–119.
+Lund, J. W., Huttrer, G. W., and Toth, A. N. (2022).
+Characteristics and trends in geothermal develop-
+ment and use, 1995 to 2020. Geothermics, 105, arti-
+cle no. 102522.
+Magri, F., Akar, T., Gemici, U., and Pekdeger, A. (2012).
+Numerical investigations of fault-induced seawa-
+ter circulation in the Seferihisar-Balçova Geother-
+mal system, western Turkey. Hydrogeol. J., 20, 103–
+118.
+Magri, F., Inbar, N., Siebert, C., Rosenthal, E.,
+Guttman, J., and Möller, P. (2015). Transient sim-
+ulations of large-scale hydrogeological processes
+causing temperature and salinity anomalies in the
+Tiberias Basin. J. Hydrol., 520, 342–355.
+Malkovsky, V. I. and Magri, F. (2016). Thermal con-
+vection of temperature-dependent viscous fluids
+within three-dimensional faulted geothermal sys-
+tems: estimation from linear and numerical analy-
+ses. Water Resour. Res., 52, 2855–2867.
+Malkovsky, V. I. and Pek, A. A. (1997).
+Conditions
+for the onset of thermal convection of a homoge-
+neous fluid in a vertical fault. Petrology, 5(4), 381–
+387.
+Maréchal, J.-C., Perrochet, P., and Tacher, L. (1999).
+Long-term simulations of thermal and hydraulic
+characteristics in a mountain massif: The Mont
+Blanc case study, French and Italian Alps. Hydro-
+geol. J., 7(4), 341–354.
+Mayolle, S., Soliva, R., Caniven, Y., Wibberley, C.,
+Ballas, G., Milesi, G., and Dominguez, S. (2019).
+Scaling of fault damage zones in carbonate rocks.
+J. Struct. Geol., 124, 35–50.
+Mayolle, S., Soliva, R., Dominguez, S., Wibberley,
+
+420
+Laurent Guillou-Frottier et al.
+C., and Caniven, Y. (2021). Nonlinear fault dam-
+age zone scaling revealed through analog model-
+ing. Geology, 49(8), 968–972.
+Milesi, G., Monié, P., Münch, P., Soliva, R., Taille-
+fer, A., Bruguier, O., Bellanger, M., Bonno, M., and
+Martin, C. (2020).
+Tracking geothermal anom-
+alies along a crustal fault using (U - Th)/He apatite
+thermochronology and rare-earth element (REE)
+analyses: the example of the Têt fault (Pyrenees,
+France). Solid Earth, 11(5), 1747–1771.
+Mitchell, T. M. and Faulkner, D. R. (2009). The nature
+and origin of off-fault damage surrounding strike-
+slip fault zones with a wide range of displacements:
+A field study from the Atacama fault system, north-
+ern Chile. J. Struct. Geol., 31(8), 802–816.
+Mitchell, T. M. and Faulkner, D. R. (2012). Towards
+quantifying the matrix permeability of fault dam-
+age zones in low porosity rocks. Earth Planet. Sci.
+Lett., 339(340), 24–31.
+Moore, J. N., Powell, T. S., Heizler, M. T., and Nor-
+man, D. I. (2000). Mineralization and hydrothermal
+history of the Tiwi geothermal system, Philippines.
+Econ. Geol., 95, 1001–1023.
+Neumann, N., Sandiford, M., and Foden, J. (2000).
+Regional geochemistry and continental heat flow:
+implications for the origin of the South Australian
+heat flow anomaly.
+Earth Planet. Sci. Lett., 183,
+107–120.
+Neuzil, C. E. (2012). Hydromechanical effects of con-
+tinental glaciation on groundwater systems.
+Ge-
+ofluids, 12, 22–37.
+Neuzil, C. E. (2019). Permeability of clays and shales.
+Annu. Rev. Earth Planet. Sci., 47, 247–273.
+Nishimoto, S. and Yoshida, H. (2010). Hydrothermal
+alteration of deep fractured granite: Effects of dis-
+solution and precipitation. Lithos, 115(1–4), 153–
+162.
+Ranjram, M., Gleeson, T., and Luijendijk, E. (2015). Is
+the permeability of crystalline rock in the shallow
+crust related to depth, lithology or tectonic setting?
+Geofluids, 15(1–2), 106–119.
+Ratouis, T. M., O’Sullivan, M. J., Alcaraz, S. A., and
+O’Sullivan, J. P. (2017).
+The effects of seasonal
+variations in rainfall and production on the aquifer
+and surface features of Rotorua geothermal field.
+Geothermics, 69, 165–188.
+Renard, F., Gratier, J.-P., and Jamtveit, B. (2000). Kinet-
+ics of crack-sealing, intergranular pressure solu-
+tion, and compaction around active faults. J. Struct.
+Geol., 22(10), 1395–1407.
+Roche, V., Bouchot, V., Beccaletto, L., Jolivet, L.,
+Guillou-Frottier, L., Tuduri, J., Bozkurt, E., Oguz, K.,
+and Tokay, B. (2019). Structural, lithological, and
+geodynamic controls on geothermal activity in the
+Menderes geothermal Province (Western Anatolia,
+Turkey). Int. J. Earth Sci., 108, 301–328.
+Roche, V., Sternai, P., Guillou-Frottier, L., Menant,
+A., Jolivet, L., Bouchot, V., and Gerya, T. (2018).
+Emplacement of metamorphic core complexes
+and associated geothermal systems controlled by
+slab dynamics. Earth Planet. Sci. Lett., 498, 322–
+333.
+Rowland, J. V. and Sibson, R. H. (2004).
+Structural
+controls on hydrothermal flow in a segmented rift
+system, Taupo Volcanic Zone, New Zealand. Ge-
+ofluids, 4(4), 259–283.
+Saar, M. O. and Manga, M. (2004). Depth dependence
+of permeability in the Oregon Cascades inferred
+from hydrogeologic, thermal, seismic, and mag-
+matic modeling constraints: Depth dependence of
+permeability. J. Geophys. Res. Solid Earth, 109(B4),
+article no. B04204.
+Sass, J. H., Priest, S. S., Duda, L. E., Carson, C. C.,
+Hendricks, J. D., and Robinson, L. C. (1986). Ther-
+mal regime of the State 2-14 well, Salton Sea sci-
+entific drilling project. J. Geophys. Res., 93, 12995–
+13004.
+Schlische, R. W., Young, S. S., Ackermann, R. V., and
+Gupta, A. (1996). Geometry and scaling relations
+of a population of very small rift-related normal
+faults. Geology, 24, 683–686.
+Schoenball, M., Ajo-Franklin, J. B., Blankenship, D.,
+Chai, C., Chakravarty, A., Dobson, P., and EGS Col-
+lab Team (2020). Creation of a mixed mode fracture
+network at mesoscale through hydraulic fracturing
+and shear stimulation. J. Geophys. Res. Solid Earth,
+125(12), article no. e2020JB019807.
+Schultz, R. A. and Fossen, H. (2002). Displacement-
+length scaling in three dimensions:
+the impor-
+tance of aspect ratio and application to deforma-
+tion bands. J. Struct. Geol., 24(9), 1389–1411.
+Scibek, J. (2020). Multidisciplinary database of per-
+meability of fault zones and surrounding protolith
+rocks at world-wide sites. Sci. Data, 2020, 7–95.
+Shmonov, V. M., Vitiovtova, V. M., Zharikov, A. V., and
+Grafchikov, A. A. (2003). Permeability of the con-
+tinental crust: implications of experimental data.
+J. Geochem. Explor., 78–79, 697–699.
+
+Laurent Guillou-Frottier et al.
+421
+Sibson, R. H. (1992).
+Fault-valve behavior and
+the hydrostatic-lithostatic fluid pressure interface.
+Earth Sci. Rev., 32, 141–144.
+Sibson, R. H. (2000).
+Fluid involvement in normal
+faulting. J. Geodyn., 29(3–5), 469–499.
+Sonney, R. and Vuataz, F. D. (2009). Numerical mod-
+elling of Alpine deep flow systems: A management
+and prediction tool for an exploited geothermal
+reservoir (Lavey-les-Bains, Switzerland).
+Hydro-
+geol. J., 17(3), 601–616.
+Stanˇek, M. and Géraud, Y. (2019). Granite microp-
+orosity changes due to fracturing and alteration:
+Secondary mineral phases as proxies for porosity
+and permeability estimation.
+Solid Earth, 10(1),
+251–274.
+Steingrímsson, B. (2013).
+Geothermal well log-
+ging:
+temperature ans pressure logs.
+“Short
+Course V on Conceptual Modelling of Geother-
+mal Systems”, organized by UNU-GTP and LaGeo,
+in Santa Tecla, El Salvador, February 24–March
+2, 2013, https://orkustofnun.is/gogn/unu-gtp-sc/
+UNU-GTP-SC-26-07.pdf.
+Stober, I. and Bucher, K. (2007). Hydraulic properties
+of the crystalline basement. Hydrogeol. J., 15, 213–
+224.
+Taillefer, A. (2017).
+Interactions entre tectonique et
+hydrothermalisme: Rôle de la faille normale de la
+Têt sur la circulation hydrothermale et la distribu-
+tion des sources thermals des Pyrénées Orientales.
+PhD thesis, Univ. Montpellier, https://theses.hal.
+science/tel-01704673. 249 p.
+Taillefer, A., Guillou-Frottier, L., Soliva, R., Magri, F.,
+Lopez, S., Courrioux, G., Millot, R., Ladouche, B.,
+and Le Goff, E. (2018).
+Topographic and faults
+control of hydrothermal circulation along dormant
+faults in an orogen.
+Geochem. Geophys. Geosys.,
+19(12), 4972–4995.
+Taillefer, A., Milesi, G., Soliva, R., Monnier, L., De-
+lorme, P., Guillou-Frottier, L., and Le Goff, E.
+(2021).
+Polyphased brittle deformation around
+a crustal fault: A multi-scale approach based on
+remote sensing and field data on the mountains
+surrounding the Têt hydrothermal system (East-
+ern Pyrénées, France). Tectonophysics, 804, article
+no. 228710.
+Taillefer, A., Soliva, R., Guillou-Frottier, L., Le Goff,
+E., Martin, G., and Seranne, M. (2017).
+Fault-
+related controls on upward hydrothermal flow: an
+integrated geological study of the Têt fault system,
+Eastern Pyrénées (France). Geofluids, 2017, article
+no. 8190109.
+Townend, J. and Zoback, M. D. (2000). How faulting
+keeps the crust strong. Geology, 28(5), 399–402.
+Volpi, G., Magri, F., Frattini, P., Crosta, G. B., and
+Riva, F. (2017). Groundwater-driven temperature
+changes at thermal springs in response to recent
+glaciation: Bormio hydrothermal system, Central
+Italian Alps. Hydrogeol. J., 25(7), 1967–1984.
+Wanner, C., Diamond, L. W., and Alt-Epping, P.
+(2019). Quantification of 3-D thermal anomalies
+from surface observations of an orogenic geother-
+mal system (Grimsel Pass, Swiss Alps). J. Geophys.
+Res., 124, 10839–10854.
+Whittington, A. G., Hofmeister, A. M., and Náb˘elek,
+P. I. (2009). Temperature-dependent thermal diffu-
+sivity of the Earth’s crust and implications for mag-
+matism. Nature, 458, 319–321.
+Wisian, K. W. and Blackwell, D. D. (2004). Numerical
+modeling of Basin and Range geothermal systems.
+Geothermics, 33, 712–741.
+Yielding, G., Freeman, B., and Needham, D. T. (1997).
+Quantitative fault seal prediction.
+AAPG Bull.,
+81(6), 897–917.
+Zoback, M. D., Barton, C. A., Brudy, M., Castillo,
+D. A., Finkbeiner, T., Grollimund, B. R., Moos, D. B.,
+Peska, P., Ward, C. D., and Wiprut, D. J. (2003). De-
+termination of stress orientation and magnitude in
+deep wells.
+Int. J. Rock Mech. Min. Sci., 40(7–8),
+1049–1076.

@@ -1,0 +1,1321 @@
+Geofísica Internacional (1994), Vol. 33, Num. 1, pp: 139-151 
+Regional tectonics of western Mexico and its implications 
+for the northern boundary of the Jalisco block 
+Luca Ferraril.z, Giorgio Pasquare1, Saúl Venegasz, Daniel Castilloz and Francisco Romero3 
+I Dipartimento Scíenze del/aTerra, Universita di Milano, Milano, Italia 
+2 Departamento de Exploración, Gerencia Proyectos Geotermoeléctricos, Comisión Federal de Electricidad, Morelia, Mich., 
+México 
+3 Comisión Federal de Electricidad, Residencia El Ceboruco, Ahuacatlán, Nay., México 
+Received: May 3, 1993; accepted: August 25, 1993. 
+RESUMEN 
+El rift Tepic-Zacoalco en el occidente de México se ha considerado como el resultado de un fallamiento dextral y normal 
+de edad Plio-Cuaternaria, producido a lo largo de la frontera norte del bloque de Jalisco debido a un proceso de riftogénesis 
+que lo separa de la placa de Norteamérica. Estudios geológicos y estructurales de campo llevados a cabo en Nayarit y en 
+Jalisco revelan que dicha frontera es más amplia de lo que se había considerado con anterioridad y que desde el Mioceno 
+Tardío no ha habido deformación transcurrente a lo largo de ésta. 
+La estructura en la frontera consiste de un sistema de semifosas y fosas tectónicas que se formaron en tiempos diferentes 
+después de una fase transpresiva de edad Mioceno Medio. Parte de estas estructuras se formaron durante la separación de la 
+Península de Baja California de la parte continental de México en el Mioceneo Tardío- Plioceno Temprano. La tectónica ex-
+tensional del Plioceno Tardío y Cuaternario está concentrada en la parte sur de la frontera y, de acuerdo con datos microtec-
+tónicos, está caracterizada por un patrón del esfuerzo mínimo alineado NNE-SSW. Estos datos, combinados con la dirección _ 
+de la extensión en el graben de Colima, indican un posible desplazamiento del bloque Jalisco hacia la trinchera. Nuestros re-
+,- sultados, en conjunto con estudios sísmicos y de movimientos de placas, hacen dudar de los modelos que hipotetizan un pro-
+ceso de riftogénesis activo para el Plio-Cuaternario del bloque Jalisco. Sugerimos en cambio que la tectónica extensional a 
+lo largo de las fronteras norte del bloque de Jalisco desde el Plioceno Tardío al Cuaternario podría ser un rasgo pasivo indu-
+cido por el movimiento diferencial de la placa Rivera con respecto a las placas adyacentes (placas de Cocos y Pacífico). 
+PALABRAS CLAVE: Tectónica, oeste de México, rift Tepic-Zacoalco, bloque de Jalisco, riftogénesis pasiva. 
+ABSTRACT 
+The Tepic-Zacoalco rift of western Mexico had been considered the result of right-lateral and normal faulting of Plio-
+Quatemary age produced along the northern boundary of the Jalisco Block by its rifting away from the North America plate. 
+Geologic and structural field studies in the States of Nayarit and Jalisco revealed that the boundary is wider than previously 
+reported and that since late Miocene no major strike-slip deformation has been occurring along it. 
+The structure of the boundary consists of a system of half-grabens and grabens which formed at different times after a 
+transpressional phase of middle Miocene age. Part of these structures formed in connection with the separation of Baja 
+California from mainland Mexico in late Miocene-early Pliocene. The late Pliocene and Quatemary extensional tectonics is 
+mainly concentrated in the southern part of the boundary and according to microtectonic data is characterized by an average 
+NNE-SSW trending minimum stress axis. These data, combined with the direction of extension in the Colima graben, 
+indicate a possible trenchward displacement of the Jalisco Block. Our results, together with seismological and plate motion 
+studies raise doubts about the models which hypothesise a Plio-Quaternary active rifting of the Jalisco Block. We suggest 
+instead that the late Pliocene to Quaternary extensional tectonics along the Jalisco Block boundaries could be a passive fea-
+ture induced by the differential motion of the Rivera plate with respect to the adj!lcent Cocos and Pacific plates. 
+KEY WORDS: Tectonics, western Mexico, Tepic-Zacoalco rift, Jalisco block, passive rifting. 
+INTRODUCTION 
+Westem Mexico displays a peculiar type ofvolcanism 
+and a complex tectonic evolution which reflects the geo-
+dynamic setting of the region. The young oceanic crust of 
+the Rivera Plate has been subducting beneath the North 
+America plate with an absolute motion independent from 
+the adjacent Cocos and Pacific plates at least from the 
+Pliocene (DeMets and Stein, 1991; Stock, 1993) (Figure 
+1). The continental tectonics of westem Mexico is domi-
+nated by three extensional fault systems with a ·broad N-
+S, E-W and NW-SE orientation which forma triple junc-
+139 
+tion sorne 50 km south-southwest of Guadalajara 
+(Demant, 1981) (Figure 1). They roughly define·three 
+elongated depressions which have been called Colima, 
+Chapala and Tepic-Zacoalco rifts (Luhr et al., 1985). The 
+finding of unusual varieties of alkaline lavas of Plio-
+Quatemary age in this region led to hypothesise the 
+existence of active rifting that might cause the separation 
+of a microplate, the Jalisco Block (JB), from the North 
+America plate along the Colima and Tepic-Zacoalco rifts 
+(Luhr et al., 1985; Allan et al., 1991; Wallace et al., 
+1992). This model implicitly assumes that subduction of 
+the Rivera plate has stopped. It predicts that the JB will 
+
+L. Fe"ari et al. 
+NORTH AMERICA 
+RIVERA 
+19 
+PACIFIC 
+cocos 
+107 
+101 
+Fig. l. Geodynamic framework of westem Mexico. The four main plates are indicated in capitol letters. Double line shows the 
+oceanic ridge. TFZ = Tamayo fracture zone; BNF =Barra de Navidad fault (Bourgois and Michaud, 1991); MG =Manzanillo graben; 
+TZR = Tepic-Zacoalco rift; CR = Colima graben; G = Guadalajara. Dashed line indicate the study area. Marine geology based on 
+DeMets and Stein (1990). Late Miocene to recent continental faults based on this work and our unpublished studies. 
+be accreted to the Pacific plate. Marine geophysical inves-
+tigations have supported this conclusion (Bourgois et al., 
+1988; Bourgois and Michaud, 1991), although would ac-
+cretion of the JB occur to the north of the Tamayo frac-
+ture zone and the Barra de Navidad fault (Figure 1). In 
+both cases, the motion of the JB would be westward or 
+northwestward with pure normal faulting in the Colima 
+rift and with a combination of normal and right-lateral 
+faulting in the Tepic-Zacoalco rift (Allan et al., 1991; 
+Bourgois and Michaud, 1991). 
+An altemative interpretation proposes that the Colima 
+rift is a passive feature produced (a) by east-southeastward 
+displacement of the southem Mexico continental blocks 
+(Michoacán and other blocks, Figure 1) induced by the 
+oblique subduction of the Cocos plate (DeMets and Stein, 
+1990), or (b) in response to tensional stresscs induced in 
+the overriding plate by the subduction of the Rivera-Co-
+cos plate boundary (Barrier et al., 1990; Bandy and Hilde, 
+1992). Seismological studies (Eissler and McNally, 
+1984; Singh et al., 1985) and model of current plate mo-
+tion (DeMets and Stein, 1990) suggest that the subduc-
+140 
+tion is still active for a considerable length of the Rivera 
+subduction zone. 
+Recent field studies of continental tectonics indicates 
+that, in the triple junction'area, the three rifts developed 
+at different times since the late Miocene (Barrier et al., 
+1990; Michaud et al., 1991, 1992). The E-W Chapala rift · 
+formed first between late Miocene and early Pliocene 
+(Delgado, 1992), whereas the extension seems to be pre-
+sently active 20 km to the south, in the Citala graben 
+(Garduño ·and Tibaldi, 1991). The extension in the north-
+empart of the Colima rift started in early Pliocene (¡\Han, 
+1986) and, according to local seismological recordings, 
+seems to be active today (Suárez et al., 1991). Anyway, 
+no extensional tectonics seems to have occurred in late 
+Tertiary and Quatemary south of Colima volcano (Serpa 
+et al.,1992). The Tepic-Zacoalco rift has been considered 
+a broad graben or rift (Demant, 1981; Luhr et al., 1985), 
+ora combination of extensional and right-lateral strike-
+slip structures (Barrier et al., 1990; Allan et al., 1991). 
+Microtectonic studies (Quintero and Guerrero, 1992) re-
+ported a variety of extensional stress regimes all over the 
+area in Plio-Quatemary times. 
+
+No comprehensive studies exist on the structure and 
+the kinematics of the northem boundary of the JB. In this 
+paper we present a first analysis of late Miocene to recent 
+tectonic evolution of the boundary, based on regional ge-
+ologic mapping anda preliminary macro- and mesostruc-
+tural study of the main fault systems. The principal re-
+sults are: (1) since late Miocene no majar strike-slip de-
+forrnation has been occurring along the northem boundary 
+of the JB; (2) th(( boundary is wider than previously re-
+ported and consists of various extensional structures re-
+lated to different geodynamic events; (3) the neotectonic 
+activity is weak and is mainly concentrated in the south-
+em part of the boundary; (4) according to the Quatemary 
+direction of extension the possible displacement of the 
+Jalisco Block is trenchward. 
+REGIONAL GEOLOGY 
+The study area covers the western sector of the Plio-
+Quatemary Mexican Volcanic Belt (MVB) in the States 
+of Nayarit and Jalisco (Figure 1 and 2). In this area the 
+WNW trending main axis of the MVB separates two dif-
+ferent domains: the Sierra Madre Occidental (SMO) vol-
+canic are (McDowell and Keitzer, 1977; McDowell and 
+Clabaugh, 1979) in the northeast, and the JB in the 
+southwest (Figures 1 and 2). 
+The MVB consists mostly of basaltic cinder eones and 
+shield volcanoes, andesitic to dacitic stratovolcanoes and 
+dacitic to rhyolitic domes. Most of these volcanics yield 
+Plio-Quatemary radiometric ages (Nixon et al., 1987 and 
+references herein; Wallace and Carmichael, 1989; Lange 
+and Carmichael, 1991; Righter and Carmichael, 1992a). 
+Within the SMO domain, pre-Tertiary argillites and 
+limestones are intruded by granite plutons of late Oligo-
+cene age (Gastil et al., 1979a; Soto and Ortega, 1982). 
+These rocks are locally exposed in scattered outcrops 
+along the lower part of the Río Grande de Santiago 
+canyon. The greater part of the area, however, is covered 
+by andesites and ignimbrites belonging to the SMO vol-
+canic sequence which is at least 1, 000 m thick along the 
+Río Grande de Santiago (Figure 2). North of the studied 
+area, the ages of this volcanic province are grouped 
+within 38-35 Ma, 31-26 Ma and around 23 Ma (see re-
+view in Montigny et al., 1987; Demant et al., 1989). In 
+the study region, the SMO ignimbrites cover a younger 
+time span ranging between 35 Ma and 19 Ma east of 
+Tepic (Figure 2) (Damon et al., 1979; Soto and Orte¡a, 
+1982), and between 24 and 17 Ma in the Presa de Santa 
+Rosa area (Figure 2) (Nieto et al., 1985, Quintero et al .. 
+1992). In the area north of Te pie and north of Guadalajara 
+the SMO ignimbrites are covered by basalts and subordi-
+nate ignimbrites of late Miocene age (Watkins et al., 
+1971; Gastil et al., 1979a; Nieto et al. 1985; Moore and 
+Carmichael, 1991). A rhyolitic and ignimbritc sequence 
+also cover the SMO ignimbrites south of the Río Grande 
+de Santiago between Santa Maria del Oro and. Plan de 
+Barranca (Figure 2). Field stratigraphic relationships sug-
+gest a late Miocene age for these rocks. 
+Tectonics ofW Mexico and the N boundary ofthe Jalisco block 
+The basement of the JB is consists of pre-Tertiary 
+rhyolitic ash-flow tuff and andesites, volcanoc1astic depo-
+sits and turbiditic sequences resting on granitoid plutons. 
+Early Tertiary andesites and dioritic dikes are locally ex-
+posed in the northem part of the JB (Gastil et al., 1979a; 
+Lange and Carmichael, 1991) whereas late Miocene 
+basalts are emplaced along the Pacific coast north of 
+Punta Mita (Figure 2) (Gastil et al., 1979a and b). 
+Basaltic and lamprophiric lavas of Plio-Quaternary age 
+unconforrnably cover the basement of the JB in the San 
+Sebastián and Mascota areas and along the Río 
+Atenguillo valley (Figure 2) (Wallace and Carmichael, 
+1989; Lange and Carmichael, 1990; Righter and 
+Carmichael, 1992a). These volcanics are regarded as the 
+potassic volcanic Iront of the western MVB (Lange and 
+Carmichael, 1991). 
+Dating of the ignimbrites exposed in the JB yield a K-
+Ar age of 114 Ma (Gastil et al., 1979a) anda 39/40Ar age 
+of 80 Ma (Wallace and Carmichael, 1989) whereas the 
+age of emplacement of the granitoids range between 106 
+Ma and 85 Ma (Zimmerrnann et al., 1988; Kohler et al., 
+1988). This suggests that all these rocks are part of the 
+same late Cretaceous magmatic are which had been rec-
+ognized southeastward along the Guerrero terrane (Campa 
+and Caney, 1983; Monod et al., 1993) and do not belong 
+to the SMO volcanic are. 
+STRUCTURE, KINEMATICS AND TIME OF 
+FAULTING 
+Introduction 
+In the study area, pre-late Miocene rocks are affected 
+by strike-slip and compressional deforrnation at various 
+scales. Large folds involving SMO ignimbrites are ex-
+posed 15 km east of Santa María del Oro (Figure 2); their 
+en-echelon arrangement suggests a possible origin by 
+left-lateral transpression along 130°-140° striking base-
+ment faults. The age of deformation is limited to the 
+middle Miocene since the folds involve ignimbritic units 
+dated 19 Ma which are cut by 12-10 Ma old basic dikes 
+which are not folded (Damon et al., 1979). Many left-lat-
+eral reverse fau1ts were observed southeastward along the 
+Plan de Barrancas highway (Figure 2), left-lateral strike-
+slip faults are present further south-east along the Río 
+Santiago and at the Santa Rosa dam (Figure 2). A 
+mesostructural study of this deformation phase is in 
+progress in order to understand its kinematics. 
+In the area comprised between the Río Grande de 
+Santiago valley to the north and the Río Ameca valley to 
+the south (Figure 2), the compressional and strike-slip 
+structures are cut by normal fault systems. This broad 
+area includes the Tepic-Zacoalco rift as defined by Allan 
+et al. (1991), and the Ameca River Tectonic Depression 
+of Nieto et al. (1992). It should be regarded as the 
+complex boundary of the JB. In the following section we 
+describe the extensional systems of this area from north 
+to south. The motion of the main faults was deduced 
+according to the geometry of the structures and by direct 
+141 
+
+-
+""" 
+N 
+21"30' 
+21°00' 
+OC EAN 
+PAC/FIC 
+~ ~-1
+¡
+::-t-
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ .·~ 
+. ·~· .. 
+• 
+• 
+• + +¡¡:.+ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ • 
+• 
+• 
+S.Sebast1an 
++ 
++ 
+++++. +++++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ '+ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ .;¿:;¡ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+·e!>~ + 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ • + 
+Legend 
+f++l~~o~r::<P\1 
+~1 ~2~3 
+4~5~6 
+~7~8~9 
+........... 10 
+e 12 
+.-
+15 
+13 
+11 
+o 
+10 
+20 
+30 km 
+N 
+db 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+. + 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
+... 
+... 
++ 
++ 
++ 
++ 
++ 
++ 
+105"30' 
+105°00' 
+104°30' 
+104°00' 
+Fig. 2. Geologic and structural map of the northem boundary of the Jalisco Block. l=Jalisco Block domain (Cretaceous to Eocene); 2=SMO sequence (Oligocene to middle 
+Miocene); 3=Late Miocene basalts (a) and rhyolites (b); 4=Pliocene and Quatemary volcanics of MVB; 5=Quatemary alluvial and coastal deposits; 6=main stratovolcanoes of 
+MVB. 7=sincline fold; 8=anticlipe fold; 9=normal fault; lO=inferred normal fault; ll=attitude of SMO ignimbrites (number indicates measured inclination); 12=eraters and cal-
+deras; 13=Quatemary volcanic vents. Geologic limits dashed when inferred. Circled capitol letters refer to the sites of the structural stations presented in Fig. 3 and 4. 
+PFS=Pochotitán fault system; CG=Compostela graben; CHG=Ceboruco half-graben; CMG=Cinco Minas grilben; SRF=Santa Rosa fault; AHG=Amatlán de Canas half-graben; 
+PVG=Puerto Vallarta graben. VSJ=Volcán San Juan; VN=Volcán Las Navajas; VS=Volcán Sanganguey; VT=Volcán Tepetiltic; VC=Volcán Ceboruco; VTE=Volcán Tequila. 
+~ ¡ 
+-· 
+"' 
+..... 
+~ 
+
+observation of fault slip. When feasible, these data were 
+used to determine the paleo-stress field. 
+Pochotitán fault system 
+Allan et al. (1991) named Pochotitán fault system 
+(PFS) a group of NNW -SSE lineaments running approx-
+imately along the Río Grande de Santiago. In the field, 
+the PFS consists of a system of listric normal faults 
+which sharply displaces the SMO sequences downward 
+about 20 km east of Tepic. Most of the faults are concen-
+trated in a 10-km-wide belt between volcán Las Navajas 
+and the Río Grande de Santiago; the master fault is 
+located east of the river. In this area the SMO ignimbrites 
+outcrop in faulted blocks, tilted up to 35° towards NE in 
+a domino-like structure. Individual faults strike 140°-155° 
+and dip toward the SW with a dominant dip-slip motion. 
+The total vertical displacement is estimated at over 1, 000 
+m. Microtectonic measurements in the SMO ignimbrites 
+along the PFS indicate a mínimum extensional stress 
+(cr3) oriented 65°-85° (Figure 3 A, B1 andC). A second 
+phase of extension with a NE-SW direction of extension 
+has also been observed (Figure 3 B2). A normal fault par-
+allel to the PFS (but with much less displacement) cut 
+the Tepic caldera (Figure 2), which we consider of late 
+Miocene age on a stratigraphical basis. The PFS ends to 
+the sollth at the latitude of Sanganguey volcano. 
+Geologic evidence constrains the age of normal fault-
+ing along the PFS to the late Miocene. A sequence of 
+basaltic flows which rests unconformably over the SMO 
+tilted block gave ages of 11.2 and 9.9 Ma north of Tepic 
+and 8.7 and 4.3 Ma north-east of Sanganguey volcano 
+(Gastil et al., 1979b; Soto and Ortega, 1982). In addition 
+many basic dikes dated 11.7 to 10.9 Ma (Damon et al., 
+1979; Soto and Ortega, 1982) cut the SMO units east of 
+Río Grande de Santiago; they strike parallel to the PFS 
+and are thought to be contemporaneous with the onset of 
+this phase of extension. Furtheremore the PFS displays a 
+geometry and a direction of extension very similar to 
+other extensional fault systems of late Miocene age 
+which border the Pacific coast north of the study area 
+(Henry, 1989). 
+On the strength of these data we conclude that the Po-
+chochitán fault system represents the southemmost part 
+of the "Gulf Extensional Province" (Gastil et al., 1975) 
+which accompanied the initial opening of the Gulf of Ca-
+lifornia in late Miocene time (Stock and Hodges, 1989). 
+Santa María del Oro graben 
+This 8-km-wide graben is cut into the SMO ignim-
+brites at about 15 km southwest of Sanganguey volcano 
+(Figure 2). It is bordered by two normal faults striking 
+150° with a mínimum of 300 m of vertical offset. Seve-
+ral cinder eones and the vent of Sanganguey volcano mark 
+the prolongation toward the NW of the southem fault of 
+the graben. The graben is filled by Pliocene and Quater-
+nary basaltic flows (Gastil et al., 1979a), which limits its 
+formation to the late Miocene or earliest Pliocene. 
+Tectonics ofW Mexico and the N boundary ofthe J~lisco block 
+Mecatán graben 
+The 20-km-wide Mecatán graben is located in the 
+coastal area west of Tepic where MVB volcanics are cut 
+by three major normal fault with an E-W orientation 
+(Figure 2). Because of intense alteration, no kinematic in-
+dicators have been observed on the fault planes. The 
+faults have a topographic scarp of about 140m and cut a 
+volcanic plateau dated 3.1 to 3.4 Ma (Righter and Carmi-
+chael, 1992b), but they do not affect lava flows from a re-
+cent centre 5 km south of Mecatán. 
+Compostela - Santa Rosa fault system 
+Between Compostela and the Santa Rosa dam several 
+WNW-ESE striking normal faults are arranged in en-
+echelon pattem (Figure 2). They define five extensional 
+structures: the Compostela graben, the Ceboruco and the 
+Plan de Barranca half-grabens and the Cinco Minas and 
+Santa Rosa faults. 
+The Compostela graben is formed by two 125°-130° 
+striking normal faults which border a 10-km-wide depres-
+sion. The faults cut a rhyolitic complex of probable late 
+Miocene age in the north and the JB basement in the 
+south; they are mostly covered by Plio-Quaternary vol-
+canics of the MVB. The topographical offset is about 300 
+m, yet the real vertical displacement could be as much as 
+1, 000 m according to a high-resolution gravity survey 
+(CFE unpublished data on the San Pedro-Ceboruco 
+geothermal prospect). No clear kinematic indicators were 
+detected, but the geometry of the faults suggests that they 
+are mostly dip-slip. The age of faulting is late Miocene 
+or early Pliocene since a rhyolitic dome complex of 2.3 
+Ma (Gastil et al., 1979b) lies in the westem part of the 
+graben and is not affected by these faults. Pliocene rocks 
+are cut by NNE-SSW and NE-SW striking normal faults 
+which downthrow the eastem part of the graben (Figure 
+2). Striated fault planes with the same orientation cut the 
+NW -SE faults in the adjacent SMO and JB rock units to 
+the north and to the south of the graben; fault slip data 
+inversion gave a NW-SE to WNW-ESE trending cr3 
+(Figure 3D andE). Dacitic domes dated 1.4 ± 0.28 Ma 
+and a basaltic shield volcano dated 1.1 ± 0.3 Ma (C.F.E. 
+1991a) south of San Pedro are unaffected by these faults; 
+this constrains the extensional phase to the Pliocene. 
+The Ceboruco half-graben (CHG) is formed by two 
+120° striking listric faults that dip to the SW and tilt 
+about 20° to the NNE the Sierra Guamuchil block. The 
+northernmost fault has a 500 m high scarp cut .into a 
+rhyolitic and ignimbritic sequence attributed to middle or 
+late Miocene (Soto, 1991); the other parallel fault is re-
+vealed by the alignment of several cinder eones and domes 
+and the vents of Ceboruco and Tepetiltic volcanoes 
+(Figure 2). According to geologic data provided by a 
+geothermal exploration well recently drilled under the 
+southern flank of Ceboruco volcano, the total vertical 
+offset of the CHG faults is at least 800 m. The geomor-
+phic ~eature~ of the fau~t. scarp rule out a Quatemary age 
+for thts faultmg. In addttton, the CHG is filled by at least 
+143 
+
+L. F e"ari et al. 
+A 
+u 111! 
+•.•. u 2 
+LF 
+SI 
+111 IZ.Jt 
+52 
+357 3 + 
+S3 
+267 
+7 
+,.. 
+phi • O.JD 
+• 
+e 
+U IIIZ 
+LOZZ 
+LF 
+SI 
+258 7 5 • 
+S2 
+154 4 + 
+S3 
+63 
+15 ,.. 
+p h 1 . o .35 
+E 
+U IIIZ 
+S. &u A 1 
+Lf 
+S 1 
+11 o 80 • 
+H 
+13 
+1 + 
+)j 
+Z8Z 
+10 ,.. 
+p~l . o .34 
+144 
+N 
+N 
+• 
+N 
+B 
+u 1112 
+CIF r 
+N 
+LF 
+SI 
+zzs u .. 
+sz 
+125 4 + 
+S3 
+34 
+Z1 
+.... 
+p h 1 . o. z 7 
+2 
+D 
+U IIU 
+TEPE. 1 
+N 
+LF 
+S 1 
+14 
+71 .. 
+S2 
+ZZ7 
+1li + 
+S3 
+134 
+ID 
+.... 
+p h 1 . o. 4 7 
+Fig. 3. Selected stereograms (Schmidt projection, lower he--
+misphere) of structural stations of the late Miocene and Plio-
+cene normal 'faults. When data were sufficient the stress ten-
+sor was calculated with a software package based on the fault 
+slip inversion method presented in Angelier (1990). The 
+principal stress directions (Sl, S2 and S3) and the tensor 
+shape (phi) are given for each site. Small arrows on great cir-
+cles represent the stria direction measured on the fault plane 
+of the footwall block. Small triangles on great circlcs indi-
+cate calculated (theorical) striae. For each fault the angle be-
+tween measured and calculated stria is less than 20°. Letters at 
+the right top of stereograms indicate the site of measure-
+ments shown in Fig. 2 and discussed in the tcxt. 
+
+F 
+u un 
+" . 
+LF 
+SI 
+IZI 87 
+52 
+305 3 
+53 
+3i 
+D 
+p h 1 . 0.42 
+H 
+u 1112 
+"1 
+LF 
+Sl 
+52 
+53 
+52 
+301 16 
+S3 
+ZGQ 
+3Z 
+phi . Q. &1 
+J 
+u 1112 
+UE 1 
+LF 
+.. 
++ 
+.... 
+.. 
++ 
+.... 
+SI 
+U 
+71 .. 
+$2 
+109 1 + 
+S3 
+lU 19 
+.... 
+phi • 0.31 
+N 
+Tectonics ofW Mexico and the N boundary ofthe Jalisco block 
+G 
+ll uu 
+S.Ul l 
+N 
+LF 
+SI 
+lU 78 .. 
+sz 
+UD z + 
+53 
+ZQ 
+lZ .... 
+p h 1 . Q,QI 
+1 
+u 1112 
+N 
+" 
+2 
+LF 
+SI 
+129 64 .. 
+S2 
+3Gt Z6 + 
+53 
+3t 
+G 
+.... 
+phi . Q. 18 
+Fig. 4. As in Fig. 3 for Pliocene and Quatemary faults. 
+145 
+
+250 m of andesites and dacites (CFE unpublished wells 
+data) which correlate with the Pliocene sequence of the 
+San Pedro area. This implies that the formation of the 
+CHG took place in early Pliocene or even earlier. 
+The Plan de Barrancas half-graben is constituted by 
+several120° striking and NE dipping Iistric normal faults 
+distributed between the village of the same name and the 
+Río Grande de Santiago (Figure 2). The main fault has at 
+least 400 m of vertical displacement and cuts the JB 
+basement and the SMO sequence which is tilted 20°-30° 
+to the SSW. Slickensides on the fault planes indicate 
+dominant dip-slip motion produced by a NE-SW trending 
+a3 (Figure 4F). West ofPlan de Barrancas a rhyolitic and 
+ignimbritic secuence is tilted only 15° and is probably 
+contemporaneous with the faults movement. A younger 
+ignimbrite covers in unconformity the SMO tilted block 
+east of Plan de Barranca and overlies basal tic flows clear-
+ly correlated with the ones dated 3.77 Ma (Nieto et al., 
+1985) in the nearby Cinco Minas area. This implies that 
+these faults were active in early Pliocene or earlier. Along 
+the prolongation of this fault system, toward the south-
+east, is the prominent alignment of vents of the Tequila 
+volcano and other minor cinder eones. In between, the 
+Plan de Barrancas faults disappear under Pliocene volcan-
+ics and Quatemary alluvial sediments of the Magdalena 
+plairi. 
+The 135° striking Cinco Minas graben has been de-
+scribed by Allan et al. (1991). According to the stratigra-
+phic relations of the rock units dated by Nieto et al. 
+(1985) they concluded that at least 400 m of dip-slip mo-
+tion occurred along the northeastern fault before early 
+Pliocene. About 100 m of additional displacement took 
+place during Pliocene. 
+The 120° striking Santa Rosa fault forms the south-
+eastern extension of the Cinco Minas fault (Figure 2). In 
+the Santa Rosa dam area, Garduño and Tibaldi (1991) and 
+Michaud et al. (1991) found evidence of several phases of 
+deformation. Here a 16.9 Ma old ignimbritic sequence 
+(Nieto et al., 1985) was affect~ by transcurrent tectonics 
+(Santa Rosa shear zone) followed by two extensional 
+episodes. The transcurrent motion was first left-lateral 
+(Michaud et al., 1991) and then right-lateral (Garduño and 
+Tibaldi 1991). It took place before 8.52 Ma because 
+basal tic flows of this age are not affected ( dating in Nieto 
+et al., 1985). The inain extensional phase took place be-
+fore 4 Ma (Michaud et al., 1991) with a NE-SW trending 
+a3 which reáctivated the Santa Rosa shear zone, produc-
+ing a mínimum of 500 m of vertical displacement. bther 
+smaller normal faults indicate the occurrence of a second 
+extensional phase with a NW -SE trending a3 during the 
+Pliocene (Quintero and Guerrero, 1992). The fault is 
+presently inactive since a late Pleistocene basaltic cone is 
+not affected by the extensional tectonics (Michaud et al., 
+1991), Quintero et al. (1992). 
+While the age of faulting is not well constrained for 
+each of the structures of the Compostela-Santa Rosa fault 
+system, their geometric and kinematic similarity strongly 
+146 
+suggests that they developed jointly during late Miocene 
+and/or early Pliocene times. 
+Amatlán de Cañas half-graben 
+The Amatlán de Cañas half-graben (AHG) is produced 
+by a 40-km-long listric normal fault which strikes 150° 
+and 80° in its eastern and western part respectively 
+(Guamuchil fault, Nieto et al., 1992). The fault is a sin-
+gle entity and its curvature is probably an inherited fea-
+ture of the Sierra Guamuchil basement block which, ac-
+cording to microtectonic measurements, has been reacti-
+vated by a NNE-SSW trending a3 (Figure 4G). The 
+Guamuchil fault displaces by at least 1000 m down to-
+ward the south a block containing a basaltic plateau of 
+late Pliocene to middle Pleistocene age (Righter and 
+Carmichael 1992a). According to paleomagnetic data, ba-
+salts from this plateau have been tilted about 15° toward 
+the N (Nieto et al., 1992). A conglomeratic sequence pro-
+duced by the erosion of the Sierra Guamuchil is often in-
+tercalated with the basalts. In the western part of the 
+AHG it is tilted up to 24° toward the NNW. The fault 
+scarp displays well-preserved triangular facets. The con-
+glomerate is also cut by small normal faults. These ob-
+servations suggest that the Guamuchil fault was probably 
+active during the Quaternary. 
+Puerto Vallarta graben. 
+The Puerto Vallarta graben (PVG) is formed by two 
+main 35°-45° striking fault systems which drop (at least 
+600 m) a plutonic complex dated 85 Ma (Zimmermann et 
+al., 1988). On the eastern part of the graben other minor 
+faults strike 70° (Figure 2). Microtectonic measurements 
+at one site near the NW border fault in the granite show 
+oblique extension with a 20° trending a3 (Figure 4H); a 
+similar direction of extension was found in all undated ig-
+nimbrite at the northeastern tip of the graben (Figure 4I). 
+Extension in this direction could not have produced the 
+greater part of the depression and is probably related to a 
+subsequent reactivation. A poorly consolidated fluvial 
+conglomerate in the SE part of the graben is also affected 
+by 30°-40° striking normal faults with a mínimum verti-
+cal drop of 50 m. We found only one striated fault plane 
+with a pitch of 60° toward the W. 
+No absolute datings constrain the age of formation of 
+the PVG. Nevertheless, as BOhnel et al. (1992) pointed 
+out the age and the isotopic similarity between the Los 
+Cabos and the Puerto Vallarta batholiths indicates that 
+the southern tip of Baja California was located along the 
+coast north of Punta Mita (Figure 2) prior to detachment 
+of the península. Since the PVG parallels the rifted mar-
+gins of.those batholiths we suppose that it developed dur-
+ing the final separation of Baja California from the North 
+America plate, in late Miocene-early Pliocene times 
+(Stock and Hodges, 1989). However, the faulting of the 
+infilling conglomerate requires that tectonics was still ac-
+tive in recent times. 
+Ameca faults 
+A horst of Cretaceous granite belonging to the JB 
+basement rise up to 2600 m a.s.l. at about 5 km north of 
+
+Ameca (Figure 2). The horst is bounded to the south by 
+a 15 km long normal fault striking 80° to 110°. Fault 
+slip was measured at one site north of Ameca. The ob-
+served motion was dominant dip-slip with a small right-
+lateral component and gave a NNE-SSW cr3 (Figure 41). 
+The fault scarp displays a fresh morphology but no other 
+data help in determining the age of faulting. 
+DISCUSSION AND CONCLUSIONS 
+The geologic and structural data reported in the previ-
+ous sections indicate that the northern boundary of the 
+Jalisco block underwent a multiphase tectonic evolution 
+since the Miocene. We will presenta preliminary inter-
+pretation of these data and will discuss their main impli-
+cations for the tectonics of the JB. 
+Geodynamic evolution 
+When analyzed at a global scale, the tectonics of the 
+region appears to be strictly related to the geodynamic 
+evolution of the Pacific margin of Mexico. The middle 
+Miocene transpressive phase is coeval with the final sub-
+duction of the Guadalupe plate and the progressive colli-
+sion between the East Pacific Rise and the North America 
+plate along southern Baja California (Mammerickx and 
+Klitgord, 1982). This process took place between 20 and 
+10.6 Ma with a relative convergence motion oriented 
+303°-317° (Stock and Hodges, 1989). This vector implies 
+an oblique convergence which should have produced a 
+left-hand transpression within the continent. The left-lat-
+eral faulting at the Santa Rosa dam and in the Plan de Ba-
+rranca area and the en-echelon folds of the SMO ign-
+imbrites, may be the result of this geodynamic event. 
+The late Miocene onset of E-W to ESE-WNW exten-
+sion along the PFS correlates well with the late Miocene 
+circum-gulf extension (Gastil et al., 1975) which, as 
+Stock and Hodges (1989) pointed out, was caused by the 
+Pacific-North America relative motion in the period 10.6 
+- 5.5 Ma, prior to the definitive separation of Baja Cali-
+fornia from mainland Mexico. 
+Due to the uncertainity about the age of faulting and 
+about the exact direction of extension in sorne areas, the 
+interpretation of the region south of the PFS is more 
+complicated and still speculative. At the present state of 
+the art we can propase the following scenario. 
+The en-echelon arrangement of the Compostela-5'dnta 
+Rosa fault system (CSFS) could be the product of right-
+lateral transtension along a 110° trending deformation 
+belt, probably related to right-lateral strike-slip motion 
+observed at the Santa Rosa dam (Garduño and Tibaldi, 
+1991). If this assumption is correct, the CSFS could 
+have originated in response to a initial displacement of 
+the JB toward the WNW, probably together with the Baja 
+California península (Figure 5A), and it might have acted 
+as a transfer zone accommodating the extension in the 
+PFS with the extension occurring further to the east 
+(diffuse or localized in the Guadalajara area). In this hypo-
+Tectonics ofW Mexico and the N boundary ofthe Jalisco block 
+thesis the brief right-lateral transtension started at about 
+10 Ma and tumed to extension at the end of late Miocene 
+(with crl replacing cr2 as the vertical stress and cr3 re-
+maining NE-SW oriented) following the plate reorgani-
+zation which led to the separation of Baja California and 
+to the individualization of the Rivera plate (Figure 5B-1 ). 
+The detachment of Baja California created a new rift along 
+the coast north of Punta Mita and led to the formation of 
+the PVG and toa generalized NW-SE extension "in the 
+western part of the study area. This rift, together with the 
+CSFS and the PFS, formed a rift-rift-rift continental 
+triple junction in the Tepic area (Figure 5B-2). 
+During the late Pliocene and Quaternary, a new exten-
+sional tectonics affected the coastal area (Mecatán graben) 
+and the southern part of the JB boundary (Zacoalco fault, 
+AHG, PVG and perhaps the Ameca fault)(Figure 5C). A 
+local seismic network operating during a 1-year-long sur-
+vey in 1990 (C.F.E., 1991b) recorded only 8 events of 
+Magnitude 53 in the study area (Figure 2) these were lo-
+cated in the AHG and PVG. Microtectonic data (Barrier et 
+al., 1990, this work) and cinder eones alignments (Suter, 
+1990) indicate that the Quaternary extensional,regime is 
+characterized by a NNE-SSW trending cr3. This stress 
+field, however, would allow the uprising of mafic mag-
+mas also along suitably-oriented old faults in other part 
+of the studied area. 
+Implications for the evolution of the Jalisco 
+block 
+The deformations along the northern boundary of the 
+Jalisco block have been related by Luhr et al. (1985), 
+Bourgois et al. (1988) and Allan et al. (1991) to the west-
+ward rifting of the JB away from Mexico mainland and its 
+progressive transfer to the Pacific plate. The model is 
+based on three main assumptions: (a) the presence of a 
+component of right-lateral motion along the Tepic-Zaco-
+alco rift, (b) progressive inactivation of the Rivera-Pacific 
+Rise and of the Acapulco trench west of the Manzanillo 
+graben (Figure 1), and (e) active spreading at the Guadala-
+jara triple junction. As a result of our study and other re-
+cent works all these hypotheses are questionable. 
+1) We show that the northern boundary of the JB is not 
+restricted to the so-called Tepic-Zacoalco rift but com-
+prises a wide region developed between late Miocene 
+and Quaternary. This region is characterized by exten-
+sional tectonics, and no major trascurrent faulting has 
+been occurring in Plio-Quaternary times. Many of the 
+extensional structures developed in late Miocene and/or 
+early Pliocene, more likely in relation to the opening 
+of the Gulf of California. 
+2) The late Pliocene and Quatemary extensional structures 
+are sparse and developed mainly in the southern part of 
+the boundary. The rate of Quaternary extension is low 
+and the seismicity is scarce far from the triple junction 
+area. Similarly in the Colima rift the seismicity seems 
+concentrated in the northern part of the structure 
+147 
+
+-
+~ 
+00 
+' \ 
+0 
+\ 
+® " " 
+\ 
+® 
+--- ~ 
+- ~ 
+~ TJ' 
+~ 
+-, 
+'¡ 
+_/"-""-'X~ ' 1 
+\ 
+1 
+;.>' 
+'<. 
+/ 1 . 
+'<.._ 1/Z 
+\\ ~~ ~ 
+..._">.."" 
+\. 
+. -- ~F$ 
+'--.__ /Í \.~\ : 
+\_CSFS 
+\y 
+• ''""-~" 
+~ 
+\ BC l 
+-
+)---.._ 
+\ 
+\ 
+" " 
+~ 
+......... , ~~~ 
+'<...~ 
+~Pi 
+\ 
+~ 
+11 ~ 
+2 
+', 
+\.~ 
+m 
+>.... 
+\ 
+\ 
+~.· · 
+' 
+\..../, 
+? 
+1 
+/RPR 
+(1 
+JB 
+-:;;; 
+.......... 
+RP 
+~ 
+RP 
+~----
+"' ...... I
+' 
+-........... 
+AHGI\ 
+" .... ~t., 
+'\ ~ 
+......... 
+~~\~ 
+~ ~ ~ 
+t2 
+~f 
+\
+ul \, 
+1( 
+t 
+..<'it \\\,
+1 
+· . . / 
+Fig. 5. Speculative tectonic evolution of westem Mexico since the end of middle Miocene discussed in the text. A= 10-8 Ma; B = 8-3 M a (l=late Miocene, 2=early Pliocene). C 
+= late Pliocene-Present. TJ =paleo-triple junction. Large arrows indicate absolute motion of blocks; small arrows indicates mean direction of horizontal stresses deduced from 
+fault slip data inversion presented in this work, in Barrier et al. (1990) and Garduño and Tibaldi (1991). Question mark indicates inferred directions. Thin arrows starting at the 
+trench indicate relative motion direction between Rivera and North America plates as predicted by DeMets and Stein (1990) 3.0-M.y.-average model. BC =Baja California; RP = 
+Rivera Plate; JB =Jalisco Block; RPR=Rivera-Pacific Rise; CSFS=Compostela-Santa Rosa fault system; RTF=Rivera Transform Fault. Other abbreviations as in Fig. 2. 
+!:'"" 
+"'!'J 
+~ 
+§. 
+~ 
+~ 
+
+(Suárez et al., 1991), whereas the southern part of the rift 
+seems inactive (Serpa et al., 1992). 
+3) The asymmetric geometry of most of the structures 
+which form the Plio-Quaternary boundary of the Jalisco 
+block suggests that they are detachment faults typical 
+ofpassive rifting (Wernicke, 1985; Lister et al., 1986). 
+A similar siructure has been suggested for the northern 
+Colima graben (Michaud et al., 1992). 
+4) The direction of extension in Plio-Quaternary times 
+was mostly NNE-SSW along the northern boundary of 
+the JB and probably E-W in the Colima rift (Barrier et 
+al., 1990). The combination of these vectors implies a 
+motion of the JB toward the SW, nearly parallel to the 
+vector of convergence between the Rivera plate and the 
+JB predicted by global circuit models (Figure 5C) 
+(DeMets and Stein, 1990; Stock, 1993). This increases 
+the amount of convergence to be accommodated at the 
+trench and supports an active subduction of the Rivera 
+plate, already suggested by seismological and plate mo-
+tion studies (Eissler and McNally, 1984; Singh et al., 
+1985; DeMets and Stein, 1990). Active subduction 
+also implies that the JB is kinematically independent 
+from the RP and will not be accreted to the Pacific 
+plate. 
+In conclusion, several lines of evidence suggest that 
+the extensional deformations at the boundaries of the JB 
+need not to be related to active rifting of the block. Since 
+the boundaries of the JB approximately coincide with the 
+boundary of the Rivera plate, we think that rifting in 
+western Mexico should be explained by a mechanism re-
+lated to the subduction of the Rivera plate. If the Rivera 
+plate has a divergent motion with respect to the adjacent 
+Cocos and Pacific plates, extension should be expected 
+along the continental prolongation of its boundaries. 
+ACKNOWLEDGEMENTS 
+We thank Dr. G. Hiriart ofthe Gerencia de Proyectos 
+Geotermoeléctricos of C.F.E. for his effective support of 
+this work. We also thank V. H. Garduño andA. Tibaldi 
+for useful discussion of the tectonics of the triple junc-
+tion and two anonymous referees for helpful suggestions 
+on the manuscript. Field studies of L.F. and G.P. were 
+supported by a U.N. revolving fund and M.U.R.S.T. 
+40% funds, Italy. Part of the work of L.F. has been 
+carried out in the frame of the research grant n. 205.05.15 
+of C.N.R., Italy. 
+.. 
+BIBLIOGRAPHY 
+ALLAN, J. F., S. A. NELSON, J. F. LUHR.,I. S. E. 
+CARMICHAEL, M. WOPAT and J. P. W ALLACE, 
+1991. Pliocene-recent rifting in SW Mexico and asso-
+ciated volcanism: an exotic terrain in the making. 
+AAPG Memoir 47, 425-445. 
+ANGELIER, J., 1990. Inversion of field data in fault tec-
+tonics to obtain the regional stress - III. A new rapid 
+Tectonics ofW Mexico and the N boundary ofthe Jalisco block 
+direction inversion method by analytical means. 
+Geophys. Journ., 103, 363-376. 
+BANDY, W. L., A. MORTERA-GUTIERREZ and J. 
+VRRUTIA-FUCUGAUCHI, 1991. Gravity survey of 
+the Colima Graben, Mexico. EOS Transac. A.G.U., 
+72, 346 (Abstract). 
+BARRIER, E., J. BOURGOIS and F. MICHAUD·, 1990. 
+Le systeme de rifts actifs du point triple de Jalisco: 
+vers un proto-golfe de Jalisco. C. R. Acad. Sci. Paris, 
+310, 1513-1520. 
+BÚHNEL, H., D. J. MORAN-ZENTENO, P. SCHAAF 
+and J. VRRUTIA-FUCUGAUCHI 1992. Paleomag-
+netism and isotope data from southern Mexico and the 
+controversy over the pre-neogene position of Baja 
+California. Geofis. Int., 31, 253-261. 
+BOURGOIS, J. and F. MICHAUD, 1991. Active frag-
+mentation of the North America plate at the Mexican 
+triple junction area off Manzanillo. Geo-Marine 
+Letters, 11, 59-65. 
+BOURGOIS, J., T. CALMUS, J. C. CARFANTAN-, J. 
+GUERRERO, J. MAMMERICKX, B. MERCIER 
+DE LEPINAY, F. MICHAUD and M. SOSSON, 
+1988. Active fragmentation of the North American 
+plate at the Mexican triple junction area off Manza-
+nillo. (Abstract). Proc. 28th Int. Geol. Congress, 9-
+19 July, Washington D.C., U.S.A., p. 185. 
+C. F. E., 1991a. Estudio geológico-regional del graben 
+Tepic-Ixtlán, Nayarit. Int. Rep., Gerencia de Proyec-
+tos Geotermoeléctricos, Ahuacatlán, Nay., México, 
+27 pp. 
+C. F. E., 1991b. Quinto informe técnico sobre el moni-
+toreo sísmico en el Río Grande de Santiago. Int. 
+Rep., Gerencia de estudios de ingeniería civil, Guada-
+lajara, Jal., México, 31pp. 
+DAMON, P. E., O. J. NIETO and A. L. DELGADO, 
+1979. Un plegamiento neogénico en Nayarit y Jalisco 
+y evolución geomórfica del Río Grande de Santiago.· 
+Asoc. Ing. Min. Met. Geol. Mex. Memoria Técnica 
+12, 156-191. 
+DELGADO, G. H., 1992. Importancia de los estudios es-
+tratigráficos en la Faja Volcánica TransmexicaQa para 
+la comprensión de su evolución y origen: el caso del 
+Grupo Chapala. GEOS, Bol. Un. Geofís. Mex., vol. 
+12, 5, 13. 
+DEMANT, A., 1981. L'Axe Néovolcanique Mexicain; 
+étude volcanologique et pétrographique - signification 
+geódynamique. These du doctoral d'Etat, Univ. de Aix-
+Marseille, 259 pp. 
+DEMETS, C. and S. STEIN, 1990. Present-day kine-
+matics of the Rivera Plate and implications for tecto-
+149 
+
+nics in southwestern Mexico. J. Geophys. Res., 95, 
+21931-21948. 
+EISSLER, H. and K. MAcNALLY., 1984. Seismicity 
+and tectonics of the Rivera Plate and implication for 
+the 1932 Jalisco, Mexico, earthquake. J. Geophys. 
+Res., 89, 4520-4530. 
+GARDUÑO, V. H. andA. TIBALDI, 1991. Kinematic 
+evolution of the continental active triple junction of 
+the western Mexican Volcanic Belt. C. R. Acad. Sci. 
+Paris., 312, 135-142. 
+GASTIL, R. G., R. P. PHILLIPS and E. C. ALLISON, 
+1975. Reconaissance geology of the State of Baja Ca-
+lifornia. Mem. Geol. Soc. Am., 140. 
+GASTIL, G., D. KRUMMENACHER and A. W. 
+JENSKY, 1979a. Reconnaissance geology of west-
+central Nayarit, Mexico: Summary. Geol. Soc. Am. 
+Bull., part 1, 90, 15-18. 
+GASTIL, G., D. KRUMMENACHER and J. MINCH, 
+1979b. The record of Cenozoic volcanism around the 
+Gulf of California. Geol. Soc. Am. Bull., 90, 839-
+857. 
+HENRY, C., 1989. Late Cenozoic Basin and Range 
+structure in· western Mexico adjacent to the Golf of 
+California. Geol. Soc. Am. Bull., 101, 1147-1156. 
+KÚHLER, H., P. SCHAAF, S. D. MÜLLER, R. 
+EMMERMANN, W. NEGENDANK and H. J. 
+TOBSCHALL, 1988. Geochronological and geochem-
+ical investigations on plutonic rocks from the 
+Complex of Puerto Vallarta, Sierra Madre del Sur. 
+Geofís. Int., 27, 4, 579-592. 
+LANGE, R. and l. S. E. CARMCIAHEL, 1991. A 
+potassic volcanic front in western Mexico: lampro-
+phyric and related lavas of San Sebastian. Geol. Soc. 
+Am. Bull., 103, 928-940. 
+LISTER, G. S., M. A. ETHERIDGE and P. A. 
+SYMONDS, 1986. Detachment faulting and the evo-
+lution of passive continental margins. Geology, 14, 
+246-250. 
+LUHR, J. F., S. A. NELSON, J. F. ALLAN and l. S. 
+E. CARMICHAEL, 1985. Active rifting in So.pth-
+western Mexico: manifestations of an incipient east-
+ward spreading-ridge jump. Geology, 13, 54-57. 
+MAMMERICKX, J. and K. KLITGORD, 1982. North-
+ern East Pacific Rise: from 25 m.y. B.P. to the Pre-
+sent. J. Geoph. Res., 87, 6751-6759. 
+MICHAUD, F., O. QUINTERO, E. BARRIER and J. 
+BOURGOIS, 1991. La frontiere Nord du Bloc Jalisco 
+(Ouest Mexique): localisation et évolution de 13 Ma a 
+l'actuel. CR. Acad. Sci. Paris, 312, JI, 1359-1365. 
+150 
+MICHAUD, F., J. BOURGOIS and J. F. PARROT, 
+1992. Tectonic development of the Jalisco Triple 
+Junction (Western Mexico). EOS Transac. A.G.U., 
+73, 306 (Abstract). 
+MONOD, 0., J. C. SALINAS, M. FAURE and H. 
+SABANERO, 1993. The tectonic setting of the Telo-
+loapan are volcanics (Gro) (Central Mexico). Terra 
+Abstract, supplement to Terra Nova, 5, 241. 
+MONTIGNY, R., A. DEMANT, P. DELPRETTI, P. 
+PIGUET and J. COCHEMÉ, 1987. Chronologie K-
+Ar des séquences volcaniques tertiaires du Nord de la 
+Sierra Madre Occidentale (Mexique). C. R. Acad. Sci., 
+Paris, 304, 987-992. 
+MOORE, G. and l. S. E. CARMICHAEL, 1991. Late 
+Miocene basaltic volcanism in the Guadalajara area, 
+Jalisco, Mexico, and its relationship to the opening of 
+the Gulf of California. GSA Abstracts with programs, 
+23, 332. 
+NIETO, O. J., A. L. DELGADO and P. E. DAMON, 
+1985. Geochronologic, petrologic and structural data 
+related to large morphologic features between the 
+Sierra Madre Occidental and the Mexican Volcanic 
+Belt. Geofís. Int., Spec. vol. on MVB, Part 2, 24, 
+623-663. 
+NIETO-OBREGON, J, J. URRUTIA-FUCUGAUCHI., 
+E. CABRAL-CANO and GUZMAN DE LA 
+CAMPA, 1992. Listric faulting and continental rift-
+ing in western Mexico - A paleomagnetic and struc-
+tural study. Tectonophysics, 208, 365-376. 
+NIXON, G. T., A. DEMANT, R. L. AMSTRONG and 
+J. E. HARAKAL, 1987. K-Ar and geologic data bear-
+ing on the age and evolution of the Trans-Mexican 
+Volcanic Belt. Geofís. Int., Spec. vol. on MVB, Part 
+3A, 26, 1, 109-158. 
+QUINTERO, O. and J. GUERRERO, 1992. Different 
+tectonic stress regimes at the Tepic - Chapala rift. 
+EOS, Transac. Am. Geophys. Un., 43, 533. 
+QUINTERO, 0., F. MICHAUD, J. BOURGOIS andE.-
+BARRffiR., 1992. Evolución de la frontera norte del 
+bloque Jalisco, México, desde hace 17 Ma. Revista 
+Inst. Geol. UNAM,JO, 111-117. 
+RIGHTER, K. and l. S. E. CARMICHAEL, 1992a. 
+Hawaiites and related lavas in the Atenguillo graben, 
+westem Mexican Volcanic Belt. Geol. Soc. Am. 
+Bu/l., 104, 1592-1607. 
+RIGHTER, K. and l. S. E. CARMICHAEL, 1992b. 
+Volcanism and associated faulting at the northwest 
+edge of the Jalisco Block, Nayarit, Mexico. GEOS, 
+Bol. Un. Geofís. Mex., 12,.5, 10. 
+SINGH, S. K., L. PONCE and S. P. NISHENKO, 1985. 
+The great Jalisco, Mexico, earthquake of 1932 and the 
+
+Rivera subduction zone. Bull. Seism. Soc. Am., 75, 
+1301-1314. 
+SOTO, M. A. and J. G. ORTEGA, 1982. Geología del 
+Río Santiago en los Estados de Jalisco y Nayarit, 
+México. XUO Conv. Soc. Geol. Mex., 20 pp. 
+SOTO, M. A., 1991. Geología del Río Santiago en los 
+Estados de Jalisco y Nayarit. Proc. 1° Congr. Mex. 
+Mineral., 211-213. 
+STOCK, J. M. and K. V. HODGES, 1989. Pre-Pliocene 
+extension around the Gulf of California and the trans-
+fer of Baja California to the Pacific Plate. Tectonics, 
+8, 99-115. 
+STOCK, J. M., 1993. Tectónicas de placas y evolución 
+del bloque Jalisco, Mexico. GEOS, Bol. Unión Geo-
+fís. Mex., 13, 3, 3-9. 
+SUAREZ, G., V. GARCIA-ACOSTA, T. MONFRET 
+and R. GAULON, 1991. Evidence of active deforma-
+tions of the Northern Colima graben in the western 
+part of the Mexican Volcanic Belt. EOS Transac. 
+A.G.U., 72, 346 (Abstract). 
+SUTER, M., 1992. State of stress and active deforma-
+tion in Mexico and westem Central America. In: 
+Slemmons D.B. et al. (Eds.), Neotectonics of North 
+America, The geology of North America, Decade Map 
+Geol. Soc. Am., 1, 401-421. 
+WALLACE, P. and l. S. E. CARMICHAEL, 1989. 
+Minette lavas and associated leucites from the western 
+front of the Mexican Volcanic Belt: petrology, chem-
+istry and origin. Contrib. Miner. Pet., 103, 470-492. 
+.. 
+Tectonics ofW Mexico and the N boundary of the Jalisco block 
+W ALLACE, P., l. S. E. CARMICHAEL, K. RIGHTER 
+and T. BECKER, 1992. Volcanism and tectonism in 
+westem Mexico: A contrast of style and substance. 
+Geology, 20, 625-628. 
+WATKINS, N. D., B. M. GUNN, A. K. BAKSI, D. 
+YORK and J. ADE-HALL, 1971. Paleomagnetism, 
+geochemistry and potassium-argon ages of the Río 
+Grande de Santiago volcanics, Central Mexico. Geol. 
+Soc. Am. Bull., 82, 1955-1968. 
+WERNICKE, B., 1985. Uniform-sense normal simple 
+shear of the continental lithosphere. Can. J. Earth 
+Sci., 22, 108-125. 
+ZIMMERMANN, J.-L., 
+J. 
+M. 
+STUSSI, 
+E. 
+GONZALEZ-PARTIDA and M. ARNOLD, 1988. K-
+Ar evidence for age and compositional zoning in the 
+Puerto Vallarta-Río Santiago batholith (Jalisco, 
+Mexico). J. South Am. Earth Sci., 1, 267-274. 
+Luca Ferrari1.2, Giorgio Pasquare1, Siml 
+Venegas2, Daniel Castillo2, Francisco Romero3 
+I Dipartimento Scienze del/aTerra, Universita di Milano, 
+Via Mangiagalli 34, 20133 Milano, Italia 
+2 Departamento de Exploración, Gerencia Proyectos Ceo-
+termoeléctricos, Comisión Federal de Electricidad, 
+Calle A. Volta 655, Morelia, Mich., México 
+3 Comisión Federal de Electricidad, Residencia El Cebo-
+ruco, Ahuacatlán, Nay., México . 
+151 

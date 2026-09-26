@@ -1,0 +1,887 @@
+Geoj{sica Internacional (1992), Vol. 31, Num. 4, pp. 407-415 
+Reconocimiento estructural y volcanologico en Ia zona termal del 
+Domo San Pedro Lagunillas, Nayarit, Mexico 
+D. Castillo H.* y V. DelaCruz M.** 
+*Gerencia de Proyectos Geotermoelectricos, Depto. de Exploraci6n, Comisi6n Federal de Electricidad, Morelia, Mich., 
+Mexico. 
+**Secretar{a de Fomento Agropecuario, Gobierno del Edo. de Tamaulipas, Cd. Victoria, Tamps., Mexico. 
+Recibido: diciembre, 1989; aceptado: enero, 1992. 
+RESUMEN 
+La actividad volcanica que ha tenido Iugar en Ia parte sur del Estado de Nayarit ha sido intensa durante el Plioceno y 
+Cuaternario. Hay actividad volcanica en Ia actualidad. Los sismos que afectaron a los poblados de San Pedro Lagunillas y Las 
+Gmisimas los d1as 4 y 16 de septiembre de 1987 estuvieron asociadas, a! parecer, con movimientos de magma justo bajo el 
+domo riolltico Los Ocotes, ubicado entre ambos poblados y que a Ia vez constituye el aparato volcanico mas reciente de Ia 
+zona. 
+20 km al oeste del Volcan Ceboruco (unico aparato con actividad historica en la region), se encuentra el Domo San 
+Pedro, que es el edificio volcanico acido mas importante de Ia zona, con 700 m de altura, cuya base de 4 km esta ligeramente 
+elongada en sentido NW-SE. Al parecer dicho aparato, de composicion dacitica, se desarrollo dentro de una estructura cal-
+derica de edad Plio-Cuaternaria. 
+Se realizo un estudio geologico de detalle enfocado a determinar el marco estructural y volcanologico, junto con Ia rea-
+lizacion de la cartografla de las unidades y estructuras geologicas, todo lo cual permitio definir su relacion e influencia con 
+la presencia del termalismo existente en los alrededores del Domo San Pedro y demas actividad volcanica reciente. 
+PALABRAS CLAVE: San Pedro Lagunillas, Nay., geotermia, caldera, actividad sismica, analisis qu1micos, Mexico. 
+ABSTRACT 
+Volcanic activity in southern Nayarit (Mexico) is described. Earthquakes felt at San Pedro Lagunillas and Las Guasimas 
+on 4 and 16 September 1987 may be associated to magma movements beneath the Los Ocotes dome. The San Pedro Dome 
+may have developed within a calderic structure of Plio-Quaternary age. The study area was mapped, and structural and 
+volcanologic relationships of geothermal significance were determined. Relationships with the thermal activity present in 
+the San Pedro Dome area and with other recent volcanism are suggested. 
+KEY WORDS: San Pedro Lagunillas (Nayarit), thermalism, caldera, seismic activity, chemical analysis, Mexico. 
+INTRODUCCION 
+El Domo San Pedro se localiza en la porcion sur del 
+Estado de Nayarit, en el sector mas occidental del Eje Neo-
+volcanico y mas particularmente en el graben Tepic-
+Chapala (Figura 1). 
+En este sector existen importantes volcanes que han si-
+do objeto de numerosos trabajos. Entre ellos esta el 
+Volcan Ceboruco que ha sido estudiado entre otros por: 
+Caravantes (1870), Iglesias et al. (1877), Thorpe y Francis 
+(1975), Demant (1979) y Nelson (1980, 1986). Con 
+objetivos geotermicos por Dfaz y De la Cruz (1985), 
+Palma (1985), Garcia (1985), Quijano y Chacon (1985) y 
+Tovar (1985). Sobre el Volcan Sanganguey se conocen los 
+trabajos de Demant (1979) y el de Nelson y Carmichael 
+(1984). El Volcan San Juan ha sido estudiado por Luhr 
+(1978). 
+Trabajos geologicos y volcanologicos de caracter regio-
+nal que tambien involucran Ia zona estudiada han sido pu-
+blicados por Gastil et al. (1978), Demant (1978), Herrera y 
+Castillo (1980), Cedillo y Lira (1985). La zona del Domo 
+407 
+San Pedro Ia estudiaron con fines geotermicos, De Ia Cruz 
+y Castillo (1986, 1987) y Tovar (1987). Demant (op. cit.) 
+hace una breve descripcion sobre el volcanismo de esta zona. 
+La existencia de muchos manantiales termales, motivo 
+el inicio de trabajos de cartograffa geologica y analisis qui-
+micas de muestras de agua con el prop6sito de evaluar y 
+jerarquizar su importancia geotermica. 
+CONTEXTO ESTRUCTURAL DEL VOLCANISMO 
+RECIENTE 
+Los rasgos lineales interpretados a partir de imagenes 
+de satelite reflejan dos sistemas estructurales para esta zona 
+y sus alrededores: NW-SE y NE-SW. 
+AI sistema NW -SE pertenece el graben Tepic-Chapala, 
+que es la estructura tect6nica mas importante en esta region 
+y se encuentra colmado por rocas volcanicas del Plio Cua-
+ternario y Reciente, cuyos centros de emision, grandes y 
+
+D. Castillo H. y V. de /a Cruz M. 
+Oceano 
+Poe/fico 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+/ 
+\ 
+Clu dad 
+• 
+Poblado 
+Carretera 
+Terra ceria 
+FF. CC. 
+Vole an 
+Caldera inferldc 
+Caldera 
++-+- + Limite. Est at a I 
+0 
+Zone estudiada 
+Rio 
+Fig. 1. Localizaci6n de Ia zona estudiada. 
+pequefios, se caracterizan por presentarse alineados paralela-
+mente en dicha direcci6n NW-SE, lo cual refleja zonas de 
+debilidad cortical, sugiriendo tm efectivo control tect6nico 
+en el subsuelo. Ejemplos de estos alineamientos se obser-
+van a partir de la Caldera de La Primavera, igualmente en 
+los volcanes de Tequila, Ceboruco, Tepetiltic, Sangan-
+guey, San Juan asi como en la zona en estudio. 
+El fracturamiento NE-SW se refleja principalmente en 
+los alineamientos de cauccs de rfos, el cual no es tan cons-
+picuo como el NW -SE, sin embargo, en imagenes de sate lite 
+sus rasgos son evidcntes y numerosos. Ambos sistemas 
+408 
+se identificaron en la zona estudiada de cuyo analisis se 
+postul6 que la intersecci6n de ambos da Iugar a una pe-
+quefia fosa tect6nica rellena por rocas volcanicas recientes 
+sobrepuestas y con importantes caracterfsticas gcotermicas: 
+DelaCruz y Castillo (1986, 1987). 
+Los autores realizaron en 1987 un estudio estructural 
+en el sector E-SE del Domo San Pedro por considerarse 
+que era la zona mas atractiva geotermicamente, dadas la 
+concentraci6n del tcrmalismo de mayor temperatura y el 
+control estructural limitante. En csta zona se rcalizaron 30 
+estaciones cstructurales, (Figura 2), 29 de elias en Ia zona 
+
+estudiada y Ia restante fuera de ella, en rocas propias de Ia 
+Sierra Madre Occidental. En total se midieron 405 fracturas 
+y solamente una falla Ia cual presenta un rumbo 
+NW40°SE con un buzamiento de 66° al SW, que afecta a 
+piroclasticos cuaternarios del Domo San Pedro. La Figura 
+3 muestra las principales tendencias obtenidas a partir de Ia 
+medici6n de fracturas, en Ia que es evidente que el sistema 
+NW-SE es el dominante; el sistema E-W le sigue en 
+importancia y finalmente el sistema NE-SW. AI parecer el 
+sistema E-W es secundario o bien una componente de los 
+sistemas regionales NW-SE y NE-SW; el hecho de no 
+observarse dicho sistema en las imagenes de sarelite parece 
+confirmar lo anterior. En cambio las fracturas medidas en 
+las rocas de Ia Sierra Madre Occidental, fuera del area, 
+fueron totalmente del sistema NE-SW, con un amplio 
+valor angular. 
+En general el sistema de fracturas NW -SE es dominante 
+en las rocas del Cuaternario, lo cual se observ6 en doce es-
+taciones estructurales. En las rocas del Plioceno se obser-
+v6, ademas del sistema anterior, el sistema NE-SW. En ro-
+cas del Terciario Inferior-Cretacico existen combinaciones 
+de ambos sistemas. En cambio el sistema E-Wes domi-
+nante en seis estaciones estructurales ubicadas en rocas del 
+Cuaternario y Plioceno (Figuras 2 y 3). 
+SECUENCIA VOLCANICA 
+Las rocas mas antiguas encontradas en Ia region corres-
+ponden a una interdigitacion de rocas volcanicas, interme-
+dias y acidas, con rocas sedimentarias (arel)iscas y calizas) 
+intrusionadas por plutones y batolitos cuya composici6n 
+varia de granitos a granodioritas y tonalitas, y una edad que 
+se encuentra comprendida entre el Cretacico Inferior y el 
+Terciario Inferior. Afloran ampliamente en las sierras 
+Zapotan y El Guamuchil ubicadas al oeste, sur y sureste de 
+la zona (Figura 4). A 12 km al W del Domo San Pedro y a 
+1.5 km al sur del poblado Juan Escutia, Gastil et al. 
+(1978), op. cit, reportan una edad de 53.7 Ma para una mea 
+riolitica, mientras que en la Sierra El Guamuchil, entre 
+Ahuacatlan y Amatlan de Canas, una secuencia mas anti-
+goa se encuentra metamorfizada por un cuerpo intrusivo 
+acido cuya edad es de 97.6 Ma. Por su edad y composici6n 
+estas rocas pueden correlacionarse con el complejo volca-
+nico inferior de Ia Sierra Madre Occidental, descrito en el 
+Estado de Durango por McDowell y Clabaugh (1979) y asi 
+mismo parecen corresponder con Ia continuaci6n de la 
+Sierra Madre del Sur hacia este sector. 
+Rocas acidas e intermedias del Plioceno sobreyacen a 
+las rocas de Ia Sierra Madre Occidental. Los afloramientos 
+mas representativos corresponden a los derrames andesiti-
+cos del Volcan Tepetiltic, localizado a escasos 8 km al 
+NNE del Domo San Pedro (Figura 1) y cuyo flanco sur 
+queda comprendido en la porcion norte de Ia zona estudiada. 
+Domos de dacita y riolita de diferente tamafio se observan 
+en Ia porcion central de Ia zona, los cuales conforman dos 
+grupos, uno al sureste y otro ai noroeste del Domo San 
+Geologia de la zona termal de San Pedro Lagunillas, Nay. 
+Pedro cuyo emplazamiento define un alineamiento en esa 
+direcci6n. En el segundo grupo, aproximadamente a 4 km 
+al WSW del Domo San Pedro, se encuentra el C. Las 
+Tetillas, el mas importante de ellos y que en realidad com-
+prende a tres domos yuxtapuestos en cuya base se observa 
+un derrame de riolita fluidal muy vitrea, para Ia que Gas til 
+et al (1978) reportan una edad de 2.3 Ma. Dichos domos se 
+encuentran parcialmente cubiertos por rocas volcanicas del 
+Cuaternario y asi como por pumicitas de las fases ex-
+plosivas del Domo San Pedro (Figura 4). 
+La actividad volcanica mas intensa se manifesto durante 
+el Cuaternario en Ia parte central de Ia zona, donde el 
+Domo San Pedro es el aparato mas representativo. Aqui el 
+volcanisn:w se inicia con grandes dep6sitos de material pi-
+roclastico que incluyen flujos de ceniza, flujos de ceniza 
+con p6mez y flujos de p6mez. Los maximos espesores me-
+didos superficialmente se encuentran al este del Domo San 
+Pedro y alcanzan los 60 m, los cuales se conservan debido 
+a que subyacen a un derrame de riolita fluidal con horizon-
+tes de obsidiana. En esta misma localidad y mas exacta-
+mente en el Arroyo El Muerto (o Ixtetes) fue donde se ob-
+servaron los fragmentos mas grandes de p6mez, con una 
+longitud de 70 em, lo cual indica Ia cercania del conducto 
+que los emiti6, ademas de que el eje mayor de dichos frag-
+mentos esta orientado hacia donde se encuentra el Domo 
+San Pedro. La actividad volcanica continu6 con derrames de 
+riolitay posteriormente con el desarrollo propiamente di-
+cho del Domo San Pedro, el cual a semejanza con el Domo 
+Las Tetillas, ya mencionado, esta constituido igualmente 
+por tres domos yuxtapuestos, de los cuales los dos pri-
+meros se destruyeron parcialmente durante su desarrollo a 
+consecuencia de explosiones peleanas, como se puede de-
+ducir de los materiales piroclasticos resultantes entre los 
+que se diferenciaron dos flujos de bloques con ceniza y un 
+flujo de ceniza (Figura 4). Gastil et al. (1978) reporta una 
+edad muy reciente de tan solo 0.16 ± 0.4 Ma para una 
+muestra de Ia parte norte del domo, la que corresponderia a 
+Ia primera etapa de su formaci6n. Las facies distales de es-
+tos flujos piroclasticos se observan en el pueblo de 
+Cuastecomate ubicado 15 km al sur del Domo San Pedro, 
+donde los espesores aflorantes aun alcanzan los 20 y 30m. 
+La emision volcanica mas reciente dentro de Ia zona es-
+tudiada Ia constituye el Domo de riolita vftrea Los Ocotes 
+con 200 m de altura, 5 km de largo y 4 km de ancho, ubi-
+cado a 4 km al NE del Domo San Pedro, cuyo emplaza-
+miento obturo el drenaje natural del pequefio Valle de San 
+Pedro Lagunillas y dio Iugar a Ia Laguna de San Pedro 
+(Figura 4). 
+Contemporaneamente a Ia actividad volcanica del 
+Domo San Pedro, en Ia zona se desarrollo un intenso vol-
+canismo andesitico cuyo aparato principal es el Volcan 
+Cerro Grande, localizado a escasos 2.5 km al SW del San 
+Pedro, cuyos derrames muy fluidos corrieron hacia el sur 
+con una longitud de 12 km. El alineamiento de domos 
+daciticos ya mencionado, del que forma parte el San Pedro, 
+se desarrollo paralelamente al volcanismo andesftico, 
+quedando sus productos interdigitados. 
+409 
+
++:>. -
+0 
+IU'I"'~o1 
+1\J~·~!)· 
+IO<I~.. 
+I 
+40 ,. 
+Zl~l~ 
+--t~ 
+II 
+/j 
+1£...,.. 
+-------
+. 
+...... ..... 
+-
+...... ").. 
+/ 
+/ 
+/ 
+" 
+~ l_ 
+\ 
+~ 
+Laaun~ 
+~ ~ 
+l~····•·)J 
+~ 
+·~ 
+.)'--_ ~ 
+\._) 
+~ 
+.......... 
+""-.,.. 
+~ 
+......... 
+" 
+~ffi 
+"~ 
+~ 
+......... 
+f. 
+-~­
+t 
+'t 
+\ 
+\ 
+~ 
+~~~ 
+' 
+···~1 
+"'-, 
+~-
+,_1' '~ 
+.------1 
+""' I/ 
+' 
+I I 
+..... 
+.,.~ 
+"V 
+....... ~ ....... ~ ..... 
+/~ 0 
+-._(.</j . I , 
+'/ 
+/ 
+/-~,:: \ -{ 
+···> \\~ /Y"A,;; y 
+-:\ 
+///~/ 
+AMADO _t/jj 
+NEIIYOif:n-1 
+/ 
+" 
+~ /~ 
+~~ 
+" 
+//" 
+10'1'"50' 
+10'1'"<1.5' 
+104°40' 
+I ,-
+1 l 
+ou"1o' 
+~ r' \ \ 
+\~"·" 
+\ } I 
+~\//1 
+I 
+I 
+1U41°35' 
+Fig. 2. Ubicaci6n de estaciones estructurales en la zona del Domo San Pedro, Nay. 
+SIGNOS 
+CONVENCIONALES 
+, . ._ 
+-..._ 1 
+Borde de Co ldera 1nferido 
+""" Alineom1ento TectOnico regJonal 
+Fracture 
+,. ffi 
+EstaciOn Estructurol 
+@ 
+Domo 
+"'*:-
+Dotocio'n rodrome'tr1Co 
+~ Po bl o do 
+/ 
+Correter a 
+/ 
+Ferrocarril 
+r-) 
+"'"'---· 
+Laguna 
+ESCALA GRAFICA 
+0 
+2 !, 
+5 K m 
+tl 
+~ 
+~. 
+~ 
+;:.: 
+'< 
+:<:; 
+~ 
+iS" 
+~ 
+"' 
+~ 
+
+TOTAL "DE FRACTURAS MEDIDAS 4011 
+Fig. 3. Rosa de fracturas de la zona del Domo San Pedro, Nay. 
+Claude Robin y Pierre M. Vincent de Ia Universidad de 
+Clermont Ferrand (Francia), en una visita a esta zona en 
+compafiia de los autores y posteriormente en comunicacion 
+escrita, postulan Ia existencia de una estructura calderica 
+con base en Ia distribucion, volumen y tipo de material pi-
+rochistico extruido, asi como al propio desarrollo volcano-
+logico en Ia zona. Posteriores trabajos realizados por los 
+autores permitieron confirmar, como se sefialo anterior-
+mente, que los maximos espesores de _los flujos piro-
+clasticos, asi como los mayores fragmentos de pomez se 
+encuentran al este del Domo San Pedro. Por lo anterior y au-
+nado al canicter pliniano del material pirochistico, asi como a 
+rasgos topognificos, en este trabajo se infiere Ia posible traza 
+de Ia estructura calderica postulada (Figuras 2, 4 y 5). 
+TERMALISMO 
+Se decidi6 realizar estudios geol6gicos detallados en es-
+ta zona a partir del reconocimiento de focos termales en el 
+Estado de Nayarit. (Cedillo y Lira, 1985), debido a Ia exis-
+tencia en el area de cuerpos domicos alineados sensible-
+mente NW -SE, asi como a Ia presencia de algunos manan-
+tiales termales (entre ellos los de mayor temperatura), ade-
+mas de que en esa epoca se creia (erroneamente), que dada 
+Ia relativa cercania de los manantiales (conocidos basta en-
+tonces) con el Volcan Ceboruco, estos representaban un 
+flujo lateral del termalismo hacia este sector. 
+Durante los trabajos de campo se identifico un buen nu-
+mero de localidades termales de las cuales una minima par-
+te son frios (25-26 °C), y para las restantes se obtuvo un 
+rango de temperaturas entre 28 °C y 48 °C donde las ma-
+yores temperaturas se midieron en Ia localidad de Las 
+Cuevas, ubicada a 8 km al SE del Domo San Pedro, donde 
+solo se habian reportado con anterioridad 3 localidades ter-
+males (Figura 5). Es evidente como las estructuras pro-
+Geologia de Ia zona termal de San Pedro Lagunillas, Nay. 
+fundas juegan un papel muy importante en el control y 
+presencia del tennalismo, asi por ejemplo, en el cauce del 
+Rio Tetitlan (NE del area) que corre de NW a SE, brotan 
+manantiales termales en su margen derecha; en cambio en 
+su margen izquierda brotan y/o descargan los manantiales 
+frios, provenientes de Ia zona de captacion del Volcan 
+Ceboruco, evidenciando por un lado Ia existencia de un 
+acuifero subsuperficial importante y por otro lado, que no 
+existen evidencias de un flujo lateral de termalismo pro-
+veniente del Volcan Ceboruco. En cambio, como se apre-
+cia en Ia Figura 5, es bastante claro que todas las loca-
+lidades identificadas, tanto frias como termales, muestran 
+una disposici6n radial a partir de los complejos de domos y 
+volcanes ya mencionados y cuyo centro comun corresponde 
+al espectacular Domo San Pedro, centro a partir del cual 
+los analisis quimicos (Quijano y Chacon, 1985; Tello, 
+1985 y Tovar, 1987) practicados a todas las localidades 
+identificadas indican Ia presencia de importantes pro-
+porciones de elementos de origen volcanico como el boro, 
+litio, cloruros y sulfatos, asi como cierta disminucion de 
+tales elementos conforme mayor es Ia distancia de estos del 
+Domo San Pedro, revelando un proceso de dilucion por 
+aguas subterraneas someras, pero resaltando que los ma-
+nantiales de esta zona son manifestaciones secundarias de 
+un sistema hidrotermal profundo. Lo anterior se refuerza 
+con los resultados obtenidos en un estudio termometrico 
+(Garcia, 1985) con pozos someros a 2.5 m de profundidad 
+realizado en el V olean Ceboruco en cual se realizaron 
+ademas algunas mediciones entre los manantiales de mas 
+temperatura de esta area.· Los valores obtenidos fueron 
+superiores a los de Ia zona del propio volcan, definiendose 
+asi un importante gradiente anomalo de temperatura para 
+esta zona de San Pedro. 
+DISCUSION Y CONCLUSIONES 
+Los manantiales termales, su caracter quimico, el im-
+portante gradiente de temperatura registrado, asi como Ia 
+existencia de rocas acidas recientes son argumentos de peso 
+para suponer Ia presencia de una fuente de. calor en el sub-
+suelo de esta zona, representada por una camara magmatica 
+aun caliente, Ia .cual seria Ia generadora del calor al que se 
+asocia el termalismo en Ia zona. 
+Los dias 4 y 16 de septiembre de 1987 se produjeron 
+sismos dentro de Ia zona en estudio, que afectaron y alar-
+macon a los habitantes de los poblados de San Pedro 
+Lagunillas y Las Guasimas, .Iugares donde no se habian 
+.sentido fenomenos similares desde Ia ultima erupcion del 
+Volean Ceboruco en 1870, ubicado a una distancia de 20 
+km bacia el este; estos sismos fueron muy locales ya que 
+solo se sintieron en ambas localidades y se cree que el epi-
+centro de los mismos se ubico en el subsuelo del Domo 
+Los Ocotes, ya que Las Guasimas se asienta en su borde 
+sureste, y San Pedro Lagunillas a 3 km del borde noroeste, 
+. ubicandose entre este ultimo poblado y el Domo Los 
+Ocotes, Ia Laguna de San Pedro, donde al dee if de los pes-
+cadores al bajar el nivel de las aguas apareten manantiales 
+termales y que despues de los sismos murieron muchos 
+411 
+
+.,.. 
+..... 
+~ 
+Fig. 4. Mapa geologico de la zona del Domo San Pedro, Nay. 
+SIGNOS 
+CONVENCIONALES 
+COLUMNA LITOESTRATIGRAFICA 
+{
+QJ l)errame dacftlcodtl810-75de1Volc0n Ctboruco 
+~ 
+Andtsltn Molpais Ctboruco 
+: I 
+f3"/'1 3kVI~r0fldo riolitico del Domo Los Ocot .. 
+~ 
+4):- Pome.r del Domo L01 Ocoh• 
+k:::':!.J 15).-DepOsitos de talud del Domo San Pedro 
+z 
+r~ 
+!5).-AiuviO'n 
+0 
+1 ,_I 
+1).- O.rromts onct .. iticos lndlftrenclados 
+:::J 
+8A).- Dacltos 
+c 
+88).-ptlolltos 
+,, 
+-
+'u 1 
+f7~ 9A).-Fiujos dtCt(liEoyBioqutt dtl Domo Son Pedro 
+·IL._!I_..sJ 18).- Ffujot dt Pamer 
+0 
+:g ~~ :::::: :: g:~~~o J.~t=~~!in Ct boruco 
+9E ); Lopllli dt Conn Clfltritlcot 
+10 
+lOB)- Rlolltn 
+j~ 
+IOA)·Oaoilao 
+~ 
+IIA)-AndttltosVolcOnTtptllltlc 
+0 
+"' 
+II 
+118}- Andn•tos 
+o I_ g 0 
+II C)- Bloques yCtnttas Yo leOn Ttpttlltlc 
+"' 
+-
+~ ;, 0 
+Are nos 'I ConQiomerodot 
+a:: ~i{~ R!ohtos tl;nlmbrltot dtlo S1erro Madre 
+lew 
+111 
+L .. :.:.J Occtdenta I 
+... 
+u 
+..~i 0 
+A.ndelltos 
+predominon los rocos ot1dos 
+8 
+--
+2 
+~ 
+Rocos Intrusives :cldat 
+~ 
+f- 17l RocotSed1mentonos A.reniseaay Cctlizat prtn~ 
+~hii') ~ 
+olpalmooto 
+' 
+• 
+~ 
+Crater 
+* 
+Datac1on rodlorrrttrica 
+I!> 
+VotcGn 
+~ 
+~~~'1:11o0rytento tectOnico 
+© 
+Domo 
+A 
+Echado fotootol09iCO 
+DirecciOn dt flujo de lava • 
+Monontiol urmol 
+0 
+Con facto aeol09ito 
+• 
+Monontial ttrmo/ con GOt 
+-- Fractura fotOIIIOI0Qica 
+""'" 
+Manontiol frio 
+-< 
+-<; 
+Falla folo1Jeoi0Qico 
+. Pozo dt aouo fermat 
+._. _myA.Iin~amlento de a para tot 
+'< 
+~ 
+valconlcos 
+~ Borde dt Caldera •nftrldo 
+ESCAL4 GRAFICA 
+L 
+2,5 
+5km. 
+-q 
+t::::l 
+~ 
+~ 
+::t: 
+'< 
+:<::: 
+t::::l 
+"' 
+ti' 
+("")• 
+~ 
+~ 
+
+21°10' 
+.j:::.. 
+...... 
+\.;.) 
+.----.--------"'"';'"r'o~·--------,----,------''"'o';:"-"'•'---------------""'"-'•,.:•~o-· ---.----------_,.1". '"''---,2, .. ,,. 
+2.5 ... 
+27 . 
+26 • 
+30 . 
+~ 
+28 • 
+----~-"'--
+------- '/ 
+"'-... 
+'/ 
+....... :/; 
+I 
+---r-./' 
+ISAN PIDRD 
+I.LAIUNILLAI 1 
+...... ~, 
+..... 
+I 
+_4~~-
+'--'--- /~'~., ~ 
+....... \ 
+Latona") 
+~ 
+•Po--~ 
+... 
+~ 
+... '-._) 
+\-~. 
+--f. 
+~ 
+~ 
+l 
+" ' "' .... ................... 
+1 
+i 
+i 
+n.:r'o1 
+,.'', 
+........... -" 
+' 
+22 r 
+/~0 2ix~( < 
+'// r 
+/~\ -{ 
+/ -<:("' /->'~''"',,)/ y 
+-:\\ // 
+~i 
+/ 
+// ' 
+1/f! 
+30 
+130 
+"';· 
+' 
+// 
+104"'50'-
+104°4!1' 
+'\ 
+"" 
+Z7----
+~ 
+./ 
+& 
+•• ~28 .28 
+*••~6: a 
+" ·a: 
+I -I-
+I l 
+'.il~,v·· 
+2828 ~ 
+. 
+• ... 
+... 
+Z8 
+•40"-
+1 
+' 
+. I I 
+\ 
+\ /\ 
+I 
+/ 
+~ 
+~ /\/ 
+104°40' 
+104"5&' 
+Fig. 5. Distribuci6n del termalismo en fa zona del Domo San Pedro, Nay. 
+tl0 10' 
+SIGNOS 
+CONVENCIONALES 
+""' 
+... ..., 
+aor .. •• Caldera i11teri do 
+"' "' 
+Allneamiento tectOni co region a I 
+Fro cturo 
+... 
+Manontial termal en °C 
+• 
+Mancntiatterrnal con 
+• 
+Pozo termal 
+.... Manantial frio 
+Q) . 0 om o 
+"" 
+Data ciOn radlome'tri ca 
+~ 
+Pablado 
+/ 
+Cafreter.o 
+~ 
+Ferrocarril 
+{"""! Lagu no 
+·,__ .. 
+gas 
+* Localidad termal r•portada 
+con anterioridad. 
+£,SCALA GRAFICA 
+0 
+2.5 
+5 km. 
+~ 
+cs-
+OQ 
+iS' 
+~ 
+1S" 
+§ 
+1::. 
+~ 
+~ 
+1::. -
+~ 
+§ 
+~ 
+!:} 
+c i f 
+~ 
+
+D. Castillo H. y V. DelaCruz M. 
+peces. Por su canicter local, es posible que los sismos foe-
+ron producidos por un reacomodo o movimiento de magma 
+en el subsuelo del Domo Los Ocotes aunque tambien es 
+posible que hayan respondido a un tectonismo regional. 
+Con base a los muestreos de gases de las fumarolas de la ci-
+ma del Volcan Ceboruco realizados a partir de abril de 1985 
+y basta mayo de 1987, justo antes de los sismos, se not6 
+un notable incremento en gases magmaticos Hz y HzS 
+(Tovar, 1985; Tello y De la Cruz, 1987). Posteriormente a 
+los sismos y debido a una supuesta reanudacion en 1a ac-
+tividad del volcan, se realizo otro muestreo de gases ese 
+mismo mes, que revelola existencia de He (que nose habfa 
+detectado antes) y de NH3,asi como una disminucion del 
+Hz y HzS, por lo que, como ya se mencion6, es posible 
+que entre ambos hechos, (los sismos y los resultados obte-
+nidos del volcan), haya una relacion estrecba, producida por 
+un fenomeno natural com lin, como puede ser el encontrarse 
+ambos cuerpos ubicados y controlados por un mismo pa-
+tron tectono-estructural, caracteristico de este sector del Eje 
+Neovolcanico. 
+Por todo ello y como complemento de los estudios 
+aquf descritos se propuso realizar en esta zona del Domo de 
+San Pedro una ampliacion en Ia cobertura con sondeos 
+electricos verticales llevada a cabo en 1985 (Palma, 1985) 
+de Ia zona del Volcan Ceboruco, dicha ampliacion se inicio 
+en 1990, con Ia cual se definio un pequefio mfnimo 
+resistivo al sur del Domo San Pedro. 
+Con Ia finalidad de obtener mayor informacion y ase-
+gurar el exito de los pozos expl~uatorios geotermicos pro-
+fundos, actualmente se continua con estudios geofisicos (la 
+interpretacion de Ia magnetometria regional, un levanta-
+miento gravimetrico, asf como un estudio magnetotelu-
+rico, el cual basta el mes de septiembre de 1991 ha logrado 
+definir cuatro zonas con resistividades electricas minimas). 
+Como complemento de todos estos estudios se preten-
+den perforar cinco pozos de gradiente a 200 m de pro-
+fundidad, el primero de los cuales se inicio en septiembre 
+al sur del poblado de El Ahualamo (Figura 4) y a Ia pro-
+fundidad aproximada de 160m alcanzo un acuifero termal 
+con una temperatura de 42 °C, levantarido una columna de 
+agua de cerca de 5 m. Los analisis qufmicos preliminares 
+practicados a estas aguas revelan un incremento en los va-
+lores de boro, cloruros, etc., y una disminucion en el con-
+tenido de bicarbonatos, evidenciando asi un justificado in-
+teres georermico para.esta zona del Domo San Pedro. 
+BffiUOGRAFIA 
+CARAV ANTES, A., 1870. El Ceboruco. La Naturaleza, 
+1, 248-252. 
+CEDILLO, R. F. y H. H. LIRA, 1985. Reconocimiento y 
+evaluacion geologica de los recursos geotermicos del 
+Estado de Nayarit. CFE. Gerencia de Proyectos Geo-
+termoelectricos, Depto. de Exploraci6n. Informe 49/85. 
+p. 36. Inedito. 
+414 
+DE LA CRUZ, M. V. y H. D. CASTILLO, 1986. 
+Interpretacion fotogeologica de la zona termal de 
+Tetitlan-Valle Verde, Nay. CFE. Gerencia de Proyectos 
+Geotermoe1ectricos. Depto, de Exploracion. Reporte 
+GG 11/86. p. 9. Inectito. 
+DE LA CRUZ, M. V. y H. D CASTILLO, 1987. Estudio 
+geologico de Ia zona termal de Tetitlan-Valle Verde, 
+Nay. CFE. Gerencia de Proeyectos Geotermoelectricos. 
+Depto. de Exploracion. Informe 11/87. 48 p. Inedito. 
+DE LA CRUZ, M. V. y H. D. CASTILLO, 1987. 
+Estudio. geologico estructural de Ia zona termal Las 
+Cuevas, Nay. CFE Depto. de Exploracion. Informe 
+22/87. p. 62. Inedito. 
+DEMANT, A., 1978. Caracteristicas del Eje Neovolcanico 
+Transmexicano y sus problemas de interpretacion. Ins-
+tituto de Geologia, UNAM. Revista, 2, 2, 172-187. 
+DEMANT, A., 1979. Vulcanologia y petrografia del sector 
+occidental del Eje Neovolcanico. UNAM. Instituto de 
+Geologia. Revista, 3, 1, 39-57. 
+DIAZ, 0. A. y M. V. DE LA CRUZ, 1985. Estudio geo-
+logico a semidetalle de 1a zona geotermica del V olean 
+Ceboruco, Nay. CFE. Gerencia de Proyectos Geoter-
+moelectricos. Depto. de Exploracion. Informe 15/85. 
+p. 44. Inedito. 
+GARCIA, E. G. H., 1985. Estudio termometrico de la zo-
+na georermica del Volcan Ceboruco, Nay. CFE. Geren-
+cia de Proyectos Geotermelectricos. Depto. de Explora-
+cion. Informe 44/85. p. 45. Inedito. 
+GASTIL, G., D. KRUMMENACHER y W. A. JENSKY 
+II, 1978. Reconnaissance geology of west-central 
+Nayarit, Mexico. Geol. Soc. Am. Map and Chart 
+series MC-24 Scale 1:200,000. 
+HERRERA, F. J. J. y H. D. CASTILLO, 1980. Recono-
+cimiento geologico del area geotermica de Tepic, 
+Nayarit. CFE. Gerencia de Proyectos Geotermoelec-
+tricos. Depto. de Exploraci6n. Informe 19/80. p. 17. 
+Inedito. 
+IGLESIAS, M., M. BARCENA y J. I. MATUTE, 1877. 
+El Ceboruco. Anales del Ministerio de Fomento. 
+(Mexico-Anales 1), 168-196. 
+LUHR, J. F., 1978. Factors controlling the evolution of 
+the prehistoric pyroclastic eruption of Volcan San 
+Juan, Mexico. Geol. Soc. Am. Abstr. with Prog. Vol. 
+10, 114. 
+MORAN-DANTE, 1984. Geologia de la Republica 
+Mexicana, INEGI/SPP-Fac. de Ing./UNAM, Mexico, 
+p.88. 
+
+McDOWELL, F. W. y S. E. CLABAUGH, 1979. 
+Ignimbrites of the Sierra Madre Occidental and their re-
+lation to the tectonic history of western Mexico. 
+Geological Society of America. Special paper 180, 
+113-124. 
+NELSON, S. A., 1980. Geology and petrology of Volcan 
+Ceboruco, Nayarit, Mexico. Geological Society of 
+America Bulletin, part. II, 91, 2290-2432. 
+NELSON, S. A., 1986. Geologia del Volcan Ceboruco, 
+Nayarit, Mexico con una estimaci6n de riesgos de erup-
+ciones futuras: Universidad Nacional Aut6noma de 
+Mexico, Instituto de Geologia, Revista, 6, 2, 246-258. 
+NELSON, S. A. y I. S. E. CARMICHAEL, 1984. 
+Pleistocene to recent alkalic volcanism in the region of 
+Sanganguey volcano, Nayarit, Mexico. Contrib. 
+Mineral Petrol. 85, 321-335. 
+PALMA, G. S. H., 1985. Estudio de resistividad en la zo-
+na geotermica del Volcan Ceboruco, Nay. CFE. 
+Gerencia de Proyectos Geotermoelectricos. Depto. de 
+Exploraci6n. Informe 42/85. p. 20. Inedito. 
+QUIJANO, L. J. L. y F. M. CHACON, 1985. Evaluaci6n 
+geoquimica de la zona geotermica del Volcan Ceboruco, 
+Nayarit. CFE. Gerencia de Proyectos Geotermo-
+electricos. Depto. de Exploraci6n. Informe l/85 p. 7. 
+Inedito. 
+QUIJANO, L. J. L. y N. VELAZQUEZ, 1983. Evaluaci6n 
+geoquimica preliminar de las zonas termales del Estado 
+de Nayarit. CFE. Gerencia de Proyectos Geotermo-
+electricos. Depto. de Exploraci6n. Informe 16/83. p. 8. 
+Inedito. 
+TELLO, H. E., 1985. Reconocimiento y evaluaci6n geo-
+qufmica de zonas termales del Estado de Nayarit.C.F.E. 
+Gerencia de Proyectos Geotermoelectricos. Depto. de 
+Exploraci6n. lnforme 52/85. p. 18. Inectito. 
+Geologia de la zona termal de San Pedro Lagunillas, Nay. 
+TELLO, H. E. y M. V. DE LA CRUZ, 1987. Reporte 
+sobre la visita realizada al Volcan Ceboruco-San Pedro 
+Lagunillas, Nay., el dia 24 de septiembre de 1987. 
+C.F.E. Gerencia de Proyectos Geotermoelectricos. 
+Depto. de Exploraci6n. Comunicaci6n de Geoqufmica 
+9/87. Inedito. 
+THORPE, R. S y P. W. FRANCIS, 1975. Volcan 
+Ceboruco: A Major composite volcano in the Mexican 
+Volcanic Belt: Bulletin of Volcanology, 39, 201-213. 
+TOVAR, A. R., 1985. Evaluaci6n de mercurio del suelo y 
+gases de fumarolas en la zona georermica del V olean 
+Ceboruco, Nay. C.F.E. Gerencia de Proyectos Geoter-
+moelectricos. Depto. de Exploraci6n. Informe 34/85, 
+p. 12. lnedito. 
+TOVAR, A. R., 1987. Evaluaci6n geoquimica de la zona 
+geotermica de Tetitlan-Valle Verde, Nayarit. C.F.E. 
+Gerencia de Proyectos Geotermoelectricos. Depto. de 
+Exploraci6n. Informe 14/87. p. 9. Inedito. 
+D. Castillo H. 
+Comisi6n Federal de Electricidad 
+Gerencia de Proyectos Geotermoelectricos 
+Depto. de Exploraci6n 
+Alejandro Volta 655 
+Col. Electricistas 
+58290 Morelia, Michoacan, Mexico 
+V. DelaCruz, M. 
+Secretarfa de F omento Agropecuario 
+Gobierno del Estado de T amaulipas 
+Cd. Victoria, Tamps., Mexico. 
+415 
+

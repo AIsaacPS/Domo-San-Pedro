@@ -1,0 +1,1792 @@
+Geology of San Pedro – Ceboruco graben
+165
+ABSTRACT
+We present a detailed study of the geology of the San Pedro–Ceboruco graben (SPC) supported
+by extensive field work, subsurface information of eight exploratory wells drilled by the Comisión Federal
+de Electricidad, as well as the review of 74 published K–Ar and 40Ar/39Ar ages and seven new K–Ar
+unspiked age determinations. The SPC is the northwesternmost tectonic structure of the Tepic–Zacoalco
+rift, which has developed since the late Miocene in the western Trans-Mexican Volcanic Belt (TMVB).
+The SPC has a broad WNW–ESE orientation and is located at the boundary between two different
+basement blocks: the Cretaceous to Paleocene batholith of the Jalisco block to the south, and the Oligocene
+to early Miocene Sierra Madre Occidental silicic volcanic province to the north. Calcalkaline, transitional
+and Na-alkaline volcanic products of the TMVB cover the tectonic contact between the two blocks. The
+oldest volcanism related to the TMVB consists of a thick succession of mafic lava flows only found in a
+deep drilling beneath Ceboruco volcano. These lava flows have a late Miocene age and are the early fill
+of a paleo-graben that possibly formed in response to the opening of the Gulf of California. In the early
+Pliocene, a large amount of rhyolitic lavas and silicic pyroclastic flows shortly followed by mafic lavas
+were emplaced mainly to the north of the study area. A second phase of faulting occurred between the
+emplacement of the silicic rocks (~5–4.2 Ma) and the mafic ones (~3.8 Ma). Volcanism resumed at the
+end of Pliocene along a NW–SE alignment of cinder cones and domes that bounds the southern part of
+the SPC. Most activity occurred in the last 1 my. It first produced several dacitic to andesitic domes and
+a small calc-alkaline stratovolcano (Tepetiltic); then, after the formation of a small caldera (San Pedro)
+a mildly Na-alkaline succession of lava flows made up a small volcano (Amado Nervo). The recentmost
+volcanism is represented by intracaldera silicic domes, a northern WNW–ESE alignment of monogenetic
+volcanoes, and the active Ceboruco stratovolcano. Late Miocene to present cumulative extension in the
+area accounts for a modest 10%. A period of very low volcanic activity in late Pliocene coincides with a
+low convergence rate between the Rivera and North America plates, confirming a strong relation between
+subduction regime and upper plate volcanism.
+Key words: San Pedro–Ceboruco, graben, Trans-Mexican Volcanic Belt, Mexico.
+Geology of the San Pedro – Ceboruco Graben,
+western Trans-Mexican Volcanic Belt
+Luca Ferrari1,*, Chiara M. Petrone2, Lorella Francalanci2,3, Takahiro Tagami4,
+Mugihiko Eguchi4, Sandro Conticelli2,3, Piero Manetti2,5, and Saúl Venegas-Salgado6
+1Centro de Geociencias, Universidad Nacional Autónoma de México, Campus Juriquilla,
+Apdo. Postal 742-1, Centro, 76001 Querétaro, Qro., Mexico
+2Dipartimento di Scienze della Terra, Universitá degli Studi di Firenze, Via G. La Pira 4, I-50121 Firenze, Italy
+3Istituto di Geoscienze e Georisorse – Sezione di Firenze, Via G. La Pira 4, I-50121 Firenze, Italy
+4Department of Geology and Mineralogy, Division of Earth and Planetary Sciences,
+Graduate School of Science, Kyoto University, Kyoto 606-8502, Japan.
+5Istituto di Geoscienze e Georisorse, Via Moruzzi 1, Pisa, Italy
+6Gerencia de Proyectos Geotermoeléctricos, Comisión Federal de Electricidad,
+Calle A. Volta 655, 58290 Morelia, Mich., Mexico
+ * luca@geociencias.unam.mx
+Revista Mexicana de Ciencias Geológicas, v. 20, núm. 3, 2003, p. 165-181
+
+Ferrari et al.
+166
+Figure 1. Geodynamic map of Mexico showing Tertiary extension and
+volcanism north of the Trans-Mexican Volcanic Belt and the present
+configuration of plates. The area of Figure 2 is boxed. Tertiary extension
+according to Ferrari et al. (2002).
+INTRODUCTION
+The San Pedro–Ceboruco graben (SPC) is a Neogene
+structure developed in the western Trans-Mexican Volcanic
+Belt (TMVB) in the proximity of the southern Gulf of
+California (Figures 1 and 2). From the geodynamic point
+of view, the SPC is particularly interesting because it lies
+just to the south of the southernmost limit of the Gulf
+Extensional Province (Gastil et al., 1975) (Figures 1 and
+2), where Na-alkaline volcanism is dominant (Nelson and
+Carmichael, 1984; Nelson and Livieres, 1986; Nelson and
+Hegre, 1990). The SPC is also the northernmost tectonic
+basin of the so-called Tepic–Zacoalco rift (Figure 2), where
+complex extensional tectonism occurred associated with
+both Na-alkaline and calc-alkaline volcanism since the late
+Miocene (Verma and Nelson, 1989a, 1989b; Ferrari et al.,
+1994, 1997; Righter et al., 1995; Rosas-Elguera et al., 1996;
+Petrone, 1998; Ferrari and Rosas-Elguera, 2000; Ferrari
+et al., 2000a; Righter 2000; Petrone et al., 2003). Although
+many of the major volcanic centers of the western TMVB
+have been studied, the only well known center inside the
+SPC is the active Ceboruco volcano (Nelson, 1980, 1986;
+Gardner and Tait, 2000), whereas brief accounts on the
+RESUMEN
+Presentamos un estudio detallado de la geología del graben San Pedro–Ceboruco (SPC) apoyado
+por trabajo de campo detallado, información del subsuelo de ocho pozos de exploración perforados por
+la Comisión Federal de Electricidad, así como la revisión de 74 edades K–Ar y 40Ar/39Ar previamente
+publicadas y siete nuevas determinaciones de edades K–Ar. El SPC es la estructura tectónica más
+noroccidental del rift Tepic–Zacoalco, la cual se ha desarrollado desde el Mioceno tardío en la porción
+occidental del Cinturón Volcánico Mexicano (CVM). El SPC tiene una orientación aproximada WNW–
+ESE y se localiza en el límite entre dos diferentes bloques del basamento: el batolito del bloque de
+Jalisco (Cretácico–Paleoceno) al sur, y la provincia volcánica silícica de la Sierra Madre Occidental
+(Oligoceno–Mioceno temprano) al norte. Productos volcánicos calcialcalinos, transicionales y alcalinos
+sódicos del CVM cubren el contacto tectónico entre los dos bloques. El volcanismo más antiguo relacio-
+nado al CVM consiste en una gruesa sucesión de flujos de lava máficos, encontrados solamente en
+perforaciones profundas bajo el Volcán Ceboruco. Estos flujos de lava tienen una edad del Mioceno
+tardío y constituyen el relleno temprano de un paleograben que posiblemente se formó en respuesta a la
+apertura del Golfo de California. En el Plioceno temprano, una gran cantidad de lavas riolíticas y
+flujos piroclásticos silícicos, seguidos poco tiempo después por lavas máficas, se emplazaron principal-
+mente hacia el norte de la zona de estudio. Una segunda fase de fallamiento ocurrió entre el emplazamiento
+de las rocas silícicas (~5–4.2 Ma) y las máficas (~3.8 Ma). El volcanismo reinició al final del Plioceno
+a lo largo de un alineamiento NW–SE de conos cineríticos y domos que limitan el SPC al sur. La mayor
+parte de la actividad ocurrió en el último millón de años, produciendo primero algunos domos dacíticos
+a andesíticos y un pequeño estratovolcán calcialcalino (Tepetiltic); después de la formación de una
+pequeña caldera (San Pedro), una sucesión de flujos de lava moderadamente alcalinos (sódicos) formaron
+un pequeño volcán (Amado Nervo). El volcanismo más reciente está representado por domos silícicos
+intracaldera, un alineamiento WNW–ESE de volcanes monogenéticos, y el estratovolcán activo Ceboruco.
+Del Mioceno tardío al presente, la extensión acumulativa en el área es de un modesto 10%. Un periodo
+de muy baja actividad volcánica en el Plioceno tardío coincide con una baja tasa de convergencia entre
+las placas de Rivera y Norteamérica, confirmando una fuerte relación entre el régimen de subducción y
+el volcanismo en la placa sobreyaciente.
+Palabras clave: San Pedro–Ceboruco, graben, Cinturón Volcánico Mexicano, México.
+
+Geology of San Pedro – Ceboruco graben
+167
+Figure 2. Map showing the main extensional faults and the post 7 Ma volcanism of the western Trans-Mexican Volcanic Belt (modified after Ferrari
+and Rosas-Elguera, 2000, and Ferrari et al., 2000a). Box depicts the area covered by Figure 6. The area belonging to the SPC is in intermediate grey.
+The main volcanic structure are: SJ = San Juan, SA = Sanganguey, TE = Tepetiltic, CE = Ceboruco, TEQ = Tequila, LP = La Primavera caldera, SP =
+San Pedro caldera. The main tectonic structures are: PV = Puerto Vallarta graben, PB – SR = Plan de Barrancas–Santa Rosa graben, SM = San Marcos
+half-graben.
+geology and the petrography of the other centers are found
+in Castillo and de la Cruz (1992) and Righter et al. (1995).
+In the last four years we have carried out an extensive
+geologic, geochemical and geochronologic study of the SPC
+area. The petrology of the SPC is presented in Petrone
+et al. (2003), and a tectonic-petrogenetic model of the evolu-
+tion of the whole western TMVB has been put forward in
+Ferrari and Rosas-Elguera (2000), Ferrari et al. (2001) and
+in Petrone et al. (2003). In this work we present in detail
+the geology and volcanic stratigraphy of the SPC supported
+by a review of 74 published K–Ar and 40Ar/39Ar ages (Gastil
+et al., 1978; Righter et al., 1995 ; Ferrari et al., 2000a, 2000
+b; Petrone et al., 2001; Frey et al., in press) along with
+seven new age determinations (Table 1). The recent work
+by Frey et al. (in press) provide many high precision 40Ar/
+39Ar ages that are generally younger than the K–Ar ages
+performed by CFE on the same units and reported in Ferrari
+et al. (2000a). These ages were normally preferred. Seven
+new K–Ar ages presented in this work were obtained with
+the K–Ar unspiked sensitivity method (see appendix). This
+method, along with the mass fractionation correction proce-
+dure, have allowed extension of the K–Ar dating method
+to volcanic rocks as young as ~10 Ka (Itaya and Nagao,
+1988; Takaoka et al., 1989; Matsumoto et al., 1989;
+Matsumoto and Kobayashi, 1995).
+The seven samples chosen for dating represent the
+compositional range of mafic rocks in the SPC recognized
+by Petrone et al. (2003). They are mostly characterized by
+low phenocryst contents and devitrified groundmasses. The
+samples also have a low volume percent of vescicles and
+
+Ferrari et al.
+168
+Table 1. New K–Ar age determinations by the unspiked sensitivity method.
+Sample ID and 
+location  
+Rock type 
+Weight 
+(g) 
+K2O    
+(wt%) 
+38Ar/36Ar  
+40Ar/36Ar  
+40Ar/36Ar Initial 
+40Ar rad       
+(10-8cm3STP/g) 
+40Ar atm  
+(%)
+K-Ar age      
+(Ma) 
+San Leonel 
+ 
+ 
+ 
+   
+   
+   
+   
+ 
+  
+ 
+SPC150-2 
+Na-Alkaline  
+basalt 
+5.3358 
+1.38 
+0.1875 ± 0.0006 
+397.3 ± 0.6 
+297.4 ± 1.9 
+2.059 ± 0.051 
+74.9 
+0.46 ± 0.01 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Camichin de Jauja 
+ 
+ 
+ 
+   
+   
+   
+   
+ 
+   
+ 
+SPC155-2 
+Na-Alkaline 
+ basalt 
+3.7837 
+1.63 
+0.1850 ± 0.0008 
+311.3 ± 0.5 
+289.7 ± 2.6 
+0.652 ± 0.079 
+93.1 
+0.12 ± 0.02 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Cerro El Estafiate 
+ 
+ 
+ 
+   
+   
+   
+   
+ 
+   
+ 
+SPC21-2 
+Transitional  
+basalt 
+3.1458 
+1.38 
+0.1846 ± 0.0006 
+323.8 ± 0.5 
+288.6 ± 1.9 
+1.335 ± 0.076 
+89.1 
+0.30 ± 0.02 
+ 
+ 
+ 
+ 
+   
+   
+  
+ 
+   
+ 
+ 
+ 
+ 
+Volcán Molcajete 
+ 
+ 
+ 
+   
+   
+   
+   
+ 
+   
+ 
+SPC39-2 
+Transitional  
+basalt 
+2.9958 
+2.32 
+0.1871 ± 0.0011 
+295.5 ± 0.7 
+296.0 ± 3.7 
+-0.015 ± 0.117 
+100.2 
+0.00 ± 0.02 
+ 
+ 
+ 
+ 
+   
+   
+  
+ 
+   
+ 
+ 
+ 
+ 
+Cerro Colorado 
+ 
+ 
+ 
+   
+   
+   
+   
+ 
+   
+ 
+SPC106-3 
+0.2579 
+1.60 
+0.1874 ± 0.0006 
+300.6 ± 0.5 
+297.0 ± 1.9 
+2.214 ± 1.220 
+98.8 
+0.43 ± 0.24 
+ 
+SPC106-4 
+Calk-alkaline 
+basalt 
+0.3674 
+ 
+0.1872 ± 0.0006 
+299.6 ± 0.5 
+296.3 ± 1.9 
+2.178 ± 1.273 
+98.9 
+0.42 ± 0.25 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+Weighted mean
+0.43 ± 0.17 
+ 
+ 
+ 
+ 
+   
+   
+  
+ 
+   
+ 
+ 
+ 
+ 
+Tepetiltic volcano 
+ 
+ 
+ 
+   
+   
+   
+   
+ 
+   
+ 
+SPC79-2 
+Calk-alkaline 
+andesite 
+2.3313 
+1.48 
+0.1865 ± 0.0006 
+345.5 ± 0.6 
+294.3 ± 2.1 
+2.298 ± 0.104 
+85.2 
+0.48 ± 0.02 
+Bomb likely ejected from a cone to the north of Tepetiltic volcano  
+   
+   
+   
+ 
+   
+ 
+SPC74-2 
+0.7695 
+1.05 
+0.1863 ± 0.0006 
+296.6 ± 0.5 
+293.7 ± 1.9 
+0.672 ± 0.457 
+99.0 
+0.20 ± 0.13 
+ 
+SPC74-3 
+Na-Alkaline  
+basalt (bomb) 
+0.8327 
+ 
+0.1868 ± 0.0006 
+296.4 ± 0.5 
+295.1 ± 1.9 
+0.322 ± 0.481 
+99.6 
+0.09 ± 0.14 
+   
+  
+ 
+ 
+  
+  
+ 
+ 
+Weighted mean 
+0.14 ± 0.10 
+are unaltered. Three of these samples are Na-alkaline (SPC
+74, SPC 150, and SPC 155), two are calc-alkaline (SPC 79
+and SPC 106), and the remaining two (SPC 21 and SPC
+39) are transitional between Na-alkaline and calc-alkaline.
+The present study includes samples and stratigraphic
+information gathered from the exploratory wells drilled for
+geothermal purposes by the Comisión Federal de
+Electricidad (CFE) in the SPC (Figures 3 and 4). Three deep
+wells, CB1, CB2, and CB3, reached depths of 2,700, 1,600,
+and 1,900 m, respectively, and cores were recovered at
+intervals of 500 m. Five shallow wells reached depths of
+100 to 200 m with 3 to 5 cores each. The litho-stratigraphic
+sequence of each well was reconstructed using petrographic
+analysis of well cuttings. These drill-hole data provide an
+important control on the volcanic stratigraphy of the area.
+REGIONAL GEOLOGIC AND TECTONIC
+SETTING
+The western TMVB conceals the tectonic boundary
+between the Jalisco Block (JB) and the Sierra Madre
+Occidental (SMO) (Rosas-Elguera et al., 1997; Ferrari et
+al., 2000a, Ferrari and Rosas-Elguera, 2000) (Figure 2).
+The frontal part of the arc is built on the JB and is
+characterized by mafic Plio–Quaternary monogenetic
+centers and small shield volcanoes (Wallace and
+Carmichael, 1989, 1992; Lange and Carmichael, 1990,
+1991; Righter and Carmichael, 1992; Righter and Rosas-
+Elguera, 2001). Volcanism in this area consists
+predominantly of K-alkaline rocks that show a subduction-
+related geochemical signature (Lange and Carmichael,
+1990; Righter et al., 1995). In the rear half of the arc, sub-
+alkaline subduction-related felsic domes and mafic-
+intermediate monogenetic centers and lava flows were
+emplaced since late Miocene, whereas andesitic to dacitic
+stratovolcanoes were built in the late Quaternary (Ferrari et
+al., 2000a) (Figure 2). Na-alkaline magmas with intraplate
+affinity and transitional lavas were erupted in Pliocene and
+Quaternary times, mostly along extensional fault systems
+at the northern edge of the JB (Ferrari et al., 2000b).
+Following the first proposal of Luhr et al. (1985),
+several authors considered that the JB may have been rifting
+away from the Mexican mainland since the early Pliocene.
+This model requires a considerable amount of right-lateral
+shearing along the northern boundary of the Jalisco block,
+which coincides with the Tepic–Zacoalco rift, to permit the
+westward rifting of the block (Allan et al., 1991; Borgois
+and Michaud, 1991; Moore et al., 1994). Recent field studies
+in the region, however, have shown that the Plio–Quaternary
+tectonics is dominantly extensional (Barrier et al., 1990;
+Nieto-Obregon et al., 1992; Ferrari and Rosas-Elguera,
+1994, 2000), although evidence for strike-slip deformation
+is found in older rocks (Michaud et al., 1991; Ferrari 1994a,
+
+Geology of San Pedro – Ceboruco graben
+169
+1995; Ferrari et al., 2000b). Rosas-Elguera et al. (1996)
+proposed that the northern boundary of the JB developed
+in early Tertiary times and has been reactivated several times
+since then. It is now established that the boundary was
+reactivated by shear tectonics related to the initial opening
+of the Gulf of California during the middle to late Miocene
+(Ferrari, 1995; Ferrari et al., 2000b, 2002). Then, since the
+end of Miocene, NE extension eventually shaped the Tepic–
+Zacoalco rift (Ferrari and Rosas-Elguera, 2000).
+VOLCANIC SUCCESSION OF THE
+SAN PEDRO–CEBORUCO GRABEN
+The SPC is a complex, WNW–ESE striking exten-
+sional basin located along the boundary between the JB to
+the south and the SMO to the north. Magmatism has been
+intimately associated with formation of the SPC, with
+emplacement of volcanic and sub-volcanic bodies at least
+since the Pliocene. Volcanism in this area produced two
+Figure 3. Stratigraphy of the deep exploratory wells drilled by Comisión Federal de Electricidad in the SPC area (not to scale). The depth of each
+lithologic unit is reported in meter above (or below) sea level. Ages of cores are from Ferrari et al. (2000a) and Ferrari et al. (2000b). The location of
+the wells is indicated in Figures 5 and 6.
+
+Ferrari et al.
+170
+Figure 4. Stratigraphy of the shallow gradient wells drilled by Comisión Federal de Electricidad in the SPC area (at scale). The depth of each lithologic
+unit is reported in meter below the well top. The locations of the wells are indicated in Figures 5 and 6.
+small calc-alkaline stratovolcanoes (Ceboruco and Tepe-
+tiltic), a dome-caldera complex (San Pedro–Cerro Grande
+Volcanic Complex), a mildly Na-alkaline succession of lava
+flows that made up a small volcano (i.e., Amado Nervo)
+and two NNW–SSE alignments of mono-genetic cinder
+cones and lava domes (northern and southern volcanic
+chain) (Figures 5 and 6).
+In the SPC we recognized 26 litho-stratigraphic units
+based on their stratigraphic position, petrography, and age.
+The stratigraphic relations among all late Pliocene to
+Quaternary vents of the SPC is illustrated in Figure 7. Chem-
+ical classification for the recognized main Pleistocene–
+Holocene geologic units is shown in the total-alkalis vs.
+silica diagram in Figure 8. A brief description of each of
+the geologic units follows, starting with the oldest
+Cretaceous–Early Tertiary units.
+Jalisco block (Late Cretaceous–early Eocene)
+The Jalisco Block (JB) is a distinctive geologic
+assemblage consisting of Late Cretaceous to early Tertiary
+volcanic and volcaniclastic deposits and marine sedimentary
+sequences underlain by a granitoid batholith that intruded
+low- to medium-grade metasedimentary rocks. These older
+rocks are mostly exposed east of Puerto Vallarta and east
+of Punta Mita, where Prol et al. (2002) suggest a Paleozoic
+age for the calcareous schists and gneisses exposed there.
+Turbidite sequences are commonly intercalated with the
+volcanic rocks and are dominant in the western JB. Volcanic
+rocks are rhyolitic ash-flow tuff and subordinate andesites,
+mainly exposed in the central part. Limestone and minor
+sandstone of probable Cretaceous age are confined to the
+northeastern and eastern part of the JB (Colima rift and
+Tapalpa region). The volcanic and sedimentary cover of
+the Jalisco block is affected by post-Early Cretaceous
+folding and faulting likely related to the Laramide orogeny.
+K–Ar ages of the volcanic rocks exposed in the JB
+range from 114 Ma to 51 Ma (Gastil et al., 1978; Wallace
+and Carmichael, 1992; Lange and Carmichael, 1991;
+Righter et al., 1995; Ferrari et al., 2000a). However,
+available 39Ar/40Ar ages of ignimbrites are restricted to the
+83–58 Ma interval (Wallace and Carmichael, 1989; Righter
+et al., 1995; Rosas-Elguera et al., 1997; Frey et al., in press).
+Plutonic rocks consist of granite, granodiorite, and tonalite,
+which form a large single batholith south of Puerto Vallarta
+and probably represent the basement of the whole JB. Zircon
+U–Pb dates and Rb–Sr isochrons indicate that the
+emplacement of these rocks range between ~100 and 90
+Ma (Schaaf et al., 1995). Hornblende and biotite K/Ar ages
+(cooling ages) from a large variety of rocks in the batholith
+range between 90 Ma and 50 Ma (Gastil et al., 1978; Köhler
+
+Geology of San Pedro – Ceboruco graben
+171
+et al., 1988; Zimmermann et al., 1988), suggesting that some
+of the intrusions may be younger than Cretaceous. Based
+on close similarity in ages and chemical and isotope
+composition, Schaaf et al. (2000) demonstrated that the
+Puerto Vallarta batholith is the equivalent of the Los Cabos
+batholith of southern Baja California. In fact, they were
+probably joined before the opening of the Gulf of California.
+Rocks belonging to the JB are exposed in the Sierra
+de Zapotán and Sierra el Guamuchil, just south of the SPC
+(Figures 5 and 6) and were cored at well CB 2 (Figure 3).
+In the Sierra de Zapotán they consist of a dioritic to granitic
+batholith partly covered by remnants of Cretaceous lime-
+stone, and extensive silicic ash flow tuffs and lava flows.
+Andesitic lavas, often showing low-grade meta-morphism,
+are found intercalated with the silicic rocks in the Sierra el
+Guamuchil. Righter et al. (1995) dated a rhyolitic ash flows
+in the Sierra el Guamuchil by 39Ar/40Ar at 62.5 ± 0.1 Ma
+and Gastil et al. (1978) report a K/Ar age of 53.8 ± 1.5 Ma
+for a rhyolite about 1 km south of the village of Juan Escutia,
+at the northern edge of Sierra de Zapotán (Figure 6). The
+lower part of CB 2 well, drilled in the southern part of the
+SPC close to Amado Nervo village (Figure 6), found over
+730 m of low grade metamorphosed andesites. Two cores,
+recovered at depth of 1,020 and 1,510 m, were dated at
+51.5 ± 0.5 and 51.7± 0.6 Ma respectively by the 39Ar/40Ar
+method (Ferrari et al., 2000a). Based on their lithology and
+age, these rocks were correlated with the upper part of the
+JB succession. This early Eocene andesitic volcanism seems
+to constitute a regional event on the northern edge of the
+JB. Indeed a well drilled west of Guadalajara, in the La
+Primavera caldera, also found an andesitic succession that
+yielded a K/Ar age of 51 ± 2.5 Ma (Ferrari et al., 2000a).
+Sierra Madre Occidental (Oligocene–early Miocene)
+The SMO is a large silicic volcanic plateau that
+extends for over 2,000 km from the U.S.–Mexico border to
+the western TMVB. The northern and central part of the
+SMO mostly consists of silicic ignimbrites and, to a lesser
+extent, rhyolitic domes of Oligocene age (McDowell and
+Keizer, 1977; McDowell and Clabaugh, 1979). The
+southern SMO has been recently studied by Ferrari et al.
+(2002), who found that most of the region is covered by a
+Figure 5. Shaded relief map showing the main geographic features of the study region.
+
+Ferrari et al.
+172
+Amado Nervo volcano (0.22 Ma)
+San Pedro debris avanche (a)
+and debris flow (b)
+Post-caldera domes
+and flows (100-30 ka)
+Tepetiltic volcano (0.48 Ma)
+San Pedro Lagunilla pumice flows
+and fall
+Cuastecomate pumice fall
+and surges
+Cerro Estiladero basalt
+and andesite (0.5 Ma)
+Ixtlán and Buenavista basalt and andesite (3.8 Ma)
+Jala rhyolites and ignimbrites (4.95 - 4.1 Ma)
+Extensional faulting (northern boundary fault)
+Jalisco block
+(late Cretaceous - early Eocene)
+Ignimbrites and rare andesites (34 - 19 Ma) Sierra Madre Occidental
+Surficial deposits
+Slope debris deposits
+a
+b
+Marquezado tuff (1 ka)
+Pre-caldera lavas (45 ka)
+Post-caldera lavas
+Ceboruco
+volcano
+Las Guasimas pyroclastic fall
+and flow deposits
+a
+b
+Pre-caldera domes stage II
+(0.9 - 0.6 Ma)
+Pre-caldera domes stage I
+(1.6 - 1.4 Ma)
+Southern volcanic chain (2.5 - 0.4 Ma)
+monogenetic volcanoes (a) and domes (b)
+San Pedro
+dome
+complex
+Ignimbrites, rhyolites and andesites (90 - 53 Ma)
+Granodiorite to granite (80 - 61 Ma)
+Limestone and sandstone
+L E G E N D
+b
+Northern volcanic chain (0.51 - Present)
+monogenetic volcanoes (a) and domes (b)
+Las Cuevas pumice fall
+a
+
+Mazatán
+Tequilita
+Juan Escutia
+Carrillo Puerto
+Zapotán
+Compostela
+Cerro Estiladero
+Tepetiltic volcano
+Santa Maria
+del Oro
+21°10'
+21°10'
+104°30'
+104°40'
+Amado
+Nervo
+Cuastecomate
+*
+*
+*
+*
+*
+*
+**
+*
+*
+* *
+* *
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+San Pedro
+Lagunillas
+Laguna
+San Pedro
+CB3
+CB1
+GC2
+GC3
+GC4
+GC5
+CB2
+15
+15
+Jala
+Jomulco
+Marquezado
+Ahuacatlán
+Ixtlán
+15D
+15D
+200
+Chapalilla
+15D
+15
+CB3
+Geothermal well
+Toll highway
+Paved road
+Graded road
+Dome vent
+Cinder and lava cone vent
+Caldera rim
+SYMBOLS
+0
+5 km
+Scale
+**
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+**
+*
+*
+*
+0.48 ± 0.02
+0.48 ± 0.05
+0.14 ± 0.1
+0.3 ± 0.02
+0.46 ± 0.01
+4.6 ± 0.2
+21.3 ± 0.9
+*
+*
+K-Ar age
+Ar-Ar age (Frey et al., 2003; Ferrari et al.
+2002
+)
+; Righter et al., 1995
+4.6 ± 0.2
+0.3 ± 0.02
+0.19 ± 0.03
+0.00 ± 0.02
+0.45 ± 0.02
+0.52 ± 0.02
+0.37 ± 0.04
+58.34
+2.53 ± 0.05
+53.7 ± 1.5
+0.22 ± 0.029
+0.21 ± 0.26
+0.29 ± 0.02
+4.19
+3.83
+4.53 ± 0.03
+4.95
+0.6 ± 0.06
+0.5 ± 0.05
+0.44± 0.02
+25.5
+0.041 ± 0.02
+0.78 ± 0.16
+0.26 ± 0.05
+0.03
+0.28
+0.67
+0.53 ± 0.1
+0.61
+0.62
+0.03 ± 0.2
+1.6 ± 0.3
+1.4 ± 0.3
+0.14 ± 0.08
+0.11 ± 0.02
+0.1 ± 0.01
+0.5 ± 0.05
+0.5 ± 0.01
+0.09
+4.2 ± 0.01
+0.11 ± 0.02
+4.74
+4.72
+20.0 ± 0.3
+65 ± 0.14
+*
+*
+*
+Laguna
+Laguna
+Tepetiltic
+Ceboruco volcano
+Amado Nervo volcano
+Cerro
+San
+Pedro
+SIERRA EL GUAMUCHIL
+SIERRA ZAPOTAN
+Rio Tetiteco
+Rio Ahuacatlán
+Las
+Guasimas
+C. Los Ocotes
+Cerro Buenavista
+Santiaguito
+C. Alto
+Paso de los
+Arrieros
+C. Pelon
+Volcán El Agujereado
+Volcán Tezontle
+Cerro el Estafiate
+San Leonel
+C. Bartolinas
+C. Las Cuevas
+C. Las Tetillas
+Loma
+Atravesada
+C. Izote
+C. Ixletes
+C. Lobos
+Tetitlán
+C. El Chivo
+Las
+Piedras
+Atarjea
+La Mesa
+San
+Juanito
+C. Grande
+La Mesa
+Volcán Molcajetillo
+Volcán Los Amoles
+Corral
+Falso
+C. Cristo Rey
+San Clemente
+Volcán Molcajete
+Mexpan
+La
+Pichancha
+C. Pochotero
+C. Pedregoso
+C. Colorado
+Los
+Sabinos
+Las Higueras
+El Ceboruquito
+San Ambrosio
+Volcán Mazatepec
+C. El Reventón
+*
+*
+0.43 ± 0.17
+(This work)
+(Ferrari et al., 2000a,Petrone et al., 2001)
+*
+*
+*
+*
+3.84
+0.82 ± 0.02
+0.56 ± 0.02
+0.25 ± 0.02
+Figure 6. Geologic map of the San Pedro - Ceboruco area.
+Revista Mexicana de Ciencias Geológicas, v. 20, núm. 3
+Ferrari, Petrone, Francalanci, Tagami, Eguchi, Conticelli, Manetti, and Venegas-Salgado, Figure 6
+
+Geology of San Pedro – Ceboruco graben
+173
+Las Guasimas pumice
+fall and flows
+San Pedro domes debris avalanches
+Amado Nervo
+volcano (0.22 Ma)
+San Pedro domes
+(0.041 Ma)
+Las Cuevas
+(0.78 Ma)
+Ixletes
+(0.26 Ma)
+San Pedro
+lava flows
+(0.28 Ma)
+Cuastecomate
+pumice and ash fall
+Las Cuevas pumice
+San Pedro Lagunillas
+pumice flows
+La Higueras
+(0.6 Ma)
+N of Bartolinas
+(1.6 Ma)
+Cerro Lobos
+(0.61 Ma)
+Cerro Bartolinas
+(1.4 Ma)
+Loma Atraviesada
+Caldera collapse?
+Caldera collapse?
+Pyroclastic deposit
+Polygenetic volcano
+Monogenetic volcano
+Volcanic dome
+Corral Falso
+Cerro Alto (2.53 Ma)
+Volcán Mazatepec
+Cerro el Reventón
+Santiaguito
+Paso de
+Los Arrieros
+Los Sabinos
+Marquezado tuff and
+(1 ka)
+Jala pumice fall
+Ceboruco
+volcano
+(45 - 0 Ka)
+El Ceboruquito (< 1 ka)
+San Ambrosio (< 1 ka)
+Cristo Rey
+(0.51 Ma)
+Mexpan (0.09 Ma)
+S. Clemente
+(0.52 Ma)
+V. Molcajete
+(< 1 ka)
+Pichancha
+(< 1 ka)
+S of Jala
+Pochotero
+Pedregoso
+Molcajetillo
+NW of
+Molcajetillo
+La Mesa
+S. Juanito
+Tequepexpan
+(0.14 Ma)
+Estafiate
+(0.3 Ma)
+Los Amoles
+NW of
+Los Amoles
+Agujereado (0.03 Ma)
+San Leonel
+(0.46 Ma)
+Tezontle
+(0.19 Ma)
+C. Grande
+(0.11 Ma)
+Los Ocotes
+(0.1 Ma)
+West-northwest
+East-southeast
+Izote
+(0.44 Ma)
+Tetitlán
+(0.5 Ma)
+Atarjea
+(0.67 Ma)
+La Piedras
+(0.82 Ma)
+C. Colorado
+(0.43 Ma)
+Tepeltitic volcano
+(0.48 Ma)
+Las Tetillas (0.45 Ma)
+Cerro Estiladero
+(0.52 Ma)
+Late Pliocene
+Early Pleistocene
+Middle Pleistocene
+Holocene
+Late Pleistocene
+Figure 7. Location of the Pliocene and Quaternary volcanic edifices in space and time. Stratigraphic relation among units is based on direct field observation, age, or geologic correlation.
+
+Ferrari et al.
+174
+younger succession of ignimbrites with ages of 23 to 20
+Ma, locally covered by basalts dated at 21–20 Ma (see also
+Rossotti et al., 2002). This succession, however, overlies
+Oligocene ignimbrites and andesites, and Oligocene–
+Miocene subvolcanic bodies (Ferrari et al., 2002).
+The SMO succession, exposed in the Santa Fe area
+about 10 km north of Ceboruco volcano, is composed of
+~800 m of rhyolitic ash flows and minor basaltic to andesitic
+lavas, which cover subvolcanic stocks and plutons with
+diorite to granite compositions. The entire succession has
+Oligocene to early Miocene ages and the subvolcanic rocks
+crop out at ~500 m asl at most. By contrast, Cretaceous
+granitic rocks belonging to the Puerto Vallarta batholith
+are exposed at elevation of 2,500 m asl to the south of the
+SPC. This implies that the JB has been uplifted considerably
+with respect to the SMO and that they are separated by a
+major tectonic discontinuity, now covered by the volcanism
+of the TMVB. Extensional reactivation of this tectonic
+boundary has formed the SPC tectonic depression since late
+Miocene (Ferrari et al., 2000b).
+Late Miocene basalts
+A succession of late Miocene basalts is only found in
+the deeper part of well CB1 drilled by Comision Federal de
+Electricidad on the lower southern slope of Ceboruco
+volcano (Figures 3 and 5). The well cuttings and two cores
+indicate that the succession is composed of about 850 m of
+sub-aphyric mafic lava flows with minor intercalations of
+pumice and ash flows. They rest directly on altered volcanic
+rocks, tentatively correlated to the Jalisco block succession
+cored at well CB 2. Ferrari et al. (2000b) dated by K–Ar
+and 40Ar/39Ar methods a sample cored at a depth of ~2,000
+m, near the base of the mafic succession. They conclude
+that the 40Ar/39Ar integrated age of 8.5 ± 0.2 Ma represents
+the best estimate of the age of this buried succession. The
+dated sample shows a basaltic andesite composition with a
+sub-alkaline affinity. The age and the geochemical affinity
+suggest that the basalts could be correlative with the 9 Ma
+old Cinco de Mayo basaltic plateau northwest of Tepic
+(Righter et al., 1995; Ferrari et al., 2000b). The existence
+of late Miocene basaltic rocks at the bottom of the Ceboruco
+graben indicates that the depression began to develop
+concurrently with the proto-Gulf of California extension
+during a late Miocene right-lateral transtensional episode
+(Ferrari et al., 2000b).
+Pliocene volcanism
+The northern side of the SPC is bounded by WNW–
+ESE normal faults that cut a relatively high plateau formed
+by rhyolitic lava flows and silicic pyroclastic flows (i.e.,
+Jala rhyolites and ignimbrites, Figure 6). This succession is
+well exposed near the canyon north of Jala village and along
+the roadcuts of toll Highway 15D northwest of Ceboruco
+volcano. Rhyolitic lavas dominate towards the west and
+are frequently hydrothermally altered. Pyroclastic flows are
+more abundant to the east and contain ash, pumice and
+Figure 8. Total Alkalies vs. Silica (wt.%) (Le Bas et al., 1992) diagrams for Pleistocene–Holocene rocks from San Pedro–Ceboruco graben (modified
+from Petrone, 1998 and Petrone et al., 2003)
+
+Geology of San Pedro – Ceboruco graben
+175
+sanidine crystals. The succession has a maximum thickness
+of 400 m and has been dated at ~4.2 Ma east of Ceboruco
+volcano (Righter et al., 1995; Frey et al., in press) and 4.6
+± 0.2 near Santa María del Oro (Gastil et al., 1978). Recently
+Frey et al. (in press) reported very similar ages for rhyolites
+north of Ceboruco and an age of 4.95 Ma for an ignimbrite
+in the lower northern slope of Sierra el Guamichil (Figure
+6). The early Pliocene silicic lavas and pyroclastic flow
+deposits exposed in the SPC area extend up to 40 km to the
+east of the study area. Ferrari et al. (2001) estimated a
+cumulate volume of about 500 km3 for this volcanism.
+In the southern and south-eastern side of the SPC, the
+Jala rhyolitic succession is covered by basaltic to andesitic
+lava flow (Ixtlan and Buenavista basalt and andesite). One
+flow to the east of the study area was recently dated as early
+Pliocene (Ferrari et al., in preparation). Similarly, Frey et
+al. (in press) dated two basaltic samples north of Ixtlán at
+3.8 Ma. In the western side of the SPC, basaltic lavas of
+possible late Pliocene age constitute Cerro Buenaventura,
+a partly dissected polygenetic volcano located at the western
+end of the southern boundary fault of SPC.
+Southern volcanic chain
+(late Pliocene–middle Pleistocene)
+Several small cinder cones and a few domes were
+emplaced along the WNW trending faults that bound the
+SPC to the south. Collectively, they were named “Southern
+Volcanic Chain” by Petrone et al. (2001) and produced
+relatively thick lava flows whose composition range form
+basalt to andesite with only subordinate dacite (Figure 7).
+One of the flows along the southwestern boundary of the
+SPC was dated at 2.53 ± 0.05 Ma by Petrone et al. (2001)
+(Cerro Alto, Figure 6). Frey et al. (in press) obtained an
+age of 0.6 ± 0.06 for a dacitic dome located to the southeast
+(Las Higueras, Figure 6). In addition we have dated a flow
+from Cerro Colorado (Figure 6), which covers an older flow
+from the nearby Los Sabinos cinder cone. Duplicate K–Ar
+analyses for this sample (SPC 106) are in good agreement
+to each other although they gave a weighted mean age of
+0.43 ± 0.17 Ma. The large analytical error is probably due
+to the high atmospheric 40Ar contamination (see 40Ar atm
+% and 40Ar rad content in Table 1). The K–Ar age obtained
+for SPC 106 and for the Las Higueras dome (Frey et al., in
+press) significantly expands the time span for the activity
+of the Southern Volcanic Chain.
+San Pedro–Cerro Grande volcanic complex
+(Pleistocene)
+The center of the SPC is the site of numerous andesitic
+to rhyolitic domes (Figure 7) having ages that span the whole
+Pleistocene (Figure 6). The San Pedro domes are the highest
+peaks and rise inside of a 7 to 10-km-wide elliptical caldera.
+We recognized three periods of activity.
+During the first period at least 5 domes were emplaced
+along a NW trending alignment to the southeast of San
+Pedro. These domes yielded ages of 1.6 to 1.4 Ma (Ferrari
+et al., 2000a). A pyroclastic sequence consisting of fall
+deposits alternating with surges and ash deposits, is well
+exposed near Las Cuevas and clearly underlie the domes of
+the second period of activity (Figures 6 and 7).
+During the second period of activity, several domes
+and flows were emplaced without a clear alignment either
+on the ESE or on the WNW of San Pedro domes. These
+rocks were dated between 0.82 and 0.44 Ma (Ferrari et al.
+2000a; Petrone et al., 2001; Frey et al., in press). This period
+ended with a caldera collapse in the San Pedro area, which
+is presently partially buried by younger volcanic products.
+The caldera rim is clearly observable on its eastern side,
+where it cuts the Cerro Lobos dome, dated 0.61 ± 0.21 Ma
+(Petrone et al., 2001) and the Atarjea dome, dated 0.67 ±
+0.06 Ma (Frey et al., in press). In addition, the caldera seems
+to cut also Cerro Las Tetillas (Figure 6) recently dated at
+0.45 ± 0.19 Ma (Frey et al., in press). Although several
+pyroclastic deposits are found in the area, a more detailed
+volcanologic study is needed to clearly identify those
+associated with the caldera formation. The deposits most
+likely associated with the caldera collapse are pumice and
+ash falls deposits, up to 40 m thick, exposed about 10 km
+to the south of the caldera between Amado Nervo and Cuas-
+tecomate (Cuastecomate pumice and fall, Figure 6). In
+proximal areas, such pyroclastics are buried under younger
+rocks, but a similar deposit has been encountered between
+50 and 90 m of depth in the CB 2 well, drilled south of the
+caldera (Figures 3 and 6). Similar pumice layers were also
+encountered in the GC5 well beneath the first succession
+of lavas of the Amado Nervo volcano (Figure 4).
+The third period of volcanic activity is characterized
+by the outpouring of magmas along the caldera rim and
+inside the caldera. The activity spans between around 0.28
+Ma and 0.030 Ma (Ferrari et al., 2000a; Frey et al., in press).
+The silicic (dacite and rhyolites, Figure 8) activity was
+renewed with the emplacement of Cerro Los Ocotes dome
+and its associated Las Guasimas pyroclastic fall and flow
+deposit at 0.1 ± 0.01 Ma (Ferrari et al., 2000a). The dome
+was emplaced along the northwestern part of the caldera
+rim and exhibits spectacular flow banding. Mafic lava flows
+also vented from the southern caldera rim, making up the
+Amado Nervo volcano. Because its eruption style and
+chemical composition are completely different from domes
+of the San Pedro Volcanic Complex, this volcanic apparatus
+is described in a separate section below.
+Inside the caldera, the three coalescing domes of Cerro
+San Pedro were emplaced at 0.027 ± 0.07 Ma and 0.055 ±
+0.08 Ma (40Ar/39Ar dates by Frey et al., in press) giving a
+mean age of 0.041± 0.02 Ma. The domes are aligned along
+a NW trending fracture. Two of the domes have partly
+collapsed and avalanche deposits are found to the northwest
+and to the southeast. The former deposit is clearly observ-
+
+Ferrari et al.
+176
+able by the hummocky morphology given by slide blocks
+of the dacite. The southern collapse probably destroyed the
+southern rim of the caldera and the related deposit is found
+up to 10 km from the source (Figure 6).
+The well CB 3 drilled just south of Cerro Los Ocotes
+(Figures 3 and 6) penetrated about 930 m of rhyolites
+and dacites of the San Pedro dome complex and then over
+1,000 m of biotite–pyroxene granite. Structural and petro-
+graphic considerations suggest that this rock does not belong
+to the JB but, rather, to a Neogene (early Pleistocene?) sub-
+volcanic intrusion related to the silicic magmatism in the
+San Pedro area.
+Tepetiltic volcano (Middle Pleistocene)
+Tepetiltic is a small calc-alkaline stratovolcano com-
+posed primarily of andesite and dacite lava flows with sub-
+ordinate rhyolitic rocks (Figure 8). It is topped by an ellip-
+tical caldera measuring approximately 3 by 2 km (Figure
+6). DeRemer and Nelson (1985) suggest that the complex
+was built by two cycles of andesite volcanism followed by
+differentiation into volumetrically subordinate dacites. The
+second pulse of andesitic lavas was more mafic than the
+first and could have been the result of reinjection of fresh
+mafic magma into the shallow andesitic magma chamber.
+Tepetiltic activity culminated in a large caldera-forming
+rhyolitic ash eruption, which resulted in plinian air fall, base
+surge, and ash flow deposits now found surrounding the
+volcano. After caldera formation, two rhyolite domes and
+associated ash fall deposits were emplaced on the eastern
+flank of the volcano and two small hornblende andesite
+domes were emplaced on the floor of the caldera. A lake
+now fills the northeastern corner of the caldera.
+Lavas from the basal part of the Tepetiltic volcano
+were recently dated at 0.48 ± 0.05 Ma by Petrone et al.
+(2001). We have dated another andesitic flow from the
+northern caldera wall at 0.48 ± 0.02 (Table 1), confirming
+the previous age for a basal lava flow of this volcano. The
+newly dated sample (SPC 79) was taken along the caldera
+wall in a location closer to the caldera rim than the sample
+dated by Petrone et al. (2001), and both are part of the pre-
+caldera activity.
+Amado Nervo volcano (Middle Pleistocene)
+To the southwest of Cerro San Pedro, the caldera has
+been filled by several mafic lava flows that erupted from a
+vent located on the inferred caldera rim (Amado Nervo
+flows of Petrone et al., 2003) (Figures 5 and 6). These flows
+form a shield-like structure that is called here Amado Nervo
+volcano. Different flows from Amado Nervo volcano were
+recently dated at 0.22 ± 0.029 and 0.21 ± 0.026 Ma by the
+39Ar/40Ar method. The lavas of Amado Nervo volcano have
+sub-aphyric textures with euhedral olivine phenocrysts.
+They are mildly Na-alkaline basalts and basaltic andesites,
+and range in compositions from hawaiite to mugearite
+(Figure 8).
+The volcano is elongated to the south probably
+because it was constructed on a south dipping slope outside
+the caldera. The stratigraphy of the wells indicates that the
+Amado Nervo volcano is over 120 m thick inside the caldera
+(GC 2 well, Figure 4) whereas it is only 50 to 70 m thick to
+the south (CB2 and GC5 wells, Figure 3 and 4).
+Northern volcanic chain (middle to late Pleistocene)
+A 30 km long, WNW trending alignment of cinder
+cones and domes is partly superimposed on the Tepetiltic
+and Ceboruco volcanoes and parallels the main fault system
+that bound the SPC to the north. The vents are aligned along
+a south dipping normal fault system (Ceboruco faults). The
+fault scarp can be seen only in places because it is covered
+by the younger basaltic flows of the cinder cone line. Most
+of the cones emitted lavas ranging in composition from
+basalt to andesite. However, some of the centers emplaced
+on the slope of Ceboruco volcano are more differentiated
+and consists of dacite-trachydacite and rhyolite (Figure 8).
+These rocks are mostly transitional between intra-plate and
+calc-alkaline affinity, but rocks with clear intra-plate type
+signature are also present (Figure 8) (Petrone et al., 2003).
+Petrone et al. (2001) and Frey at al. (2003) dated
+several of the cinder cones and obtained ages comprised
+between 0.5 and 0.01 Ma. We have dated four additional
+samples on the northernmost part of the alignment (SPC
+21; SPC 39; SPC 74 and SPC 150) and obtained ages
+ranging from 0.46 Ma to present. A cinder cone north of
+Tepetiltic near San Leonel (SPC 150) was dated 0.46 ± 0.01
+Ma (Table 1; Figure 6), which is significantly older than
+the other cones located around Tepetiltic volcano. A lava
+flows erupting from Cerro El Estafiate (SPC 21), a
+prominent cone northwest of Tepetiltic, yielded an age of
+0.3 ± 0.02 Ma (Table 1; Figure 6). K–Ar analysis performed
+on a very fresh lava flow from Volcán Molcajete (SPC 39),
+located on the lower eastern flank of Ceboruco (Figure 6),
+gave an age of 0.00 ± 0.02 Ma, which indicates that this
+sample is too young to be dated even with the used K–Ar
+unspiked sensitivity method. Duplicate analyses performed
+on the sample SPC 74 are indistinguishable from each other
+at 1 sigma uncertainty level, with rather high atmospheric
+40Ar contamination. This gives a less precise weighted mean
+age of 0.14 ± 0.10 Ma (Table 1). The greater atmospheric
+40Ar contamination might be due to the abbundant of
+vescicles characterizing this sample. This sample is actually
+a bomb collected on the caldera rim of Tepetiltic volcano
+that was probably ejected from one of the cinder cones
+located around the volcano. Indeed, its age, chemical,
+and isotopic composition is indistinguishable from that of
+all other Na-alkaline volcanic rocks from the northern
+volcanic chain (Petrone et al., 2003). Overall, these ages
+
+Geology of San Pedro – Ceboruco graben
+177
+confirm and expand the range of ages obtained by Petrone
+et al. (2001) and Frey et al. (in press) for the volcanic activity
+of the Northern Volcanic Chain and indicate that the
+youngest volcanism is concentrated close to the active
+Ceboruco volcano
+Ceboruco volcano (Holocene)
+Volcán Ceboruco is the only volcano in the
+northwestern Trans–Mexican Volcanic Belt with reported
+historical activity. Its last eruption occurred during the years
+1870 through 1875 A.D. (Iglesias et al., 1877). The volcano
+rises to an elevation of about 2,200 m and is crowned by
+two concentric calderas. The volcano has an elevation of
+about 1,100 m above the surrounding valleys of Ahuacatlán
+and Jala, but it could have been 500 m higher before the
+caldera forming eruption. Nelson (1980, 1986) gives
+a comprehensive report on the geological history of Cebo-
+ruco. More recently Gardner and Tait (2000) provided a
+very detailed study of the plinian eruption that formed the
+outer caldera.
+Volcán Ceboruco is a small calc-alkaline strato-
+volcano with andesitic lava flows predominant over felsic
+pyroclastic units (Figure 8; Petrone, 1998). One of the
+uppermost andesitic lavas has been dated at 45 ka (Frey
+et al., in press). A period of repose of unknown duration is
+inferred after this main phase because several canyons are
+cut on the western and eastern flanks of the volcano. Before
+and during this repose period, cinder cones and trachydacitic
+domes of the northern volcanic chain erupted along a
+northwest trending line through Ceboruco.
+About 1,000 years ago, a Plinian eruption produced
+thick deposits of chemically zoned trachydacitic and
+rhyolitic pyroclastic deposit (Jala pumice of Nelson, 1980),
+which consists of a main Plinian fall and several pyroclastic
+surge and flows. The main fall is presently found as far as
+30 km to the northeast of the volcano. Gardner and Tait
+(2000) estimated that a total of 3 to 4 km3 of magma was
+erupted, 95% of which was deposited as air falls. During
+the same eruption the Marquezado pyroclastic flow was
+erupted down the southwestern and northwestern flanks of
+the volcano. During these eruptions, a magma chamber
+beneath Ceboruco was evacuated and the top of the
+mountain collapsed to form the outer caldera with a diameter
+of about 4 km. After the caldera formation, a dacite volca-
+nic dome was emplaced on the floor of the caldera. The
+dome subsequently collapsed after the eruption of dacite
+lava flows from its southwestern and western margins,
+and formed the inner caldera, 1.5 km in diameter. Many
+andesitic lava flows were emplaced in the last 1,000 years.
+The Marquesado ash deposit is unwelded and contains
+a high proportion of andesitic lithic fragments and rounded
+rhyodacite pumice lapilli in a fine grained matrix consisting
+of vitric ash. High in the section, several lenses of
+concentrated pumice can be observed. The deposits show a
+maximum thickness of about 60 m, and have a volume
+estimated at about 0.2 km3(Nelson, 1980). The deposit on
+the southwestern flank of Ceboruco is distributed below
+the zone where the outer caldera wall is missing or has been
+breached. The andesitic lithic fragments within the
+Marquesado ash are all similar to rocks found in the outer
+caldera walls. This prompted Nelson (1980) to suggest that
+the outer caldera walls may have been explosively ejected
+along with the Marquesado ash. In some areas re-worked
+ash deposits cover the upper parts of the Marquesado ash.
+In other areas, the Jala Pumice is seen to overly the
+Marquesado ash without an erosional break between the
+two deposits. To the east of this locality the Marquesado
+ash and Jala pumice are overlain by lake deposits. It thus
+appears that the emplacement of the Marquesado ash
+blocked the drainage of the Río Ahuacatlán causing a lake
+to form in the eastern part of the Ceboruco valley until
+streams were able to cut through the deposit to drain
+the lake.
+TECTONICS
+Structure, kinematics and age of faulting
+Although for simplicity we define the region of San
+Pedro – Ceboruco as a graben, the real structure is actually
+more complex. Indeed, the geothermal drillings indicate
+that three segments form this depression: 1) the Compostela
+graben to the west, 2) the San Pedro central depression,
+and 3) the Ceboruco asymmetric graben to the east (Ferrari
+and Rosas-Elguera, 2000). The Compostela graben is
+bounded by two WNW–ESE striking normal fault systems
+cutting an early Pliocene rhyolitic complex in the north,
+and Cretaceous to Paleocene ash flows and plutons of the
+JB in the south (Figure 6). Although no well was drilled
+inside the Compostela graben, simply considering the
+topography, the bounding faults must have a minimum
+displacement of 400 m. Inside the graben, middle
+Pleistocene lava flows of Cerro Estiladero are cut by a
+normal fault parallel to the bounding fault, but with less
+than 50 m of displacement, so the faults should have been
+active mostly in pre-Quaternary times.
+The rhyolitic complex to the west of Tepetiltic is cut
+by N–S striking normal faults, which also appear to cut the
+eastern part of the Compostela graben and Cerro Las Tetillas
+(recently dated at 0.45 Ma by Frey et al., in press). These
+N–S faults form the depression where the San Pedro–Cerro
+Grande caldera and Amado Nervo volcano developed
+(Figure 6). Both these volcanic structures are younger than
+the N–S striking faults, constraining the age of this extension
+to the middle Pleistocene. The deep geothermal well CB2
+drilled just south of the San Pedro caldera found rocks
+correlative with the JB succession at 820 m of depth (Figure
+3). Based on this data, Ferrari and Rosas-Elguera (2000)
+estimated that the JB rocks were down faulted a minimum
+
+Ferrari et al.
+178
+of 1,100 m by the combined action of the WNW faults of
+the Compostela graben and the N–S fault bounding the San
+Pedro central depression.
+The Ceboruco asymmetric graben is bounded to the
+north by WNW–ESE striking faults, which cut a rhyolitic
+and ignimbritic succession dated at 4.7 to 4.2 Ma (Righter
+et al., 1995, Frey et al., in press). North of Ixtlán, the fault
+scarps are covered by basaltic lavas dated at 3.8 Ma (Frey
+et al., in press), thus constraining the extension to the early
+Pliocene. The southern side of the depression consists of a
+NNE dipping monocline made of early Pliocene (~ 4.9 Ma)
+rhyolites and andesites (Frey et al., in press) that are also
+cut by WNW–ESE striking normal faults (Figure 6). This
+suggests that the normal faults to the north of Ceboruco
+have listric geometry and have tilted the Sierra El Guamuchil
+block to the NNE. The extension in the Ceboruco area
+however, may be older than Pliocene. In fact, as described
+before, well CB1, drilled on the southern slope of Ceboruco
+volcano (Figure 3 and 6) encountered about 1,800 m of
+aphyric to microporphyritic basaltic-andesitic flows from
+which a date of 8.5 ± 0.2 Ma (40Ar/39Ar) was obtained from
+near the base (Ferrari et al., 2000b). The existence of late
+Miocene basalts at the bottom of the Ceboruco graben
+indicates that this extensional structure began to develop
+concurrently with the proto-Gulf extension. Ferrari et al.
+(2000b) suggest that this reactivation took place in a right
+lateral transtensional regime produced by a west-southwest
+motion of the Jalisco block.
+Extension rate
+The structure of the Ceboruco asymmetric graben
+is tentatively depicted in the geologic section of Figure 9
+that is based on the stratigraphy of the CB 1 well. We
+used this section to estimate the amount of extension in this
+part of the Tepic–Zacoalco rift by means of the area-
+balance method described by Groshong (1994) (Figure 9).
+The major uncertainty in this case is the depth of the
+detachment level, which we realistically consider to be at 6
+km below the surface. Our result indicates that since the
+late Miocene the extension has been less than 10%, in
+agreement with the low rate of deformation estimated by
+Ferrari and Rosas-Elguera (2000) for the whole Tepic–
+Zacoalco rift.
+Relation between extension, volcanism, and
+subduction
+Most of the Quaternary volcanism in the SPC is
+aligned along the main extensional fault systems that,
+therefore, control the locus of the volcanic activity (Figure
+6). A temporal link between volcanism, extensional faulting
+and the evolution of subduction boundary is also apparent
+from our data. As mentioned before, the main WNW–ESE
+striking normal faults that bound the modern SPC developed
+after 4.2 Ma and before the emplacement of 3.8 Ma basaltic
+Figure 9. Estimation of amount of extension along the SPC and Ameca half graben using the area-balance method described by Groshong (1994). The
+area vertically ruled is equal to the gray one. The figure shows the most consistent solutions according to the geology of the region and is constrained
+by the results of the CB1 well. Dashed lines represent inferred faults at depth. RRE is the regional reference level that is our best estimate of the
+topographic surface before extension.
+
+Geology of San Pedro – Ceboruco graben
+179
+volcanism. A similar situation occurred in the region to the
+east of Ceboruco (Hostotipaquillo–Plan de Barrancas;
+Ferrari et al., 2000a) where 3.8–3.3 Ma alkaline basalts were
+emplaced after the main extensional faulting. Interestingly,
+the early Pliocene episode of faulting and volcanism
+corresponds to a period of high convergence between the
+Rivera and North America plates (DeMets and Traylen,
+2000). On the other hand, the available ages indicate very
+low to none volcanic activity between the emplacement of
+the 3.8 Ma basalts and the end of Pliocene, when the relative
+motion between the Rivera plate and North America also
+decreased to very low values (DeMets and Traylen, 2000).
+Finally, both convergence and volcanism resumed since 1
+Ma when minor extensional faulting is also present.
+Traditionally, the style of deformation and volcanism in
+the upper plate has been related to the age of the subducting
+plate (e.g., Jarrad, 1986). Extensional faulting, rifting and
+even back-arc spreading characterize arcs related to the
+subduction of very old lithosphere with high dip angle like
+in the western Pacific margin. In the case of the western
+TMVB, the subducting Rivera plate is very young (~10
+Ma at the trench) but show about 50° of inclination. Our
+study in the SPC suggest that, rather than the age of the
+plate, both extensional faulting and volcanic activity are
+related to rate of convergence of the Rivera plate. This
+suggests that velocity of subduction is the main factor in
+controlling both the volcanic flux and the strain rate in the
+western TMVB.
+ACKNOWLEDGEMENTS
+This research was supported by a C.N.R. (Italy) –
+CONACyT (Mexico) bilateral grant, by UNAM–PAPIIT
+IN108196 grant (to Ferrari), and by Università degli Studi
+di Firenze (ex-60% funds). We thank Dr. Hiriart Le Bert,
+Gerencia de Proyectos Geotermoelectricos of Comisión Fe-
+deral de Electricidad, for providing cores and stratigraphy
+of exploratory wells. L. Ferrari also thanks Francisco Rome-
+ro Ríos and Daniel Castillo Hernández for an introduction
+to the geology of the area in an early phase of the fieldwork.
+Hugo Delgado provided a copy of manuscript in advance
+of publication. Holli Frey is thanked for clarifying several
+details of her paper. Reviews by Steve Nelson and Kevin
+Righter helped to improve the presentation of the paper.
+APPENDIX
+Analytical procedure of the geochronological
+experiments
+For each sample, about 100 g of fresh rock were
+crushed in a stainless steel mortar and sieved to 30–60 mesh.
+The sieved samples were washed first with de-ionized water
+and then with acetone in an ultrasonic cleaner to remove
+fine grains. Phenocrysts were removed from the fraction in
+a Frantz isodynamic magnetic separator and by hand-
+picking, in order to minimize the possible influence of
+excess argon (Takaoka, 1989; Matsumoto et al., 1989). An
+aliquot of each sample was ground further by an automatic
+agate mortar for potassium analysis.
+Potassium concentrations were measured by flame
+emission photometry, with lithium internal standard and
+peak integration method (Matsumoto, 1989). The analysis
+was performed at the Kyoto University Geochronology
+Laboratory with a FP-33D flame emission photometer,
+made by Hekisa Kagaku Co., Japan. About 100 mg of
+sample was used for each analysis. See Matsumoto (1989)
+for details on handling procedures. In order to confirm the
+precision and accuracy of the present analysis, potassium
+concentrations were also determined at the same analytical
+condition on the Geological Survey of Japan (GSJ)
+standards JA-2 and JB-3 (Ando et al., 1989; Matsumoto,
+1989). The estimated precision and accuracy of the sample
+data was ~1% (1 sigma), which was propagated to the error
+of K–Ar age.
+Argon isotopic measurements were performed by
+peak height comparison method (Matsumoto et al., 1989;
+Sudo et al., 1996). The analysis were performed at the Kyoto
+University Geochronology Laboratory with a VG 3600
+mass spectrometer operated in the static mode, connected
+to extraction and purification lines made by Ayumi Co. Ltd.,
+Japan. The extraction and analysis system as well as the
+techniques used for argon isotopic measurements were
+described by Sudo et al. (1996). The standard air, calibrated
+with Sori 93 biotite standard (Sudo et al., 1998), and hot
+blanks were measured periodically during the experiments
+for system sensitivity, mass discrimination and background
+corrections. Samples ranging from 0.26 to 5.34 g were
+analyzed in this study. Preliminary analysis were conducted
+for each sample in order to obtain reliable analysis by
+loading optimized weight of samples. The duplicate
+analyses of radiogenic 40Ar generally agree within error.
+K–Ar ages were calculated using the isotopic
+abundances and decay constants for 40K recommended by
+the IUGS Subcommission on Geochronology (Steiger and
+Jäger, 1977; λe = 0.581x10-10 y-1, λβ = 4.962x10-10 y-1,
+40K/K = 1.167x10-4).
+REFERENCES
+Allan, J.F., Nelson, S.A., Luhr, J.F., Carmichael, I.S.E., Wopat, M.,
+Wallace, P.J., 1991, Pliocene–Recent rifting in SW Mexico and
+associated volcanism: an exotic terrain in the making, in
+Dauphin, J.P., Simoneit, B.R.T. (eds.), The Gulf and the
+Peninsular Province of the Californias: American Association
+of Petroleum Geologists, Memoir, 47, 425–445.
+Ando, A., Mita, N., Matsumoto, A., 1989, 1987 compilation of K2O
+concentrations in seventeen GSJ rock reference samples,
+“Igneous rock series”: Geological Survey of Japan, Bulletin,
+40, 19–45.
+Barrier, E., Borgois, J., Michaud, F., 1990, Le systeme de rift actifs du
+
+Ferrari et al.
+180
+point triple de Jalisco: vers un proto-golfe de Jalisco: Comptes
+Rendus de l’Academie des Science, Paris, 310, 1513–1520.
+Bourgois, J., Michaud, F., 1991, Active fragmentation of the North
+America plate at the Mexican triple junction area off Manzanillo:
+Geo-Marine Letters, 11, 59–65.
+Castillo, D., de la Cruz, V., 1992, Reconocimiento estructural y
+volcanológico en la zona termal del Domo San Pedro Lagunillas,
+Nayarit, México: Geofisica Internacional, 31, 407–415.
+DeMets, C., Traylen, S., 2000, Motion of the Rivera plate since 10 Ma
+relative to the Pacific and North American plates and the mantle:
+Tectonophysics, 318, 119–159.
+DeRemer, L.A., Nelson, S.A., 1985, Geologic and chemical evolution of
+Volcan Tepetiltic, Nayarit, Mexico: Geological Society of
+America, Abstracts with Programs, 17, 561.
+Ferrari, L., 1995, Miocene shearing along the northern boundary of the
+Jalisco block and the opening of the southern Gulf of California:
+Geology, 23, 751–754.
+Ferrari, L., Rosas-Elguera, J., 1994, Structure, kinematics and rate of
+deformation of the Tepic–Zacoalco rift, Western Mexico: EOS,
+Transactions, American Geophysical Union, Fall Meeting, 75
+(44), 675.
+Ferrari, L., Rosas-Elguera, J., 2000, Late Miocene to Quaternary extension
+at the northern boundary of the Jalisco block, western Mexico:
+the Tepic–Zacoalco rift revised, in Delgado-Granados, H.,
+Aguirre-Díaz, G., Stock, J.M. (eds.), Cenozoic Tectonics and
+Volcanism of Mexico: Boulder, Geological Society America,
+Special Paper, 334, 41–64.
+Ferrari,L., Pasquaré, G., Venegas, S., Castillo, D., Romero, F., 1994,
+Regional tectonics of western Mexico and its implications for
+the northern boundary of the Jalisco Block: Geofisica
+Internacional, 33, 139–151.
+Ferrari, L., Nelson, S.A., Rosas-Elguera, J., Aguirre-Díaz, G., Venegas-
+Salgado, S., 1997, Tectonics and volcanism of the western
+Mexican Volcanic Belt, in Aguirre-Diaz, G., Aranda-Gómez, J,
+Carrasco-Núñez, G., Ferrari, L. (eds.), Magmatism and Tectonics
+in Central and Northwestern Mexico; A selection of the 1997
+IAVCEI General Assembly, Excursions: México, D.F.,
+Universidad Nacional Autónoma de México, Instituto de
+Geología, 85–129.
+Ferrari, L., Pasquaré, G., Venegas, S., Romero, F., 2000a, Geology of
+the western Mexican Volcanic Belt and adjacent Sierra Madre
+Occidental and Jalisco block, in Delgado-Granados, H., Aguirre-
+Díaz, G., Stock, J.M. (eds.), Cenozoic Tectonics and Volcanism
+of Mexico: Boulder, Geological Society America, Special Paper,
+334, 65–84.
+Ferrari, L., Conticelli, S., Vaggelli, C., Petrone, C., Manetti, P., 2000b,
+Late Miocene mafic volcanism and intra-arc tectonics during
+the early development of the Trans-Mexican Volcanic Belt:
+Tectonophysics, 318, 161–185.
+Ferrari, L., Petrone, C.M., Francalanci, L., 2001, Generation of OIB-
+type volcanism in the western Trans-Mexican Volcanic Belt by
+slab rollback, astenosphere infiltration and variable flux-melting:
+Geology, 29, 507–510.
+Ferrari, L., López-Martínez, M., Rosas-Elguera, J., 2002, Ignimbrite flare
+up and deformation in the southern Sierra Madre Occidental,
+western Mexico: implications for the late subduction history of
+the Farallon plate: Tectonics, 21(4), 17–1/24.
+Frey, H.M., Lange, R.A., Hall, C.M., Delgado-Granandos, H., in press,
+Magma eruption rate constrained by 40Ar–39Ar chronology and
+GIS for the Ceboruco–San Pedro volcanic field, western Mexico:
+Geological Society of America Bulletin.
+Gardner, J.E., Tait, S., 2000, The caldera-forming eruption of Volcán
+Ceboruco, Mexico: Bulletin of Volcanology, 62, 20–33.
+Gastil, R.G., Phillips, R.P., Allison, E.C., 1975, Reconnaissance geology
+of the state of Baja California: Geological Society of America,
+Memoir, 140, 170 p.
+Gastil, G., Krummenacher, D., Jensky, A.W, 1978, Reconaissance
+geologic map of the west-central part of the state of Nayarit,
+Mexico: Geological Society of America, Map and Chart Series,
+MC-24, scale 1:200.000, 1 map.
+Groshong, R.H., 1994, Area balance, depth of detachment, and strain in
+extension: Tectonics, 13, 1488–1497.
+Iglesias, M., Barcena, M., Matute, J.I., 1877, Informe sobre los temblores
+de Jalisco y la erupción del Volcán Ceboruco: Anales del
+Ministerio de Fomento, México, 1, 115–196.
+Irvine, T.N., Baragar, W.R.A., 1971, A guide to the chemical classification
+of the common rocks: Canadian Journal Earth Sciences, 8, 523–
+548.
+Itaya, T., Nagao, K., 1988, K–Ar age determination of volcanic rocks
+younger than 1 Ma: Memoirs of the Society of Geological Japan,
+29, 143–161 (in Japanese with English abstract).
+Jarrard, R.D., 1986, Relations among subduction parameters: Reviews
+of Geophysics, 24, 2, 217–283.
+Kohler, H., Schaaf, P., Muller, S.D., Emermann, R., Negendank, J.F.W.,
+Tobschall, H.J., 1988, Geochronological and geochemical
+investigations on plutonic rocks from the complex of Puerto
+Vallarta, Sierra Madre del Sur: Geofisica Internacional, 27, 579–
+592.
+Lange, R., Carmichael, I.S.E., 1990, Hydrous basaltic-andesites associated
+with minette and related lavas in Western Mexico: Journal of
+Petrology, 31, 1225–1259.
+Lange, R., Carmichael, I.S.E., 1991, A potassic volcanic front in western
+Mexico: lamprophyric and related lavas of San Sebastian:
+Geological Society of America Bulletin, 103, 928–940.
+Le Bas, M.J., Le Maitre, R.W., Woolley, A.R., 1992, The construction
+of the Total Alkali-Silica chemical classification of the volcanic
+rocks: Mineralogy and Petrology, 46, 1–22.
+Luhr, J.F., Nelson, S.A., Allan, J., Carmichael, I.S.E., 1985, Active rifting
+in southwestern Mexico: manifestations of an incipient eastward
+spreading-ridge jump: Geology, 13, 54–57.
+Matsumoto, A., 1989, Improvement for determination of potassium in
+K–Ar dating: Geological Survey of Japan, Bulletin, 40, 65–70.
+Matsumoto, A., Kobayashi, T., 1995, K–Ar age determination of late
+Quaternary volcanic rocks using the “mass fractionation
+correction procedure”: application to the Younger Ontake
+Volcano, central Japan: Chemical Geology, 125, 123–135.
+Matsumoto, A., Uto, K., Shibata, K., 1989, K–Ar dating by peak
+comparison method; new technique applicable to rocks younger
+than 0.5 Ma: Geological Survey of Japan, Bulletin, 40, 565–
+597.
+McDowell, F.W., Clabaugh S.E., 1979, Ignimbrites of the Sierra Madre
+Occidental and their relation to the tectonic history of western
+Mexico, in Chapin, C.E., Elston, W.E. (eds.), Ash-flow Tuffs:
+Boulder, Geological Society of America, Special Paper, 180,
+113–124.
+McDowell, F.W., Keizer, R.P., 1977, Timing of mid-Tertiary volcanism
+in the Sierra Madre Occidental between Durango city and
+Mazatlán, Mexico: Geological Society of America Bulletin, 88,
+1479–1487.
+Michaud, F., Quintero, O., Barrier, E., Burgois, J., 1991, La frontiére
+Nord du Bloc Jalisco (ouest Mexique): localisation et évolution
+de 13 Ma à l’actuel: Comptes Rendus de l’Academie des Science,
+Paris, II, 312, 1359–1365.
+Moore, G., Marone, C., Carmichael, I.S.E., Renne, P., 1994, Basaltic
+volcanism and extension near the intersection of the Sierra Madre
+volcanic province and the Mexican Volcanic Belt: Geological
+Society of America Bulletin., 106, 383–394.
+Nelson, S.A., 1980, Geology and petrology of Volcan Ceboruco, Nayarit,
+Mexico; Part II: Geological Society of America Bulletin., 91,
+2290–2431.
+Nelson, S.A., 1986, Geología del Volcán Ceboruco, Nayarit, México
+con una estimación de riesgos de erupciones futuras: Universidad
+Nacional Autónoma de México, Instituto de Geología, Revista,
+6, 243–258.
+Nelson, S.A., Carmichael, I.S.E., 1984, Pleistocene to recent alkalic
+volcanism in the region of Sanganguey volcano, Nayarit,
+Mexico: Contributions to Mineralogy and Petrology, 85, 321–
+335.
+Nelson, S.A., Hegre, J., 1990, Volcan Las Navajas, a Pliocene–Pleistocene
+trachyte–peralkaline rhyolite volcano in the northwestern
+
+Geology of San Pedro – Ceboruco graben
+181
+Mexican Volcanic Belt: Bulletin of Volcanology, 52, 186–204.
+Nelson, S.A., Livieres, R., 1986, Contemporaneous calc-alkaline and
+alkaline volcanism at Sanganguey Volcano, Nayarit, Mexico:
+Geological Society of America Bulletin, 97, 798–808.
+Nieto-Obregón, J., Urrutia-Fucugauchi, J., Cabral-Cano, E., Guzman de
+la Campa, A., 1992, Listric faulting and continental rifting in
+western Mexico; a paleomagnetic and structural study:
+Tectonophysics, 208, 365–376.
+Petrone, C.M., 1998, Studio magmatologico dei sistemi vulcanici del
+graben San Pedro–Ceboruco (Nayarit, Messico); coesistenza di
+magmi a diversa affinità petrologica: Firenze, Università degli
+Studi di Firenze (Italy), Tesis doctoral, 280 p. (in italian).
+Petrone, C.M., Tagami, T., Francalanci, L., Matsumura, A., Sudo, M.,
+2001, Volcanic systems in the San Pedro–Ceboruco graben
+(Nayarit, Mexico) in the light of new K–Ar geochronological
+data: Geochemical Journal, 35, 77–88.
+Petrone, C.M., Francalanci, L., Carlson, R.W., Ferrari, L., Conticelli, S.,
+2003, Unusual coexistence of subduction-related and intraplate-
+type magmatism: Sr, Nd and Pb isotope and trace elements data
+from the magmatism of the San Pedro–Ceboruco graben
+(Nayarit, Mexico): Chemical Geology, 193, 1–24.
+Prol-Ledesma, R.M., Canet, C., Melgarejo, J.C., Tolson, G., Rubio-
+Ramos, M.A., Cruz-Ocampo, J.C., Ortega-Osorio, A., Torres-
+Vera, M.A., Reyes, A., 2002, Cinnabar deposition in submarine
+coastal hydrothermal vents, Pacific margin of central Mexico:
+Economic Geology, 97, 1331–1340.
+Righter, K., 2000, A comparison of basaltic volcanism in the Cascades
+and western Mexico: compositional diversity in continental arcs:
+Tectonophysics, 318, 99–117.
+Righter, K., Carmichael, I.S.E., 1992, Hawaiites and related lavas in the
+Atenguillo graben, western Mexican Volcanic Belt: Geological
+Society of America Bulletin, 104, 1592–1607.
+Righter, K., Rosas-Elguera, J., 2001, Alkaline lavas in the volcanic front
+of the western Mexican Volcanic Belt: geology and petrology
+of the Ayutla and Tapalpa Volcanic Fields: Journal of Petrology,
+42, 2333–2361.
+Righter, K., Carmichael, I.S.E., Becker, T., 1995, Pliocene–Quaternary
+faulting and volcanism at the intersection of the Gulf of
+California and the Mexican Volcanic Belt: Geological Society
+of America Bulletin., 107, 612–627.
+Rosas-Elguera, J., Ferrari, L., Garduño, V.H., Urrutia-Fucugauchi, J.,
+1996, The continental boundaries of the Jalisco block and their
+influence on the Plio–Quaternary kinematics of western Mexico:
+Geology, 24, 921–924
+Rosas-Elguera, J., Ferrari, L., Lopez-Martinez, M., Urrutia-Fucugauchi
+J., 1997, Stratigraphy and tectonics of the Guadalajara region
+and the triple junction area, western Mexico: International
+Geology Review, 39, 125–140.
+Rossotti, A., Ferrari, L., López-Martínez, M., Rosas-Elguera, J., 2002,
+Geology of the boundary between the Sierra Madre Occidental
+and the Trans-Mexican Volcanic Belt in the Guadalajara region,
+western Mexico: Revista Mexicana de Ciencias Geológicas, 19,
+1–15.
+Schaaf, P., Moran-Zenteno, D., Hernandez-Bernal, M., Solis-Pichardo,
+G., Tolson, G., Köhler, H., 1995, Paleogene continental margin
+truncation in southwestern Mexico: geochronological evidence:
+Tectonics, 14, 1339–1350.
+Schaaf, P., Bohnel, H., Perez-Venzor, J.A., 2000, Pre-Miocene
+palaeogeography of the Los Cabos Block, Baja California Sur;
+geochronological 
+and 
+palaeomagnetic 
+constraints:
+Tectonophysics, 318, 53–69.
+Steiger, R.H., Jäger, E., 1977, Subcommission on geochronology;
+convention on the use of decay constants in geo- and
+cosmochronology, Earth and Planetary Science Letters, 36, 359–
+362.
+Sudo, M., Tagami, T., Sato, K., Hasebe, N., Nishimura, S., 1996,
+Calibration of a new analytical system for the K–Ar dating
+method and analytical results of K–Ar age known samples:
+Memoirs of the Faculty of Science, Kyoto University, Series of
+Geology and Mineralogy, 58, 21–40.
+Sudo, M., Uto, K., Anno, K., Ishizuka, O., Uchiumi, S., 1998, SORI93
+biotite; a new mineral standard for K–Ar dating: Geochemical
+Journal, 32, 49–58.
+Takaoka, N., 1989, Problem in K–Ar dating of Quaternary volcanic rocks:
+Journal of the Mass Spectrometry Society of Japan, 37 (6), 343–
+351. (in japanese)
+Takaoka, N., Konno, K., Oba, Y., Konda, T., 1989, K–Ar dating of lavas
+from Zao Volcano, northeastern Japan: Geological Society of
+Japan, Journal, 95, 157–170 (in japanese with english abstract).
+Verma, S.P., Nelson, S.A., 1989a, Isotopic and trace element constraints
+on the origin and evolution of alkaline and calc-alkaline magmas
+in the northwestern Mexican Volcanic Belt: Journal of
+Geophysical Research, 94, 4531–4544.
+Verma, S.P., Nelson, S.A., 1989b, Correction to “Isotopic and trace
+element constraints on the origin and evolution of alkaline and
+calc-alkaline magmas in the northwestern Mexican Volcanic
+Belt”: Journal of Geophysical Research, 96, 7679–7681.
+Wallace, P., Carmichael, I.S.E., 1989, Minette lavas and associated
+leucitites from the western front of the Mexican Volcanic Belt:
+petrology, chemistry and origin: Contributions to Mineralogy
+and Petrology, 103, 470–492.
+Wallace, P., Carmichael, I.S.E., 1992, Alkaline and calk-alkaline lavas
+near Los Volcanes, Jalisco, Mexico: geochemical diversity and
+its significance in volcanic arcs: Contributions to Mineralogy
+and Petrology, 111, 423–439.
+Zimmermann, J.-L., Stussi, J.M, Gonzalez-Partida, E., Arnold, M., 1988,
+K–Ar evidence for age and compositional zoning in the Puerto
+Vallarta–Rio Santiago batholith (Jalisco, Mexico): Journal South
+America Earth Science, 1, 267–274.
+Manuscript received: May 16, 2003
+Corrected manuscript received: September 8, 2003
+Manuscript accepted: September 9, 2003

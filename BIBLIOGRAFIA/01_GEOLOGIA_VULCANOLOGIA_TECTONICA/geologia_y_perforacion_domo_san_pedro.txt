@@ -1,0 +1,126 @@
+===============================================================================
+GEOLOGÍA Y PERFORACIÓN EN EL CAMPO GEOTÉRMICO DOMO SAN PEDRO, NAYARIT, MÉXICO
+===============================================================================
+
+Este documento sintetiza la información técnica sobre la perforación de pozos y la
+descripción litológica del campo geotérmico Domo San Pedro (DSP), basada en los
+estudios geocientíficos, informes técnicos y tesis de caracterización mineralógica
+disponibles en el acervo del proyecto.
+
+===============================================================================
+1. POZOS EN EL CAMPO GEOTÉRMICO DOMO SAN PEDRO: CANTIDAD Y TIPOS
+===============================================================================
+
+1.1 Antecedentes de Exploración Inicial (CFE)
+---------------------------------------------
+Durante las primeras fases de exploración geotérmica en la región del Graben de
+San Pedro-Ceboruco (décadas de 1980 y 1990), la Comisión Federal de Electricidad (CFE)
+perforó pozos exploratorios profundos y de gradiente térmico:
+- Pozos Exploratorios Profundos CFE: CB1 (2,700 m de profundidad), CB2 (1,600 m)
+  y CB3.
+- Pozos de Gradiente Térmico Someros: Pozos de ~200 m de profundidad (p. ej., el
+  pozo de gradiente cerca de El Ahualamo que alcanzó 160 m con acuífero termal a 42 °C).
+
+1.2 Desarrollo y Operación Comercial Actual (Grupo Dragón / ENAL)
+------------------------------------------------------------------
+Domo San Pedro es el primer campo geotérmico desarrollado y operado por inversión
+privada en México (Grupo Dragón), operando con una capacidad instalada de 35.5 MW
+(compuesta por dos unidades de contrapresión de 5 MW cada una y una planta de
+condensación de 25.5 MW).
+
+- Cantidad Total de Pozos del Campo: Se han perforado un total de 9 pozos
+  principales en el campo (con profundidades que van de 1.5 km hasta más de 3.7 km).
+  Nomenclatura identificada: SP1 (SP01), SP2/SP2-2A (SP02), SP3 (SP03), SP4 (SP04),
+  SP5-6 (SP05, SP06), SP07 y SP08.
+
+- Tipos de Pozos según su Función Operativa:
+  a) Pozos Exploratorios y de Caracterización Profunda: Pozos de sondeo profundo
+     destinados a delimitar el reservorio, extraer núcleos/recortes y medir perfiles
+     de temperatura y presión. Destacan:
+     - Pozo SP02: Alcanzó una profundidad total de 3,405 m.
+     - Pozo SP04: Alcanzó una profundidad total de 3,760 m.
+     - Pozo SP05: Alcanzó una profundidad de 1,560 m.
+  b) Pozos Productores (Mezcla Vapor/Salmuera): Pozos activos que alimentan a las
+     plantas generadoras (p. ej., SP01, SP04, SP05, SP06). Producen un fluido de tipo
+     clorurado sódico con salinidades de ~850-1200 ppm de Cl- y temperaturas de
+     yacimiento de hasta ~330-340 °C.
+  c) Pozos Inyectores / Reinyectores: Pozos destinados a la reinyección profunda
+     de la salmuera y condensados extraídos para mantener la presión de poros y la
+     sostenibilidad del reservorio hidrotermal (reinyectando principalmente entre
+     0.5 y 2.5 km de profundidad).
+
+===============================================================================
+2. DESCRIPCIÓN LITOLÓGICA Y ESTRATIGRÁFICA DE LOS POZOS
+===============================================================================
+
+A partir del análisis de recortes de perforación (cuttings), secciones delgadas y
+difracción de rayos X (DRX) en muestras de pozo, se ha establecido la secuencia
+estratigráfica y litológica que atraviesan los pozos en el Domo San Pedro (ordenada
+de la superficie a la profundidad):
+
+2.1 Columna Litológica General del Reservorio
+----------------------------------------------
+I. Depósitos Volcánicos Recientes (Pleistoceno - Holoceno, 0.6 - 0.1 Ma):
+   - Espesor: Desde superficie hasta ~700 m de profundidad.
+   - Litología: Secuencia dacítica y riolítica compuesta por derrames fluidales,
+     pumicita, vidrio volcánico, depósitos de avalancha/coluvión dacítico, tobas y
+     brechas piroclásticas asociadas al Complejo Volcánico San Pedro y al Domo San Pedro.
+
+II. Volcanismo Intermedio del Plioceno (4.9 - 3.8 Ma):
+   - Espesor: Aproximadamente 150 m de espesor.
+   - Litología: Lavas andesíticas y dacíticas intercaladas.
+
+III. Secuencia Volcánica del Mioceno (13 - 8 Ma) - Capa Sello (Clay Cap):
+   - Litología: Lavas andesíticas, andesitas basálticas y basaltos.
+   - Comportamiento Hidrogeológico: Esta unidad constituye la Capa Sello (Clay Cap)
+     impermeable que confina el yacimiento geotérmico. Muestra una intensa alteración
+     argílica caracterizada por minerales de arcilla como esmectita e interestratificados
+     illita/esmectita (I/S) cerca del nivel del mar (~0 msnm), con un espesor
+     promedio de ~500 m.
+
+IV. Basamento Cristalino del Bloque de Jalisco (Cretácico Tardío - Paleoceno, 75 - 56 Ma) - Roca Almacén:
+   - Litología: Complejo plutónico e intrusivo compuesto por Granodiorita y Diorita,
+     así como diques emplazados a lo largo de zonas de falla.
+   - Comportamiento Hidrogeológico: Constituye la Roca Almacén u Hospedera del
+     yacimiento geotérmico de alta temperatura. La porosidad primaria es nula; la
+     permeabilidad es 100% secundaria por fracturamiento estructural.
+   - Alteración Mineral: Presenta una marcada alteración propilítica caracterizada
+     por epidota, clorita, cuarzo, calcita, anfíbol, pirita, pirrotita y micas secundarias.
+
+2.2 Detalle de la Mineralogía y Litología por Pozos Específicos
+----------------------------------------------------------------
+Estudios mineralógicos detallados por DRX y petrografía (p. ej., Gómez Cruz, UNAM, 2018/2019;
+Reyes-Orozco et al., 2019) caracterizaron las siguientes unidades mineralógicas en los pozos:
+
+* POZO SP02 (Profundidad analizada: 853 m a 3,405 m):
+  - Intervalo Somero (860 m - 963 m): Plagioclasa, cristobalita, tridimita, anfíbol
+    y presencia exclusiva de esmectita (característica de la capa sello argílica).
+  - Intervalo Profundo (1,475 m - 3,405 m): Basamento intrusivo (granodiorítico/diorítico).
+    Mineralogía dominante: Cuarzo, plagioclasa, feldespato potásico (ortoclasa, microclina,
+    sanidino), clorita, illita/mica secundaria, calcita, epidota, grafito y pirita.
+
+* POZO SP04 (Profundidad analizada: 700 m a 3,760 m):
+  - Intervalo Somero (700 m - 840 m): Plagioclasa, anfíbol, feldespato potásico,
+    cristobalita, mica, óxidos y esmectita.
+  - Intervalo Profundo (885 m - 3,760 m): Basamento granodiorítico fuertemente alterado.
+    Mineralogía: Cuarzo, plagioclasa, feldespato potásico, calcita, anfíbol, piroxeno,
+    epidota abundante (indicadora de temperaturas >240-290 °C), pirita y pirrotita.
+    Presencia de filosilicatos como clorita, illita e interestratificados illita/mica.
+
+* POZO SP05 (Profundidad analizada: 760 m a 1,560 m):
+  - Pozo más somero ubicado hacia la zona de descarga/flujo del sistema.
+  - Mineralogía: Cuarzo, plagioclasa, feldespato potásico, piroxeno, calcita, epidota,
+    pirrotita, pirita, analcima y zeolitas de alta temperatura como wairakita
+    (asociada a zonas de ebullición y tendencia de fluido alcalino).
+
+===============================================================================
+3. SÍNTESIS DE CONCLUSIONES PARA EL PROYECTO
+===============================================================================
+1. Los pozos del Domo San Pedro demuestran que el yacimiento no se aloja en rocas
+   sedimentarias ni en acuíferos volcánicos porosos, sino en el BASAMENTO GRANÍTICO
+   FRACTURADO (granodiorita/diorita) cubierto por andesitas miocénicas alteradas (capa sello).
+2. La perforación profunda confirma temperaturas de reservorio de hasta ~330-340 °C en el
+   yacimiento profundo y ~280 °C en el yacimiento somero.
+3. El éxito en la perforación de nuevos pozos depende críticamente de interceptar la ZONA DE
+   DAÑO FRACTURADA asociada a las fallas tectónicas activas (NW-SE y E-W) dentro del granito.
+===============================================================================

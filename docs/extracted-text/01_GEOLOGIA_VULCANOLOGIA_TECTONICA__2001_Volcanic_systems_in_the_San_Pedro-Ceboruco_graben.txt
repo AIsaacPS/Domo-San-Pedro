@@ -1,0 +1,827 @@
+Geochemical Journal, Vol. 35, pp. 77 to 88, 2001
+77
+*Corresponding author (e-mail: petrone@steno.geo.unifi.it)
+Volcanic systems in the San Pedro-Ceboruco graben (Nayarit, Mexico)
+in the light of new K-Ar geochronological data
+C. M. PETRONE,1,2* T. TAGAMI,2 L. FRANCALANCI,1,3 A. MATSUMURA2 and M. SUDO4
+1Dipartimento di Scienze della Terra, Università degli Studi di Firenze, Via La Pira, 4, Firenze, I-50121, Italy
+2Division of Earth and Planetary Sciences, Graduate School of Science, Kyoto University,
+Kyoto 606-8502, Japan
+3C.N.R., C.S.M.G.A., Via La Pira, 4, Firenze, I-50121, Italy
+4Sakurajima Volcano Research Center, Disaster Prevention Research Institute, Kyoto University,
+Uji, Kyoto 611-0011, Japan
+(Received December 22, 1999; Accepted December 28, 2000)
+Six new K-Ar ages were determined for three of four volcanic systems that constitute the San Pedro-
+Ceboruco graben of western Mexico, in order to give constraints on stratigraphic relationships and prob-
+lems of magma genesis in an area characterized by the coexistence of magmas with different petrologic
+affinities (calc-alkaline and intra-plate type). Previous age determinations are scarse for this region. Sam-
+ples were dated using the unspiked K-Ar sensitivity method with a mass-fractionation correction proce-
+dure. Our new data, along with those in literature, suggest that volcanism started at ~2.5 Ma in the south-
+west part of the graben. Between ~2.3 Ma to ~0.1 Ma volcanic activity continued in the central part of the
+graben and starting from ~0.5 Ma, volcanism also extended to the northern part. This northward shifting of
+the volcanic activity with time occurred along NW-SE trending lines which coincide with the main re-
+gional fault systems, and could be linked to the resumption of convergence after a period of near-cessa-
+tion. The major phase of the magmatic activity is younger than 0.5 Ma, but the presence of volcanic
+activity strictly differentiated in magmatic affinities (orogenic and intra-plate), started earlier, around 1.1
+Ma and is linked to sub-slab melts flowing in the mantle wedge. The age obtained on the dome complex
+(San Pedro-Cerro Grande Volcanic Complex) along with literature data suggest that the caldera collapse
+event occurred before ~1.1 Ma and was followed by intracaldera and pericaldera activities. After ~0.6 Ma,
+subsidence and consequent reactivation of the eastern caldera rim, can have determined the cutting of
+some pericaldera domes.
+linked to the subduction of Rivera and Cocos
+plates beneath North America plate (Fig. 1). At
+least four different volcanic systems in the SPC
+graben are recognized (Fig. 2): 1) alignments of
+monogenetic volcanic centers (cinder cones and
+domes) located along the northern and southern
+border of the graben (northern and southern vol-
+canic chains); 2) a silicic volcanic complex (San
+Pedro-Cerro Grande Volcanic Complex; SCVC),
+located in the central part of the graben, and con-
+stituted by several domes, a few volcanic cones,
+several thin lava flows (Amado Nervo flows) and
+INTRODUCTION
+The San Pedro-Ceboruco (SPC) graben is lo-
+cated in western Mexico and started to develop
+during the initial rifting of the southern Gulf of
+California (Ferrari, 1995). It is part of the wider
+northwest-southeast trending of Tepic-Zacoalco
+rift, which forms a triple junction near Guadalajara
+along with the north-south Colima rift and the east-
+west Chapala rift (Allan, 1986) (Fig. 1). The
+volcanism in the SPC graben is part of the Trans-
+Mexican Volcanic Belt, the active volcanic arc
+
+78
+C. M. Petrone et al.
+a burial caldera; 3) the polygenetic stratovolcano
+Tepetiltic; 4) the polygenetic stratovolcano
+Ceboruco. Tepetiltic and Ceboruco are located on
+the northern border of the graben along with the
+northern volcanic chain.
+Magmatism in the SPC graben is characterized
+by the coexistence of two different petrologic af-
+finities: subduction-related and intra-plate
+(Petrone, 1998). Typical calc-alkaline lavas were
+erupted from the volcanic systems of Tepetiltic
+(57.1–69.9 SiO2 wt%), Ceboruco (58.5–69.5 SiO2
+wt%) and SCVC (61.1–73.0 SiO2 wt%). Amado
+Nervo flows, however, show a Na-alkaline com-
+position with 49.8 to 54.7 SiO2 wt% and an intra-
+plate signature. The northern chain (51.0–70.8
+SiO2 wt%) is characterized by the coexistence of
+calc-alkaline and mildly Na-alkaline magmatism,
+whereas, the southern chain (51.3–63.9 SiO2 wt%)
+is made of calc-alkaline lavas with subduction-
+related signature and characterized by variable
+large ion lithophile elements to high field strength
+elements ratios (Petrone, 1998).
+Two main phases in the SCVC volcanic activ-
+ity are separated by a caldera collapse event. Both
+phases were mainly characterized by several
+domes and a few volcanic cones. The pre-caldera
+phase started at around 2.3 ± 0.5 Ma (Gastil et al.,
+1979; all data are K-Ar ages and errors indicate
+1σ) with the extrusion of Cerro Las Tetillas dome
+and ended with the caldera collapse event whose
+age is still unknown, also considering the recent
+geochronological data reported by Ferrari et al.
+(2000a). Indeed, they find an age of 1.1 ± 0.3 Ma
+for the peri-caldera Amado Nervo flows (Fig. 2),
+which partially cover the caldera rim. On the other
+hand, they also report an age of 0.61 ± 0.10 Ma
+on one rock cut by the caldera rim and located at
+the base of Cerro Lobos, and ages of 0.79 ± 0.16
+Ma and 0.85 ± 0.19 Ma for two intracaldera domes
+(Fig. 2). The activity ended at ~0.1 Ma with the
+Fig. 1.  Schematic geodynamic map of western Mexico. Sketch map of Mexico is shown in the inset. TMVB: Trans-
+Mexican Volcanic Belt; TZR: Tepic-Zacoalco rift; ChR: Chapala rift; CR: Colima rift; JB: Jalisco block;
+G: Guadalajara city; T: Tepic town. Stars indicate major stratovolcanoes of the Trans-Mexican Volcanic Belt:
+1 San Juan; 2 Las Navajas; 3 Sanganguey; 4 Tepetiltic; 5 Ceboruco; 6 Tequila; 7 Sierra La Primavera; 8 Colima.
+The location of the studied area is also shown (modified from Rosas-Elguera et al., 1996).
+
+Volcanic systems in the San Pedro-Ceboruco graben (Nayarit, Mexico)
+79
+extrusion of a dome (Los Ocotes) located along
+the caldera rim.
+The age of Ceboruco volcanic activity is rela-
+tively well known. Indeed, it is the only active
+volcano in the area. The beginning of its activity
+was around 0.37 ± 0.20 Ma (Ferrari et al., 1997)
+and the most recent eruption took place in 1870
+A.D. (Nelson, 1980). A caldera collapse event
+occurred around 1000 A.D. (Nelson, 1980).
+No previous geochronological data are avail-
+able for the northern and southern volcanic chains.
+Stratigraphic relationships indicate that the former
+is younger than the latter. Indeed, some of the cin-
+der cones and domes of the southern chain are
+partially covered by the 1.1 Ma Amado Nervo
+flows, whereas some of the northern chain cinder
+cones and domes lie on Ceboruco flanks suggest-
+ing an age younger than or around 0.37 Ma.
+Moreover, southern chain is made up by more
+roundish and heavily vegetated cinder cones and
+domes suggesting higher alteration degree prob-
+ably due to the older age. On the basis of
+stratigraphic relationships and morphological evi-
+dence, southern volcanic chain seems to be almost
+contemporary with the SCVC pre-caldera volcanic
+activity. In contrast, few constraints exist about
+the exact age of the northern chain and it is very
+difficult to establish the beginning and length of
+the monogenetic volcanic activity. One datum
+could be represented by volcanic cones and domes
+located on the Ceboruco flanks which follow the
+starting activity of Ceboruco (~0.37 Ma; Ferrari
+et al., 1997). Finally, no geochronological data
+exists for Tepetiltic volcano and the only geologic
+constraint is given by the 0.1 ± 0.01 Ma (Ferrari
+et al., 2000a) of Cerro Los Ocotes, that partially
+covers its southern flank.
+In this picture, it is very difficult to reconstruct
+stratigraphic relationships of the SPC volcanic
+systems. This deals not only with the local prob-
+lem of a better reconstruction of volcanic activity
+of the area, but with the more general problem of
+magma genesis in an area where extension is su-
+perimposed to active subduction and where mag-
+mas with different petrologic affinities (subduc-
+tion-related and intra-plate) coexist in a narrow
+area and maybe in a brief time. In this paper we
+present new geochronological data of the area, in
+order to clarify the previous problems.
+Fig. 2.  Schematic geologic map of the four volcanic systems constituting the San Pedro-Ceboruco graben.
+
+80
+C. M. Petrone et al.
+SAMPLE SELECTION
+K-Ar geochronological data were performed
+on six selected samples from the SPC volcanic
+systems. Chemical compositions are given in Ta-
+ble 1. All the samples chosen are mostly without
+voids and characterized by a low phenocryst con-
+tent and no vitrophyric groundmasses. Most of the
+sample is unaltered with the loss on ignition val-
+ues (LOI) lesser than 1%, only one sample (SPC
+127) has a higher LOI value (1.5%).
+Three samples of the northern chain were
+analyzed. On the basis of geochemical data it is
+possible to recognize two chemically distinct se-
+ries that are characterized by different petrologic
+affinities. The High-Ti (HTi) (2.2–0.15 TiO2 wt%
+and 52.0–70.8 SiO2 wt%) series shows a mildly
+Na-alkaline signature, whereas the Low-Ti (LTi)
+series (1.6–0.8 TiO2 wt% and 51.0–58.1 SiO2
+wt%) is calc-alkaline in composition (Petrone,
+1998). There are no differences in the spatial dis-
+tribution of these two series (Fig. 2). Time rela-
+tionships between the HTi and LTi series were
+unknown and this adds further complexity to the
+stratigraphic reconstruction and to the understand-
+ing of magma genesis. Sample SPC 110 from the
+HTi series and samples SPC 1 and SPC 50 from
+the LTi series were analyzed in order to estimate
+the temporal variations in magmatism along the
+northern monogenetic alignment. SPC 1 is located
+in the southeast end of the alignment, whereas the
+other two samples are located toward the oppo-
+site end. They are all basaltic andesites in compo-
+sition (Table 1). For the southern chain the
+andesite SPC 26 was analyzed. All of these rocks
+are characterized by a porphyritic seriate texture
+with a variable porphyritic index (5–20 vol.%).
+Phenocrysts and microphenocrysts are in order of
+abundance, 
+plagioclase, 
+olivine 
+and
+orthopyroxene. Rare microphenocrysts of opaque
+mineral are also present.
+In order to date the Tepetiltic volcanic activ-
+ity, the andesite SPC 75 (Table 1) was chosen from
+the base of the caldera wall, considering that it
+could represent one of the oldest exposed lava
+flows. This rock is porphyritic (20 vol.%) with
+phenocrysts and microphenocrysts of plagioclase
+and olivine. Opaque minerals are only found as
+microphenocrysts.
+In order to constrain the age of SCVC caldera
+collapse, the rhyolite SPC 127 from Cerro Lobos
+(Table 1) dome was dated. This dome is cut by
+Sample
+SPC 1
+SPC 50
+SPC 110
+SPC 26
+SPC 75
+SPC 127
+Group
+Northern chain
+Northern chain
+Northern chain
+Southern chain
+Tepetiltic
+SCVC
+Sub-group
+LTi
+LTi
+HTi
+Pre-caldera
+Pre-caldera
+Type
+Basaltic andesite
+Basaltic andesite
+Basaltic andesite
+Andesite
+Andesite
+Rhyolite
+SiO2
+56.37
+54.27
+56.68
+58.41
+58.42
+71.64
+TiO2
+0.92
+1.09
+1.33
+1.03
+0.86
+0.27
+Al2O3
+18.52
+18.96
+17.66
+17.18
+18.08
+14.41
+Fe2O3
+2.67
+2.69
+2.40
+2.24
+2.42
+1.12
+FeO
+3.96
+4.44
+5.44
+4.20
+3.68
+0.60
+MnO
+0.12
+0.12
+0.15
+0.11
+0.10
+0.07
+MgO
+4.00
+4.28
+3.03
+3.55
+3.55
+0.49
+CaO
+7.17
+7.69
+6.09
+6.38
+6.83
+1.92
+Na2O
+3.74
+4.51
+4.50
+3.69
+4.16
+3.98
+K2O
+1.57
+1.21
+1.62
+2.01
+1.32
+3.91
+P2O5
+0.22
+0.23
+0.42
+0.24
+0.12
+0.06
+LOI
+0.75
+0.51
+0.69
+0.96
+0.45
+1.53
+Table 1.  Major element (wt%) analyses of the six samples dated in this work
+SCVC: San Pedro-Cerro Grande Volcanic Complex; LOI: loss on ignition.
+Major elements where determined by XRF and traditional wet chemical methods (MgO, FeO, Na2O and LOI) following the
+method of Franzini et al. (1972).
+
+Volcanic systems in the San Pedro-Ceboruco graben (Nayarit, Mexico)
+81
+the caldera rim (Fig. 2; see also Fig. 5b) and its
+age may represent the lower limit for the age of
+the caldera collapse. SPC 127 is characterized by
+hypocrystalline-porphyritic texture (porphyritic
+index: 20–25 vol.%) with phenocrysts of
+plagioclase, horneblende and phlogopite.
+ANALYTICAL PROCEDURES
+For each analysis, 80–100 g of fresh rock were
+crushed and sieved to 0.25–0.50 mm in diameter.
+The sieved samples were washed with distilled
+water in an ultrasonic cleaner to remove fine
+grains. All phenocrysts were removed from sieved
+samples by a Frantz isodynamic separator in or-
+der to avoid possible contamination with excess
+40Ar that could be contained in the phenocrysts
+(Dalrymple and Lanphere, 1969; Takaoka, 1989).
+Aliquots for potassium analyses were pulverized
+by an agate mortar.
+K2O and 40Ar analyses were performed at
+Kyoto University (Japan) geochronology labora-
+tory. K2O contents were determined by flame
+emission photometry method (Matsumoto, 1989)
+with a precision of 1%. Duplicate analyses were
+made for each sample and the average values were
+used for the K-Ar age calculation. Radiogenic 40Ar
+contents were determined with a VG 3600 Isotech
+mass spectrometer using the unspiked sensitivity
+method with a mass-fractionation correction pro-
+cedure (Itaya and Nagao, 1988; Takaoka et al.,
+1989; Matsumoto et al., 1989; Matsumoto and
+Kobayashi, 1995). Detailed analytical procedures
+and system descriptions are discussed by Sudo et
+al. (1996) and Matsumoto et al. (1989). Briefly,
+in the K-Ar sensitivity method, the signal inten-
+sity of 40Ar in the unknown sample is compared
+with that of a standard air sample analyzed in the
+same day, assuming that: 1) the sensitivity is the
+same between unknown sample and standard air;
+2) there is a linear relationship of the sensitivity
+between the signal intensity and volume of Ar
+(Sudo et al., 1996). The calibration of the system
+was performed as stated by Sudo et al. (1996) us-
+ing the internal mineral standard of the Kyoto
+University Sori 93 with 25.0 ± 0.2 cm3STP/g ra-
+diogenic 40Ar concentration (Sudo et al., 1998).
+Duplicate analyses of 40Ar radiogenic contents
+were performed for each samples.
+Fig. 3.  Schematic map of the San Pedro-Ceboruco graben with K-Ar ages determined in this study. Those re-
+ported in literature are also shown. Other symbols are same as in Fig. 2.
+
+82
+C. M. Petrone et al.
+Table 2.  K-Ar data by the unspiked sensitivity method
+Errors represent ±1σ. K2O value is given for each sample as an average of duplicate analyses. “Weight” indicates the amount of rock powder used for 40Ar measurements.
+40 K decay constant: 5.543 × 10–10 y–1 (Faure, 1986).
+
+Volcanic systems in the San Pedro-Ceboruco graben (Nayarit, Mexico)
+83
+RESULTS AND INTERPRETATIONS
+Analytical results
+Analytical results of K-Ar ages are given in
+Table 2. Duplicate analyses of K2O contents con-
+sistently agree to the estimated analytical uncer-
+tainty within 1% and, thus, mean values were used
+for each sample. The duplicate analyses of radio-
+genic 40Ar generally agree within error.
+The ages of the northern volcanic chain lavas
+(SPC 1, SPC 50 and SPC 110) span between ~0.51
+to ~0.14 Ma (Fig. 3 and Table 2). SPC 1 is signifi-
+cantly older than the other two samples with a
+weighted mean age of 0.51 ± 0.05 Ma. Calculated
+weighted mean ages for SPC 50 and SPC 110 are
+identical within error (0.14 ± 0.08 Ma and 0.19 ±
+0.03 Ma, respectively).
+Duplicate analyses for the sample from the
+southern volcanic chain (SPC 26) are in good
+agreement with relatively low atmospheric 40Ar
+contamination, giving a well-determined weighted
+mean age of 2.53 ± 0.05 Ma. The Tepetiltic vol-
+cano lava flow (SPC 75) yields a weighted mean
+age of 0.48 ± 0.02 Ma. Duplicate K-Ar data on
+this sample show slight differences in age at the
+1σ uncertainty level, by reflecting the relatively
+low uncertainties (~6–7%) for each analysis, al-
+though they agree at the 2σ level.
+Duplicate analyses for the sample from Cerro
+Lobos dome (SPC 127) are indistiguishable from
+each other at 1σ uncertainty level, with rather high
+atmospheric 40Ar contamination. This gives a less
+precise weighted mean age of 0.6 ± 0.2 Ma (Table
+2). The greater amount of atmospheric 40Ar con-
+tamination in this sample (see “40Ar atm” and
+“40Ar rad” values in Table 2) is probably due to a
+major contents of vacuoles (around 10%) in this
+sample compared to the other samples. The pres-
+ence of vacuoles may contribute to trap atmos-
+pheric 40Ar giving the high atmospheric contami-
+nation found in this sample.
+Geological inferences
+The calculated ages for LTi series of northern
+volcanic chain are ~0.51 Ma and ~0.14 Ma
+whereas the age for HTi series is ~0.19 Ma (Fig.
+3). These data confirm that monogenetic volcanic
+activity of northern chain is young in age and that
+the volcanism of the two different series of the
+northern chain might overlap with each other in
+time. Taking in account the error on the ages (Ta-
+ble 2), we can not rule out that the actual age of
+SPC 110 (HTi) is younger than SPC 50 (LTi),
+eventually suggesting that LTi volcanic activity
+could be older than that of HTi. On the other hand,
+considering the upper limit ages for both samples,
+SPC 50 appears younger than SPC 110, eventu-
+ally suggesting that LTi volcanic activity also
+lasted longer than that of HTi. Thus, on the basis
+of these three data it is very difficult to say some-
+thing more precise regarding time relationships
+between HTi and LTi series. Anyhow, these data
+suggest that the volcanic activity of northern chain
+is almost contemporary with that of
+stratovolcanoes as indicated by geological evi-
+dence. The northern volcanic chain continues
+northwestward in the Sanganguey area (Fig. 1)
+where NW-SE alignments of cinder cones are also
+present. Their volcanic activity started less than
+~0.3 Ma ago and ended around 1000 y ago
+(Nelson and Carmichael, 1984). Thus, it appears
+that monogenetic volcanism lasted longer in this
+area compared to SPC graben.
+Tepetiltic volcanic activity took place at ~0.48
+Ma, which is in the range of activity of the north-
+ern volcanic chain (i.e., ~0.51 to ~0.14 Ma) and
+the final period of SCVC (ending ~0.1 Ma).
+Tepetiltic and Ceboruco are among the oldest
+stratovolcanoes in the Tepic-Zacoalco rift.
+Sanganguey starting activity is not well con-
+strained but lavas flows erupted in its initial stages
+of activity cover an ash flow, outpoured from Las
+Navajas volcano, that was dated at 0.2 ± 0.1 Ma
+(Nelson and Livieres, 1986) (Fig. 1). Thus, ac-
+cording to Nelson and Livieres (1986),
+Sanganguey is younger than this age. The age of
+the starting activity at Tequila is poorly con-
+strained, but Wallace and Carmichael (1994) stated
+that it must have postdated 0.46 Ma (no error is
+reported in literature for this data) and thus, could
+be in the range of Tepetiltic and Ceboruco start-
+ing activity. On the other hand, the youngest vol-
+
+84
+C. M. Petrone et al.
+canoes in the Tepic-Zacoalco rift are San Juan
+(>0.03 ± 0.002 Ma; Luhr, 2000) and La Primavera
+(~0.14 ± 0.004 Ma; Mahood and Drake, 1982)
+located at NW and SE extremes of the rift respec-
+tively (Fig. 1).
+A K-Ar age of 2.53 ± 0.05 Ma for southern
+volcanic chain (SPC 26) confirms that this vol-
+canic activity is older than that of the northern
+volcanic chain. It also demonstrates that the south-
+ern volcanic chain is almost contemporary with
+the starting activity of SCVC, which coincides
+with the extrusion of the oldest known dome, the
+Cerro Las Tetillas, whose age is of 2.3 ± 0.5 Ma
+(Gastil et al., 1979) (Figs. 3 and 4).
+On the basis of our determined age, the caldera
+collapse event of the SCVC could be younger than
+~0.6 Ma because the sample SPC 127 gave a
+weighted mean age of 0.6 ± 0.2 Ma and it was
+collected from the base of Cerro Lobos dome cut
+by the SCVC caldera (Figs. 3 and 5b). This age
+coincides with that of 0.61 ± 0.10 Ma measured
+by Ferrari et al. (2000a) on a rock located at the
+bottom of Cerro Lobos itself, but does not match
+with the age of 1.1 ± 0.3 Ma (Ferrari et al., 2000a)
+of the pericaldera Amado Nervo flows and the ages
+of two intracaldera domes (0.79 ± 0.16 Ma and
+0.85 ± 0.19 Ma, Ferrari et al., 2000a) (Figs. 3 and
+5a). Thus, an age around 0.8 Ma seems to be the
+only likely age for a single caldera collapse event
+which should be nearly coeval with the
+intracaldera and pericaldera activity (Fig. 5a).
+Nevertheless, this age is obtained by the overlap-
+ping of the two extreme error values of Amado
+Nervo flows (pericaldera) and Cerro Lobos dome
+(pre-caldera) (Fig. 5a), implying the exclusion of
+the literature data on Cerro Lobos (0.61 ± 0.10
+Ma) that having a low error disagrees with the age
+of 0.8 Ma. Furthermore, the coincidence of the
+geochronological data on Cerro Lobos dome (Fig.
+5a), strongly suggests that 0.6 Ma represents the
+real age for this dome. According to the latter con-
+siderations, we propose an alternative and more
+probable hypothesis for the age and evolution of
+the SCVC caldera (Figs. 5a and b). The presence
+of the pericaldera Amado Nervo flows points to a
+caldera collapse occurred before ~1.1 Ma. This
+was followed by the emplacement of three huge
+intracaldera domes and some pericaldera domes
+as could be the Cerro Lobos. After ~0.6 Ma, a
+process of caldera subsidence, probably deter-
+mined by the extrusion of the intra- and pericaldera
+domes, can have reactivated the old caldera rim.
+This hypothesis, therefore, suggests that the pres-
+ently exposed cut of Cerro Lobos is younger than
+the caldera collapse event and Cerro Lobos itself
+could be a post-caldera dome.
+Overall, it is possible to delineate a shift in
+the location of volcanic activity with time (Fig.
+4). Monogenetic volcanism started at ~2.5 Ma
+along the southern border of the graben. Starting
+from ~2.3 Ma volcanic activity was mainly char-
+acterized by dome extrusion and became localized
+in the central part of the graben with the emplace-
+ment of the oldest rocks of SCVC. At ~0.5 Ma,
+volcanism also migrates along the northern bor-
+der of the graben with the emplacement of the
+monogenetic centres of northern volcanic chain
+and with the formation of the two stratovolcanoes
+(Tepetiltic and Ceboruco). Most of the shift of
+volcanic activity took place along NW-SE sub-
+Fig. 4.  Stratigraphic relationships between volcanic
+systems in the San Pedro-Ceboruco graben. Horizzontal
+bar: starting and ending age of volcanism. Vertical bar:
+length of volcanic activity based only on available data.
+SVC: southern volcanic chain; SCVC: San Pedro-Cerro
+Grande Volcanic Complex; NVC: northern volcanic
+chain; CA: calc-alkaline magmatism; Na: Na-alkaline
+magmatism; HTi: HTi series (mildly Na-alkaline
+magmatism); LTi: LTi series (mildly calc-alkaline
+magmatism). Data are taken from this study, Gastil et
+al. (1979) and Ferrari et al. (2000a).
+
+Volcanic systems in the San Pedro-Ceboruco graben (Nayarit, Mexico)
+85
+parallel lines, starting from the southern border
+of the graben. This direction coincides with that
+of the main regional faults (Ferrari and Rosas-
+Elguera, 2000) confirming a strict link between
+magmatism and extensional tectonics. Conver-
+gence rate between Rivera and North America
+plates resumed at around 1.0 Ma (DeMets and
+Traylen, 2000) after a period of decreasing that
+Fig. 5.  a) Geochronological ages with their errors for San Pedro-Cerro Grande Volcanic Complex as emerged
+from this study and previuos works (Gastil et al., 1979; Ferrari et al., 2000a). The hypothesis for the age and
+evolution of the caldera collapse is shown. For detailed explanations see text; b) Schematic geologic map of the
+San Pedro-Cerro Grande Volcanic Complex as emerged from this study. Other symbols are same as in Fig. 2.
+
+86
+C. M. Petrone et al.
+started at ~3.6 Ma (DeMets and Traylen, 2000)
+and was followed by a near-cessation of trench-
+normal convergence between 2.6–1.0 Ma (DeMets
+and Traylen, 2000). During this period of cessa-
+tion of convergence a slab sinking along with a
+shifting toward the trench of the volcanic arc front
+occurred (Ferrari et al., 2000b). Volcanic activity
+along the southern border and in the central part
+of the graben took place during the period of near-
+cessation of convergence. Whereas, the shifting
+of volcanic activity along the northern border of
+the graben could be linked to the resumption of
+convergence that, as stated by DeMets and Traylen
+(2000), was also associated with an increase in
+the Pacific-Rivera spreading rate.
+The major phase of the volcanic activity started
+less than ~0.5 Ma in coincidence with the emis-
+sion of volcanics along the norther border of the
+graben. In fact, the volume of the two
+stratovolcanoes amount to 100 km3, whereas the
+volume for the other volcanics is estimated around
+14.5 km3 for Amado Nervo flows and 36 km3 for
+all the other volcanics from monogenetic centers
+(Ferrari et al., 2000b). Furthermore, our data con-
+firm that different kinds of magmatism (calc-al-
+kaline and Na-alkaline; Petrone, 1998) coexist in
+a short period of time of ~1 m.y. and that calc-
+alkaline magmas initially precede the Na-alkaline
+ones. Coexistence of Na-alkaline and calc-alka-
+line magmatism is also found NNW of SPC graben
+(Nelson and Carmichael, 1984; Nelson and
+Livieres, 1986; Nelson and Hegre, 1990; Righter
+et al., 1995; Ferrari et al., 2000b). In detail, the 1
+Ma old Jumatan lava flow (Righter et al., 1995;
+Ferrari et al., 2000b) near Tepic and almost all
+cinder cones (<0.3 Ma, Nelson and Carmichael,
+1984) around Sangaguey volcano are Na-alkaline
+(Nelson and Livieres, 1986), whereas Las Navajas
+volcano is made up by trachyte and peralkaline
+rhyolite (Nelson and Hegre, 1990) (Fig. 1). Even
+if calc-alkaline magmatism is dominant in volume,
+the presence of Na-alkaline magmatism seems,
+therefore, to be important, especially in the last 1
+m.y. in the northwestern edge of the Tepic-
+Zacoalco rift. As suggested by Ferrari et al.
+(2000c) the presence of Na-alkaline magmatism
+along with the calc-alkaline one could be deter-
+mined by sub-slab asthenosphere melts flowing
+through the fractured Rivera plate and interacting
+with the subduction-metasomatized mantle wedge.
+The break-off of Rivera plate is due to the
+extensional tectonics linked to the opening of the
+Gulf of California. Thus, our data along with the
+literature ones confirm that the strict coexistence
+of calc-alkaline and Na-alkaline magmas in the
+SPC graben starts around 1.1 Ma and spans in the
+same range of age of the NNW occurrences in the
+Sanganguey and Tepic areas, suggesting that the
+magmatism in this area could be explained in the
+same way. In detail, sub-slab astenosphere could
+have 
+interacted 
+with 
+the 
+subduction-
+metasomatized mantle wedge not only in the area
+of the mouth of Gulf of California, but further SE,
+below SPC graben area, which represents the tran-
+sition zone between the area of coexistence of
+calc-alkaline and Na-alkaline magmatism in the
+NW and the SE area, where only calc-alkaline
+magmatism is present.
+CONCLUSION
+New K-Ar ages along with published ones have
+allowed us to obtain a clearer picture of the mag-
+matic activity in the San Pedro-Ceboruco graben,
+including the monogenetic volcanic activity and
+Tepetiltic volcano for which previous data were
+absent. Volcanic activity started at ~2.5 Ma along
+the southern border of the graben with monoge-
+netic volcanism. At the same time, dome complex
+volcanic activity began to be emplaced at ~2.3 Ma
+(Gastil et al., 1979) in the central part of the
+graben, followed by a caldera collapse event that
+took place before ~1.1 Ma. The activity contin-
+ued with the emplacement of pericaldera lava
+flows (1.1 ± 0.3 Ma; Ferrari et al., 2000a) and
+several domes (intracaldera, pericaldera and lat-
+eral domes) ranging from ~0.9 to 0.1 Ma. Subsid-
+ence with consequent reactivation of the eastern
+caldera rim occurred after ~0.6 Ma following the
+emplacement of the huge intracaldera domes. The
+activity of monogenetic centers and of
+stratovolcanoes started at ~0.5 Ma in the northern
+
+Volcanic systems in the San Pedro-Ceboruco graben (Nayarit, Mexico)
+87
+border of the graben. Volcanism shifts from SW
+to NE along NW-SE trending lines that coincide
+with the main directions of regional faults. The
+peculiar magmatic activity, characterized by the
+coexistence of different petrologic affinities (sub-
+duction-related and intra-plate), is younger than
+1 Ma.
+Acknowledgments—The authors deeply thank L.
+Ferrari for discussion, logistic support and help during
+field work, S. Conticelli for helpful discussion and P.
+Manetti for supporting this research. The manuscript
+was considerably improved in focus and logic through
+reviews of M. Ban and an anonymous reviewer. A.
+Pietruszka is thanked for the revision of the English
+style. This study was financially supported by C.N.R.
+with a fellowship (No. 203.05.21 Cod. No. 23.05.21)
+to C.M.P. and with C.S.M.G.A. grants.
+REFERENCES
+Allan, J. F. (1986) Geology of northern Colima and
+Zacoalco grabens, southwest Mexico: Late Cenozoic
+rifting in the Mexican Volcanic Belt. Geol. Soc. Am.
+Bull. 97, 473–485.
+Dalrymple, G. B. and Lanphere, M. A. (1969) Potas-
+sium-Argon Dating. Freeman and Company, San
+Francisco, 258 pp.
+DeMets, C. and Traylen, S. (2000) Motion of the Rivera
+plate since 10 Ma relative to the Pacific and North
+America plates and the mantle. Tectonophysics 318,
+119–159.
+Faure, G. (1986) Principle of Isotope Geology. John
+Wiley & Sons, 589 pp.
+Ferrari, L. (1995) Miocene shearing along the north-
+ern boundary of the Jalisco block and the opening of
+the Southern Gulf of California. Geology 23, 751–
+754.
+Ferrari, L. and Rosas-Elguera, J. (2000) Late Miocene
+to Quaternary extension at the northern boundary of
+the Jalisco block, western Mexico: the Tepic-
+Zacoalco rift revised. Geol. Soc. Am. Sp. Paper 334,
+Chapter 03, 41–64.
+Ferrari, L., Nelson, S. A., Rosas-Elguera, J., Aguirre-
+Diaz, G. J. and Venegas-Salgado, S. (1997) Tecton-
+ics and volcanism of the Western Mexican Volcanic
+Belt. Magmatism and tectonics in central and north-
+western Mexico—a selection of the 1997. IAVCEI
+General Assembly Excursions (Aguirre-Diaz, G. J.,
+Aranda-Gomez, J. J., Carrasco-Nuñez, G. and Ferrari,
+L., eds.), Excursion 12, 85–129, Mexico D.F.,
+Universidad Nacional Autonoma de Mexico, Instituto
+de Geologia.
+Ferrari, L., Pasquarè, G., Venegas-Salgado, S. and
+Romero-Rios, F. (2000a) Geology of the western
+Mexican Volcanic Belt and adjacent Sierra Madre
+Occidental and Jalisco block. Geol. Soc. Am. Sp.
+Paper 334, Chapter 04, 65–84.
+Ferrari, L., Petrone, C. M. and Francalanci, L. (2000b)
+Generation of OIB-type volcanism in the western
+Trans-Mexican Volcanic Belt by slab rollback,
+astenosphere infiltration and variable flux-melting.
+Geology (submitted).
+Ferrari, L., Conticelli, S., Vaggelli, G., Petrone, C. M.
+and Manetti, P. (2000c) Late Miocene volcanism and
+intra-arc tectonics during the early development of
+the Trans-Mexican Volcanic Belt. Tectonophysics
+318, 161–185.
+Franzini, M., Leoni, L. and Saitta, M. (1972) A simple
+method to valutate the matrix effect in x-ray
+flourescence analysis. X-ray Spectrometry 1, 151–
+154.
+Gastil, G., Krummenacher, D. and Minch, J. (1979) The
+record of Cenozoic volcanism around the Gulf of
+California. Geol. Soc. Am. Bull. 90, Part 1, 839–857.
+Itaya, T. and Nagao, K. (1988) K-Ar age determination
+of volcanic rocks younger than 1 Ma. Mem. Soc.
+Geol. Japan 29, 143–161 (in Japanese with English
+abstract).
+Luhr, J. F. (2000) The geology and petrology of Volcan
+San Juan (Nayarit, Mexico) and the compositionally
+zoned Tepic Pumice. J. Volcanol. Geotherm. Res. 95,
+109–156.
+Mahood, G. A. and Drake, R. E. (1982) K-Ar dating
+young rhyolitic rocks: a case study of the Sierra La
+Primavera, Jalisco, Mexico. Geol. Soc. Am. Bull. 93,
+1232–1241.
+Matsumoto, A. (1989) Improvement for determination
+of potassium in K-Ar dating. Bull. Soc. Geol. Surv.
+Japan 40, 65–70 (in Japanese with English abstract).
+Matsumoto, A. and Kobayashi, T. (1995) K-Ar age de-
+termination of late Quaternary volcanic rocks using
+the “mass fractionation correction procedure”: ap-
+plication to the Younger Ontake Volcano, Central
+Japan. Chem. Geol. 125, 123–135.
+Matsumoto, A., Uto, K. and Shibata, K. (1989) K-Ar
+dating by peak comparison method: new technique
+applicable to rocks younger than 0.5 Ma. Bull. Geol.
+Surv. Japan 40, 565–579.
+Nelson, S. A. (1980) Geology and petrology of Volcan
+Ceboruco, Nayarit, Mexico. Geol. Soc. Am. Bull. Part
+II 91, 2290–2431.
+Nelson, S. A. and Carmichael, I. S. E. (1984)
+Pleistocene to recent alkalic volcanism in the region
+of Sanganguey volcano, Nayarit, Mexico. Contrib.
+Mineral. Petrol. 85, 321–335.
+
+88
+C. M. Petrone et al.
+Nelson, S. A. and Hegre, J. (1990) Volcan Las Navajas,
+a Pliocene-Pleistocene trachyte-peralkaline rhyolite
+volcano in the northwestern Mexican Volcanic Belt.
+Bull. Volcanol. 52, 186–204.
+Nelson, S. A. and Livieres, R. A. (1986) Contempora-
+neous calc-alkaline and alkaline volcanism at
+Sanganguey volcano, Nayarit, Mexico. Geol. Soc.
+Am. Bull. 97, 798–808.
+Petrone, C. M. (1998) Studio magmatologico dei
+sistemi vulcanici del graben San Pedro-Ceboruco
+(Nayarit, Messico): coesistenza di magmi a diversa
+affinità petrologica. Ph.D. Thesis, Università degli
+Studi di Firenze, Italy, 280 pp. (in Italian).
+Righter, K., Carmichael, I. S. E., Becker, T. A. and
+Renne, P. R. (1995) Pliocene-Quaternary volcanism
+and faulting at the intersection of the Gulf of Cali-
+fornia and the Mexican Volcanic Belt. Geol. Soc. Am.
+Bull. 107, No. 6, 612–626.
+Rosas-Elguera, J., Ferrari, L., Garduño-Monroy, V. H.
+and Urrutia-Fucugauchi, J. (1996) Continental
+boundaries of the Jalisco block and their influence
+in the Pliocene-Quaternary kinematics of western
+Mexico. Geology 24, No. 10, 921–924.
+Sudo, M., Tagami, T., Sato, K., Hasebe, N. and
+Nishimura, S. (1996) Calibration of a new Ar ana-
+lytical system for the K-Ar dating method and ana-
+lytical results of K-Ar age known samples. Mem. Fac.
+Science Geol., Mineral. Series, Kyoto Univ. LVIII,
+No. 1–2, 21–40.
+Sudo, M., Uto, K., Anno, K., Ishizuka, O. and Uchiumi,
+S. (1998) SORI93 biotite: a new mineral standard
+for K-Ar dating. Geochem. J. 32, 49–58.
+Takaoka, N. (1989) Problems in the K-Ar dating of
+Quaternary volcanic rocks younger than 1 Ma. Mass.
+Spectr. 37, 343–351 (in Japanese with English ab-
+stract).
+Takaoka, N., Konno, K., Oba, Y. and Konda, T. (1989)
+K-Ar dating of lavas from Zao Volcano, Northeast-
+ern Japan. J. Geol. Soc. Japan 95, 157–170 (in Japa-
+nese with English abstract).
+Wallace, P. J. and Carmichael, I. S. E. (1994) Petrol-
+ogy of Volcan Tequila, Jalisco, Mexico: disequilib-
+rium phenocryst assemblages and evolution of the
+subvulcanic magma system. Contrib. Mineral. Pet-
+rol. 117, 345–361.

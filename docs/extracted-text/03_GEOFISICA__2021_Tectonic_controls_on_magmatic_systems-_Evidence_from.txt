@@ -1,0 +1,1149 @@
+Tectonic controls on magmatic systems: Evidence from
+a three-dimensional anisotropic electrical resistivity model
+of Ceboruco Volcano
+Philip Hering a,⁎, Lourdes González-Castillo b, César Castro a, Andreas Junge a, Colin Brown c,
+Victor H. Márquez-Ramírez d, Juan I. Pinzón López e, Quiriat J. Gutiérrez f
+a Institut für Geowissenschaften, Goethe Universität Frankfurt, Frankfurt am Main, Germany
+b Dpto. de Geodinámica, Universidad de Granada, Granada, Spain
+c Ryan Institute, National University of Ireland, Galway, Ireland
+d Centro de Geociencias, UNAM-Juriquilla, Queretaro, Mexico
+e Faculdade de Ciências, Universidade de Lisboa, Portugal
+f Centro de Investigación Cientíﬁca y de Educación Superior de Ensenada, Mexico
+a b s t r a c t
+a r t i c l e
+i n f o
+Article history:
+Received 31 March 2021
+Received in revised form 12 August 2021
+Accepted 18 August 2021
+Available online 20 August 2021
+This paper presents results from a magnetotelluric survey at Ceboruco Volcano in Mexico. The observed data re-
+quire an anisotropic 3-D electrical resistivity model which links a near-surface geothermal reservoir to the mag-
+matic system and ﬁnally to the local tectonic setting.
+Ceboruco is an active stratovolcano, which is located in the Tepic-Zacoalco Rift and is part of the Trans-Mexican
+Volcanic Belt. Together with Chapala and Colima, the Tepic-Zacoalco Rift forms a triple rift system, which devel-
+oped as a consequence of the subduction of the Rivera and Cocos oceanic plates beneath the North American con-
+tinental crust. Ceboruco is the largest and most active volcano in the region.
+Broadband magnetotelluric data were collected at 25 sites distributed on and around Ceboruco Volcano during a
+two-week campaign. The survey focused on the electrical resistivity distribution to characterize the geothermal
+potential and the deep structure beneath the volcano. The data quality is very high in a wide period range be-
+tween 10−4 and 102s and there is a consistent data pattern at all sites. For sites located on the volcano, topograph-
+ical effects dominate the shortest periods. At all sites a highly conductive layer is implied for periods below 1 s,
+and a spatially constant phase split and coincident small induction vectors are observed to the long period end.
+The 3-D isotropic inversion of the data yields an excellent data ﬁt for short and intermediate periods and reveals a
+shallow magma storage and an extensive hydrothermal reservoir between 1 km a.s.l. and approximately 2 km b.
+s.l. At greater depth, the inversion algorithm generates large-scale high resistivity contrasts, reaching far outside
+the area of investigation. The resulting structures are inconsistent with the known geological setting and are con-
+sidered to be artifacts of the isotropic inversion. We present an alternative model, which includes two anisotropic
+layers below 10 km depth. The conductive principal axes of the anisotropy are consistent with the local rifting
+direction in the Tepic-Zacoalco Rift and relate to a ductile deformation of the host rock and a large mush zone
+at mid- to lower-crustal depths.
+© 2021 Elsevier B.V. All rights reserved.
+Keywords:
+Magnetotellurics
+Magmatic Systems
+Electrical Anisotropy
+Rifting
+Volcanism
+1. Introduction
+Rift systems develop in extensional settings, related to mantle exhu-
+mation and crustal thinning, which are usually associated with decom-
+pression melting and the rise of volatiles and magma through the
+lithosphere (e.g., Rooney, 2010; Lee et al., 2016). Therefore, they drive
+the presence of volcanic areas that are commonly aligned in the princi-
+pal direction of the rift (Wadge et al., 2016).
+Within rift zones, fractures in bedrock can merge into extensive joint
+systems, bearing water or partial melt whose electrical resistivity may
+be orders of magnitude less than the surrounding bedrock. Depending
+on the tectonic stress-ﬁeld, these fractures can be aligned and therefore
+might result in preferred electrical conduction directions inferred from
+electromagnetic or electrical resistivity observations (e.g., Wannamaker,
+2005). Tectonic activity in rift systems may also cause the genesis of
+shales and schists, which form from sediments due to metamorphism.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+⁎ Corresponding author.
+E-mail address: phhering@geophysik.uni-frankfurt.de (P. Hering).
+https://doi.org/10.1016/j.jvolgeores.2021.107382
+0377-0273/© 2021 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Journal of Volcanology and Geothermal Research
+journal homepage: www.elsevier.com/locate/jvolgeores
+
+Here, the minerals are realigned with their long axis perpendicular to the
+stress-ﬁeld. This process may also result in a preferred electrical conduc-
+tion direction within the rock material, especially if a ﬁlm of water or
+melt between the foliation planes enhances the resistivity contrast
+(Wannamaker, 2005). Therefore, an electrically anisotropic medium
+may result from microscopic anisotropy, i.e., the presence of preferred ori-
+entations of crystals, and/or a macroscopic effect due to layering or lami-
+nation structures with dimensions signiﬁcantly smaller than the
+induction volume (Weidelt, 1999). In terms of distinct geological settings,
+this can be preferred orientation of fracture porosity, ﬂuidized, melt-
+bearing or graphitized shear zones, lithological layering, oriented hetero-
+geneity, or hydrous defects within shear aligned olivine crystals
+(Wannamaker, 2005; Martí, 2014).
+The magnetotelluric method has been successfully applied to numer-
+ous volcanic areas and rift systems. This includes, for example, Mount St.
+Helens (Hill et al., 2009; Bedrosian et al., 2018), Laguna del Maule
+(Cordell et al., 2018), Uturuncu Volcano (Comeau et al., 2016), Naruko
+Volcano (Ogawa et al., 2014), Tongariro Volcano (Hill et al., 2015),
+Fogo Volcano (Hogg et al., 2018), the Taupo Volcanic Zone (Heise et al.,
+2008) and the Ethiopian Rift Magmatic System (Samrock et al., 2018,
+2021). All these studies have linked highly conductive domains to either
+magma and partial melting, hydrothermal ﬂuid circulation or the pres-
+ence of clay minerals. In general, geothermal systems can be categorized
+as systems where magma is present or absent (Muñoz, 2014). Magmatic
+geothermal reservoirs include convective hydrothermal (water or steam
+dominated), hot dry rock or partial melt systems, whilst non-volcanic
+reservoirs are related to hot ﬂuids in sedimentary or crystalline rocks
+(Muñoz, 2014). Most hydrothermal systems are associated with alter-
+ation processes due to an interaction between rock material and hydro-
+thermal ﬂuids. Here, high temperatures coincide with strong alteration
+and high conductivities. The alteration usually results in the formation
+of clay minerals, such as smectite (temperatures between 70 and 150
+°C), illite and/or chlorite (>180 °C) or chlorite and epidote minerals
+(220−240 °C) (Muñoz, 2014; Browne, 1978). Clay minerals often
+cover geothermal systems and are observed as a zone of low resistivity
+(clay cap) (e.g., Pellerin et al., 1996; Bibby et al., 1998). Clay caps and ad-
+jacent hydrothermal systems feature typical resistivities of 1−10 Ωm
+and 5−100 Ωm, respectively (Wright et al., 1985; Pellerin et al., 1996),
+although resistivities below 1 Ωm were observed in the case of hypersa-
+line hydrothermal ﬂuids (e.g., in the Long Valley Caldera; Peakock et al.,
+2016). Several studies have linked highly conductive zones to partial
+melting and magma transport through the crust. The modelled resistivi-
+ties are frequently smaller than 1 Ωm (e.g., Hill et al., 2009; Heise et al.,
+2010; Bedrosian et al., 2018; Hill et al., 2015; Samrock et al., 2018). How-
+ever, the resistivity of melt strongly depends on its chemistry. Rhyolitic
+magma, for example, is generally more resistive than andesitic and basal-
+tic magma (up to 50 Ωm, see Bowles-Martinez and Schulz, 2020 or Lee
+et al., 2020). Laboratory measurements help to constrain expected melt
+resistivities in dependence of, i.e., temperature, pressure, H2O and SiO2
+content (e.g., Pommier et al., 2008; Guo et al., 2016; Laumonier et al.,
+2017). The observable bulk resistivity is then directly related to the
+melt fraction, which can be determined using two- (or multi) phase
+mixing models based on, e.g., a modiﬁed Archies's Law (Glover et al.,
+2000; Pommier, 2014; Glover, 2010).
+Ceboruco Volcano is a 2280 m high stratovolcano, located in Nayarit
+State, Mexico. Only a few geophysical studies have been carried out at
+Ceboruco. The last historical record of an eruption is from 1870, before
+which the plinian Jala eruption occurred between 1000 and 1134 CE
+(Böhnel et al., 2016). Fernández-Córdoba et al. (2017) identiﬁed a neg-
+ative gravimetric anomaly below Ceboruco associated with a 163 km3
+magma body, located about 1 km below sea level. Sawires and Aboud
+(2019) found a positive magnetic anomaly that coincides with this neg-
+ative Bouguer anomaly. Volcano-tectonic and low-frequency seismic
+events have been identiﬁed by Núñez-Cornú et al. (2020), Rodríguez
+Uribe et al. (2013) and Sánchez et al. (2009). This type of seismicity is
+usually associated with active volcanoes.
+This study aims to improve the understanding about the deep struc-
+ture and the geothermal potential of Ceboruco Volcano. It uses the
+magnetotelluric method to obtain a 3-D resistivity model of the subsur-
+face. The model is used to validate and expand the knowledge about the
+magmatic system. The possibility to account for an anisotropic electrical
+resistivity
+distribution
+allows
+us
+to
+link our
+observations
+to
+geodynamics in the local tectonic setting.
+2. Geological setting
+Ceboruco Volcano is an active stratovolcano, located in the central
+part of the Tepic-Zacoalco Rift (TZR), which constitutes the north-
+western end of the Trans-Mexican Volcanic Belt (TMVB) (Fig. 1a).
+Together with the Chapala and Colima rifts in the Jalisco Block (JB),
+the TZR forms a triple rift system, which developed as a consequence
+of the subduction of the Rivera and Cocos oceanic plates beneath
+North American continental crust (Petrone et al., 2001; Allan,
+1986). The western part of the TMVB separates two large-scale geo-
+logical domains, namely the Sierra Madre Occidental (SMO) to the
+northeast and the Jalisco Block to the southwest (Fig. 1b and
+Fig. 2a). The SMO is a volcanic plateau of approximately 1 km thick-
+ness that extends from the TMVB over 2000 km to the north
+(Ferrari et al., 2003). It consists primarily of Tertiary ignimbrites
+and rhyolites (Sieron and Siebe, 2008). Close to Ceboruco Volcano,
+the upper ~800 m of the SMO are composed of rhyolitic ash ﬂows
+and basaltic to andesitic lavas, covering subvolcanic stocks and plu-
+tons with diorite to granite compositions (Ferrari et al., 2003). The Ja-
+lisco Block comprises late Cretaceous to Paleocene volcanic deposits
+and marine sediments, which cover plutonic rocks (granite) (Ferrari
+et al., 2003; Schaaf et al., 1995; Sieron and Siebe, 2008).
+The Tepic-Zacoalco Rift is a NW-SE oriented, extensional structure
+and is regarded as a larger system of grabens, half-grabens and faults
+(e.g., Allan, 1986 or Ferrari et al., 1994, 2003) (Fig. 2a). The exact origin
+is under debate, although the most accepted explanation relates to ac-
+cumulated tectonic stress resulting from oblique subduction of the Ri-
+vera plate and complex interaction with the adjacent Paciﬁc and Cocos
+plates (e.g. Ferrari et al., 1994). The initial opening occurred in the
+early Paleogene and has been reactivated several times (Rosas-Elguera
+et al., 1996). Since the late Miocene, northeast extension shaped the
+TZR (Ferrari and Rosas-Elguera, 2000).
+The Ceboruco asymmetric graben is part of the San Pedro – Ceboruco
+complex, which constitutes the central part of the TZR (Ferrari et al.,
+2003; Petrone et al., 2001) (Fig. 2a). To the north and south it is deﬁned
+by WNW-ESE striking normal faults, cutting different andesitic, rhyolitic
+and ignimbritic successions, dated between 4.2 and 4.9 Ma (Ferrari
+et al., 2003). Knowledge about the geological structure of the graben
+was enhanced by a 2800-m-deep exploratory well, located in the south-
+ern foreland of Ceboruco Volcano. The borehole exposed about 2 km of
+andesitic and rhyolitic lava ﬂows (aged up to 8 Ma), covering plutonic
+(possibly granitic) rocks related to the Jalisco Block (Ferrari and Rosas-
+Elguera, 2000). Between 400 and 500 m below ground surface level, a
+conglomerate layer traverses the lava ﬂows.
+Ceboruco Volcano is a calc-alkaline stratovolcano with andesitic lava
+ﬂows predominant over pyroclastic units (Ferrari et al., 2003). Its initial
+activity is dated to 0.37 ± 0.2 Ma (Petrone et al., 2001). According to
+Ferrari et al. (2003), the recent structure of the volcano developed as fol-
+lows: During an eruptive phase (Jala-eruption, ~1000 a ago), the top of
+the andesitic Paleo-Ceboruco collapsed and the outer caldera was
+formed. Subsequently, a dacitic dome was emplaced, which likewise
+collapsed due to eruptive dacitic lava ﬂows and formed the inner cal-
+dera. The andesitic Dome Central and a volcanic cone (La Cornilla) con-
+stitute the innermost structures of the volcano. Even though its last
+eruption occurred in 1870, Ceboruco is the most active volcano in the
+area, showing volcanic-earthquake activity together with ongoing
+vapor emissions.
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+2
+
+3. Methodology
+The magnetotelluric (MT) method was ﬁrst described by Rikitake
+(1948), Tikhonov (1950) and Cagniard (1953). It is used to examine
+the Earth's electrical resistivity distribution by observing time variations
+of the magnetic and electric ﬁeld at the Earth's surface. The period-
+dependent MT response tensor (Z) relates the horizontal electric (Eh)
+and magnetic ﬁelds (Bh) measured at the Earth's surface:
+E
+*
+h ¼ Z  B
+*
+h
+or
+Ex
+Ey
+
+
+¼
+Zxx
+Zxy
+Zyx
+Zyy
+
+
+
+Bx
+By
+
+
+ð1Þ
+Fig. 1. (a) Tectonic setting in the Paciﬁc and western part of Mexico. The red square marks the location of the map in (b). TMVB: Trans-Mexican Volcanic Belt, RFZ: Rivera Fracture Zone,
+OFZ: Orozco Fracture Zone, RP: Rivera Plate, EPR: East Paciﬁc Rise, PRR: Paciﬁc Rivera Rise. (b) The triple rift system formed by the Tepic-Zacoalco Rift (TZR), the Chapala Rift and the Colima
+Rift separates the western part of the TMVB into the Jalisco block, the Michoacan block and the North American plate. SJ: San Juan Volcano, SG: Sanganguey Volcano, TEP: Tepetiltic Volcano,
+SP: San Pedro Caldera, C: Ceboruco Volcano, TEQ: Tequila Volcano, LP: La Primavera Caldera, NCO: Nevado de Colima Volcano, CO: Colima Volcano.
+Fig. 2. (a) The Tepic-Zacoalco Rift (TZR) separates the Jalisco Block and the Sierra Madre Occidental (SMO). The rift is regarded as a larger system of grabens, half-grabens and faults. The red
+square marks the location of the map in b. SPCG: San Pedro – Ceboruco graben, SJ: San Juan Volcano, SG: Sangangüey Volcano, TE: Tepetiltic Volcano, SP: San Pedro Caldera, C: Ceboruco
+Volcano, TEQ: Tequila Volcano, LP: La Primavera Caldera. (Fault zones redrawn after Ferrari and Rosas-Elguera, 2000) (b) Distribution of the magnetotelluric sites during the ﬁeld survey at
+Ceboruco Volcano in November 2016. Red diamonds: High-frequency (HF) sites with a recording time of 30 min. Blue diamonds: Broadband (BB) sites with recording times >12 h. White
+triangles: Low frequency (LF) sites with recording times >2 days.
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+3
+
+The ﬁelds in (1) are complex numbers that are deﬁned in the fre-
+quency domain. The tensor Z is usually presented as period-
+dependent apparent resistivity (ρa,Z) and phase (φij) curves, derived
+from
+the
+tensor
+components.
+With
+period
+T
+and
+magnetic
+permeability μ they are written as:
+ρa,Zij ¼ μT=2π
+ð
+Þ Zij
+
+2
+ð2Þ
+φij ¼ tan 1 Im Zij
+
+
+= Re Zij
+
+
+
+
+ð3Þ
+In general, values at short periods represent shallower depth than
+values at longer periods, and a decrease of the apparent resistivity
+with increasing period coincides with phases larger than 45°, and vice
+versa.
+Caldwell et al. (2004) established the phase tensor (PT, ϕ), which re-
+duces the MT response tensor to its phase information. The tensor can
+be visualized by the maximum and minimum phase (the tensor princi-
+pal axes), the tensor skew (β) and the angle α, which relates the tensor
+to the measurement coordinate system (Caldwell et al., 2004; Booker,
+2014). The PT is calculated from the real (U) and imaginary (V) parts
+of the MT response tensor (Z = U + iV) as:
+ϕ ¼ U 1V
+ð4Þ
+In contrast to Z, the phase tensor (ϕ) is free from galvanic distortion
+by near-surface resistivity variations (Caldwell et al., 2004), causing a
+frequency independent offset of the electric ﬁeld amplitude. This is
+commonly observed as a static shift of the period dependent apparent
+resistivity curves, which can signiﬁcantly hamper the interpretation of
+MT data.
+Brown (2016) and Hering et al. (2019) introduced the complex MT
+apparent resistivity tensor (CART) as a compact and intuitive method
+to visualize the amplitude and phase information within the common
+MT transfer functions. The CART (ρa) is calculated from the MT response
+tensor Z (with the superscript T denoting the transpose of a tensor):
+ρa ¼
+iμT=2π
+ð
+Þdet Z
+ð ÞZ Z1
+
+T
+ð5Þ
+It can be decomposed into a real (Ua) and an imaginary (Va), or
+amplitude and phase tensor (ϕa):
+ρa ¼ Ua þ iVa
+ð6Þ
+ρa ¼ Ua þ I þ iϕa
+ð
+Þ
+ð7Þ
+Ua is referred to as the apparent resistivity tensor (RT), ϕa as the
+resistivity phase tensor (RPT) and I is the identity matrix. The RT gives
+information about the magnitude and direction of apparent resistivity
+subsurface structures and is sensitive to the resistivity in a region
+below the observation point where most of the electric current is fo-
+cused. The PT relates the electric to the magnetic ﬁeld phase, whereas
+the RPT, which is also a function of the PT, quantiﬁes the phase relation-
+ships between the electric ﬁeld and apparent current density.
+The data are visualized according to Hering et al. (2019), where the
+tensors are plotted as ellipses with the principal axes normalized by the
+value of the major axis. The numerical values of the major and the minor
+axis are reﬂected by the colour of the ellipse and the colour of a super-
+posed bar, respectively. In this plotting scheme, the responses for an iso-
+tropic 1-D subsurface (RT, PT, RPT) and a homogeneous anisotropic half
+space (PT, RPT) are reﬂected by a plain circle, whilst elongated ellipses
+and clearly visible minor axis bars indicate a higher dimensional resis-
+tivity structure or a 1-D layered anisotropic medium. For homogeneous
+or 1-D anisotropic media, the RT principal axes align with the anisotropy
+directions. In case of higher-dimensional subsurface structures, that also
+include near surface distortions, the strike of the anisotropy can only be
+inferred from the RPT and the PT. Here, the major axis of the RPT
+indicates the horizontal direction of the maximum apparent induction
+current density. The PT ellipse has similar properties where the direc-
+tion of its major axis points towards the preferred ﬂow direction of
+the induction current (Hering et al., 2019 following Caldwell et al.,
+2004).
+For reason of space, in this paper we focus on the RT and the PT to
+present the amplitude and phase information of the observed data
+and modelled response.
+Another measure to describe subsurface structures is given by the
+induction vector (Tipper). It compares the vertical magnetic ﬁeld com-
+ponent Bz to the horizontal magnetic ﬁelds Bx and By:
+Bz ¼T
+*
+B
+*
+h
+or
+Bz ¼ Tx Ty
+
+
+
+Bx
+By
+
+
+ð8Þ
+The period-dependent, complex transfer function T
+*
+can be visual-
+ized as vectors in the horizontal plane, for real and imaginary parts sep-
+arately. Induction vectors are sensitive to lateral resistivity gradients.
+Therefore, they are absent in case of an isotropic or anisotropic 1-D sub-
+surface (Heise et al., 2006), whereas in higher dimensional environ-
+ments their real parts point into the direction of laterally increasing
+resistivity (Wiese, 1962). As shown by Müller and Haak (2004), topo-
+graphical effects have a signiﬁcant impact on the vertical magnetic
+ﬁeld at short periods. This results in a distinct induction vector response,
+with the real parts pointing radially away from the center of elevation.
+The inﬂuence from topography on the short (inductive and galvanic)
+and long period (galvanic) MT response is an example of distortion,
+which must be accounted for during the interpretation stage. The
+most accurate way is to incorporate the topography data in the model-
+ling approach.
+During the ﬁeld survey at Ceboruco Volcano, 25 MT stations were
+deployed in a 10 × 10 km2 area, covering the calderas and the foreland
+of the volcano (Fig. 2b). The data were processed using a multivariate
+approach, based on the eigenvalue decomposition method by Egbert
+(1997). The processing includes a robust estimation of the spectral
+density- and the noise covariance matrix and minimizes distortion
+from coherent and incoherent noise (Hering, 2019). The isotropic 3-D
+inversion in Section 5.1 was performed using the ﬁnite difference (FD)
+3-D MT inversion code ModEM, which is based on a nonlinear conjugate
+gradient algorithm (Kelbert et al., 2014). The anisotropic 3-D forward
+model in Section 5.2 was calculated in the COMSOL Multiphysics® 5.3a
+environment. The model discretization in COMSOL is based on a ﬁnite el-
+ement (FE) approach. More detailed information about forward model-
+ling in COMSOL is given in Hering et al. (2019). Examples of its application
+are shown in Hering et al. (2019), González-Castillo et al. (2015) and
+Löwer and Junge (2017).
+4. Processing results
+Two representative sites emphasize the data quality and illustrate
+the different data responses for stations located in the foreland (LF3)
+and in the caldera/crater (BB23) of Ceboruco Volcano (Fig. 3). The
+shortest periods at site LF3 reveal a homogeneous pattern and primarily
+resemble a 1-D situation. Here, the induction vectors are negligible and
+decreasing apparent resistivity (ρa, Z and Ua) and increasing phase
+values (φ and ϕ) imply a transition to a conductive layer. For periods
+longer than 1 s, a signiﬁcant split between the off-diagonal apparent re-
+sistivity and phase curves and the RT and PT major and minor axes indi-
+cates a clear deviation from an isotropic 1-D environment. At the same
+time, the size of the induction vectors remains negligible. Site BB23 is lo-
+cated in the outer caldera of the volcano and features strong topograph-
+ical effects in the period range between 10−4 and 0.05 s. This is
+manifested by large induction vectors and a distinct phase split. With in-
+creasing period (0.05 – 1 s) the response functions show a transition to a
+conductor (similar to site LF3) and correspond to a 1-D situation. To the
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+4
+
+long-period end (1 – 100 s) phase and apparent resistivity reveal the
+constant split that is also observed at site LF3. Coincidentally, the induc-
+tion vectors imply higher dimensionality for periods between 1 and 10
+s, but they become very small towards the longest periods.
+In Fig. 4a the RT, PT and induction vector responses are shown for up
+to 20 selected stations for two representative target periods of 0.006 s
+(180 Hz) and 55 s. At the shorter period, stations in the foreland of the
+volcano show a very homogeneous pattern, featuring a 1-D PT response
+and mostly negligible induction vectors. Phases above 45° indicate a
+transition to a conductor. Stations located in the inner and outer caldera
+are strongly inﬂuenced by topographical effects. The results at 55 s re-
+veal a large and spatially constant split between the tensors principal
+axes of Ua and ϕ. Here, the orientation of the PT is very consistent,
+with the major axes pointing east-south-east (ESE) and the minor
+axes pointing north-north-east (NNE). In case of the RT, the orientation
+of the principal axes is less stable. This is related to near-surface distor-
+tion (e.g., due to topography), which, in the case of the RT, extends to
+the longest periods (static shift effect, see Hering et al., 2019). The
+major and minor axes of the RT feature resistivity of 10−100 Ωm and
+0.5−5 Ωm, with the maximum resistivity in ESE and the minimum re-
+sistivity in NNE direction, respectively. The induction vectors at 55 s
+are negligible (<0.07).
+In general, the processing results are very consistent and follow a
+distinctive pattern at all stations. In Fig. 4b period-dependent phase
+tensors are shown for 20 stations, projected on a proﬁle through
+the measurement area in the north-south direction. At all stations,
+the transition to a conductive 1-D subsurface structure is implied
+by very high PT values (up to 80°) over a large frequency range. For
+stations located at higher elevations, topographical (3-D) effects
+dominate the shortest periods. For periods above 10 s, a large split
+between the tensors' principal axes and concurrent directional align-
+ment is observed at all stations.
+5. 3-D modelling
+5.1. Isotropic inversion
+In this section, results for the Ceboruco data are presented for a joint
+inversion of the full MT response tensor (Z) and induction vectors (T
+*
+)
+for periods between 10−3 and 118 s (3 target periods per decade). The
+inversion is weighted by the data errors. To account for very small er-
+rors, an error ﬂoor of 5% of |Zij| is implemented for the off-diagonal com-
+ponents and 5% of |Zxy × Zyx|1/2for the diagonals. For the induction
+vectors, an error ﬂoor of 0.02 is applied.
+The dimensions of the model domain are 600 km × 600 km ×
+330 km (x, y, z). The horizontal extensions of the inner domain are
+12 km × 10 km (x, y) (Fig. 5a). In the inner model, the grid elements
+have a size of 150 m in the horizontal direction. Outside the inner
+domain, they increase by a factor of 1.5 until the total model exten-
+sion of 600 km. In the vertical direction the size of the ﬁrst layer
+(at z = 780 m) is 30 m. With increasing depth, the thickness
+increases by a factor of 1.15 until a maximum depth of 330 km.
+Topography is included by 41 additional horizontal layers with
+30 m thickness each. A high-resolution (10 m) elevation model of
+Ceboruco Volcano (Ryan et al., 2009) is interpolated on the FD grid
+and a starting model resistivity of 100 Ωm is assigned to cells
+below the topographic surface (ﬁxed values of 1010 Ωm to air-
+cells). The resulting model has 1.016.500 cells (107 × 100 × 95).
+The inversion is calculated using a covariance smoothing of 0.3 in
+x-, y- and z-direction. The ﬁnal model requires 75 iterations and
+yields a normalized RMS (nRMS) of 0.94.
+The ﬁnal resistivity model (Fig. 5b) is visualized by four horizontal
+slices (1.5 km, 1.2 km, 0 km, and −2 km) and two vertical depth sec-
+tions (at 0.5 km northing and 0.5 km easting). The volcanic ediﬁce fea-
+tures a conductive anomaly (with a minimum value of 1.2 Ωm, marked
+Fig. 3. Data examples for a station in the foreland (site LF3) and a station in the caldera (site BB23). (a) Off-diagonal impedance tensor components (Zxy and Zyx), shown as apparent
+resistivity (ρa, Z) and phase (φ) in dependence of the period. The area represents the 95% conﬁdence interval. (b) Period-dependent induction vectors, phase tensors (PT, ϕ) and resistivity
+tensors (RT, Ua). The data at site LF3 resembles a 1-D situation at the short periods (10−4–1 s). For the long periods, a signiﬁcant phase split coincides with very small induction vectors. The
+short periodic data at site BB23 are dominated by topographic distortion, which results in a static shift of the long-period resistivity response (Ua and ρa, Z).
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+5
+
+Fig. 4. (a) Spatial data response for the PT (ϕ), RT (Ua) and induction vectors (left to right) for periods of 0.006 s (top) and 55 s (bottom). The black line in the upper-left plot marks the
+proﬁle in b. (b) Period-dependent phase tensors projected on a North-South proﬁle through the measurement area.
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+6
+
+as C2 in Fig. 5b), embedded in a resistive environment (up to 10 kΩm)
+(see horizontal slice at 1.5 km or vertical sections). The horizontal sec-
+tion at 0 km reveals different zones of low resistivity, including a pro-
+nounced anomaly (with a minimum value of 1.5 Ωm) in the center of
+the model (marked as C1 in Fig. 5b). At −2 km the model becomes
+more homogeneous and comprises a conductive region with resistivity
+between 10 and 50 Ωm. Additionally, starting from 2 km depth, a resis-
+tive structure (~200–500 Ωm) is observed in the north-western part of
+the model. At greater depth, the conductor vanishes and the resistivity
+in the measurement area equals the resistivity of the starting model
+(cf. vertical depth sections and horizontal slice at −10 km in Fig. 7a,
+top-left panel). Here, the inversion algorithm creates large resistivity
+contrasts within a 200 km × 200 km area, reaching far outside the actual
+area of investigation.
+The MT method is sensitive to the conductance, deﬁned as the prod-
+uct of the thickness of a layer and its electrical conductivity (reciprocal
+of resistivity), and it is difﬁcult to determine thickness and resistivity
+values separately (Weidelt, 1985). Hence, the lower boundary and the
+absolute resistivity of the conductive region between 0.8 km and
+−2 km (cf. vertical sections in Fig. 5b) is non-unique, whereas the posi-
+tion of the upper boundary is much better resolved. Further, it is unclear
+if the different zones of low resistivity in the horizontal section at 0 km
+Fig. 5. Inversion results. (a) Inversion grid for the inner high-resolution domain. The topography data of the measurement area has been interpolated on the FD grid. (b) 4 horizontal slices
+(1.5 km, 1.2 km, 0 km and −2 km) and 2 vertical cross-sections through the ﬁnal inversion model. The resistivity values correspond to the colour bar in a. The central conductor is marked
+as C1, the overlaying conductive feature in the ediﬁce as C2. Topography is indicated by the grey contour lines. (c) Horizontal slice through the resistivity model at −0.5 km, overlain by the
+contour lines of the Bouguer anomaly from Fernández-Córdoba et al. (2017). The gravity anomaly ranges from −110 mGal in the edge regions to −140 mGal in the center of the model.
+There is a remarkable congruence between regions of low resistivity and negative gravity anomalies, especially for the anomaly beneath the ediﬁce of the volcano.
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+7
+
+are connected. For short periods, and hence small investigation depths,
+the inversion is insensitive to the areas between the measurement sites,
+which are not governed by the induction volume. Looking at the vertical
+section in Fig. 5b, the inversion algorithm creates a vertical separation
+between the conductors C1 and C2. This feature is hardly veriﬁable
+since the resolution of two superimposed conductors is a weak spot of
+the MT method. We implemented a smooth transition between the to-
+pography mesh and the underlying general mesh to exclude any arti-
+facts related to a discontinuous discretization of the vertical mesh in
+the depth range of the two anomalies. Further, the high-frequency
+data (10−4–10−2 s) require a conductor within the ediﬁce since the ob-
+served phase split and the size of the induction vectors is not exclusively
+attributable to distortion from topography. The response of conductor
+C1 is clearly reﬂected in the 1-D PTs for periods between 10−2 and
+10–0.5 s. We are therefore very conﬁdent about the existence of C1 and
+C2, but we cannot be speciﬁc about the separation between both con-
+ductors.
+In Fig. 6a, the nRMS is shown in dependence of the target period. It
+demonstrates the excellent data ﬁt of the inversion, especially for pe-
+riods between 10−2 and 1 s. Modelled and observed responses are com-
+pared for off-diagonal apparent resistivity and phase curves and
+induction vector responses at site LF3 (Fig. 6b). The comparison con-
+ﬁrms the good data ﬁt, but it also reveals an underestimation of the ob-
+served phase split at periods longer than 10 s. This is a systematic spatial
+pattern, which is reﬂected in an overestimation of the RT minor axes
+and an underestimation of the PT major axes (see Fig. 6c).
+Fig. 6. Data ﬁt of the inversion (overall nRMS: 0.94). (a) Normalized RMS in dependence of the target period. In grey: RMS for the individual sites, in black: RMS for Site LF3, in red: RMS for
+all sites. (b) Data ﬁt for the off-diagonal components of the MT response tensor (apparent resistivity ρa, z and phase φ) and induction vectors (real and imaginary part of Tzx and Tzy) for site
+LF3. Areas: observed data, solid lines: modelled data. (c) Observed (top) and modelled (bottom) tensor responses and induction vectors for a period of 55 s (from left to right: PT, RT and
+induction vectors). The data ﬁt is generally very good; however, there is a systematic misﬁt for the minor axes of the RT and the major axes of the PT (c.f. Fig. 7c).
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+8
+
+To ﬁt the long period data, the inversion generates a symmetric pat-
+tern of large-scale high resistivity contrasts (ratio 1:1000), reaching far
+outside the area of investigation (Fig. 7a left column). Those structures
+could be a result of the relatively small survey area and concurrently
+long target periods. In such a setting, the algorithm might preferably
+place structures in the outer model domains to avoid inconsistencies be-
+tween the data from individual sites. To test if the inversion ﬁnds an al-
+ternative model, we run two additional inversions with cells in the
+outer domains set to a constant value of 100 Ωm. In one case we ﬁx
+cells farther than 20 km (Fixed 1, see Fig. 7a center column) and in
+the other case cells farther than 7.5 km (Fixed 2, see Fig. 7a right col-
+umn) from the center of the model. The latter case deﬁnes an area
+only marginally larger than the survey area. The results show that in
+both cases the algorithm keeps the resistivity contrasts as far to the out-
+side as possible. Here, the contrast increases with decreasing (free)
+model space (Fixed 1: 1:9000, Fixed 2: 1:70000). At the same time the
+data ﬁt at the long periods worsens (see nRMS in Fig. 7b) and the
+mean deviation between the modelled and observed tensor principal
+axes increases (Fig. 7c). Still both ﬁxed inversions converge to an
+nRMS below 1 (Fixed 1: 0.96 after 95 iterations, Fixed 2: 0.97 after
+Fig. 7. Effect of a ﬁxed outer model domain on the inversion model and data ﬁt. (a) Depth sections (−10 km) and vertical cross sections for different inversion runs. With decreasing free
+model space, the large resistivity contrasts in the outer cells of the models increase. Left column: no ﬁxed cells (free inversion, see Fig. 5), center column (Fixed 1): all cells farther than
+20 km from the center ﬁxed, right column (Fixed 2): all cells farther than 7.5 km from the center ﬁxed. (b) nRMS in dependence of the target period. With decreasing free model
+space, the nRMS at the long periods worsens. At the same time the inversion overﬁts the high frequencies to reach the target RMS of 1. (c) Mean deviation between the modelled and
+observed tensor principal axes in dependence of the target period (top: PT ϕ, bottom: RT Ua). For all inversions there is a systematic misﬁt for the minor axes of the RT and the major
+axes of the PT, which increases with decreasing free model space (a difference of up to 20° for the Fixed 2 inversion).
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+9
+
+142 iterations). However, this is only achieved by overﬁtting the data in
+the low-period range (nRMS partially below 0.5).
+We conclude that the exceptionally high resistivity contrasts outside
+the survey area are the only isotropic approach to match the large split
+of the tensor principal axes (RT and PT) and the concurrent small induc-
+tion vectors that are observed at the longest periods. From a geological
+perspective, there is no explanation for the modelled resistivity struc-
+tures, which gives the rationale to investigate electrical resistivity an-
+isotropy to explain the observations.
+5.2. Anisotropic forward model
+If a phase split (e.g., between the PT principal axes) occurs within a
+certain frequency range, this can either be due to a lateral resistivity
+contrast or an anisotropic layer embedded in an isotropic medium
+(Heise et al., 2006). In the ﬁrst case, the phase split varies spatially, de-
+pending on the distance and the location to the resistivity contrast. In
+addition, the vertical magnetic ﬁeld response (induction vectors) differs
+from zero, especially above the contrast. For the anisotropic case, how-
+ever, the induction vectors vanish, and the phase split is spatially con-
+stant. The second case does not necessarily indicate bulk anisotropy,
+as the electrical properties of the anomalous structure might vary on a
+small scale, which cannot be resolved by the MT method, and thus re-
+semble an anisotropic behavior (e.g., thin dikes at greater depth)
+(Wannamaker, 2005; Häuserer and Junge, 2011). If an isotropic inver-
+sion is applied to synthetic data resulting from an anisotropic structure,
+anomalous isotropic bodies with large resistivity contrasts outside the
+observational area are required to minimize the data misﬁt (Löwer
+and Junge, 2017). Another prominent example for effects from anisot-
+ropy in isotropic inversions is given in Meqbel et al. (2014) for the
+USArray data set.
+The processing results from the Ceboruco data feature a spatially
+constant phase split, which coincides with very small induction
+vectors for periods between 10 and 100 s (cf. Fig. 4 and Fig. 6c). Further-
+more, the inversion generates resistivity structures far outside the mea-
+surement area (cf. Fig. 7a) to ﬁt the long-period data by an isotropic
+model. The resulting resistivity contrasts are extremely high (between
+1:1000 and 1:70000), but they do not entirely reproduce the observed
+data (Figs. 6 and 7c). All these ﬁndings are strong indicators for electrical
+anisotropy.
+The numerical solution of the general anisotropic 3-D inverse prob-
+lem is highly complex and there is no appropriate code available in the
+MT community. To circumvent this limitation, we use the COMSOL
+Multiphysics® 5.3a FE software package, which offers a forward-
+solver for an arbitrary 3-D anisotropic resistivity distribution and
+adopt the upper inversion model from Fig. 5 (free inversion) within a
+horizontal distance less than 15 km from the model center. Outside
+that area, the resistivity is gradually adjusted to a homogeneous back-
+ground value of 100 Ωm. The resistivity values of the inversion cells
+are interpolated on the COMSOL FE grid and two (horizontally inﬁnite)
+anisotropic layers are added, complementing the isotropic model at
+greater depth. The topography of Ceboruco (Ryan et al., 2009) is imple-
+mented as a parametric surface, using an exceedingly ﬁne discretization
+(see Fig. 8a).
+The strike of the anisotropy is deﬁned by the mean orientation of the
+PTs at periods larger than 10 s. To determine the additional properties of
+the anisotropic layers, ﬁfteen forward models with varying depth of the
+upper boundary and different anisotropy principal axes (ρx, ρy and ρz)
+are calculated. The resistivity in the z-direction equals the conductive
+horizontal anisotropy axes (in this case ρx). The nRMS is calculated for
+periods between 10−3 and 118 s, considering the full MT response ten-
+sor (Z) and the induction vectors (T
+*
+). The best-ﬁt model (nRMS of 1.24)
+comprises one anisotropic layer between 10 and 14 km b.s.l. with aniso-
+tropic resistivity of 100 Ωm in north-direction (ρx) and 1000 Ωm in
+east-direction (ρy), and one layer between 14 and 30 km b.s.l. with
+resistivity of 2 Ωm and 80 Ωm, both rotated clockwise by 20°.
+We emphasize that although this model excludes most of the large-
+scale resistivity anomalies in the outer model domain of the isotropic in-
+version (free run, cf. Fig. 7a), the long period response will be a superpo-
+sition of effects coming from the anisotropic layers and isotropic
+structures in the upper part of the model. The inclusion of a more resis-
+tive anisotropic layer between 10 and 14 km b.s.l. improved the data ﬁt
+in the period range between 1 and 10 s, which features decreased
+phases and slightly increased apparent resistivity values. However, the
+resolution of resistors is challenging and there might be various other
+models that explain the observed data, including a resistive isotropic
+3-D structure in the depth-range between −5 and −10 km and a con-
+currently more conductive anisotropic Layer 1. A 3-D plot of the ﬁnal re-
+sistivity model, the properties of the anisotropic layers and a vertical
+cross-section in East-West direction are shown in Fig. 8b.
+The data ﬁt of the anisotropic forward model is shown in Fig. 9. Com-
+pared to the isotropic inversion, the nRMS (Fig. 9a) is slightly inferior,
+which relates to the manual optimization, that does not explicitly ac-
+count for the interaction between the anisotropic layers and the overly-
+ing 3-D structures from the isotropic approach. Further, small
+differences in the discretization of the topography in ModEM and
+COMSOL result in a static distortion of the resistivity tensor (Ua), even at
+long periods. On the other hand, the misﬁt of Ua and ϕ is no longer
+systematic, the ﬁt of the PT major axes improved signiﬁcantly (Fig. 9b
+and c) and, most important, the anisotropic model provides a far more
+realistic explanation of the observed data (resistivity contrasts of 1:10
+and 1:40 for Layer 1 and Layer 2, respectively).
+6. Geological implications
+A few existing geological and geophysical studies focus on the deep
+structure of Ceboruco Volcano and highlight the presence of a magma
+reservoir at shallow depth (Nelson, 1986; Fernández-Córdoba et al.,
+2017; Sawires and Aboud, 2019). The newly gained insights into the
+subsurface electrical resistivity distribution signiﬁcantly improve our
+understanding about the internal structure of the volcano. The interpre-
+tation of the anisotropic model from the previous section is summarized
+in a schematic depiction in Fig. 10b.
+According to Ferrari and Rosas-Elguera, 2000, the North American
+plate drifts in a north-east direction and separates from the Jalisco
+block (see Fig. 10a), which results in several system of grabens, half-
+grabens, and faults. The San Pedro – Ceboruco half-graben is deﬁned
+by WSW-ESE striking faults and is bounded by the Jalisco Block to the
+SSW and the SMO to the NNE (Ferrari et al., 2003). This implies that
+the conductive axes of the two anisotropic layers in our model (2 Ωm
+and 100 Ωm) are parallel to the local rifting direction (cf. Fig. 10a). Con-
+sequently, the observed anisotropy does not relate to ﬂuids within fault
+systems (brittle deformation), but to ductile deformation at mid-crustal
+depth.
+Several MT studies attribute large conductive zones in the mid- and
+lower-crust to melt-ﬁlled mush zones, which act as magma storage sys-
+tems supplying smaller near-surface reservoirs. Samrock et al. (2018)
+determine the location of a lower melt-feeding system in the Main
+Ethiopian Rift to 14 km b.s.l. The melt fraction is estimated between
+6% at the borders and 20% in the central region. The depth-location of
+the lower-crustal mush zone between Mount St Helens and Mount
+Adams is presumed between 15 and 20 km b.s.l. (Hill et al., 2009;
+Bedrosian et al., 2018), with melt-fractions varying between 2 and
+12%. Comeau et al., 2016 interpret a low conductivity zone below
+Uturuncu Volcano in the southern Bolivian Altiplano as an andesitic
+melt reservoir (~15% interconnected melt), located 14 km b.s.l. The
+depth estimates agree well with the location of the anisotropic layers
+in our model (see Fig. 8b). We therefore argue that the anisotropic
+part of our model reﬂects a mid to lower crustal mush zone with an
+upper boundary between 10 and 14 km b.s.l. Our soundings do not
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+10
+
+resolve the lower-boundary and horizontal extensions of this magma
+reservoir (inappropriate period range and survey area). The directional
+dependence of the electrical resistivity relates to the local tectonic
+stress-ﬁeld in the TZR and the San Pedro – Ceboruco half-graben,
+which causes a ductile deformation of the rock matrix. Melt inclusions
+that are concentrated along foliation planes within the host rock
+(e.g., Wannamaker, 2005) result in a signiﬁcantly increased conduction
+in rifting direction. This effect is further enhanced by the preferred
+magma storage geometry, which, in case of an extensional stress-ﬁeld
+in the lower crust, results in horizontally aligned sills (Maccaferri
+et al., 2014; Samrock et al., 2018).
+We estimate melt fractions for a dacitic melt originating from the
+lower crust, using a two-phase mixing model based on a modiﬁed
+Archie's Law (Pommier and LeTrong, 2011; Glover et al., 2000). The cal-
+culations include laboratory measurements from Laumonier et al.
+(2015), the petrological parameters follow Luhr (1992) and Ferrari
+et al. (2003) (65% SiO2, 1050 °C, 700 MPa). Fig. 11b shows the
+required melt fraction in dependence of the water content for varying
+resistivity (1, 2, 3 and 5 Ωm) of the conductive axis of the lower
+anisotropic layer. The data ﬁt for the different anisotropic forward
+models is almost equal (nRMS in the range between 1.24 and 1.3) and
+the differences between the 1-, 2- and 3-Ωm models lie within the
+limits of the data errors (mean deviations for the PT major axes <3°;
+see Fig. 11a). Luhr (1992) estimated a water content of not more than
+3 wt% for lava samples collected at Ceboruco. The associated fractions
+of interconnected melt are 53, 25 and 14% for the 2-, 3- and 5-Ωm
+models, respectively. The ﬁrst case seems unrealistically high, although
+Hill et al. (2015) suggested melt fractions between 18 and 45% for a
+magma reservoir at Tongariro. The 1-Ωm model requires at least 4.5
+wt% of water. If we assume a slightly higher water content than Luhr
+(1992) (i.e., 3.5–4 wt%), the melt fractions reduce to ~20–30% for the
+2-Ωm model and ~ 15–20% for the 3-Ωm model. These values are com-
+parable to observations from the Main Ethiopian Rift (20%; Samrock
+et al., 2018), but are distinctly larger than, e.g., for Mount St Helens/
+Mount Adams (2–12%; Hill et al., 2009; Bedrosian et al., 2018) or
+Uturuncu Volcano (~15%, Comeau et al., 2016). This may be indicative
+for an increased amount of melt in rifting related (mid/lower) crustal
+mush zones as compared to magma reservoirs in subduction zones.
+The
+extensional
+stress
+ﬁeld
+enables
+decompression
+melting
+(e.g., Rooney, 2010; Lee et al., 2016) and allows for large, interconnected
+sill complexes (Maccaferri et al., 2014), shaping the magma-supply sys-
+tem beneath Ceboruco.
+The resistive anisotropy axis of the lower layer (80 Ωm) implies not
+more than 1% of interconnected melt (in the corresponding direction,
+the absolute melt fraction is equal to or larger than the melt fraction re-
+lated to the conductive axis). For the upper anisotropic layer (Layer 1, re-
+sistivities of 100 and 1000 Ωm), the calculated melt fractions are
+negligible. However, the two anisotropic layers simulate a smoothly de-
+creasing resistivity, reﬂecting an increasing melt fraction with depth. As
+mentioned in the previous section, the resistivity values of the upper
+Fig. 8. An anisotropic 3-D model of Ceboruco Volcano. (a) COMSOL FE grid in the inner model domain. (b) Anisotropic model of Ceboruco. The upper part of the model is deﬁned by the
+results from the 3-D inversion in ModEM. Below 10 km depth, two anisotropic layers are added. Bottom left: orientation and values of the anisotropy principal axes, bottom right: vertical
+cross section in East-West direction. The central conductor is marked as C1, the overlaying conductive feature in the ediﬁce as C2.
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+11
+
+anisotropic layer are not well constrained, and they may well be more
+conductive if the layer is covered by a resistor (located 5–10 km b.s.l.).
+The model of the upper crust is almost uniform in the depth range
+between −5 and −10 km (within the extensions of the survey area)
+and most of the resistivity structures are placed in the outer model do-
+mains. A slightly more resistive anomaly to the north-east (~200–500
+Ωm, cf. Fig. 5b, horizontal section at −2 km) could be associated with ig-
+nimbrites and rhyolites in the Sierra Madre Occidental (Sieron and
+Siebe, 2008). From a geological point of view, dikes reaching close to
+the surface are essential to explain a possible magma reservoir at shal-
+low depth (C1). However, their impact on the MT response would
+only become signiﬁcant if they were interconnected and would form
+larger networks within the rock matrix.
+The near-surface resistivity model of Ceboruco is in very good agree-
+ment with existing geological and geophysical models. The andesitic
+and dacitic ﬂanks of the volcano are highly resistive (up to 104 Ωm)
+and the location of the conductor C1 coincides with a suspected
+magma reservoir from Nelson (1986), the negative gravity anomaly
+from Fernández-Córdoba et al. (2017) and the positive magnetic anom-
+aly from Sawires and Aboud (2019). The comparison between our resis-
+tivity model und the Bouguer anomaly from Fernández-Córdoba et al.
+(2017) reveals a remarkable correspondence between the conductive
+domains and negative gravity anomalies (cf. Fig. 5c). The anomaly has
+a minimum resistivity of 1.5 Ωm and is therefore likely to be magma/
+partial melt. Assuming 5 wt% H2O (interaction with hydrothermal
+ﬂuids), the melt fraction yields 10–15% (2- and 3-Ωm models).
+Fig. 9. Data ﬁt of the anisotropic forward model (nRMS: 1.24). (a) nRMS in the period range between 10−3 and 180 s. In grey: nRMS for the individual sites, in red: nRMS for all sites. The
+overall data ﬁt is slightly worse as compared to the isotropic inversion (dashed black line), which features an nRMS of 0.94. (b) Mean deviation between the modelled and observed tensor
+principal axes in dependence of the period. The dashed lines indicate the mean deviations related to the (free) isotropic inversion model (cf. Fig. 7c). c) Observed and modelled tensor
+responses and induction vectors for a period of 55 s (from left to right: PT, RT and induction vectors). There is no systematic misﬁt for the tensor principal axes, but the modelled induction
+vectors are slightly too small.
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+12
+
+Alternatively, anomaly C1 could deﬁne a clay cap covering a geothermal
+reservoir (Pellerin et al., 1996; Browne, 1978; Bibby et al., 1998).
+Due to the extensional dynamics in the TZR, the different andesitic,
+rhyolitic and ignimbritic successions beneath Ceboruco are traversed
+by large systems of faults and cracks, predominantly striking in
+WNW-ESE direction (Ferrari et al., 2003). Further, a conglomerate
+layer at ~700 m (Ferrari and Rosas-Elguera, 2000) is expected to have
+a higher porosity than the surrounding material. Hence, a shallow-
+Fig. 10. The tectonic and hydrothermal setting at Ceboruco Volcano. (a) Top: The Sierra Madre Occidental (SMO) separates from the Jalisco Block in the north-east direction, shaping the
+Tepic-Zacoalco Rift (TZR) and locally the San Pedro – Ceboruco half-graben (SPCG). Bottom: orientation of the resistivity axes of the two anisotropic layers below Ceboruco (see Fig. 8b,
+Layer 1 in blue, Layer 2 in red). (b) Schematic depiction of the subsurface structure beneath Ceboruco Volcano. In combination with the tectonic stress-ﬁeld in the San Pedro – Ceboruco
+half-graben (SPCG), a large mush zone below 10 km depth causes a ductile deformation of the host rock, resulting in electrical anisotropy. Dikes connect the deeper magma storage to a
+shallow magma reservoir beneath the volcanic ediﬁce. This smaller heat source is the catalyst for a large geothermal reservoir, that is observable as a conductive layer within the entire
+measurement area. The upper boundary of the reservoir is at ~800 m, the exact depth of the lower boundary is not well constrained.
+Fig. 11. Estimation of the melt fraction in the mid- to lower-crustal mush zone. (a) Mean deviation between the modelled and observed PT major axes for different resistivity (1, 2, 3 and 5
+Ωm) of the conductive axis of the lower anisotropic layer. The deviation is smallest for the 2-Ωm model, but the differences are generally small (all models yield nRMS between 1.24 and
+1.3). (b) Required melt fraction (Pommier and LeTrong, 2011) for different resistivity of the conductive axis of the lower anisotropic layer in dependence of the water content. The dashed
+square marks the likely range between 2 and 4 wt% H2O and a melt fraction of 10–40%.
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+13
+
+reaching magma reservoir may act as a heat source for hydrothermal
+ﬂuids that circulate within a large joint-system of cracks, faults and
+pores. In our model, this geothermal reservoir is observed as a conduc-
+tive layer (10−50 Ωm) within the entire measurement area. The upper
+boundary of the reservoir is at approximately 800 m a.s.l., its lower
+boundary at 2 km b.s.l. is less well constrained.
+The conductive feature within the volcanic ediﬁce (C2) has a mini-
+mum resistivity of 1.2 Ωm and could be related to ascending partial
+melt/magma, consistent with observed volcanic earthquake activity
+(e.g., Rodríguez Uribe et al., 2013). With regard to the underlying
+heat source (C1), enhanced rock alteration and associated clays
+(e.g., Pellerin et al., 1996; Muñoz, 2014) and accumulations of meteoric
+ﬂuids are also plausible.
+7. Conclusion
+The magnetotelluric technique has proved to be an effective tool to
+investigate the volcanic system beneath Ceboruco Volcano over a
+broad depth range. The data require an anisotropic 3-D resistivity
+model with structures ranging from small-scale variations within the
+volcanic ediﬁce to large-scale anisotropic anomalies at mid- to lower-
+crustal depths (10–30 km b.s.l.). The interpretation of the resistivity
+model links a shallow geothermal reservoir to the magmatic system of
+Ceboruco Volcano and to the tectonic setting in the Tepic-Zacoalco
+Rift. Our results show that electrical anisotropy is a useful parameter
+to study the dynamics in rift settings. The ductile deformation of the
+host rock below 10 km depth causes a preferred orientation of grain sur-
+faces and directionally reduces the electrical resistivity due to intercon-
+nected melt within a large mush zone. Here, the conductive anisotropy
+axis is directly indicative for the local rifting direction. Our modelling
+studies yield comparably high melt fractions between 15 and 30%,
+which we dedicate to large sill complexes related to the extensional
+stress ﬁeld in the rift.
+The observed magma reservoir between 0.8 km a.s.l. and 2 km b.s.
+l. is consistent with results from existing gravimetric and magnetic
+studies. Here, the remarkable congruence between the conductive
+domains and negative gravity anomalies gives an almost unique
+example for the relation between the two different quantities in
+magmatic systems.
+The shallow magma storage serves as a heat source for an exten-
+sive hydrothermal reservoir, which is observed as a conductive layer
+within the entire measurement area. The upper boundary of the
+reservoir is at approximately 0.8 km a.s.l. (~200–500 m below
+surface in the foreland), the position of the lower boundary is less
+well constrained. A conductive anomaly within the volcanic ediﬁce
+is related either to enhanced rock alteration and clay minerals or to
+accumulations of ascending melt.
+To ﬁt the long period data, the isotropic 3-D inversion gives rise
+to symmetric large-scale resistivity anomalies, which enable a good
+data ﬁt but are inconsistent with the known geology. Therefore, we
+present an alternative model, which includes two anisotropic
+layers between 10 and 30 km depth. It provides a far more realistic
+explanation for the observed data, reduces resistivity contrasts by a
+factor of 25 compared to an isotropic model, eliminates a system-
+atic data misﬁt and improves the ﬁt of the phase tensors at long
+periods.
+Data availabilty
+The data is property of the University of Guadalajara (Mexico) and
+will become publicly available in accordance with their regulations.
+The transfer functions used for the data analysis and interpretation are
+stored as original format ﬁles in the following data base: https://data.
+mendeley.com/datasets/5278nt3vn5/draft?a=d4683f99-d630-4ec2-
+93d2-cb3fdf97b69f
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnancial
+interests or personal relationships that could have appeared to inﬂu-
+ence the work reported in this paper.
+Acknowledgements
+This
+work
+was
+supported
+through
+project
+P24
+CeMIEGeo
+“Exploración sísmica pasiva y magnetotelúrica en los campos
+geotérmicos de Tulancingo-Acoculco y Volcán Ceboruco”, from the
+fondo sectorial CONACyT, Fondo de Sustentabilidad Energética y Secretaría
+de Energía (Mexico). We thank the University of Guadalajara (Mexico)
+through the Centro de Sismología y Volcanología de Occidente (SisVoc)
+and Centro Universitario de la Costa for the scientiﬁc and logistical
+support. We very much appreciate the constructive comments by
+Graham Hill and one anonymous reviewer which helped to improve
+the manuscript.
+References
+Allan, J.F., 1986. Geology of northern Colima and Zacoalco grabens, Southwest Mexico:
+late Cenozoic rifting in the Mexican Volcanic Belt. Geol. Soc. Am. Bull. 97, 473–485.
+Bedrosian, P.A., Peacock, J.R., Bowles-Martinez, E., Schulz, A., Hill, J.G., 2018. Crustal inher-
+itance and a top-down control on arc magmatism at Mount St Helens. Nat. Geosci. 11,
+865–870. https://doi.org/10.1038/s41561-018-0217-2.
+Bibby, H.M., Caldwell, T.G., Risk, G.F., 1998. Electrical resistivity image of the upper crust
+within the Taupo volcanic zone, New-Zealand. J. Geophys. Res. 103, 9665–9680.
+Böhnel, H., Pavón-Carrasco, F.J., Sieron, K., Mahgoub, A.N., 2016. Palaeomagnetic dating of
+two recent lava ﬂows from Ceboruco volcano, western Mexico. Geophys. Suppl.
+Monthly Notices Royal Astronom. Soc. 207 (2), 1203–1215.
+Booker, J.R., 2014. The magnetotelluric phase tensor: a critical review. Surv. Geophys. 35,
+7–40. https://doi.org/10.1007/s10712-013-9234-2.
+Bowles-Martinez, E., Schulz, A., 2020. Composition of magma and characteristics of the
+hydrothermal system of Newberry Volcano, Orregon, from Magnetotellurics.
+Geochem. Geophys. Geosyst. 21 (3). https://doi.org/10.1029/2019GC008831.
+Brown, C., 2016. Magnetotelluric tensors, electromagnetic ﬁeld scattering and distortion
+in three-dimensional environments. J. Geophys. Res. Solid Earth 121, 7040–7053.
+https://doi.org/10.1002/2016JB013035.
+Browne, P.R.L., 1978. Hydrothermal alteration in active geothermal ﬁelds. Annu. Rev.
+Earth Planet. Sci. 6, 229–250.
+Cagniard, L., 1953. Basic theory of the magnetotelluric method of geophysical prospecting.
+Geophysics 18, 605–645.
+Caldwell, T.G., Bibby, H.M., Brown, C., 2004. The magnetotelluric phase tensor. Geophys.
+J. Int. 158, 457–469. https://doi.org/10.1111/j.1365-246X.2004.02281.x.
+Comeau, M.J., Unsworth, M.J., Cordell, D., 2016. New constraints on the magma distribu-
+tion and composition beneath Volcán Unturuncu and the southern Bolivian Altiplano
+from magnetotelluric data. Geoshere 12 (5), 1391–1421. https://doi.org/10.1130/
+GES01277.1.
+Cordell, D., Unsworth, M.J., Diáz, D., 2018. Imaging the Laguna del Maule Volcanic Field,
+Central Chile using magnetotellurics: evidence for crustal melt regions laterally-
+offset from surface vents and lava ﬂows. Earth Planet. Sci. Lett. 488, 168–180.
+https://doi.org/10.1016/j.epsl.2018.01.007.
+Egbert, G.D., 1997. Robust multiple-station magnetotelluric data processing. Geophys.
+J. Int. 130, 475–496.
+Fernández-Córdoba, J., Zamora-Camacho, A., Espíndola, J.M., 2017. Gravity survey at the
+Ceboruco Volcano area (Nayarit, Mexico): a 3-D model of the subsurface structure.
+Pure Appl. Geophys. 174 (10), 3905–3918.
+Ferrari, L., Pasquaré, G., Venegas, S., Castillo, D., Romero, F., 1994. Regional tectonics of
+western Mexico and its implications for the northern boundary of the Jalisco block.
+Geoﬁs. Int. 33, 139–151.
+Ferrari, L., Petrone, C.M., Francalanci, L., Tagami, T., Eguchi, M., Conticelli, S., Manetti, P.,
+Venegas-Salgado, S., 2003. Geology of the San Pedro – Ceboruco Graben, western
+Trans-Mexican Volcanic Belt. Revisita Mexicana de Ciencias Geológicas 20 (3),
+165–181.
+Ferrari, L., Rosas-Elguera, J., 2000. Late Miocene to Quaternary extension at the northern
+boundary of the Jalisco block, western Mexico: the Tepic-Zacoalco rift revised. Ceno-
+zoic Tectonics and Volcanism of Mexico 334, 41–63.
+Glover, P.W., 2010. A generalized Archie’s law for n phases. Geophysics 75, 247–265.
+https://doi.org/10.1190/1.3509781.
+Glover, P.W., Hole, M.J., Pous, J., 2000. A modiﬁed Archie’s law for two conducting phases.
+Earth Planet. Sci. Lett. 180 (3–4), 369–383. https://doi.org/10.1016/s0012-821x(00)
+00168-0.
+González-Castillo, L., Galindo-Zaldivar, J., Junge, A., Martinez-Moreno, F.J., 2015. Evidence
+of a large deep conductive body within the basement of the Guadalquivir foreland
+Basin (Betic Cordillera, S-Spain) from tipper vector modelling: tectonic implications.
+Tectonophysics 663, 354–363. https://doi.org/10.1016/j.tecto.2015.08.013.
+Guo, X., Zhang, L., Behrens, H., Ni, H., 2016. Probing the status of felsic magma reservoirs:
+constraints from the P–T–H2O dependences of electrical conductivity of rhyolitic
+melt. Earth Planet. Sci. Lett. 433, 54–62. https://doi.org/10.1016/j.epsl.2015.10.036.
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+14
+
+Häuserer, M., Junge, A., 2011. Electrical mantle anisotropy and crustal conductor: a 3-D
+conductivity model of the Rwenzori Region in western Uganda. Geophys. J. Int. 185
+(3), 1235–1242. https://doi.org/10.1111/j.1365-246X.2011.05006.x.
+Heise, W., Caldwell, G., Bibby, H., Brown, C., 2006. Anisotropy and phase splits in
+magnetotellurics. Phys. Earth Planet. Inter. 158, 107–121. https://doi.org/10.1016/j.
+pepi.2006.03.021.
+Heise, W., Caldwell, T.G., Bibby, H.M., Bannister, S.C., 2008. Three-dimensional modelling
+of magnetotelluric data from the rotokawa geothermal ﬁeld, taupo volcanic zone,
+New Zealand. Geophys. J. Int. 173 (2), 740–750. https://doi.org/10.1111/j.1365-
+246X.2008.03737.x.
+Heise, W., Caldwell, G., Bibby, H., Bennie, S.L., 2010. Three-dimensional electrical resistiv-
+ity image of magma beneath an active continental rift, Taupo Volcanic Zone, New
+Zealand. Geophys. Res. Lett. 37 (10). https://doi.org/10.1029/2010GL043110.
+Hering, P., 2019. Advances in Magnetotelluric Data Processing, Interpretation and Inver-
+sion, Illustrated by a Three-Dimensional Resistivity Model of the Ceboruco Volcano.
+PhD thesisGoethe-Universität Frankfurt am Main, Germany.
+Hering, P., Brown, C., Junge, A., 2019. Magnetotelluric apparent resistivity tensors for im-
+proved interpretations and 3-D inversions. J. Geophys. Res. Solid Earth 124,
+7652–7679. https://doi.org/10.1029/2018JB017221.
+Hill, G.J., Bibby, H.M., Ogawa, Y., Wallin, E.L., Bennie, S.L., Caldwell, T.G., Keys, H., Bertrand,
+E.A., Heise, W., 2015. Structure of Tongariro Volcanic system: insights from
+magnetotelluric imaging. Earth Planet. Sci. Lett. 432, 115–125. https://doi.org/10.
+1016/j.epsl.2015.10.003.
+Hill, G.J., Caldwell, T.G., Heise, W., Chertkoff, D.G., Bibby, H.M., Burgess, M.K., Cull, J.P., Cas,
+R.A.F., 2009. Distribution of melt beneath Mount St Helens and Mount Adams inferred
+from magnetotelluric data. Nat. Geosci. 2, 785–789. https://doi.org/10.1038/NGEO661.
+Hogg, C., Kiyan, D., Rath, V., Byrdina, S., Vandemeulebrouck, J., Revil, A., Viveiros, F., Carmo,
+R., Silva, C., Ferreira, T., 2018. 3-D interpretation of short-period magnetotelluric data
+at Furnas Volcano, Azores Islands. Geophys. J. Int. 213 (1), 371–386. https://doi.org/
+10.1093/gji/ggx512.
+Kelbert, A., Meqbel, N., Egbert, G.D., Tandon, K., 2014. ModEM: a modular system for in-
+version of electromagnetic geophysical data. Comput. Geosci. 66, 40–53. https://doi.
+org/10.1016/j.cageo.2014.01.010.
+Laumonier, M., Gaillard, F., Sifré, D., 2015. The effect of pressure and water concentration on
+the electrical conductivity of dacitic melts: implication for magnetotelluric imaging in
+subduction areas. Chem. Geol. 418. https://doi.org/10.1016/j.chemgeo.2014.09.019.
+Laumonier, M., Gaillard, F., Muir, D., Blundy, J., Unsworth, M., 2017. Giant magmatic water
+reservoirs at mid-crustal depth inferred from electrical conductivity and the growth
+of the continental crust. Earth Planet. Sci. Lett. 457, 173–180.
+Lee, B., Unsworth, M., Árnason, K., Cordell, D., 2020. Imaging the magmatic system be-
+neath the Kraﬂa geothermal ﬁeld, Iceland: a new 3-D electrical resistivity model
+from inversion of magnetotelluric data. Geophys. J. Int. 220 (1), 541–567. https://
+doi.org/10.1093/gji/ggz427.
+Lee, H., Muirhead, J.D., Fischer, T.P., Ebinger, C.J., Kattenhorn, S.A., Sharp, Z.D., Kianji, G.,
+2016. Massive and prolonged deep carbon emissions associated with continental
+rifting. Nat. Geosci. 9 (2), 145–149.
+Löwer, A., Junge, A., 2017. Magnetotelluric transfer functions: phase tensor and tipper
+vector above a simple anisotropic three-dimensional conductivity anomaly and im-
+plications for 3D isotropic inversion. Pure Appl. Geophys. 174 (5), 2089–2101.
+https://doi.org/10.1007/s00024-016-1444-3.
+Luhr, J.F., 1992. Slab-derived ﬂuids and partial melting in subduction zones: insights from
+two contrasting Mexican volcanoes (Colima and Ceboruco). J. Volcanol. Geotherm.
+Res. 54 (1–2), 1–18. https://doi.org/10.1016/0377 0273(92)90111-P.
+Maccaferri, F., Rivalta, E., Keir, D., Acocella, V., 2014. Off-rift volcanism in rift zones deter-
+mined by crustal unloading. Nat. Geosci. 7 (4), 297–300. https://doi.org/10.1038/
+ngeo2110.
+Martí, A., 2014. The role of electrical anisotropy in magnetotelluric responses: from
+modelling and dimensionality analysis to inversion and interpretation. Surv.
+Geophys. 35 (1), 179–218. https://doi.org/10.1007/s10712-013-9233-3.
+Meqbel, N.M., Egbert, G.D., Wannamaker, P.E., Kelbert, A., Schulz, A., 2014. Deep erlectrical
+resistivity structure of the northwestern U.S. derived from 3-D inversion of USArray
+magnetotelluric data. Earth Planet. Sci. Lett. 402, 290–304. https://doi.org/10.1016/j.
+epsl.2013.12.026.
+Müller, A., Haak, V., 2004. 3-D modelling of the deep electrical conductivity of merapi vol-
+cano (central java): integrating magnetotellurics, induction vectors and the effects of
+steep topography. J. Volcanol. Geotherm. Res. 138 (3–4), 205–222.
+Muñoz, G., 2014. Exploring for geothermal resources with electromagnetic methods.
+Surv. Geophys. 35, 101–122. https://doi.org/10.1007/s10712-013-9236-0.
+Nelson, S.A., 1986. Geologia del Volcan Ceboruco, Nayarit, con una estimacion de Riesgos
+de Erupciones Futuras. Univ. Nat. Autón. México, Inst. Geología, Revista 6 (2), 243–258.
+Núñez-Cornú, F.J., de Jesús Escalona-Alcázar, F., Núñez, D., Trejo-Gómez, E., Suárez-
+Plascencia, C., Rodríguez-Ayala, N., 2020. Study of seismic activity at Ceboruco Vol-
+cano (Nayarit, Mexico) in the period 2012 to 2014. J. S. Am. Earth Sci. 98, 102473.
+Ogawa, Y., Ichiki, M., Kanda, W., Mishina, M., Asamori, K., 2014. Three-dimensional
+magnetotelluric imaging of crustal ﬂuids and seismicity around Naruko volcano,
+Japan. Earth Planet. Space 66 (158). https://doi.org/10.1186/s40623-014-0158-y.
+Peakock, J.R., Mangan, M.T., McPhee, D., Wannamaker, P.E., 2016. Three-dimensional elec-
+trical resistivity model of the hydrothermal system in Long Valley Caldera, California,
+from magnetotellurics. Geophys. Res. Lett. 43 (15), 7953–7962. https://doi.org/10.
+1002/2016GL069263.
+Pellerin, L., Johnston, J.M., Hohmann, G.W., 1996. A numerical evaluation of electromag-
+netic methods in geothermal exploration. Geophysics 61, 121–130.
+Petrone, C.M., Tagami, T., Francalanci, L., Matsumura, A., Sudo, M., 2001. Volcanic systems
+in the San Pedro – Ceboruco graben (Nayarit, Mexico) in the light of new K-Ar
+geochronical data. Geochem. J. 35, 77–88.
+Pommier, A., 2014. Interpretation of magnetotelluric results using laboratory measure-
+ments. Surv. Geophys. 35, 41–84. https://doi.org/10.1007/s10712-013-9226-2.
+Pommier, A., LeTrong, E., 2011. SIGMELTS: a web portal for electrical conductivity calcu-
+lations in geosciences. Comput. Geosci. 37, 1450–1459. https://doi.org/10.1016/j.
+cageo.2011.01.002.
+Pommier, A., Gaillard, F., Pichavant, M., Scaillet, B., 2008. Laboratory measurements of
+electrical conductivities of hydrous and dry Mount Vesuvius melts under pressure.
+J. Geophys. Res. 113, B05205. https://doi.org/10.1029/2007JB005269.
+Rikitake, T., 1948. Notes on electromagnetic induction within the Earth. Bull. Earthquake
+Res. Inst. 24, 1–9.
+Rodríguez Uribe, M.C., Núñez-Cornú, F.J., Nava Pichardo, F.A., Suárez-Plascencia, 2013.
+Some insights about the activity of the Ceboruco Volcano (Nayarit, Mexico) from re-
+cent seismic low-frequency activity. Bull. Volcanol., 75–755 https://doi.org/10.1007/
+s00445-013-0755-9.
+Rooney, T.O., 2010. Geochemical evidence of lithospheric thinning in the southern Main
+Ethiopian Rift. Lithos 117 (1–4), 33–48.
+Rosas-Elguera, J., Ferrari, L., Garduño-Monroy, V.H., Urrutia-Fucugauchi, J., 1996. Conti-
+nental boundaries of the Jalisco block and their inﬂuence in the Pliocene– Quaternary
+kinematics of western Mexico. Geology 24 (19), 921–924.
+Ryan, W.B.F., Carbotte, S.M., Coplan, J.O., O'Hara, S., Melkonian, A., Arko, R., Weissel, R.A.,
+Ferrini, V., Goodwillie, A., Nitsche, F., Bonczkowski, J., Zemsky, R., 2009. Global
+multi-resolution topography synthesis. Geochem. Geophys. Geosyst. 10, Q03014.
+https://doi.org/10.1029/2008GC002332.
+Samrock, F., Grayver, A.V., Eysteinsson, H., Saar, M.O., 2018. Magnetotelluric image of
+transcrustal magmatic system beneath the Tulu Moye geothermal prospect in the
+Ethiopian Rift. Geophys. Res. Lett. 45, 12.847–12.855. https://doi.org/10.1029/
+2018GL080333.
+Samrock, F., Grayver, A.V., Bachmann, O., Karakas, Ö., Saar, M.O., 2021. Integrated
+magnetotelluric and petrological analysis of felsic magma reservoirs: inights from
+Ethiopian rift volcanoes. Earth Planet. Sci. Lett., 559 https://doi.org/10.1016/j.epsl.
+2021.116765.
+Sánchez, J.J., Núñez-Cornú, F.J., Suárez-Plascencia, C., Trejo-Gómez, E., 2009. Seismicity at
+Ceboruco volcano, México, seismo. Res. Lett. 80, 823–830.
+Sawires, R., Aboud, E., 2019. Subsurface structural imaging of Ceboruco Volcano area,
+Nayarit, Mexico using high-resolution aeromagnetic data. J. Volcanol. Geotherm.
+Res. 371, 162–176.
+Schaaf, P., Moran-Zenteno, D., Hernandez-Bernal, M., Solis-Pichardo, G., Tolson, G., Köhler,
+H., 1995. Paleogene continental margin truncation in southwestern Mexico: geochro-
+nological evidence. Tectonics 14, 1339–1350.
+Sieron, K., Siebe, C., 2008. Revised stratigraphy and eruption rates of Ceboruco stratovol-
+cano and surrounding monogenetic vents (Nayarit, Mexico) from historical docu-
+ments and new radiocarbon dates. J. Volcanol. Geotherm. Res. 176, 241–264.
+Tikhonov, A.N., 1950. On the determination of the electrical properties of deep layers of
+the Earth’s crust. Dokl. Acad. Nauk. UdSSR, Nr. 73, 295–297.
+Wadge, G., Biggs, J., Lloyd, R., Kendall, J.M., 2016. Historical volcanism and the state of
+stress in the East African Rift System. Front. Earth Sci. 4, 86.
+Wannamaker, P.E., 2005. Anisotropy versus heterogeneity in continental solid Earth
+electromagnetic studies: fundamental response characteristics and implications for
+physicochemical state. Surv. Geophys. 26, 733–765. https://doi.org/10.1007/s10712-
+005-1832-1.
+Weidelt, P., 1985. Construction of conductance bounds from magnetotelluric impedances.
+J. Geophys. 57, 191–206.
+Weidelt, P., 1999. 3D conductivity models: implications of electrical anisotropy. In:
+Oristaglio, M., Spies, B. (Eds.), Three Dimensional Electromagnetics. Society of Explora-
+tion Geophysicists (SEG), pp. 119–137 https://doi.org/10.1190/1.9781560802154.
+Wiese, H., 1962. Geomagnetische Tiefensondierung, Teil II: Die Streichrichtung der
+Untergrundstrukturen
+des
+elektrischen
+Widerstandes,
+erschlossen
+aus
+geomagnetischen Variationen. Geoﬁsica Pura e Applicata 52, 83–103. https://doi.
+org/10.1007/BF0199600.
+Wright, P.M., Ward, S.H., Ross, H.P., West, R.C., 1985. State of the art geophysical explora-
+tion for geothermal resources. Geophysics 50 (12), 2666–2696.
+P. Hering, L. González-Castillo, C. Castro et al.
+Journal of Volcanology and Geothermal Research 428 (2022) 107382
+15

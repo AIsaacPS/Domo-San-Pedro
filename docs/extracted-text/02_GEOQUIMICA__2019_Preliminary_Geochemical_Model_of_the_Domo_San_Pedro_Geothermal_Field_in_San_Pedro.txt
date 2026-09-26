@@ -1,0 +1,1289 @@
+PROCEEDINGS, 44th Workshop on Geothermal Reservoir Engineering 
+Stanford University, Stanford, California, February 11-13, 2019 
+SGP-TR-214 
+1 
+Preliminary Geochemical Model of the Domo San Pedro Geothermal Field in San Pedro 
+Lagunillas, Mexico 
+Esteban Rodriguez, Fernando Ocampo, Violeta Reyes, David Ávalos, Julio García 
+Km 12 Carr. Chapalilla-Compostela. San Pedro Lagunillas, Nayarit. Mexico 
+ejrodriguezpi@gdragon.com.mx 
+ 
+Keywords: geochemistry, geochemical model, Domo San Pedro, mixing models, conceptual model 
+ABSTRACT  
+Domo San Pedro is a magmatic hydrothermal system located in San Pedro Lagunillas, Nayarit. The Domo San Pedro reservoir is a liquid-
+dominated type of reservoir, which is evident in the fact that the pressure and temperature profiles of the wells show that in the reservoir 
+the pressure is hydrostatic, meaning higher than the saturation pressure which makes compressed liquid the prevailing conditions. Also, 
+the wells discharge a mix of brine and steam. The water classification of the field is type sodium chloride, with a neutral or slightly acidic 
+pH. The chloride concentration in the reservoir varies between 850 ppm to 1200 ppm. Brine geothermometer temperatures agree well 
+with downhole surveys and show the field has a temperature between 260°C and 340°C. By combining the chemistry observed from the 
+wells and the warm springs, with a structural geology campaign, a preliminary origin of fluid and flow direction, as well as a geochemical 
+model is presented here. 
+1. DOMO SAN PEDRO GEOTHERMAL PROJECT 
+1.1 Geological Overview 
+The Domo San Pedro (DSP) geothermal field is in the state of Nayarit, to the West of Mexico. The topography ranges from 1800 m a.s.l. 
+on top of the Domo San Pedro, to 800 m a.s.l. The DSP project is part of a silicic volcanic complex with the most recent activity 100,000 
+years ago. The most recent volcanism is represented by an alignment of numerous silicic and monogenetic cinder cones in a NNW-SSE 
+direction (Figure 1) with a WNW-ESE alignment to the north of monogenetic volcanoes and the Ceboruco stratovolcano (~0.045Ma).  
+ 
+Figure 1: Geologic map showing local geology, geothermal wells and warm spring discharges.  
+
+Rodríguez, Ocampo, Reyes, Ávalos and García 
+ 
+2
+The San Pedro region is localized inside the Compostela Graben and inside a depression caused by faults in N-S, NE-SW, NW-SE and 
+E-W directions. It’s a complex and asymmetric depression formed during the middle Miocene to Pliocene with a vertical displacement 
+that exceeds 2 km.  
+The Compostela graben is formed by two faults: CP fault (NW 137° SE) and PD Fault (NW 319° SE) which limit the 10 km wide 
+depression. This NW-SE fault system is part of the same structural trend and outcrop in the zone as the CP, SP, CF, CB and AJ faults, and 
+are important because they have the same orientation as the regional graben. The Southeastern section faults CF, CB and AJ are found, 
+the latter one being a discharge medium of the reservoir, evident in the AT and AC warm springs.  
+The N-S faults of the middle Miocene reactivated during the Pliocene, and NE-SW faults serve as the reservoir’s limit. The eastern flanks 
+of the domic complex are limited by a NE-SW fault, named LL, with a dip towards the Southeast, in the direction of the AC and AT warm 
+springs.  
+Trending E-W faults are also present and are frequent. They are considered to be a secondary system derived from the dominant NW-SE 
+extensional regime from the Pliocene. These faults become relevant because the cut the northern flank of the Domo San Pedro and outcrop 
+as OC, AV and GS faults. The GS and PdR warm springs are associated to these faults.  
+1.2 Geothermal Wells and Warm Springs Overview 
+The Domo San Pedro geothermal field has nine geothermal wells, four of which are production wells and one of which is a reinjection 
+well. The rest have been used intermittently as reinjection wells or monitoring wells. The wells are distributed in an E-W manner alongside 
+the Northern flank of the domes. Most warm springs discharge to the East and Southeast of the domic complex. The only exception is 
+AN, which is found to the South of the field. GS and PdR discharge to the East of the filed and AT and AC to the Southeast.  
+Accurate records of the chemistry of the wells and warm springs began in 2016, when a quarterly sampling program was put in place. The 
+sampling of geothermal wells follows the general guidelines of Ármansson and Ólaffson (2007), Arnorsson, et al, (2006) and Marini 
+(2000). A Webre type separator is used to separate the liquid and steam phases at discharge. The warm spring discharges are sampled by 
+a third-party laboratory due to a legal requirement.  
+
+PROCEEDINGS, 44th Workshop on Geothermal Reservoir Engineering 
+Stanford University, Stanford, California, February 11-13, 2019 
+SGP-TR-214 
+3 
+ 
+2. CHEMICAL RESULTS 
+Table 1: Composition of Warm Springs around Domo San Pedro 
+Warm 
+Spring 
+Flow (L/min) 
+Elevation (m) 
+Temp 
+pH 
+Li 
+Na 
+K 
+Ca 
+Mg 
+SiO2 
+B 
+Cl 
+F 
+SO4 
+HCO3 
+CO3 
+NH4 
+As 
+Ba 
+Fe 
+Mn 
+Cond. 
+(°C) 
+(20°C) 
+Concentrations (mg/kg) for water collected at atmospheric pressure from discharge 
+µS/cm 
+GS 
+374 
+1056 
+30.86 
+6.81 
+0.6 
+98.4 
+10.3 
+18.6 
+13.5 
+94.6 
+3.2 
+113.4 
+0.4 
+< 10.3 
+190.9 
+< 5.0 
+< 0.2 
+0.1 
+0.1 
+0.0 
+˂ 0.05 
+780.4 
+PdR 
+660 
+845 
+29.57 
+6.68 
+0.2 
+71.8 
+5.6 
+13.0 
+11.5 
+112.7 
+1.7 
+72.3 
+0.3 
+27.1 
+120.2 
+< 5.0 
+< 0.2 
+0.1 
+< 0.5 
+0.1 
+< 0.05 
+493.4 
+AT 
+376 
+789 
+38.00 
+7.29 
+0.3 
+70.9 
+7.6 
+12.0 
+11.6 
+115.5 
+1.9 
+60.5 
+0.3 
+< 10.3 
+191.9 
+< 5.0 
+< 0.2 
+0.1 
+0.1 
+0.0 
+0.1 
+561.1 
+AC 
+26 
+764 
+44.14 
+7.06 
+0.4 
+93.0 
+10.4 
+11.4 
+13.1 
+123.6 
+2.8 
+105.2 
+0.4 
+< 10.3 
+198.4 
+< 5.0 
+< 0.4 
+0.1 
+0.1 
+0.0 
+< 0.05 
+760.3 
+AN 
+53 
+782 
+36.43 
+7.24 
+0.3 
+68.3 
+7.7 
+7.6 
+5.6 
+132.7 
+1.6 
+58.5 
+0.3 
+10.7 
+140.8 
+< 5.0 
+< 0.2 
+0.2 
+0.1 
+3.4 
+0.0 
+471.9 
+SI 
+29.5 
+790 
+38.86 
+7.80 
+0.1 
+145.6 
+4.1 
+4.4 
+2.5 
+73.3 
+1.6 
+151.1 
+0.4 
+74.5 
+112.1 
+< 5.0 
+< 0.2 
+0.0 
+0.1 
+0.1 
+0.0 
+940.0 
+RSP 
+65 
+1309 
+22.71 
+7.24 
+0.0 
+9.7 
+3.6 
+3.1 
+0.8 
+46.3 
+0.1 
+13.1 
+0.2 
+13.6 
+49.7 
+< 5.0 
+0.2 
+0.0 
+< 0.5 
+0.9 
+0.0 
+767.0 
+LSP 
+- 
+1250 
+24.43 
+8.50 
+0.0 
+34.9 
+27.4 
+7.5 
+7.6 
+8.4 
+0.1 
+26.0 
+0.4 
+< 10.3 
+139.6 
+35.5 
+0.1 
+0.0 
+0.1 
+0.2 
+0.1 
+371.9 
+
+PROCEEDINGS, 44th Workshop on Geothermal Reservoir Engineering 
+Stanford University, Stanford, California, February 11-13, 2019 
+SGP-TR-214 
+4 
+Table 2: Isotopic Composition of Warm Springs and Precipitation around DSP 
+Warm 
+Spring 
+Elevation 
+(m) 
+Season 
+Temp 
+del 
+18O 
+(‰) 
+del D 
+(‰) 
+Season 
+Temp 
+del 18O 
+(‰) 
+del D 
+(‰) 
+(°C) 
+(°C) 
+GS 
+1056 
+Dry 
+30.1 
+-7.10 
+-52.30 
+Wet  
+29.1 
+-7.02 
+-53.06 
+PdR 
+845 
+Dry 
+28.1 
+-8.50 
+-60.30 
+Wet 
+28.4 
+-8.60 
+-60.79 
+AT 
+789 
+Dry 
+38.5 
+-6.70 
+-52.50 
+Wet 
+38.7 
+-7.18 
+-54.09 
+AC 
+764 
+Dry 
+46.3 
+-7.40 
+-55.90 
+Wet 
+46.3 
+-7.59 
+-57.80 
+AN-1 
+782 
+Dry 
+35.5 
+-8.10 
+-60.20 
+Wet 
+37 
+-8.43 
+-60.90 
+AN-2 
+780 
+Dry 
+37.9 
+-8.30 
+-60.20 
+- 
+- 
+- 
+- 
+SI 
+790 
+Dry 
+39.9 
+-7.90 
+-55.80 
+Wet 
+39.9 
+-8.08 
+-57.17 
+RSP 
+1309 
+Dry 
+14.9 
+-8.60 
+-59.50 
+Wet 
+22.9 
+-8.70 
+-59.43 
+LSP 
+1250 
+Dry 
+22.0 
+0.90 
+-5.10 
+Wet 
+25.2 
+-0.81 
+-16.95 
+RST 
+850 
+Dry 
+28.3 
+-8.20 
+-57.90 
+Wet 
+22.4 
+-8.36 
+-58.40 
+RAM 
+323 
+Wet 
+27.4 
+-7.59 
+-57.04 
+Dry 
+24.6 
+-7.29 
+-53.77 
+RCH 
+312 
+Wet 
+29.9 
+-7.70 
+-54.38 
+- 
+- 
+- 
+- 
+LTT 
+1417 
+Wet 
+21.8 
+-2.95 
+-35.06 
+- 
+- 
+- 
+- 
+LSM 
+740 
+Wet 
+29.7 
+1.75 
+-7.40 
+- 
+- 
+- 
+- 
+PLG 
+805 
+Dry 
+31.6 
+-8.63 
+-62.45 
+- 
+- 
+- 
+- 
+PAD 
+1277 
+Dry 
+23.7 
+-7.90 
+-56.00 
+- 
+- 
+- 
+- 
+ULB 
+853 
+Dry 
+29.3 
+-8.43 
+-59.91 
+Wet 
+27.4 
+-8.33 
+-59.38 
+BP5 
+873 
+Dry 
+28.8 
+-8.31 
+-57.35 
+Wet 
+26.7 
+-8.35 
+-57.79 
+PDS-1 
+1270 
+Dry 
+25.1 
+-8.55 
+-60.50 
+- 
+- 
+- 
+- 
+PEG 
+1312 
+Dry 
+30.5 
+-8.85 
+-61.73 
+- 
+- 
+- 
+- 
+PDS-2 
+1271 
+Dry 
+25 
+-8.51 
+-60.18 
+- 
+- 
+- 
+- 
+PLL 
+1268 
+Dry 
+25.5 
+-8.38 
+-59.75 
+- 
+- 
+- 
+- 
+UAN 
+879 
+Dry 
+27 
+-8.01 
+-54.92 
+Wet 
+24.8 
+-7.89 
+-54.17 
+ESP 
+884 
+Dry 
+24.1 
+-7.51 
+-51.80 
+Wet 
+25 
+-7.69 
+-51.99 
+RAM 
+323 
+Wet 
+25.6 
+-7.37 
+-50.97 
+- 
+- 
+- 
+- 
+PEG 
+1312 
+Wet 
+27.8 
+-8.75 
+-61.46 
+- 
+- 
+- 
+- 
+Precipitation  
+1278 
+- 
+- 
+-10.5 
+-72.5 
+- 
+- 
+-10.1 
+-68.6 
+Precipitation 
+1276 
+- 
+- 
+-7.68 
+-49.92 
+- 
+- 
+-8.69 
+-56.81 
+Precipitation 
+1276 
+- 
+- 
+-9.27 
+-63.39 
+- 
+- 
+- 
+- 
+
+PROCEEDINGS, 44th Workshop on Geothermal Reservoir Engineering 
+Stanford University, Stanford, California, February 11-13, 2019 
+SGP-TR-214 
+5 
+Table 3: Chemical Composition of Brine at Separation Pressure of Production Wells at DSP 
+Well 
+del 
+18O 
+del D 
+pH 
+Li 
+Na 
+K 
+Ca 
+Mg 
+SiO2 
+B 
+Cl 
+SO4 
+HCO3 
+NH4 
+As 
+Rb 
+Fe 
+Al 
+Cond. 
+(‰) 
+(‰) 
+Concentrations (mg/kg) for water collected at separator pressure  
+µS/cm 
+SP01 
+-5.94 
+-54.14 
+5.98 
+14.3 
+761.7 
+279.1 
+3.8 
+0.05 
+1242.2 
+44.4 
+1533.2 
+9.9 
+6.01 
+1.76 
+0.74 
+2.38 
+0.01 
+0.33 
+4733 
+SP04 
+-6.13 
+-55.71 
+6.88 
+13.9 
+757.6 
+255.1 
+8.4 
+0.02 
+986.9 
+45.8 
+1488.6 
+19.3 
+42.21 
+2.34 
+4.32 
+2.39 
+0.04 
+0.52 
+4610 
+SP05 
+-5.71 
+-54.87 
+6.48 
+11.9 
+867.9 
+252.6 
+17.7 
+0.04 
+751.5 
+52.5 
+1658.4 
+20.6 
+41.91 
+3.79 
+6.40 
+3.00 
+0.00 
+0.16 
+5192 
+SP06 
+-5.79 
+-54.02 
+6.56 
+6.9 
+670.8 
+102.6 
+8.1 
+0.07 
+543.3 
+42.3 
+1214.9 
+28.2 
+31.83 
+3.54 
+0.05 
+1.09 
+0.02 
+0.53 
+3746 
+ 
+Table 4: Non-Condensable Gases at Separator Pressure Conditions for Production Wells at DSP 
+Well 
+Total Gas 
+He 
+H2 
+Ar 
+N2 
+O2 
+CH4 
+CO2 
+H2S 
+NH3 
+Concentrations (wt%) for steam collected at separator pressure  
+SP01 
+0.852% 
+0.00020% 
+0.032% 
+0.043% 
+1.042% 
+0.000% 
+0.006% 
+90.060% 
+8.804% 
+0.016% 
+SP04 
+1.060% 
+0.00027% 
+0.016% 
+0.023% 
+0.744% 
+0.000% 
+0.010% 
+92.430% 
+6.737% 
+0.038% 
+SP05 
+2.034% 
+0.00013% 
+0.036% 
+0.040% 
+1.364% 
+0.000% 
+0.007% 
+93.270% 
+5.273% 
+0.014% 
+SP06 
+1.873% 
+0.00014% 
+0.033% 
+0.035% 
+1.273% 
+0.000% 
+0.006% 
+94.062% 
+4.564% 
+0.024% 
+ 
+ 
+
+PROCEEDINGS, 44th Workshop on Geothermal Reservoir Engineering 
+Stanford University, Stanford, California, February 11-13, 2019 
+SGP-TR-214 
+6 
+3. INTERPRETATION OF WARM SPRING RESULTS 
+This section focuses on the physical and chemical characteristics of the springs around Domo San Pedro and analyzes this information to 
+draw conclusions about the underlying flow of hot brine.  
+3.1 Molecular Ratios 
+From a graph correlating the concentrations of Boron and Chlorides of the warm springs around the field, Figure 2, it’s clearly visible the 
+strong correlation between GS, AC, PdR, AT and AN, leaving SI alienated from this tendency. Given how groundwater dilution will 
+dilute all solutes in the same manner, this suggests that SI belongs to a different reservoir and that the other warm springs share a same 
+origin but have been diluted in different proportions. Also, this figure shows that AT, PdR and AN gather around the same region of the 
+graph, while AC and GS have higher concentrations of Boron and Chlorides and plot closer together. The molecular ratio Cl/B, B/Li and 
+HCO3/SO4 are shown in Table 5. This tables shows that overall, the Cl/B ratio of all the thermal waters discharging around DSP is very 
+similar, suggesting a common source reservoir. This ratio does not need to be identical to suggest a common source reservoir, as Boron 
+can be induced by a change in lithology at depth over a field or by adsorption onto clays during lateral flow, as Nicholson (2012) mentions. 
+Furthermore, if the reservoir is very homogeneous, this would suggest that GS and AC have been diluted the least, owing to their higher 
+Cl and B concentrations. This, however, is not reflected in their temperatures as they are not both the hottest springs, which may signal 
+that GS has been conductively cooled to some degree. Also, as Cl/B tends to decrease with flow direction, this suggests that the flow tends 
+to the SE of the field, towards the direction of AT and AC. As the fluid flows away from the upflow, it has time for water-rock reactions 
+that increase the bicarbonates and decrease the sulfates, which gives higher HCO3/SO4 ratios. This tendency is clear as the higher 
+HCO3/SO4 ratios toward the SE, supporting that the fluid flow is in this direction. See Figure 1 for the location of all warm springs around 
+the field.  
+ 
+ 
+Figure 2: Cl/B correlation for warm springs around Domo San Pedro 
+ 
+Table 5: Molecular ratios for warm springs around DSP 
+Warm Spring 
+Cl/B 
+B/Li 
+HCO3/SO4 
+GS 
+10.85 
+3.17 
+> 29.24 
+PdR 
+12.96 
+4.47 
+6.98 
+AT 
+9.68 
+4.51 
+> 29.40 
+AC 
+11.63 
+4.07 
+> 30.39 
+AN 
+11.39 
+3.20 
+20.80 
+SI 
+28.86 
+8.96 
+2.37 
+ 
+
+Rodríguez, Ocampo, Reyes, Ávalos and García 
+ 
+7
+3.2 Ternary Diagrams of Warm Springs’ Discharges at DSP 
+Figure 3, from Powell and Cumming (2010), presents the Cl-SO4-HCO3 diagram for the Domo San Pedro geothermal system, where it 
+can be seen how GS, PdR, AT, AC and AN cluster around the same peripheral water region, while SI is separate and plots near the middle 
+of the diagram. This further supports the idea that SI belongs to a different geothermal system and has been subject to different mixing 
+dynamics relative to the rest of the warm springs. Plotted in the same diagram for reference are the data points for LSP, RSP and all 6 
+geothermal production wells. Also, this diagram provides an initial indication of mixing relationships between mature, reservoir waters, 
+and the warm springs plotted.   
+ 
+Figure 3: Cl-SO4-HCO3 Ternary Diagram for Thermal Springs – DSP 
+Figure 4 from Powell and Cumming (2010), is a Li-Cl-B ternary diagram showing the similarities among GS, PdR, AT, AC and AN. The 
+tightly clustered warm springs in this diagram again supports the idea that they arise from a common reservoir, as discussed before. SI 
+once again plots separate from the rest of warm springs. LSP and RSP are plotted for reference, as well as all geothermal production wells.  
+ 
+Figure 4: Li-Cl-B Ternary Diagram for Warm Springs - DSP 
+ 
+Figure 5 from Powell and Cumming (2010), shows the Na-K-Mg ternary diagram. All the warm springs are plotted very close together, 
+making it essentially impossible to distinguish one from the other. However, an approximate trend line can be drawn from this figure (red 
+line), suggesting equilibrium temperatures for the warm springs around 260°C. This agrees with estimated reservoir temperatures obtained 
+via silica mixing model, as will be shown in subsequent sections.  
+
+Rodríguez, Ocampo, Reyes, Ávalos and García 
+ 
+8
+ 
+Figure 5: K-Na-Mg Ternary Diagram for Warm Springs - DSP 
+3.3 Enthalpy-Silica Mixing Model 
+The Enthalpy – Silica Mixing Model is a technique proposed by Fournier (1977) to estimate the temperature of the hot water component 
+of different warm springs. Owing to the low temperatures seen in the springs around Domo San Pedro and considering the relatively large 
+quantity of silica relative to the discharge temperature, it has been assumed that the procedure to follow corresponds to the scenario where 
+there has been steam or heat loss before mixing. 
+Table 6 summarizes the results of applying this mixing method for all the warm springs around DSP. The only warm spring where this 
+model cannot be applied is PdR due to a discrepancy between the silica content of PdR and its temperature. In other words, for the silica 
+content it is discharging, the temperature should be higher, signaling a possible subsurface process that has not been considered, perhaps 
+conductive cooling. Table 6 also provides a comparison of estimated temperatures by geothermometers, and Silica Mixing Model and it 
+shows coherence between the Na/K geothermometer, and temperatures estimated by the Silica Mixing Model for all surrounding warm 
+springs, except for SI, supporting further the idea that this spring lies in a different geothermal field. Because the parent fluid fraction of 
+PdR was impossible to calculate with the Silica Mixing Model, a mass balance equation was solved for the fraction of geothermal water 
+that could be reasonably expected to be discharged at this spring given the discharge chloride concentration, estimated reservoir chlorides 
+and total flow. It’s worth pointing out that this procedure assumes that steam separation occurs at 100°C and 1atm. If steam was lost at 
+higher temperature, it would be necessary to use an intermediate curve, between the maximum steam loss and quartz solubility curve. 
+Also following Nicholson (2012), it is possible to estimate the fraction of parent fluid in the spring water (after steam loss) and the fraction, 
+by weight, of original fluid lost as steam before mixing. It was found that GS has 14% parent fluid component, 22% for AT, 30% for AC, 
+21% for AN and 24% for SI.  Because the model seems to not be applicable for PdR, it’s impossible to estimate a fraction of hot water 
+component for this spring. Regarding weight fraction of fluid lost as steam, it can be seen in Table 6 that GS, AT, AC and AN have lost 
+around 30% of mass. The parent fluid fraction points to the fluid flow being towards the SE of the field supporting what has been discussed 
+from the Cl/B and HCO3/SO4 ratios. Finally, the fluid lost as steam seams to point to all the warm springs boiling at around the same 
+pressure and temperature. It’s also worth mentioning that this mixing model was done graphically and not analytically, so this information 
+has a margin of error and all the fractions and temperatures calculated should be considered as a range and not a fixed value. However, 
+the small error should not change the general conclusions of this analysis. 
+Table 6: Comparison of Geothermometry Temperatures and Mixing Models 
+Warm Spring 
+TQTZ max 
+loss (°C) 
+TNAK (°C) 
+TSiO2 model 
+(°C) 
+Parent 
+Fluid 
+Fraction 
+Fluid Lost as 
+Steam 
+GS 
+130.3 
+219.7 
+248.9 
+14% 
+33% 
+PdR 
+138.6 
+197.6 
+- 
+6%* 
+- 
+AT 
+139.7 
+220.8 
+227.8 
+22% 
+29% 
+AC 
+146.2 
+224.9 
+214.9 
+30% 
+25% 
+AN 
+146.6 
+225.1 
+244.7 
+21% 
+32% 
+SI 
+118.8 
+132.6 
+197.3 
+24% 
+22% 
+ 
+
+Rodríguez, Ocampo, Reyes, Ávalos and García 
+ 
+9
+* Calculated with a mass balance of the estimated chloride concentration in the reservoir (1000ppm) and chlorides 
+observed at discharge 
+ 
+4. INTERPRETATION OF GEOTHERMAL WELL RESULTS 
+4.1 Molecular Ratios in Brine 
+Typical brine atomic or molecular ratios used in geothermal fields include Na/K, Cl/SO4, Cl/B, HCO3/SO4, and B/Li. Table 7 shows an 
+average of the molecular ratios of the discharges of the different wells at DSP. Regarding the Na/K atomic ratio, which signals a high 
+temperature zone, there is a clear tendency for that ratio to rise as the wells move due East. This agrees well with the fact that SP05 and 
+SP06 are drilled in the oldest dome, therefore the coolest region, but also are shallower with respect to SP01 and SP04.  
+The Cl/B ratio can be used in wells in a similar manner as in warm spring discharges, in that a similar ratio points to a common source 
+reservoir. As has been discussed, though, caution is required as Boron differences can arise from a change in lithology or by adsorption 
+of it into clays during lateral flow. This ratio decreases as the wells move due East, as shown in the data of Table 7. Nonetheless, it is 
+believed that the ratio remains similar enough to point to a common reservoir. At the same time, studying the Boron tendency of the wells 
+as shown in Table 3 it is seen that the concentration is lowest in SP06, suggesting lateral flow in this direction. An increase in the 
+HCO3/SO4 ratio would indicate the well is away from the upflow zone, as this gives a greater opportunity for production of HCO3 and 
+oxidation of H2S. For the wells producing at DSP, this ratio is greater on both wells drilled in the Eastern side of the domic complex, and 
+highest in SP05, suggesting once again, that the lateral flow zone is located due East of DSP.  
+Finally, the B/Li ratio is used in a similar way as the Cl/B ratio to indicate flow direction, except it increases with flow. The information 
+showed in Table 7 agrees with this, as the higher ratios are in wells SP05 and SP06. All these ratios point to a lateral flow zone existing 
+towards the East of Domo San Pedro. Combining this with the highest concentrations of non-condensable gases in wells SP05 and SP06, 
+as shown in Table 4 it’s reasonable to assume that, while the western side of DSP (SP01 and SP04) is younger, and therefore hotter, the 
+eastern side (SP05 and SP06) is located nearer the upflow and outflow of the system.  
+Table 7: Molecular Ratios of Brine in Production Well Discharges at DSP 
+Well 
+Na/K 
+Cl/B 
+HCO3/SO4 
+B/Li 
+SP01 
+3.6 
+10.5 
+1.0 
+2.0 
+SP04 
+3.9 
+9.9 
+3.5 
+2.1 
+SP05 
+4.5 
+9.6 
+3.2 
+2.8 
+SP06 
+8.6 
+8.8 
+1.8 
+4.0 
+4.2 Brine Geothermometers 
+Table 8 shows selected brine geothermometer estimates for production wells at DSP. As can be seen, most geothermometers shown agree 
+quite well with the estimated formation temperatures of the wells. All the quartz geothermometers are below the estimated formation 
+temperature, likely due to silica deposition during the trajectory the water makes from the reservoir to the well. The Na-K-Ca 
+geothermometers all agree quite well with the formation temperatures, with the differences likely explained by uncertainties in the 
+estimated formation temperature, or Na, K or Ca analysis. The Fournier 1979 Na/K geothermometer overestimates the temperatures of 
+wells SP1, SP04 and SP05 by 25°C. The same goes for Na/K by Giggenbach (1988). The Na/K geothermometer by Árnorsson (1983) 
+overestimates the temperatures the most. Interestingly, all geothermometers underestimate the SP06 stabilized temperature.  
+Table 8: Selected Brine Geothermometers for Production Wells at DSP 
+Well 
+Estimated 
+Formation 
+Temperature 
+(°C) 
+Quartz 
+Adiabatic (°C) 
+Na-K-Ca 
+(°C) 
+Na/K 
+Fournier1979 
+(°C) 
+Na/K 
+Giggenbach 
+1988 
+(°C) 
+Na/K 
+Árnorsson 
+1983 
+(°C) 
+SP01 
+344 
+300 
+330 
+361 
+363 
+380 
+SP04 
+317 
+279 
+310 
+349 
+352 
+363 
+SP05 
+299 
+256 
+291 
+330 
+335 
+337 
+SP06 
+260 
+232 
+245 
+256 
+269 
+243 
+ 
+
+Rodríguez, Ocampo, Reyes, Ávalos and García 
+ 
+10 
+4.3 Ternary Diagram of Brine from Wells Discharging at DSP.  
+Figure 3, Figure 4 and Figure 5 shown above, show the Cl-SO4-HCO3, Li-Cl-B and K-Na-Mg for the warm springs around DSP and the 
+production wells. Figure 3 presents the Cl-SO4-HCO3 diagram for the Domo San Pedro production wells. It’s clearly visible that all wells 
+are currently discharging from mature waters with a very homogeneous composition, agreeing with the different molecular ratios already 
+presented. 
+Figure 4 is the Li-Cl-B ternary diagram for the wells at DSP. By plotting in the same diagram, the relative concentrations of Lithium, 
+Chlorides and Boron of wells and spring discharges, it’s immediately evident that all the warm springs discharging around Domo San 
+Pedro, with the exception of SI, originate from the reservoir from which the wells discharge. Nonetheless, wells SP01 and SP04 plot 
+slightly closer to the Li vertex (due to a slightly higher relative presence of Li) than the rest of the wells and warm springs.  
+Figure 5 is the Na-K-Mg ternary diagram for the wells at DSP. As mentioned before, the warm springs extrapolate to approximate 260°C. 
+However, not all the wells plot near this temperature, as shown below. Wells SP01 and SP04 plot beyond to the 340°C line, SP05 near 
+the 340°C line and SP06 around 270°C. In the case of well SP01 this temperature is close to its observed downhole temperature of 344°C. 
+For SP04, the downhole temperature was measured to be 317°C, so this ternary diagram is overestimating the temperature by some 30°C. 
+A similar case is observed in SP05, where the downhole temperature was observed at 299°C, meaning this ternary diagram is 
+overestimating its temperature by some 40°C. Finally, well SP06 has a measured downhole temperature of 260°C, agreeing quite well 
+with the 265°C, where it plots in this diagram. These discrepancies could be explained by the presence of even hotter fluid surrounding 
+the well, fluid which enters the well and is cooled slightly, but still retains the geothermometry “fingerprint” of its surroundings.  
+4.4 Molecular Ratios in Gases 
+According to Nicholson (2012), relative to early-formed steam, later-formed steam presents these characteristics. 
+ 
+Lower gas concentrations 
+ 
+Lower CO2/H2S ratios 
+ 
+Lower CO2/NH3 ratios 
+ 
+Lower H2S/NH3 ratios 
+ 
+Higher CO2/H2 ratios.  
+Table 9 show that at total discharge conditions, wells SP01 and SP04 have the lowest weight percentage of gases, while SP05 and SP06 
+have the highest. This suggests that the latter two wells, located to the East of DSP are closer to the upflow zone. The trend is also 
+supported by the aforementioned ratios in that wells SP05 and SP06 also contain the highest ratios relative to SP04 and SP01  
+Table 9: Molecular Ratios of Gases in Production Wells at Total Discharge at DSP 
+Well 
+wt% 
+CO2/H2S 
+CO2/NH3 
+H2S/NH3 
+CO2/H2 
+N2/Ar 
+SP01 
+0.356 
+7.9 
+- 
+- 
+150.6 
+38.7 
+SP04 
+0.37 
+10.9 
+3998.9 
+366.4 
+262.4 
+45.6 
+SP05 
+0.966 
+13.8 
+3393.9 
+851.4 
+118.1 
+50.8 
+SP06 
+1.171 
+16.2 
+5672.9 
+360.3 
+132.3 
+53.9 
+ 
+This table also shows the N2/Ar ratios for the different geothermal wells. Given the average N2/Ar of the different wells, it’s clear that 
+there is a meteoric component to all the wells. Well SP06 has the highest N2/Ar ratio, probably because it’s the newest well and is still 
+discharging water supersaturated with air that was injected during the drilling 
+4.5 Ternary Diagram of Gases from Wells Discharging at DSP 
+Gas analysis for the production wells of DSP are presented in Table 4, and some molecular ratios presented in Table 9. Two distinct trends 
+can be observed in the gas composition of the production wells. Wells located in the western part of the field, SP01 and SP04, have a 
+lower gas composition than wells located to the eastern side, SP05 and SP06. Figure 6 shows a N2-CO2-Ar ternary diagram for the well 
+gas chemistry. All wells have a low N2/Ar ratio, and therefore plot near the air-saturated water vertex, suggesting a rich meteoric 
+component to their discharges. The farthest well from this trend is well SP04 which plots closer to a crustal component than the other 
+wells.  
+
+Rodríguez, Ocampo, Reyes, Ávalos and García 
+ 
+11 
+ 
+Figure 6: N2-He-Ar Ternary Diagram for Gases Discharging from Wells of DSP 
+4.6 Gas Geothermometers for Production Wells at DSP 
+Figure 7 show the CO2/Ar – H2/Ar geothermometer grid (CAR-HAR) with RH = -2.8. This geothermometer shows all wells are in 
+equilibrium with fluid of around 225°C and 250°C. This estimate is a significant departure from the brine geothermometers discussed 
+before, as most of them estimate temperatures closer to 300°C and upwards for the wells. The wells, by plotting between the equilibrated 
+liquid and equilibrated vapor lines, suggest two-phase conditions in the subsurface. This has been corroborated with measurements of 
+excess enthalpy in some production wells (not discussed in this paper).  
+ 
+Figure 7: CO2/Ar - H2/Ar Geothermometer Grid 
+Figure 8 shows the FT-HSH geothermometer grid. Although mostly used for exploration geochemistry, this plot can still be used for 
+estimated gas geothermometers on the discharges of production wells. As seen in this plot, this geothermometer overestimates the 
+temperature significantly, plotting all wells above 350°C.  
+ 
+Figure 8: FT-HSH Geothermometer Grid for Production Wells at DSP 
+
+Rodríguez, Ocampo, Reyes, Ávalos and García 
+ 
+12 
+5. INTERPRETATION OF ISOTOPIC RESULTS 
+Figure 9 plots the isotopic results (Table 2) of all freshwater wells, precipitation, warm springs and geothermal production wells in the 
+region around DSP.  Meteoric lines have been plotted as rhombi, water bodies (rivers, lagoons, etc.) have been plotted as triangles, 
+freshwater wells have been plotted as squares, and geothermal bodies (warm springs, production wells), have been plotted as circles. For 
+simplicity, and to better represent the results, points LSP, RSP, LTT and LSM have been left out of the plot because they are located far 
+relative to most points. These points correspond to 2 years of sampling, with most sampling points having at least two different analysis: 
+one right before the start of the rainy season, and another just before the end of it.  
+The zones which are suspected to recharge the DSP reservoir are the RAM region and the Compostela region to the Southwest and West 
+of the field, respectively. This relationship can be observed in the almost horizontal shift of the δ18O data.  
+The RAM samples have a slight Oxygen shift with respect to the local meteoric line because the river itself is does not originate where 
+the sample was taken. These are waters that have precipitated, collected and transported mainly from the East for hundreds of kilometers. 
+Nevertheless, the difference between transported and in situ water will be evaluated in the subsequent surveys, as a rain collector will be 
+installed at this point. The recharge of the reservoir is facilitated in this location because at this location, the granodioritic unit which 
+comprises the reservoir at DSP outcrops in a regional listric fault. This listric faulting favored the subsidence of this geologic unit towards 
+the north, where it is found at DSP at an average depth of 300 m below sea level. The differences observed among the 3 samples taken at 
+this point over the last 2 years respond to differences in wet/dry season. The input from this river to the geothermal reservoir is essential 
+because this is a perennial river, with minor fluctuations depending on the time of year. This means it can continually supply recharge for 
+the geothermal reservoir, almost guaranteeing the sustainability of the DSP field. It’s also interesting to note that the dry-season sample 
+from RAM is almost directly horizontal to the total discharge isotopic composition of the production wells. Comparing the RAM results 
+with other samples directly horizontal from the production wells, namely RCH, ESP and UAN, RAM shows the smallest “oxygen shift” 
+towards the production wells. The interpretation is that this system is close to stable, so that not even an extensive rock-water interaction 
+will produce significant isotopic shift relative to the production wells.  
+ 
+ 
+Figure 9: Isotopic Distribution of Wells, Warm Springs, Precipitation and Freshwater Wells around DSP 
+Another sample whose composition is similar to the production wells at DSP is RCH, with their δD composition averaging close to the 
+DSP wells (around -54.5 ‰). For their δ18O content, the oxygen shift relative to the meteoric line is smaller than that of the RAM samples. 
+The RCH river is part of a regional NW-SE fault that limits the Compostela graben to the south, which buries geologic units similar to 
+that of those found in the geothermal reservoir. Therefore, any precipitation infiltrating along this fault will interact with rocks like the 
+ones found in the reservoir. For this sampling point, only one analysis has been done (wet season 2017) because when attempting to 
+sample during the height of dry season, the river was found dry. This means that this zone, and its recharge effect to the reservoir is 
+seasonal.  
+
+Rodríguez, Ocampo, Reyes, Ávalos and García 
+ 
+13 
+The two other samples with similar δD to the production wells of DSP are UAN-1 and ESP-1. Both wells are in the Compostela graben 
+above basalts and rhyolitic ignimbrite. Both samples have very small δ18O shift relative to the local meteoric line, associated with their 
+meteoric origin and little residence time that does not allow lengthy rock-water interaction to enrich the water with 18O. Both freshwater 
+wells were sampled during dry and wet season, and both plotted directly horizontal to the production wells. This means that regardless of 
+seasonal precipitation, there is a shallow aquifer that permeates through all the lithological units and recharges the reservoir to some 
+extent. During the structural campaign, a relevant fault, called CP Fault, was identified, which limits the Compostela Graben to the north. 
+This fault buries rhyolitic units below basalts, so it is inferred that it extends to the geothermal reservoir.  
+Regarding warm springs, discharges from PdR, AN-1 and AN-2 are the most distant from the production wells at DSP from both δD and 
+δ18O. Warm springs GS and AT average the same δD as the geothermal wells with a small (-1‰) oxygen shift, while AC plots between 
+these two trends. Given how the δD of local precipitation is generally below the δD of the geothermal wells, the fact that PdR, AN-1 and 
+AN-2 plot beneath the geothermal wells suggests these waters have been mixed with shallow aquifers recharged with rainwater.  
+A single isotopic point for the geothermal wells was calculated by knowing the average production of each well, their isotopic signature, 
+and a weighted average calculation. The same was done for each warm spring and the local precipitation data. With this information, a 
+mass balance was carried out for the percentage of cold water from RAM, RCH, UAN, ESP or rain water each spring possesses. Table 10 
+shows these results. Considering all sources of error, for both the silica mixing model and isotope mass balance, there is good agreement 
+between the δ18O isotope mass balance and the Enthalpy-Silica Mixing Model.  
+Table 10: Estimated Parent Fluid Fraction using δ18O Balance 
+Warm Spring 
+Parent 
+Fluid 
+Fraction 
+δ18O Balance 
+Best 
+Freshwater 
+Match  
+δ18O Balance 
+Parent 
+Fluid 
+Fraction 
+SiO2 Model 
+GS 
+17% 
+RAM 
+14% 
+PdR 
+17% 
+Rain water 
+6% 
+AT 
+26% 
+RAM 
+22% 
+AC 
+22% 
+UAN 
+30% 
+AN 
+25%  
+Rain water 
+21% 
+ 
+6. PRELIMINARY SUBSURFACE FLOWS AND GEOCHEMICAL MODEL 
+Considering the faulting system of the region, the chemistry of the brine and gas discharges of the geothermal wells, as well as the chemical 
+and isotopic analysis of the warm springs and groundwater wells, a general subsurface flow and geochemical model is proposed.  
+In the DSP system, whose permeability is primarily controlled by structures and not porosity or permeability, it’s reasonable to assume 
+that the measured geologic faults, along with those inferred, can significantly control de outflow of the system. In this respect, Figure 10 
+shows the warm springs around the geothermal field (orange dots), the geothermal wells (red dots), fresh water wells (blue squares) and 
+relevant rivers.  
+
+Rodríguez, Ocampo, Reyes, Ávalos and García 
+ 
+14 
+ 
+Figure 10: Regional Map with Observed and Inferred Faults 
+As shown, there is an inferred fault trending E-W which was observed in the Eastern flanks of the domic complex, near well SP05, which 
+becomes a measured fault just South of GS, named AV Fault. South of this warm spring there are two NW-SE trending faults, which are 
+named CB Fault and AJ Fault that continue to the SE, even reaching AC. However, in this same location, there seems to be another NE-
+SW (LL Fault) and N-S (BT Fault) which is inferred to reach as far south as AN. Finally, there is another measured fault trending NW-
+SE (CF Fault) at AT and AC which is inferred to be buried below the domic complex and resurface once again at the CP fault, some 8km 
+NW of the field. From the information derived from the structural campaign, and geochemistry of wells and warm springs, we propose a 
+general subsurface flow from the field towards the East in the direction of GS and PdR, along and parallel to OC Fault. Where it intersects 
+the LL Fault, the flow begins a southern trajectory all the way to AN along BT Fault. Meanwhile, the fluid to the NW of the filed filters 
+underground through CP Fault and reaches the surface at AT and AC via CB, AJ and CF Faults. The orange arrows of Figure 10 show 
+the suggested outflow of the field. It’s also possibly that some of the water flowing N-S through BT Fault towards AN changes direction 
+towards the SE once it reaches CB Fault.  
+Given the isotopic results from freshwater wells and geothermal wells, it is believed the recharge zone of the field is the area directly to 
+the West of the field. As has been discussed before, the ESP and UAN freshwater wells have a remarkably similar δD to that of the 
+geothermal wells, suggesting a direct link between them. Also, there is an inferred fault that crosses this area in a NW-SE direction, which 
+could aid the transport of rain (river) water from this area towards the heat source of the geothermal field.  
+Based on the geochemical information at hand that has been presented here, a geochemical model of the Domo San Pedro geothermal 
+field is proposed and shown schematically in Figure 11. 
+The fluids have a meteoric origin, likely to the NW of the field, with some contribution of the region to the W and SW of the field. Little 
+to no contribution of magmatic fluids is observed. Once these fluids reach the heat source beneath the domic complex, they form a liquid 
+dominated reservoir with temperatures around 330°C and chloride concentration of 800-900 ppm. While moving W-E from wells SP01 
+and SP04 to SP05 and SP06, these fluids begin to boil possibly due to the small permeability encountered in the granodiorite and form a 
+
+Rodríguez, Ocampo, Reyes, Ávalos and García 
+ 
+15 
+small two-phase reservoir with lower temperature and slightly higher chlorides (900-1000 ppm). These fluids may also suffer from 
+conductive cooling due to the slow movement of the water, also caused by the low permeability of the base rock.  
+The main upflow of the field is believed to be around wells SP05 and SP06, because these wells discharge the most gas, but probably 
+closer to SP05 which is drilled closer to the domic complex than well SP06.  
+All the warm springs around the geothermal field have been diluted by freshwater but they still keep evidence in their molecular ratios 
+and geothermometers of the original high temperature of the parent fluid. The measured and inferred faults of the region around the 
+geothermal field suggest that the outflow initially begins to the East of the field, where it “turns” due South and Southeast to the AN and 
+AT and AC warm springs, respectively.  
+ 
+Figure 11: Geochemical Model of the Domo San Pedro Geothermal Field, Cross Section over CP, CB, CF Faults 
+ 
+7. ACKNOWLEDGEMENTS 
+The authors would like to thank the Grupo Dragon for their permission in publishing this paper.  
+REFERENCES  
+Ármannsson, H., and Ólafsson, M.: Geothermal Sampling and Analysis. 2nd Short Course on Surface Exploration of Geothermal 
+Resources (2007) 
+Árnorsson, S: Chemical Equilibria in Icelandic Geothermal Systems: Implications for Chemical Geothermometry Investigations. 
+Geothermics, 12, (1983), 119-128. 
+Árnorsson, S., et al.: Sampling and Analysis of Geothermal Fluids. Geofluids, 6, (2006), 203-206. 
+Fournier, R.: Chemical Geothermometers and Mixing Models for Geothermal Systems. Geothermics, 5 (1977) 41-50 
+Fournier, R.: A Revised Equation for the Na/K Geothermometer. Geothermal Resources Council Transactions, 3, (1979), 221-224 
+Giggenbach, W. F.: Geothermal Solute Equilibria, Derivation of the Na-K-Mg-Ca Geoindicators. Geochimica and Cosmochimica Acta, 
+52, (1988) 2749-2765.  
+Marini, L.: Geochemical Techniques for the Exploration and Exploitation of Geothermal Energy. Italy University, Genova (2000). 
+Nicholson, K.: Geothermal Fluids Chemistry and Exploration Techniques. Berlin. Springer (2012) 
+Powell, T., and Cumming, W.: Spreadsheets for Geothermal Water and Gas Geochemistry. Proceedings¸ 35th Workshop on Geothermal 
+Reservoir Engineering, Stanford University, Stanford, CA. (2010) 
+ 

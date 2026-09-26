@@ -1,0 +1,1494 @@
+ Comisión Nacional del AguaSubdirección General TécnicaGer
+
+ Actualización de la disponibilidad media anual de agua subterránea Publicada en el diar
+DXXIX 
+REGIÓN HIDROLÓGICO-ADMINISTRATIVA “LERMA-SANTIAGO-PACÍFICO" 
+CLAVE 
+ACUÍFERO 
+R 
+DNCOM 
+VCAS 
+VEXTET 
+DAS 
+DÉFICIT 
+CIFRAS EN MILLONES DE METROS CÚBICOS ANUALES 
+ESTADO DE NAYARIT 
+  
+  
+  
+  
+  
+  
+1805 
+VALLE DE COMPOSTELA 
+33.9 
+3.4 
+14.506312 
+11.8 
+15.993688 
+0.000000 R: recarga med
+
+ 
+ 
+ 
+ 
+ 
+Comisión Nacional del Agua 
+Subdirección General Técnica 
+Gerencia de Aguas Subterráneas 
+Subgerencia de Evaluación y  
+Ordenamiento de Acuíferos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DETERMINACIÓN DE LA DISPONIBILIDAD 
+DE AGUA EN EL ACUÍFERO 
+VALLE DE COMPOSTELA (1805), 
+ESTADO DE NAYARIT. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+México, D.F., abril de 2009 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+1 
+ 
+CONTENIDO 
+ 
+ 
+1. 
+GENERALIDADES .................................................................................................... 2 
+Antecedentes .................................................................................................................... 2 
+1.1. Localización............................................................................................................... 2 
+1.2. Situación administrativa del acuífero ......................................................................... 4 
+2. 
+ESTUDIOS TÉCNICOS REALIZADOS CON ANTERIORIDAD ................................. 5 
+3. 
+FISIOGRAFÍA ............................................................................................................ 7 
+3.1. Provincia fisiográfica .................................................................................................. 7 
+3.2. Clima ......................................................................................................................... 7 
+3.3. Hidrografía................................................................................................................. 8 
+3.4. Geomorfología ........................................................................................................... 8 
+4. 
+GEOLOGÍA ............................................................................................................... 9 
+4.1. Estratigrafía ............................................................................................................. 10 
+4.2. Geología estructural ................................................................................................ 11 
+5. 
+HIDROGEOLOGÍA .................................................................................................. 11 
+5.1. Tipo de acuífero ...................................................................................................... 11 
+5.2. Parámetros hidráulicos ............................................................................................ 12 
+5.3. Piezometría ............................................................................................................. 12 
+5.4. Comportamiento hidráulico ...................................................................................... 12 
+5.4.1. 
+Profundidad al nivel estático ............................................................................. 12 
+5.4.2. 
+Elevación del nivel estático ............................................................................... 13 
+5.4.3. 
+Evolución del nivel estático ............................................................................... 14 
+5.5. Hidrogeoquímica y calidad del agua subterránea .................................................... 15 
+6. 
+CENSO DE APROVECHAMIENTOS E HIDROMETRÍA ......................................... 16 
+7. 
+BALANCE DE AGUAS SUBTERRÁNEAS .............................................................. 17 
+7.1. Entradas .................................................................................................................. 17 
+7.1.1. 
+Recarga vertical ................................................................................................ 18 
+7.1.2. 
+Entradas horizontales subterráneas .................................................................. 19 
+7.1.3. 
+Recarga inducida .............................................................................................. 20 
+7.2. Salidas .................................................................................................................... 21 
+7.2.1. 
+Evapotranspiración ........................................................................................... 21 
+7.2.2. 
+Bombeo ............................................................................................................ 22 
+7.2.3. 
+Salidas horizontales subterráneas .................................................................... 23 
+7.2.4. 
+Salida a través de manantiales ......................................................................... 23 
+7.3. Cambio de almacenamiento .................................................................................... 23 
+8. 
+DISPONIBILIDAD .................................................................................................... 24 
+8.1. Recarga total media anual ....................................................................................... 24 
+8.2. Descarga natural comprometida .............................................................................. 24 
+8.3. Volumen concesionado de aguas subterráneas ...................................................... 25 
+8.4. Disponibilidad de aguas subterráneas ..................................................................... 25 
+9. 
+BIBLIOGRAFÍA ....................................................................................................... 26 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+2 
+1. GENERALIDADES 
+Antecedentes 
+ 
+La Ley de Aguas Nacionales (LAN) y su Reglamento contemplan que la Comisión Nacional del 
+Agua (CONAGUA) debe publicar en el Diario Oficial de la Federación (DOF), la disponibilidad de las 
+aguas nacionales, en el caso de las aguas subterráneas esto debe ser por acuífero, de acuerdo con 
+los estudios técnicos correspondientes y conforme a los lineamientos que considera la Norma 
+Oficial Mexicana NOM-011-CONAGUA-2000 “Norma Oficial Mexicana que establece el método 
+para determinar la disponibilidad media anual de las aguas nacionales”. Esta norma ha sido 
+preparada por un grupo de especialistas de la iniciativa privada, instituciones académicas, 
+asociaciones de profesionales, gobiernos estatales y municipales y de la CONAGUA. 
+ 
+La NOM establece para el cálculo de la disponibilidad de aguas subterráneas la realización de un 
+balance de las mismas donde se defina de manera precisa la recarga,  de ésta deducir los 
+volúmenes comprometidos con otros acuíferos, la demanda de los ecosistemas y el volumen 
+concesionado vigente en el Registro Público de Derechos del Agua (REPDA). 
+ 
+Los resultados técnicos que se publiquen deberán estar respaldados por un documento en el que 
+se sintetice la información, se especifique claramente el balance de aguas subterráneas y la 
+disponibilidad de agua subterránea susceptible de concesionar.  
+ 
+La publicación de la disponibilidad servirá de sustento legal para la autorización de nuevos 
+aprovechamientos de agua subterránea, transparentar la administración del recurso, planes de 
+desarrollo de nuevas fuentes de abastecimiento, resolver los casos de sobreexplotación de 
+acuíferos y la resolución de conflictos entre usuarios. 
+ 
+1.1. 
+Localización 
+ 
+El acuífero Valle de Compostela, definido con la clave 1805 en el Sistema de Información 
+Geográfica para el Manejo del Agua Subterránea (SIGMAS) de la CONAGUA, se localiza en el 
+centro sur del estado de Nayarit, entre los paralelos 21º 07’ y 21º 30’ de latitud norte y los 
+meridianos 105º 04’ y 104º 42’ de longitud oeste. Colinda al norte con el acuífero Valle Santiago-
+San Blas, al oriente con el acuífero Valle de Matatipac, al occidente con el acuífero Zacualpan-Las 
+Varas y al sur por los acuíferos Valle de Banderas y Valle Ixtlán-Ahuacatlán, todos ellos 
+pertenecientes al estado de Nayarit. Figura 1. Cubre una superficie aproximada de 667 km2, 
+conforme a la poligonal que lo delimita. 
+ 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+3 
+El acuífero abarca parcialmente el municipio de Compostela, San Pedro Lagunillas, Xalisco y una 
+pequeña porción de Santa María del Oro. 
+ 
+La poligonal simplificada que delimita el acuífero se encuentra definida por los vértices cuyas 
+coordenadas se muestran en la Tabla 1. 
+ 
+ 
+Figura 1. Localización del acuífero 
+ 
+ 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+4 
+Tabla 1. Coordenadas de la poligonal simplificada del acuífero 
+ACUIFERO 1805 VALLE DE COMPOSTELA
+GRADOS
+MINUTOS
+SEGUNDOS
+GRADOS
+MINUTOS
+SEGUNDOS
+1
+104
+42
+26.9
+21
+12
+12.1
+2
+104
+43
+30.0
+21
+9
+53.3
+3
+104
+45
+31.2
+21
+8
+21.2
+4
+104
+46
+44.4
+21
+9
+21.7
+5
+104
+48
+19.1
+21
+11
+2.7
+6
+104
+51
+31.4
+21
+8
+17.9
+7
+104
+52
+55.5
+21
+7
+47.1
+8
+104
+54
+5.5
+21
+9
+35.9
+9
+104
+56
+54.0
+21
+14
+9.5
+10
+104
+56
+45.3
+21
+17
+10.2
+11
+104
+57
+54.6
+21
+18
+8.0
+12
+105
+1
+0.1
+21
+19
+7.4
+13
+105
+2
+34.8
+21
+20
+4.2
+14
+105
+2
+49.9
+21
+21
+35.0
+15
+105
+2
+5.8
+21
+23
+5.9
+16
+105
+2
+41.1
+21
+25
+3.3
+17
+105
+3
+23.6
+21
+26
+21.1
+18
+105
+3
+5.7
+21
+26
+53.6
+19
+104
+58
+36.7
+21
+28
+13.5
+20
+104
+58
+24.0
+21
+26
+52.4
+21
+104
+54
+55.4
+21
+23
+56.0
+22
+104
+52
+35.2
+21
+21
+37.1
+23
+104
+48
+37.7
+21
+21
+23.7
+24
+104
+46
+35.1
+21
+20
+40.2
+25
+104
+44
+36.5
+21
+19
+34.3
+26
+104
+43
+43.0
+21
+15
+48.5
+27
+104
+42
+37.7
+21
+14
+38.0
+1
+104
+42
+26.9
+21
+12
+12.1
+LATITUD NORTE
+LONGITUD OESTE
+VERTICE
+ 
+ 
+ 
+1.2. 
+Situación administrativa del acuífero 
+ 
+El acuífero pertenece al Organismo de Cuenca VIII “Lerma-Santiago- Pacífico”, y es jurisdicción 
+territorial de la Dirección Local Nayarit. La mayor parte de su territorio se encuentra sujeto a la 
+disposición del decreto de veda tipo II, donde “Se declara de interés público la conservación de los 
+mantos acuíferos en los municipios de Santa María del Oro y Xalisco, y en la parte correspondiente 
+de los de Tepic, San Blas y Compostela, todos del estado de Nayarit, que no están considerados en 
+la veda establecida según Decreto que creó el Distrito de Acuacultura No. 1”, publicado en el Diario 
+Oficial de la Federación el 13 de febrero de 1975. 
+ 
+De acuerdo con la Ley Federal de Derechos en Materia de Agua 2009, los municipios de 
+Compostela, Santa María del Oro y Xalisco se encuentran en la zona de disponibilidad 8, y el 
+municipio de San Pedro Lagunillas en la zona 9. 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+5 
+Los usos principales del agua subterránea son dos: agrícola y público urbano. Destacándose como 
+principales usuarios las localidades de San Pedro Lagunillas, Juan Escutia y Compostela, 
+específicamente la Asociación de Usuarios de la Unidad de Riego San Pedro Lagunillas, Sociedad 
+de Solidaridad Social Valle de Miraflores (El Borbollón) y la Unidad de Producción Rural Valle del 
+Embocadero de Compostela, en uso agrícola. En el público urbano el principal usuario es el 
+Sistema Integral de Agua Potable y Alcantarillado (SIAPA) del H. Ayuntamiento de Compostela. 
+ 
+Dentro de los límites del acuífero se localizan terrenos que pertenecen al Distrito de Riego Estado 
+de Nayarit. En el acuífero no se ha constituido el Comité Técnico de Aguas Subterráneas (COTAS). 
+ 
+ 
+2. ESTUDIOS TÉCNICOS REALIZADOS CON ANTERIORIDAD 
+ 
+En la zona que comprende el acuífero y la región aledaña se han realizado 5 estudios, algunos de 
+ellos generales y otros con información hidrogeológica específica con el fin de evaluar la 
+disponibilidad de agua en la zona. A continuación se mencionan los puntos más relevantes y sus 
+principales conclusiones. 
+ 
+Inventario de aprovechamientos superficiales y subterráneos para riego, Gerencia General 
+del Estado de Nayarit, Jefatura de Irrigación y Control de Ríos, Dirección de Pequeña 
+Irrigación, México, D.F., SRH. Agosto de 1966 (SRH, 1966). 
+ 
+Este trabajo reporta la zona denominada El Borbollón como principal zona de explotación, con gasto 
+promedio de 64 lps, profundidad promedio de los pozos de 113 m (Compostela). Estas oscilan de 
+95 m a 137 m. Beneficiando a 540 has. de riego. En el municipio de Xalisco el pozo reportado tiene 
+una profundidad de 350 m y un gasto de 4 lps. 
+ 
+Servicios de prospección y levantamientos geológicos y geofísicos en el estado de Nayarit, 
+Secretaría de Agricultura y Recursos Hidráulicos, Subsecretaría de Infraestructura 
+Hidráulica, Dirección de Geohidrología y de Zonas Áridas, México, Empresa contratada: 
+Rocha y Asociados, S. A. (ROASA), Diciembre de 1977 (SARH, 1977). 
+ 
+En el estudio se llevó a cabo una actualización del inventario de aprovechamientos, reportando 101, 
+de los cuales 52 eran pozos, 28 manantiales y una galería filtrante. Los niveles reportados de este 
+censo fluctúa entre 5 y 60 m, y caudales de alrededor de los 40 lps. Reportan como áreas 
+favorables para la perforación de pozos de explotación: en el municipio de Compostela, en las 
+inmediaciones de Zacualpan, Las Varas y El Capomo, recomendando exploraciones a 
+profundidades del orden de 200 m. La calidad del agua es en general, buena. 
+ 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+6 
+Servicios de prospección y levantamientos geológicos y geofísicos en las zonas de Ixtlán-
+Compostela-Santiago, estado de Nayarit, Secretaría de Agricultura y Recursos Hidráulicos, 
+Subsecretaría 
+de 
+Infraestructura 
+Hidráulica, 
+Dirección 
+General 
+de 
+Programas 
+de 
+Infraestructura Hidráulica, Subdirección de Geohidrología y de Zonas Áridas, México, 
+Empresa contratada: Técnicos, Asesores y Constructores, S. A. (TACSA), D.F.,1980. 
+ 
+Se realizo una actualización geohidrológica, un censo de aprovechamientos de agua subterránea, 
+reportando 68 aprovechamientos; de los cuales 35 corresponden a pozos, 16 a norias, 15 a 
+manantiales y 2 galerías filtrantes. Definieron la calidad del agua mediante el muestreo de 35 sitios, 
+en general, el agua pertenece a las familias magnésicas bicarbonatadas y es apta para uso potable, 
+agrícola e industrial. Las concentraciones de sólidos disueltos varían de 77 a 1,273 ppm. 
+ 
+Concluyen que en la zona de Compostela las condiciones geohidrológicas son favorables para la 
+perforación de pozos de exploración y explotación, particularmente en los valles de Compostela, 
+Juan Escutia, Miravalles, San Pedro Lagunillas y Amado Nervo. Recomiendan realizar 
+perforaciones del orden de los 250 m en la zona de Compostela. 
+ 
+Estudio de actualización de condiciones piezométricas, zona de Compostela, estado de 
+Nayarit, Secretaría de Agricultura y Recursos Hidráulicos, Delegación Estatal de Nayarit, 
+Jefatura de Programa Hidráulico. Residencia General de Admón. y Control de Sistemas 
+Hidrológicos. Residencia de Aguas Subterráneas. Compañía contratada: Técnicos, Asesores 
+y Constructores, S. A., (TACSA), México, 1980, 29 p (SARH, 1980a). 
+ 
+Se llevo a cabo un análisis para conocer las condiciones de explotación en que se encuentra el 
+acuífero, reportando un total de 109 aprovechamientos; de los cuales 24 son pozos profundos, 13 
+manantiales y 72 norias. El volumen de extracción obtenido en el estudio de acuerdo a la capacidad 
+instalada se obtuvo la cantidad de 3.1 x 103 Mm3/año de explotación en pozos y norias, 3.4 x 103 
+Mm3/año en aportación de manantiales en el valle de Compostela, así como una extracción de 9.8 
+x103 m3/año en la zona de San Pedro Lagunillas. 
+ 
+Las profundidades al nivel estático para los meses de febrero y noviembre de 1985, varían de 0.8 a 
+22 m y de 0.8 a 26 m, respectivamente. Encontrándose las profundidades mayores en las partes 
+altas del valle. 
+ 
+Estudio de actualización de las condiciones hidrogeológicas del acuífero 1805 Valle de 
+Compostela, Nayarit, Comisión Nacional del Agua, Organismo Cuenca Lerma-Santiago-
+Pacífico. Realizado por el Instituto Mexicano de Tecnología del Agua. Coordinación de 
+Hidrología. Subcoordinación de Hidrología Subterránea. 2007. 
+ 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+7 
+El objetivo de este estudio fue conocer las condiciones actuales de explotación del agua 
+subterránea y el funcionamiento geohidrológico del acuífero, recopilando toda la información 
+existente y con actividades de campo. Se reportan 50 aprovechamientos subterráneos, de los 
+cuales 47 son pozos y 3 norias; cuyo uso principal es el de agrícola (43%) y público urbano (24%), 
+principalmente. La profundidad del nivel estático se encuentra entre los 1.75 y 51.2 m. Se nivelaron 
+32 brocales. Se colectaron y analizaron 9 muestras de agua, los resultados indican que la 
+concentración de sólidos totales disueltos varía en un rango de 151 a 388 ppm, la calidad del agua 
+es buena. 
+ 
+Los resultados y conclusiones de este estudio fueron la base para la elaboración del presente 
+documento, por lo que sus conclusiones y resultados se analizan en los apartados 
+correspondientes. 
+ 
+ 
+3. FISIOGRAFÍA 
+3.1. 
+Provincia fisiográfica 
+ 
+La zona del acuífero se ubica según el INEGI (1991), dentro de la provincia Eje Neovolcánico. Esta 
+provincia comprende en su totalidad a la subprovincia Sierras Neovolcánicas Nayaritas y parte de la 
+subprovincia Sierras de Jalisco. 
+ 
+Se caracteriza por ser una enorme masa de rocas volcánicas de todos tipos, acumulada en 
+innumerables y sucesivas etapas, desde mediados del Paleógeno-Neógeno (unos 35 millones de 
+años atrás) hasta el presente. La integran grandes sierras volcánicas, grandes derrames de lava, 
+conos dispersos o en enjambre, amplios escudos volcánicos de basalto, depósitos de arena y 
+cenizas. Presenta también la cadena de grandes estratovolcanes denominada propiamente "Eje 
+Neovolcánico". 
+ 
+3.2. 
+Clima 
+ 
+El tipo de clima en el acuífero es semicálido, con lluvias de junio a octubre, los meses calurosos van 
+de mayo a octubre. Los vientos van en dirección hacia el sureste (INAFED, 2005). 
+ 
+La época de estiaje en la zona se presenta de noviembre a mayo, mientras que la temporada de 
+lluvias cubre el período de junio a octubre, con máximos en el mes de agosto que sobrepasan los 
+320 mm. 
+ 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+8 
+Para el análisis de las condiciones climáticas de la región, se analizó la información de 10 
+estaciones climatológicas, ubicadas en su entorno cercano del acuífero: Cuestecomate, Cerro 
+Blanco, Cumbre de Huicicila, El Refilión, Gaviotas, Miravalles, Paso de Arocha, Peñita de Jaltemba, 
+San José del Valle y Zapotán, con un registro que comprende el periodo 1970-2006. 
+ 
+La precipitación media anual para la zona, es de 1200 mm. La temperatura media anual es de 
+22.25º C. Las temperaturas más altas se presentan de mayo a octubre, sobre todo en la zona del 
+valle El Borbollón. Y las temperaturas más bajas se presentan en los meses de diciembre y enero. 
+La evaporación media anual en la zona es de 1,575 mm, presentando máximos de marzo a junio 
+con valores mayores a los 150 mm, en enero y diciembre se presentan los valores mínimos 
+inferiores a los 100 mm. El mes que presenta la mayor evaporación es mayo con 199.35 mm. 
+ 
+3.3. 
+Hidrografía 
+ 
+El acuífero se ubica en la Región Hidrológica 13, Huicicila (cuenca río Huicicila-San Blas). La región 
+hidrológica Huicicila está dividida en dos porciones, la norte y la sur limitadas por la cuenca del río 
+Ameca. La del norte se conoce como de la cuenca Río Huicicila-San Blas en Nayarit y abarca la 
+parte occidental del municipio de Bahía de Banderas y drena los ríos El Naranjo, Huicicila, Los 
+Otates, La Tigrera, El Agua Azul, Calabazas, Charco Hondo y Lo de Marcos. 
+ 
+Al norte de esta cuenca se encuentran zonas de marismas y esteros cerca de San Blas. Otro rasgo 
+hidrográfico importante es el Lago San Pedro. 
+ 
+3.4. 
+Geomorfología 
+ 
+Nayarit presenta en la mayor parte de su territorio, terrenos con relieve muy accidentado de origen 
+volcánico, en etapa geomorfológica juvenil (provincias fisiográficas: Sierra Madre Occidental y Eje 
+Neovolcánico) y madura (Sierra Madre del Sur); sin embargo, a diferencia de estos grandes rasgos 
+topográficos, en la porción oeste del estado se localiza parte de la provincia Llanura Costera del 
+Pacífico, la cual se encuentra en una etapa de juventud incipiente dentro del ciclo geomorfológico. 
+Estas condiciones topográficas y sus diferencias altitudinales, son las causas fundamentales de las 
+variaciones de humedad y temperatura, principales componentes del clima, así como de los 
+diferentes tipos de vegetación; por consecuencia, al interactuar todos estos factores con el material 
+parental a través del tiempo, han motivado la formación de diversos tipos de suelo (INEGI, 2007). 
+Presenta tres formas de relieve: la primera corresponde a zonas accidentadas en el 72% de la 
+superficie; la segunda a zonas planas con el 21% de la superficie, y la tercera a zonas semiplanas 
+con una superficie del 7%. 
+ 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+9 
+Las zonas accidentadas en el municipio de Compostela, están formadas por elevaciones como la 
+Sierra de Zapotán con una altitud de 1,520 msnm; el cerro Buenavista con 1,380 msnm; cerro El 
+Negro con 1,240 msnm; y cerro El Molote con 1,060 msnm. La altura media sobre el nivel del mar 
+es de 1,260 m. Y en el municipio de Xalisco están formadas por el volcán de San Juan y los cerros 
+Alto (2,220 msnm) y Coetepec (1,560 msnm); por último en el municipio de San Pedro Lagunillas 
+las elevaciones principales son los cerros: Grande (2,000 msnm), Tetillas (1,760 msnm), La Palma 
+(1,740 msnm), Estiladero (1,600 msnm), El Carretón (1,580 msnm) y el volcán "Tepetiltic" (1,500 
+msnm) (INAFED, 2005). 
+ 
+ 
+4. GEOLOGÍA 
+ 
+El acuífero se ubica en el Eje Neovolcánico que constituye el elemento más característico de la 
+tectónica de México. Esta cadena volcánica de edad plio−cuaternaria, se extiende sobre más de 
+1,000 km del Océano Pacífico al Atlántico, con una orientación totalmente distinta a la de las demás 
+unidades estructurales del país. Tal disposición es resultado de la historia reciente de esta parte 
+meridional de la Placa Norteamérica, causada por la abertura progresiva de la fosa de Acapulco 
+durante el Oligo−Mioceno como consecuencia del movimiento diferencial entre Norteamérica y la 
+placa caribeña y por el cambio del ángulo de rotación de la Placa de Cocos, el cual ocurrió en el 
+Mioceno Tardío. 
+ 
+En la zona abundan las rocas ígneas extrusivas de la era cenozoica del tipo basalto (49%, 325.159 
+km2) y de toba ácida (30%, 196.131 km2). En menor proporción se encuentran rocas del tipo aluvial; 
+así como andesita y volcanoclástico (Tabla 2). En la Figura 2 se observa la distribución espacial de 
+los tipos de rocas en el acuífero. 
+ 
+Tabla 2. Descripción de la geología de la zona. 
+ 
+Clave 
+Clase 
+Tipo 
+Era 
+Período 
+Área 
+km2 
+Q(al) 
+Suelo 
+Aluvial 
+Cenozoico 
+Cuaternario 
+54.357 
+Q(re) 
+Suelo 
+Residual 
+Cenozoico 
+Cuaternario 
+7.029 
+Q(cg) 
+Sedimentaria 
+Conglomerado 
+Cenozoico 
+Cuaternario 
+18.132 
+Q(vc) 
+Ígnea extrusiva 
+Volcanoclástico 
+Cenozoico 
+Cuaternario 
+28.278 
+Ti (A) 
+Ígnea extrusiva 
+Andesita 
+Cenozoico 
+Paleógeno 
+40.474 
+Tom (Ta) 
+Ígnea extrusiva 
+Toba ácida 
+Cenozoico 
+Neógeno 
+196.131 
+Tpl-Q(B) 
+Ígnea extrusiva 
+Basalto 
+Cenozoico 
+Neógeno 
+325.159 
+ 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+10 
+ 
+Figura 2. Mapa Geológico 
+ 
+ 
+4.1. 
+Estratigrafía 
+ 
+El marco geológico de la zona de Compostela está compuesto por 6 unidades litoestratigráficas, las 
+cuales abarcan del Paleógeno al Reciente. De acuerdo a su origen encontramos rocas del tipo 
+ígneas extrusivas, así como sedimentarias de origen continental. 
+ 
+Las rocas ígneas extrusivas están representadas por andesitas, las cuales únicamente afloran en el 
+Cerro Grande de San Pedro, que se localiza al sur de San Pedro Lagunillas; por su posición 
+estratigráfica se le considera del Eoceno (Paleógeno). Así como por rocas riolíticas, las cuales se 
+puede decir que ocupan el segundo lugar en extensión de los afloramientos del área, se encuentran 
+representadas por tobas e ignimbritas, su edad de acuerdo a su posición estratigráfica es del 
+Mioceno (Neógeno). 
+ 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+11 
+Por último tenemos las rocas basálticas, siendo estas las más abundantes de esta zona, se 
+encuentran representadas por lavas, brechas, escorias y tezontle, de color negro, gris oscuro y 
+rojizo. Esas rocas tienen un elevado grado de fracturamiento que probablemente se deba al 
+enfriamiento rápido a que estuvieron sujetas. 
+ 
+Dentro del área existen algunos lomeríos de topografía suave, los cuales son afloramientos de 
+conglomerados, que están formados por fragmentos andesíticos y riolíticos, bien arredondeados 
+dentro de una matriz arenosa, se les considera del Plioceno (Neógeno). Esta edad se ha dado en 
+base a su posición estratigráfica y considerando que su estratificación es casi horizontal, lo cual 
+revela una edad inmediata anterior a los depósitos aluviales. 
+ 
+El aluvión se encuentra cubriendo parcialmente los valles de Miravalles, Compostela y Juan 
+Escutia, y pertenece al Reciente. 
+ 
+4.2. 
+Geología estructural 
+ 
+En la provincia Eje Neovolcánico, ampliamente expuesta en el estado, se desarrolló volcanismo, 
+calcoalcalino a finales del Plioceno y durante el Cuaternario; dicho volcanismo originó rocas de 
+composición basáltica y andesítica, así como piroclásticos. Diversos estudios indican que el eje se 
+encuentra fragmentado en tres sistemas de fosas tectónicas, las cuales convergen en el estado de 
+Jalisco y cuyas direcciones son: norte-sur, oeste-este y noroeste-sureste; la última dirección 
+corresponde a la fosa de Tepic denominada también "rift" de Tepic, localizada parcialmente dentro 
+de Nayarit; en él se sitúan tres centros eruptivos principales (estratovolcanes): San Juan, 
+Sangangüey y Ceboruco, con numerosas asociaciones de conos cineríticos. Las rocas 
+calcoalcalinas, además de los abundantes aparatos volcánicos monogenéticos que muestran, 
+forman diques básicos, los cuales cortan a las rocas volcánicas ácidas del Oligoceno-Mioceno 
+(INEGI, 2007). 
+ 
+ 
+5. HIDROGEOLOGÍA 
+5.1. 
+Tipo de acuífero 
+ 
+El acuífero corresponde a uno de tipo libre. Asimismo, no se tiene registro de los cortes litológicos 
+de los 47 pozos que se han perforado en la zona. Los materiales que conforman el acuífero son: 
+brecha volcánica básica, toba y basalto, de permeabilidad media alta por fracturamiento, así como 
+aluviones y conglomerados recientes que forman horizontes intercalados con los materiales 
+volcánicos. Los espesores máximos explorados en la zona del valle son de 350 m. 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+12 
+5.2. 
+Parámetros hidráulicos 
+ 
+La información de los parámetros hidráulicos procede de la interpretación de 6 pruebas de bombeo, 
+realizadas para el estudio de 2007, se interpretaron mediante el método de Neuman y Cooper-
+Jacob para las pruebas de abatimiento y el método Theis para las pruebas de recuperación. 
+ 
+En los resultados se observa que los valores de T (prueba de abatimiento) varían de 1.7 x10-3 a 
+0.452 x10-3 m2/s y de T (prueba de recuperación) varían de 8.89 x10-3 a 2.61 x10-3 m2/s, en tanto 
+que para K se obtuvieron valores que oscilan entre 0.406 y 0.734 m/d en las pruebas de 
+abatimiento; 1.883 y 7.680 m/d en las pruebas de recuperación. 
+ 
+5.3. 
+Piezometría 
+ 
+Para el análisis del comportamiento de los niveles del agua subterránea se tomó en cuenta la 
+información recabada en el estudio de 2007. Se nivelaron 32 pozos. 
+ 
+5.4. 
+Comportamiento hidráulico 
+5.4.1. Profundidad al nivel estático 
+ 
+En términos generales el comportamiento de la profundidad al nivel estático para el mes de octubre 
+del 2007 varía de los 1.8 hasta 51.2 m; en la localidad de Milpillas se localizó el pozo con mayor 
+profundidad que es de 115 m, este último no se utilizó para la configuración. 
+ 
+En la Figura 3 se presenta la configuración de la profundidad al nivel estático, por donde pasa la 
+curva de nivel 35, está ubicada la Unidad de Riego San Pedro Lagunillas. En la zona donde se 
+presentan las menores profundidades, del orden de los 10 m, se localiza la Sociedad de Solidaridad 
+Social Juan Escutia, ésta cuenta con varios pozos. En general las mayores profundidades están 
+localizadas cerca de la Laguna San Pedro Lagunillas. 
+ 
+Existen pequeñas variaciones en la configuración de noviembre, porque los agricultores comienzan 
+a hacer uso del agua subterránea. 
+ 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+13 
+ 
+Figura 3. Profundidad al nivel estático (m), 2007 
+ 
+ 
+5.4.2. Elevación del nivel estático 
+ 
+Con base en la piezometría levantada en octubre de 2007, se realizó la configuración del nivel 
+estático con variaciones espaciales de la carga hidráulica, la dirección del flujo subterráneo del agua 
+es radial, contando con una dirección preferencial de oriente a poniente, proveniente del 
+escurrimiento del cerro Tepetiltic, con un gradiente promedio de 0.016 (Figura 4). Presentándose el 
+mismo comportamiento en la piezometría de noviembre del mismo año. 
+ 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+14 
+Se detectan ligeros conos de abatimiento o inversiones de gradientes hidráulicos en la zona de 
+Juan Escutia (El Borbollón), donde se encuentran ubicados la mayoría de los pozos y, en el pueblo 
+de Compostela. 
+ 
+ 
+Figura 4. Elevación del nivel estático (msnm), 2007 
+ 
+5.4.3. Evolución del nivel estático 
+ 
+Para establecer la evolución del nivel estático en el área se realizó con las mediciones 
+piezométricas realizadas en 2007, la primera en octubre, todavía en temporada de lluvias donde los 
+pozos todavía no estaban trabajando; y la segunda en noviembre donde la mayoría de los pozos 
+principalmente para uso agrícola ya comenzaron a trabajar. Se detectan conos de abatimiento o 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+15 
+inversiones de gradientes hidráulicos, del orden de 0.5 a 1 m. En el centro del valle de Compostela, 
+en la zona de Embocadero hasta el poblado de Compostela (Figura 5). 
+ 
+ 
+Figura 5. Evolución del nivel estático (m) 
+ 
+5.5. 
+Hidrogeoquímica y calidad del agua subterránea 
+ 
+Dentro de las actividades realizadas en el estudio de 2007, se analizaron 9 muestras de agua 
+subterránea, el resultado de los análisis  fisicoquímicos sugiere, en términos generales que el agua 
+es de baja salinidad por lo que en cuanto a elementos mayores se refiere, básicamente no presenta 
+problemas de calidad para uso y consumo humano. Exceptuando el pozo localizado en la predio 
+Felipe Carrillo Puerto y el localizado en el predio Zoquipan que rebasan el límite permisible de fierro. 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+16 
+Las concentraciones de sólidos disueltos totales (SDT) no superan las 390 partes por millón (ppm), 
+por debajo de las 1000 ppm que establece la Norma Oficial Mexicana para el agua destinada al 
+consumo humano. 
+ 
+Las familias de aguas que predominan son HCO3-Ca-Mg y HCO3-Mix; los pozos que están 
+clasificados como HCO3-Ca-Mg son los localizados en las cercanías del inicio de las partes más 
+altas del acuífero, topográficamente hablando. Además, de que 2 de estos pozos presentan las 
+mayores profundidades. Los pozos clasificados como HCO3-Mix están localizados en el valle. El 
+análisis fisicoquímico comprueba que el origen de los solutos en el agua subterránea es 
+precisamente las rocas ígneas que en su mayoría afloran en la región. Las muestras que presentan 
+menor salinidad es la familia HCO3-Ca-Mg que corresponde a obras localizadas en rocas ígneas, 
+que conforme se mueven a lo largo de la dirección del flujo evolucionan a la HCO3-Mix. 
+ 
+El análisis bacteriológico nos muestra que el 61% de las muestras analizadas tienen presencia de 
+coliformes fecales y/o coliformes totales. Por lo que se recomienda clorar el agua para consumo 
+humano. 
+ 
+De acuerdo con la clasificación de Wilcox, que relaciona la conductividad eléctrica con la Relación 
+de Adsorción de Sodio (RAS), el agua extraída se clasifica como agua de baja salinidad (C1) y bajo 
+contenido de sodio (S1), 78% y 100% de las muestras respectivamente. Por lo que puede ser 
+utilizada para riego en la mayor parte de los cultivos, en casi cualquier tipo de suelo con poca 
+probabilidad de que se desarrolle salinidad y con poca probabilidad de alcanzar niveles peligrosos 
+de sodio intercambiable. 
+ 
+ 
+6. CENSO DE APROVECHAMIENTOS E HIDROMETRÍA 
+ 
+De acuerdo con el censo realizado en el estudio de 2007, existen 50 aprovechamientos (47 pozos y 
+3 norias), de los cuales 33 se encuentran activos. 
+ 
+El uso principal del agua es agrícola (43%), el segundo lugar lo ocupa el público-urbano (24%) y en 
+menor medida, servicios (9%), pecuario (9%), agrícola-pecuario (9%), pecuario-servicios (3%) y 
+agrícola-doméstico (3%), utilizando para este análisis únicamente los pozos activos. 
+ 
+La extracción de agua subterránea de acuerdo con la estimación del censo es de 11.8 hm3/año. 
+ 
+La descarga por manantiales, según e volumen concesionado, de acuerdo con los títulos inscritos 
+en el Registro Público de Derechos de Agua (REPDA) de la Subdirección General de 
+Administración del Agua, es de 3.4 hm3 anuales. 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+17 
+7. BALANCE DE AGUAS SUBTERRÁNEAS 
+ 
+La diferencia entre la suma total de las entradas (recarga), y la suma total de las salidas (descarga), 
+representa el volumen de agua perdido o ganado por el almacenamiento del acuífero, en el periodo 
+de tiempo establecido. 
+ 
+La ecuación general de balance, de acuerdo a la ley de la conservación de la masa es como sigue: 
+ 
+Entradas (E) – Salidas (S) = Cambio de almacenamiento 
+ 
+Aplicando esta ecuación al estudio del acuífero, las entradas quedan representadas por la recarga 
+total, las salidas por la descarga total y el cambio de masa por el cambio de almacenamiento en el 
+acuífero: 
+ 
+Recarga total – Descarga total = Cambio de almacenamiento 
+ 
+Eh + Rv + Ri – B – Sh – ETR - Sm = ±∆V(s) 
+Donde: 
+Eh 
+Entradas horizontales subterráneas 
+Rv 
+Recarga vertical 
+Ri 
+Recarga inducida 
+B 
+Bombeo 
+Sh 
+Salidas horizontales subterráneas 
+ETR 
+Evapotranspiración 
+Sm 
+Salidas a través de manantiales 
+∆V(s) Cambio de almacenamiento 
+ 
+Considerando que la información previa disponible no permite plantear un balance para un periodo 
+de tiempo mayor que corresponda a la misma temporada del ciclo climatológico, se decidió plantear 
+el balance para el año de 2007 (Octubre). El área de balance definida es 93.57 km2 que 
+corresponde a la zona donde se tiene información piezométrica, en la cual se localiza la mayoría de 
+los aprovechamientos. 
+ 
+7.1. 
+Entradas 
+ 
+La recarga total (Rt) al acuífero está integrada primordialmente por las entradas subterráneas (Eh), 
+la recarga vertical por lluvia (Rv) que se infiltra en las zonas no cubiertas por la capa impermeable 
+de la zona urbana y por la recarga inducida (Ri), que en este caso está representada por los 
+retornos de riego. 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+18 
+7.1.1. Recarga vertical 
+ 
+Es uno de los términos que mayor incertidumbre implica su cálculo. Debido a que se tiene escasa 
+información se decidió emplear el balance hidrometeorológico. Para realizar este balance se 
+requiere conocer entre otros parámetros, los volúmenes de escurrimiento que se presentan por 
+lluvia dentro del área, es decir, es necesario determinar el volumen de agua que se genera por 
+cuenca propia; sin embargo, no se disponen de aforos específicos que permitan cuantificar dicho 
+volumen, en este sentido a continuación se menciona la forma en que se procedió para obtenerlo. 
+ 
+Para determinar el volumen de escurrimiento debido a la lluvia se puede utilizar el método 
+establecido en la Norma Oficial Mexicana NOM-011-CONAGUA-2000, publicada en el Diario Oficial 
+de la Federación, de fecha 17 de abril de 2002, que señala que en caso de que en la cuenca en 
+estudio no se cuente con suficiente información para determinar el volumen anual de escurrimiento 
+natural, se puede aplicar el método indirecto denominado precipitación-escurrimiento (Tabla 3). 
+ 
+El volumen anual medio de escurrimiento natural en términos genéricos es igual a la precipitación 
+media anual por el área y por un coeficiente de escurrimiento. El coeficiente de escurrimiento (Ce) 
+se puede determinar, según la norma antes citada, en función del parámetro K que está en función 
+del tipo y uso de suelo. Al respecto para la zona se consideró un valor medio ponderado de 
+K=0.278, que corresponde a suelos medianamente permeables, uso de suelo tipo cultivos (0.27), 
+Bosque cubierto menos 25% (0.28) y zonas urbanas (0.29), con 40%, 40% y 20% del área 
+respectivamente, aplicando a su vez el valor de K en la ecuación del coeficiente de escurrimiento se 
+obtiene un valor de Ce= 0.2174. 
+ 
+La recarga vertical, por éste método, únicamente se calculo en el área del valle, para no 
+duplicar áreas con el cálculo de las entradas horizontales. 
+ 
+Tabla 3. Balance hidrometeorológico 
+ 
+ 
+ 
+ 
+Área 
+(km2) 
+Temperatura 
+(°C) 
+L 
+Turc 
+X 
+Coutagne 
+Precipitación 
+(mm) 
+Evapotranspiración 
+Turc 
+(mm) 
+Evapotranspiración 
+Coutagne 
+(m) 
+93.57 
+22.25 
+140
+7.0 
+0.255428 
+1200 
+940.7 
+0.832 
+ 
+Coeficiente de 
+escurrimiento 
+(Ce) 
+Balance hidrometeorológico 
+Coeficiente de 
+infiltración 
+Escurrimiento 
+(hm3/año) 
+Precipitación 
+(hm3/año) 
+Evapotranspiración 
+(hm3/año) 
+Infiltración 
+(hm3/año) 
+0.2174 
+24.4 
+112.3 
+77.9 
+10.008 
+0.089 
+ 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+19 
+𝐶𝑒= 𝐾 𝑃−250 
+2000
++  𝐾−0.15 
+1.5
+ 
+Donde: 
+ 
+Ce 
+Coeficiente de escurrimiento 
+K 
+Parámetro en función del tipo de suelo 
+ 
+TURC 
+𝐸𝑇𝑅 𝑚𝑚 =
+𝑃 𝑚𝑚 
+ 0.90 +  𝑃2 𝑚𝑚 
+𝐿2
+ 
+                           𝐿= 300 + 25𝑇+ 0.05𝑇3 
+Donde: 
+ 
+ETR 
+Evapotranspiración (mm/año) 
+P 
+Precipitación (mm/año) 
+T 
+Temperatura (°C) 
+ 
+COUTAGNE 
+𝐸𝑇𝑅 𝑚 = 𝑃−𝑋𝑃2                           𝑋=
+1
+ 0.8 + 0.14𝑡  
+Donde: 
+ 
+ETR 
+Evapotranspiración (m/año) 
+P 
+Precipitación (m/año) 
+t 
+Temperatura (°C) 
+ 
+El valor estimado de la recarga es de 10.0 hm3/año. 
+ 
+7.1.2. Entradas horizontales subterráneas 
+ 
+Una fracción del volumen lluvias que se precipita en las zonas altas del área se infiltra por las 
+fracturas de las rocas que forman parte de ellas y a través de los piedemonte, para posteriormente 
+llegar a recargar al acuífero en forma de flujos subterráneos que fluyen hacia la planicie. 
+ 
+Para su cálculo se utilizó la configuración de las curvas de igual elevación del nivel estático 
+correspondiente a octubre de 2007, mostrada en la Figura 4. Con base en esta configuración se 
+seleccionaron canales de flujo y se aplicó la ley de Darcy para calcular el caudal Q que recarga al 
+acuífero. La recarga total por flujo horizontal es la suma de los caudales de cada uno de los canales 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+20 
+establecidos. En la Tabla 4 se pueden observar los valores obtenidos en cada celda y el total de 
+21.5 hm3/año. 
+Q = B * i * T 
+Donde: 
+ 
+B: Ancho (m) del caudal de flujo 
+i: Gradiente hidráulico (i = h2 – h1 / L); h y L  son la diferencia y distancia respectivamente entre las 
+equipotenciales (h) que conforman el canal de flujo 
+T: Transmisividad (m2/s) en el canal de flujo 
+ 
+Tabla 4. Entradas subterráneas por flujo horizontal. 
+ 
+ 
+Los valores de T utilizados para el cálculo de las entradas y salidas subterráneas son valores 
+promedio obtenidos de la interpretación de pruebas de bombeo realizadas en el estudio de 2007. 
+7.1.3. Recarga inducida 
+ 
+En la recarga inducida se consideran los retornos de riego, tomando en cuenta un área aproximada 
+de 1,382 hectáreas de cultivo de caña de azúcar, con una lámina promedio de 163.2 mm y un 
+coeficiente de infiltración de 8.9%, y considerando 12 riegos al año. Da como resultado por retornos 
+de riego un valor de 2.4 hm3/año. 
+ 
+Longitud L
+Ancho
+h2-h1
+Gradiente
+Transmisividad
+Caudal
+Volumen
+[m]
+B
+[m]
+i
+T
+Q
+V
+[m]
+[m 2/s]
+[m 3/s]
+[hm 3/año]
+E1
+1850
+570
+5
+0.0088
+0.00261
+0.042355
+1.3
+E2
+2465
+530
+5
+0.0094
+0.00261
+0.060695
+1.9
+E3
+1850
+310
+5
+0.0161
+0.00261
+0.077879
+2.5
+E4
+1055
+220
+5
+0.0227
+0.00261
+0.062581
+2.0
+E5
+3260
+350
+5
+0.0143
+0.00261
+0.121551
+3.8
+E6
+2290
+350
+5
+0.0143
+0.00261
+0.085384
+2.7
+E7
+2115
+395
+5
+0.0127
+0.00112
+0.029985
+0.9
+E8
+1320
+310
+5
+0.0161
+0.00112
+0.023845
+0.8
+E9
+1410
+265
+5
+0.0189
+0.00112
+0.029796
+0.9
+E10
+2335
+265
+5
+0.0189
+0.00112
+0.049343
+1.6
+E11
+1850
+220
+5
+0.0227
+0.00132
+0.0555
+1.8
+E12
+1675
+265
+5
+0.0189
+0.00132
+0.041717
+1.3
+21.5
+Canal
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+21 
+7.2. 
+Salidas 
+ 
+La descarga del acuífero ocurre principalmente por bombeo (B), las salidas subterráneas (Sh), la 
+evapotranspiración (ETR) y salidas a través de manantiales (Sm). 
+ 
+7.2.1. Evapotranspiración 
+ 
+Este parámetro es la cantidad de agua transferida del suelo a la atmósfera por evaporación y 
+transpiración de las plantas, por lo tanto es considerada una forma de pérdida de humedad del 
+sistema. Existen dos formas de evapotranspiración: la que considera el contenido de humedad en el 
+suelo y la que considera la etapa de desarrollo de las plantas (Evapotranspiración Potencial y la 
+Evapotranspiración Real), el escurrimiento y el volumen de evapotranspiración real (ETR). Este 
+parámetro es utilizado para la recarga potencial de infiltración. 
+ 
+En toda el área de balance los niveles estáticos se encuentran a profundidades menores a 10 m, 
+que se considera el límite de extinción para que se produzca el fenómeno de evapotranspiración. 
+Se aplicó el método de Turc para calcular que la lámina de evapotranspiración real es de 940.7 mm 
+anuales, considerando valores medios anuales de temperatura de 22.25º C y precipitación de 1200 
+mm. 
+𝐸𝑇𝑅 𝑚𝑚 =
+𝑃 𝑚𝑚 
+ 0.90 +  𝑃2 𝑚𝑚 
+𝐿2
+ 
+                           𝐿= 300 + 25𝑇+ 0.05𝑇3 
+ 
+ 
+T (°C) = 22.25 
+ 
+ 
+P (mm) = 1200 
+ 
+P2 = 1440000 
+ 
+ 
+L = 1407 
+ 
+ 
+L2 = 1979649 
+ 
+ 
+ETR (mm) = 940.7 
+ 
+El cálculo de la evapotranspiración corresponde con aquella pérdida de agua freática somera y que 
+se aplica al balance de aguas subterráneas, considerando que el concepto tiene influencia hasta 
+una profundidad máxima de 10 m, bajo el siguiente proceso: 
+ 
+En zonas donde el nivel estático se encuentra a una profundidad menor a 10 m, se calcula el valor 
+de ETR exclusivamente para estas zonas de niveles someros y se pondera el valor del volumen 
+retenido, partiendo de una relación lineal entre la profundidad al nivel estático (PNE) y el % de ETR. 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+22 
+Suponiendo una profundidad límite de extinción de 10 m para el fenómeno de ETR es nulo y a 0 m 
+el valor es del 100%, a 5 m el 50%, a 2 m el 80%, etc. 
+ 
+De la configuración de profundidad al NE mostrada en la Figura 3, correspondiente a octubre de 
+2007, se consideran las curvas menores e iguales a 10 m, se calcula el área entre ellas y se toma el 
+valor promedio (entre las curvas de 6 y 8 metros en valor promedio será 7, por ejemplo). El 
+resultado de multiplicar el valor promedio por el área entre las curvas, deberá ponderarse de 
+acuerdo a la relación lineal mencionada anteriormente, en este caso particular como el valor medio 
+de profundidad es de 7 m, se multiplicará por 0.3 (que significa que a esta profundidad, el 30% es 
+susceptible de evapotranspiración). Lo mismo se hace para cada área comprendida entre dos 
+curvas de profundidad menor a 10 m. Al final se obtendrá la suma de los volúmenes 
+evapotranspirados. 
+ 
+El resultado de este proceso se presenta en la Tabla 5, en la que se muestra que el valor de la 
+evapotranspiración real calculado es de 0.9 hm3 anuales. 
+ 
+Tabla 5. Cálculo de la evapotranspiración 
+ 
+7.2.2. Bombeo 
+ 
+La extracción de agua subterránea en el área  ha variado a través del tiempo y de acuerdo con la 
+estimación más reciente, dicha extracción efectuada por bombeo es del orden de 11.8 hm3/año, 
+destinado principalmente para el uso agrícola y público urbano. 
+ 
+0
+5
+10
+0
+50
+100
+PNE (m)
+ETR (%)
+Intervalo 
+curvas 
+[m] 
+Profundidad 
+considerada 
+[m] 
+Área 
+[km2] 
+% 
+ETR 
+[m] 
+Vol ETR 
+[hm3/año] 
+8 a 10 
+9 
+6.535132 
+0.1 
+0.941 
+0.615 
+6 a 8 
+7 
+0.247932 
+0.3 
+0.941 
+0.070 
+8 a 10 
+9 
+2.113405 
+0.1 
+0.941 
+0.199 
+0.884 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+23 
+7.2.3. Salidas horizontales subterráneas 
+ 
+Las salidas subterráneas no se presentan en este acuífero, ya que el drenaje natural es radial y los 
+escurrimientos se dirigen hacia el centro del valle. 
+ 
+7.2.4. Salida a través de manantiales 
+ 
+El volumen anual de extracción, de acuerdo con los títulos de concesión inscritos en el Registro 
+Público de Derechos de Agua (REPDA), de la Subdirección General de Administración del Agua, de 
+manantiales es de 3.4 hm3/año. 
+ 
+7.3. 
+Cambio de almacenamiento 
+ 
+Una vez calculados los componentes de la ecuación de balance, procedemos a evaluar el cambio 
+de almacenamiento, tomando en cuenta todas las variables anteriormente calculadas y sustituidas 
+en la siguiente expresión: 
+ 
+∆V(s) = Eh + Rv + Rr – B – Sh -ETR – Sm 
+ 
+∆V(s) = 21.5 + 10.0 + 2.4 – 11.8 – 0.0 – 0.9 – 3.4 
+ 
+∆V(s) = 17.8 hm3/año 
+ 
+El cambio de almacenamiento resultado de la ecuación nos daría un abatimiento uniforme en toda 
+el área de balance de 0.2 m y las configuraciones de evolución reflejan unos abatimientos puntuales 
+sobre la zona agrícola de hasta 1.5 m. 
+ 
+En la Tabla 6 se presenta el resumen del cálculo del balance en el acuífero. 
+ 
+ 
+ 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+24 
+Tabla 6.Resumen del balance 
+ 
+ 
+ 
+8. DISPONIBILIDAD 
+ 
+Para el cálculo de la disponibilidad de aguas subterráneas, se aplica el procedimiento establecido 
+por la Norma Oficial Mexicana NOM-011-CONAGUA-2000, que establece la Metodología para 
+calcular la disponibilidad media anual de las aguas nacionales, que en la fracción relativa a las 
+aguas subterráneas, menciona que la disponibilidad se determina por medio de la expresión 
+siguiente: 
+ 
+DAS = Rt – DNCOM – VCAS 
+Donde: 
+DAS 
+ 
+= Disponibilidad media anual de agua subterránea en una unidad hidrogeológica 
+Rt 
+ 
+= Recarga total media anual 
+DNCOM 
+= Descarga natural comprometida 
+VCAS  
+= Volumen de agua subterránea concesionado e inscrito en el REPDA 
+ 
+8.1. 
+Recarga total media anual 
+ 
+La recarga total media anual que recibe el acuífero (Rt), corresponde con la suma de todos los 
+volúmenes que ingresan al acuífero. Para este caso particular, su valor es de 33.9 hm3/año. 
+ 
+8.2. 
+Descarga natural comprometida 
+ 
+La descarga natural comprometida se determina sumando los volúmenes de agua concesionados 
+de los manantiales y del caudal de los ríos que está comprometido como agua superficial, 
+alimentados por el acuífero, más las descargas que se deben conservar para no afectar a los 
+Entradas 
+Volumen 
+[hm3/año] 
+Salidas 
+Volumen 
+[hm3/año] 
+Recarga vertical 
+10.0 
+Evapotranspiración 
+0.9 
+Recarga inducida 
+2.4 
+Bombeo 
+11.8 
+Entrada 
+subterránea 
+21.5 
+Salidas subterráneas 
+0.0 
+Descarga de manantiales 
+3.4 
+ 
+ 
+Cambio de 
+almacenamiento 
+17.8 
+Total de entradas 
+33.9 
+Total de salidas 
+33.9 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+25 
+acuíferos adyacentes; sostener el gasto ecológico y prevenir la migración de agua de mala calidad 
+hacia el acuífero. 
+ 
+Para el caso del acuífero Valle de Compostela, el volumen de las descargas naturales 
+comprometido es de 3.4 hm3/año, estas corresponden a los volúmenes de los manantiales. 
+ 
+8.3. 
+Volumen concesionado de aguas subterráneas 
+ 
+El volumen anual de extracción, de acuerdo con los títulos de concesión inscritos en el Registro 
+Público de Derechos de Agua (REPDA), de la Subdirección General de Administración del Agua, 
+con fecha de corte de 31 de marzo de 2009 es de 12.906128 hm3/año. 
+ 
+8.4. 
+Disponibilidad de aguas subterráneas 
+ 
+La disponibilidad de aguas subterráneas, constituye el volumen medio anual de agua subterránea 
+disponible en un acuífero, al que tendrán derecho de explotar, usar o aprovechar los usuarios, 
+adicional a la extracción ya concesionada y a la descarga natural comprometida, sin poner en 
+peligro a los ecosistemas. 
+ 
+Conforme a la metodología indicada en la norma referida anteriormente, de acuerdo con la 
+expresión  3  se obtiene de restar al volumen de recarga total media anual, el valor de la descarga 
+natural comprometida y el volumen de aguas subterráneas ocasionado e inscrito en el REPDA. 
+ 
+DAS = Rt – DNCOM -VCAS 
+ 
+DAS = 33.9 – 3.4 – 12.906128 
+ 
+DAS = 17.593872 hm3 anuales 
+ 
+El resultado indica que existe actualmente un volumen de 17.593872 hm3 anuales disponible para 
+otorgar nuevas concesiones. 
+ 
+Cabe hacer la aclaración de que este volumen se refiere a todo el acuífero y dado que existe una 
+fuerte demanda de agua subterránea para el futuro desarrollo agrícolas y urbanos se deberá tomar 
+en cuenta para las nueva concesiones de aprovechamientos, una adecuada localización, diseño, 
+construcción, equipos y operación para no inducir el agua de mala calidad, o presencia de fuertes 
+conos de abatimiento. 
+ 
+
+Determinación de la Disponibilidad de agua en el acuífero Valle de Compostela, estado de Nayarit 
+26 
+9. BIBLIOGRAFÍA 
+ 
+Comisión Nacional del Agua, Organismo Cuenca Lerma-Santiago-Pacífico. 2007. Estudio de 
+actualización de las condiciones hidrogeológicas del acuífero 1805 Valle de Compostela, Nayarit. 
+Realizado por el Instituto Mexicano de Tecnología del Agua. 
+ 
+Instituto Nacional de Estadística Geografía e Informática. 2002. Síntesis Geográfica del Estado de 
+Nayarit. 
+ 
+Secretaría de Agricultura y Recursos Hidráulicos, Subsecretaría de Infraestructura Hidráulica, 
+Dirección de Geohidrología y de Zonas Áridas. 1977. Servicios de prospección y levantamientos 
+geológicos y geofísicos en el estado de Nayarit. . 
+ 
+Secretaría de Agricultura y Recursos Hidráulicos, Delegación Estatal de Nayarit, Jefatura de 
+Programa Hidráulico. Residencia General de Admón. y Control de Sistemas Hidrológicos. 
+Residencia de Aguas Subterráneas. 1980. Estudio de actualización de condiciones piezométricas, 
+zona de Compostela, estado de Nayarit. Realizado por la Compañía Técnicos, Asesores y 
+Constructores, S. A., (TACSA), 29 p. 
+ 
+Secretaría de Agricultura y Recursos Hidráulicos, Subsecretaría de Infraestructura Hidráulica, 
+Dirección General de Programas de Infraestructura Hidráulica, Subdirección de Geohidrología y de 
+Zonas Áridas. 1980. Servicios de prospección y levantamientos geológicos y geofísicos en las 
+zonas de Ixtlán-Compostela-Santiago, estado de Nayarit. Realizado por la Compañía Técnicos, 
+Asesores y Constructores, S. A. (TACSA). 
+ 
+Secretaría de Recursos Hidráulicos (SRH). 1996. Inventario de aprovechamientos superficiales y 
+subterráneos para riego. 
